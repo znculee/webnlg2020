@@ -14,15 +14,15 @@ for split in train dev test; do
   out_lx=$prep/$split.mr-lx.lx
   cp /dev/null $out_mr
   cp /dev/null $out_lx
-  total=$(jq '.entries' $file | jq 'length')
+  total=$(jq '.entries|length' $file)
   for ((i=0,j=1;j<=$total;i++,j++)); do
     echo -ne "$j/$total\r"
-    item=$(jq '.entries' $file | jq --argjson i $i --arg j $j '.[$i]."\($j)"')
-    mr=$(echo "$item" | jq '.modifiedtripleset' | \
-      jq '.[]|"\(.object) __property_start__ \(.property) __property_end__ \(.subject)"' | \
+    item=$(jq --argjson i $i --arg j $j '.entries[$i]."\($j)"' $file)
+    mr=$(echo "$item" | \
+      jq '.modifiedtripleset[]|"\(.object) __property_start__ \(.property) __property_end__ \(.subject)"' | \
       sed 's/^"//;s/"$//' | \
       awk 'BEGIN{ORS=" __triple__ "} y{print s} {s=$0;y=1} END{ORS="";print s}')
-    lxs=$(echo "$item" | jq '.lexicalisations' | jq '.[]."lex"' | sed 's/^"//;s/"$//')
+    lxs=$(echo "$item" | jq '.lexicalisations[]."lex"' | sed 's/^"//;s/"$//')
     num_lxs=$(echo "$lxs" | wc -l)
     mrs=$(echo "$mr" | awk -v n=$num_lxs '{for(i=0;i<n;i++)print}')
     echo "$mrs" >> $out_mr
