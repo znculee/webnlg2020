@@ -1,0 +1,315 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is in Switzerland. Its dean is Mario Botta and it has 600 students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio of Switzerland has 600 students and the dean is called Mario Botta.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is located in Bangalore, India and its motto is: "Nurturing Excellence".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology in Bangalore, India has the motto "Nurturing Excellence".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is in Bangalore, India and its motto is"Nurturing Excellence".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " city ",
+   "subject": " Bangalore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " city ",
+     "subject": " Bangalore"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "B.M. Reddy is the president of the Acharya Institute of Technology, which is located in Bangalore, India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is in Bangalore, India. Its president is B.M. Reddy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology (Bangalore, India) has B. M. Reddy as its president.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " president ",
+   "subject": " "B.M. Reddy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " president ",
+     "subject": " "B.M. Reddy"@en"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Insitute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The International Tennis Federation is the governing body for the sport which is offered at the Acharya Institute of Technology which was established in 2000.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " sportsOffered ",
+   "subject": " Tennis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " sport ",
+     "subject": " Tennis"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is in India. Mumbai is the largest city in India. The river Ganges runs through India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is located in the country of India, whose capital city is Mumbai. One of the rivers in India is called the Ganges.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " largestCity ",
+   "subject": " Mumbai"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "India ",
+     "property": " largestCity ",
+     "subject": " Mumbai"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Romania is Prime Minister Klaus Lohannis. The 1 Decembrie 1918 University is in Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Prime Minister of Romania is Klaus Iohannis. The University of Romania was established on 1 Decembrie 1918.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Johannis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " leaderTitle ",
+   "subject": " Prime_Minister_of_Romania"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " leaderTitle ",
+       "subject": " Prime_Minister_of_Romania"
+       },
+       {
+       "object": "Romania ",
+       "property": " leader ",
+       "subject": " Klaus_Iohannis"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Romania. Its Latin name is "Universitas Apulensis". The patron saint of Romania is Andrew the Apostle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Universitas Apulensis is the latin name of the 1 Decembrie 1918 University in Romania. The patron saint of the country is Andrew the Apostle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University has the Latin name, Universitas Apulensis. It is situated in Romania, which has the patron Saint Andrew the Apostle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " patronSaint ",
+   "subject": " Andrew_the_Apostle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " patronSaint ",
+     "subject": " Andrew_the_Apostle"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928. It has 737 academic staff and 16,000 students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University was established in 1928. It has 16000 students and an academic staff of 737.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 16000.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " numberOfStudents ",
+       "subject": " "16000"^^xsd:nonNegativeInteger"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id8"
+      }
+}

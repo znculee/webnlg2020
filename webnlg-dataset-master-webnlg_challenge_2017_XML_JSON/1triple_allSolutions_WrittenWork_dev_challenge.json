@@ -1,0 +1,1070 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Eric Flint is the author of 1634: The Bavarian Crisis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was written by Eric Flint.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian crisis is the sequel to The Grantville Gazettes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis is preceded by The Grantville Gazettes.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " The_Grantville_Gazettes"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "1634:_The_Bavarian_Crisis ",
+       "property": " previousWork ",
+       "subject": " The_Grantville_Gazettes"
+       },
+       {
+       "object": "1634:_The_Bavarian_Crisis ",
+       "property": " precededBy ",
+       "subject": " The_Grantville_Gazettes"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion was followed by 1635: The Cannon Law.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion is followed by 1635: The Cannon Law.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Ram_Rebellion ",
+   "property": " followedBy ",
+   "subject": " 1635:_The_Cannon_Law"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Ram_Rebellion ",
+     "property": " subsequentWork ",
+     "subject": " 1635:_The_Cannon_Law"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AIP Advances had the EISSNnumber 2158.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The EISSN number of AIP Advances is 2158.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AIP_Advances ",
+   "property": " EISSN_number ",
+   "subject": " 2158"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AIP_Advances ",
+     "property": " eissn ",
+     "subject": " 2158"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is a hardcover book.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice was made in hardcover.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice was produced in Hardcover.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ISBN number of A Long Long Way is 0-670-03380-4.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number to A Long Long Way is 0-670-03380-4.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " ISBN_number ",
+   "subject": " "0-670-03380-4""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " isbn ",
+     "subject": " "0-670-03380-4""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " ISBN_number ",
+   "subject": " "1-56947-301-3""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " isbn ",
+     "subject": " "1-56947-301-3""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Madeleine L'Engle wrote "A Severed Wasp".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Madeleine L'Engle is the author of A Severed Wasp.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " author ",
+   "subject": " Madeleine_L'Engle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " author ",
+     "subject": " Madeleine_L'Engle"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is published in English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is written in English.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the LCCN number 32024459.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has an LCCN number of 32024459.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The LCCN number of Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is 32024459.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg ",
+   "property": " LCCN_number ",
+   "subject": " 32024459"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg ",
+     "property": " lccn ",
+     "subject": " "32024459""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Above the Veil is available in hardcover.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Above_the_Veil ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Mathematica Hungarica is also known as Acta Math. Hungar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar.".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Mathematica_Hungarica ",
+   "property": " abbreviation ",
+   "subject": " "Acta Math. Hungar.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Mathematica_Hungarica ",
+     "property": " abbreviation ",
+     "subject": " "Acta Math. Hungar."@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acta Mathematica Hungarica covers the academic discipline of Mathematics.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acta Mathematica Hungarica discipline is Math.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Mathematica_Hungarica ",
+   "property": " academicDiscipline ",
+   "subject": " Mathematics"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Mathematica_Hungarica ",
+     "property": " discipline ",
+     "subject": " Mathematics"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica has the CODEN code APGPAC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acta Palaeontologica Polonica CODEN code is "APGPAC".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The CODEN code for the Acta Palaeontologica Polonica is APGPAC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " CODEN_code ",
+   "subject": " "APGPAC""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Palaeontologica_Polonica ",
+     "property": " coden ",
+     "subject": " "APGPAC"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The OCLC number of Addiction (journal) is 27367194.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The OCLC number for Addiction journal is 27367194.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction (journal) has an OCLC number 27367194.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " OCLC_number ",
+   "subject": " 27367194"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addiction_(journal) ",
+     "property": " oclc ",
+     "subject": " "27367194""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wiley-Blackwell is the publisher of the journal Addiction.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Wiley-Blackwell is the publisher of Addiction (journal).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction journal is published by Wiley-Blackwell.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " publisher ",
+   "subject": " Wiley-Blackwell"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addiction_(journal) ",
+     "property": " publisher ",
+     "subject": " Wiley-Blackwell"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The LCCN number of the Administrative Science Quarterly is 57059226.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Administrative Science Quarterly's LLCN number is 57059226.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " LCCN_number ",
+   "subject": " 57059226"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " lccn ",
+     "subject": " 57059226"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "OCLC number 45644811 is Aenir.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "OCLC number 45644811 is for Aenir.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The OCLC number of Aenir is 45644811.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " OCLC_number ",
+   "subject": " 45644811"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " oclc ",
+     "subject": " "45644811""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus The Evil Librarian OCLC number is 78771100.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians has the OCLC number of 7877110.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians has an OCLC number of 78771100.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " OCLC_number ",
+   "subject": " 78771100"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " oclc ",
+     "subject": " "78771100""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener's Bones.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the Scrivener's Bones.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz versus the Evil Librarians is followed by Alcatraz Versus the Scrivener's Bones.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " followedBy ",
+   "subject": " Alcatraz_Versus_the_Scrivener's_Bones"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alcatraz_Versus_the_Evil_Librarians ",
+       "property": " followedBy ",
+       "subject": " Alcatraz_Versus_the_Scrivener's_Bones"
+       },
+       {
+       "object": "Alcatraz_Versus_the_Evil_Librarians ",
+       "property": " subsequentWork ",
+       "subject": " Alcatraz_Versus_the_Scrivener's_Bones"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The impact factor of the American Journal of Mathematics is 1.337.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The American Journal of Mathematics has an impact Factor of 1.337.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_Journal_of_Mathematics ",
+   "property": " impactFactor ",
+   "subject": " "1.337""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "American_Journal_of_Mathematics ",
+       "property": " impact ",
+       "subject": " "1.337"^^xsd:double"
+       },
+       {
+       "object": "American_Journal_of_Mathematics ",
+       "property": " impactFactor ",
+       "subject": " "1.337"^^xsd:double"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Castle is followed by Aenir.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir followed the novel Castle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Castle is followed by Aenir.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Castle_(novel) ",
+   "property": " followedBy ",
+   "subject": " Aenir"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Castle_(novel) ",
+       "property": " subsequentWork ",
+       "subject": " Aenir"
+       },
+       {
+       "object": "Castle_(novel) ",
+       "property": " followedBy ",
+       "subject": " Aenir"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornwell University is nicknamed Cornell Big Red.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell Big Red is the nickname of Cornell University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell Big Red is the nickname for Cornell University.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cornell_University ",
+   "property": " nickname ",
+   "subject": " Cornell_Big_Red"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Cornell_University ",
+     "property": " nickname ",
+     "subject": " Cornell_Big_Red"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The HIV virus is from the genus Lentivirus.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HIV is genus Lentivirus.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "HIV genus is categorised as Lentivirus.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "HIV ",
+   "property": " genus ",
+   "subject": " Lentivirus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "HIV ",
+     "property": " genus ",
+     "subject": " Lentivirus"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wolf Solent is a notable work by John Cowper Powys.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Wolf Solent is one of John Cowper Powys notable works.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Wolf Solent is a notable work of author John Cowper Powys.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "John_Cowper_Powys ",
+   "property": " notableWork ",
+   "subject": " Wolf_Solent"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "John_Cowper_Powys ",
+     "property": " notableWork ",
+     "subject": " Wolf_Solent"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is a leader in the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United Kingdom is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is the leader in the UK.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " Elizabeth_II"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leader ",
+       "subject": " Elizabeth_II"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a United States leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A leader in the United States is Joe Biden.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Joe_Biden"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Cowper Powys is the author of Wolf Solent.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Cowper Powys is the author of "Wolf Solent".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Wolf_Solent ",
+   "property": " author ",
+   "subject": " John_Cowper_Powys"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Wolf_Solent ",
+     "property": " author ",
+     "subject": " John_Cowper_Powys"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+}

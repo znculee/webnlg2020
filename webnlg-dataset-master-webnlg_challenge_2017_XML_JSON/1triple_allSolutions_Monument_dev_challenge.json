@@ -1,0 +1,270 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument in Izmir was designed by Pietro Canonica.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pietro Canonica designed the Atatürk Monument in Izmir.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pietro Canonica is the designer of the Ataturk Monument (Izmir).",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ataturk Monument was designed by Pietro Canonica.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Ataturk Monument was designed by Pietro Canonica.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument (İzmir) was designed by Pietro Canonica.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "The designer of the Atatürk_Monument (İzmir) is Pietro Canonica.",
+   "xml_id": "Id7"
+   },
+   {
+   "comment": "good",
+   "lex": "Pietro Canonica is the designer of the Ataturk Monument in Izmir.",
+   "xml_id": "Id8"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atatürk_Monument_(İzmir) ",
+   "property": " designer ",
+   "subject": " Pietro_Canonica"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atatürk_Monument_(İzmir) ",
+     "property": " designer ",
+     "subject": " Pietro_Canonica"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument in Izmir is made of bronze.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The material of the Ataturk Monument (Izmir) is bronze.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ataturk Monument is made from Bronze.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument (İzmir) is made of Bronze.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Ataturk Monument is made of Bronze.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atatürk_Monument_(İzmir) ",
+   "property": " material ",
+   "subject": " "Bronze""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atatürk_Monument_(İzmir) ",
+     "property": " material ",
+     "subject": " "Bronze"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Azerbaijan leader's name is Artur Rasizade.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The name of the leader of Azerbaijan is Artur Rasizade.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " leaderName ",
+   "subject": " Artur_Rasizade"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " leaderName ",
+     "subject": " Artur_Rasizade"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is located in Azerbaijan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyr's Memorial is in Azerbaijan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Turkish martyrs memorial is located in Baku, Azerbaijan.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku Turkish Martyrs' Memorial is located in Azerbaijan.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial can be found is Azerbaijan.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is in Azerbaijan.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is found in Azerbaijan.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " location ",
+   "subject": " Azerbaijan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " location ",
+     "subject": " Azerbaijan"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The materials used for the Baku Turkish Martyrs' Memorial is red granite and white marble.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is created in red granite and white marble.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The material of the Baku Turkish Martyrs' Memorial is Red granite and white marble.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is made from red granite and white marble.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku Turkish Martyrs' Memorial is made of red granite and white marble.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku Turkish Martyrs' Memorial is made from red granite and white marble.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is made with red granite and white marble.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " material ",
+   "subject": " "Red granite and white marble""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " material ",
+     "subject": " "Red granite and white marble"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+}

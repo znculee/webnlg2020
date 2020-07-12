@@ -1,0 +1,355 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100, the dean is named Mario Botta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. It has 100 academic staff and its dean is Mario Botta.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Mendrisio in Switzerland. It's dean is Mario Botta with its staff size being 100.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 600 students. The leader of Switzerland is the Federal Chancellor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Accademia di Architettura di Mendrisio was established in 1996 in Switzerland and has 600 attending students. It's leader is the Federal Chancellor of Switzerland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio of Switzerland was established in 1996 and has 600 students. The leader of the country has the title Federal Chancellor of Switzerland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio (Dean - Mario Botta) was established in 1996, has an academic staff of 100 and is located in the city of Mendrisio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio in the city of Mendrisio was established in 1996 and has an academic staff size of 100 people. Its dean is Mario Botta.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio. It has an academic staff size of 100 and the dean is Mario Botta.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " dean ",
+   "subject": " Mario_Botta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " dean ",
+     "subject": " Mario_Botta"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology has an affiliation with Visvesvaraya Technological University (Belgaum) and was given the 'Technical Campus' status by the All India Council for Technical Education, which is located in Mumbai.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology, an affiliation of Belgaum's Visvesvaraya Technological University was recognized as the Technical Campus by the All India Council for Technical Education of Mumbai.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " affiliation ",
+   "subject": " Visvesvaraya_Technological_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " affiliation ",
+     "subject": " Visvesvaraya_Technological_University"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radharkrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It has 700 postgraduate students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institue of Technology campus which has 700 postgraduate students is located in India at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technological in Bangalor, India has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " city ",
+   "subject": " Bangalore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " city ",
+     "subject": " Bangalore"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology (Director - Dr. G. P. Prabhukumar), is located in India, was established in 2000 and is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in India was established in 2000. Its director is Dr. G. P. Prabhukuma and the school is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "An affiliate of Visvesvaraya Technological University and established in 2000 in India, Acharya Institute of Technology is led by director Dr. G. P. Prabhukumar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " director ",
+   "subject": " "Dr. G. P. Prabhukumar""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " director ",
+     "subject": " "Dr. G. P. Prabhukumar"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in Romania (capital Bucharest). The leader of Romania is Klaus lohannis and the ethnic group is Germans of Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Romania is Klaus Iohannis. The country is home to different ethnic groups, one of which are the Germans of Romania. The capital city is Bucharest and the country is the location of the 1 Decembrie 1918 University.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " ethnicGroup ",
+   "subject": " Germans_of_Romania"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " ethnicGroups ",
+       "subject": " Germans_of_Romania"
+       },
+       {
+       "object": "Romania ",
+       "property": " ethnicGroups ",
+       "subject": " Germans_of_Romania"
+       },
+       {
+       "object": "Romania ",
+       "property": " leader ",
+       "subject": " Klaus_Iohannis"
+       }
+     ]
+     },
+   "size": "4",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in Denmark and affiliated to the European University Association. It was established in 1928 and it has 737 academic staff.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It is affiliated with the European University Association and has 737 academic staff.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Denmark's School of Business and Social Sciences at the Aarhus University was established in 1928. It currently has 737 staff and is affiliated with the European University Association.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " faculty ",
+     "subject": " 737"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark. It has an academic staff of 737 and a student body of 16000.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University, Denmark (established 1928) has an academic staff of 737 and a student roll of 16000.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " faculty ",
+     "subject": " 737"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id9"
+      }
+}

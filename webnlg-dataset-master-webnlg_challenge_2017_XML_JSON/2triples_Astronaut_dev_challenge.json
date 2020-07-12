@@ -1,0 +1,235 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Apollo 14 crew member Alan Shepard retired on the first of August, 1974.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who served as a crew member of Apollo 14, retired 1974-08-01.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a US national because he was born in Glen Ridge, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin hails from Glen Ridge, New Jersey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey in the United States.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a US citizen born in Glen Ridge, New Jersey.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Retiree Buzz Aldrin is a former fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is now retired but he was once a fighter pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin has since retired but he once served as a fighter pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin served as a fighter pilot and is now retired.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "NASA operated the Apollo 11 program of which Buzz Aldrin was a member.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was on Apollo 11 which NASA operated.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "buzz aldrin was a crew member of apollo 11, which was operated by NASA.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a crew member of NASA's Apollo 11.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin performed as a fighter pilot and was a crew member on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, who was a fighter pilot, was a crew member on Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was both a fighter pilot and member of the Apollo 11 flight crew.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot and crew member of Apollo 11.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+}

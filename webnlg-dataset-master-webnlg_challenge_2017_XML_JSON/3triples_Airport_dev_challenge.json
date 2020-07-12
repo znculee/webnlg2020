@@ -1,0 +1,990 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene which is part of Taylor County,Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene which is part of Taylor County, Texas, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Abilene regional airport serves Abilene, Texas, which is a part of Taylor County, Texas in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " city ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " city ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport has a runway length of 1219.0 and serves the cities of Saranac Lake and Lake Placid, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake, New York and the residents of Lake Placid and has a runway that's 1,219 long.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adirondack_Regional_Airport ",
+   "property": " runwayLength ",
+   "subject": " 1219.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1219.0"^^xsd:double"
+       },
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Lake_Placid,_New_York"
+       },
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1218.59"^^xsd:double"
+       },
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Lake_Placid,_New_York"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 14L/32R runway of the Adolfo Suarez Madrid - Barajas Airport in Madrid has a length of 4100.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adolfo Suarez Madrid-Barajas Airport is in Madrid; its runway name is 14L/32R and its runway length is 4100.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adolfo Suarez Madrid-Barajas Airport is in Madrid. Its runway, called 14L/32R has length of 4100.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " runwayLength ",
+   "subject": " 4100.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " runwayLength ",
+     "subject": " "4099.86"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Indian Air Force in India, operates Agra Airport which uses VIAG as its ICAO location identifier.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra Airport, located in India, is operated by the Indian Air Force, and has an ICAO identifier is VIAG.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " location ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       },
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Operated by the United States Air Force, Al Asad Airbase, in Iraq, has a runway length of 3078.48 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The USAF operated the Al Asad Airbase, located in iraq, with a length of 3078.48.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Asad airbase is operated by the United States Air Force which was involved in the Invasion of Grenada and the Korean war.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       },
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase is operated by the United States Air Force which has the Invasion of Grenada as one of its noted battles as well as The Operation Enduring Freedom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The USAF operates Al Asad Airbase. They fought in the Invasion of Grenada and The Operation Enduring Freedom.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The US Air Force is the operating organisation for Al Asad Airbase, used in battles such as Invasion of Grenada and the operation enduring freedom.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Air Force who is the operating organisation for Al Asad airbase fought battles in the Korean war and also in Operation Enduring Freedom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The US Air Force, veteran of the Korean war and Operation Enduring Freedom, operated Al Asad Airbase,.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1st runway at Alderney Airport is made from Poaceae and has a length of 733.0.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alderney_Airport ",
+       "property": " r1Surface ",
+       "subject": " Poaceae"
+       },
+       {
+       "object": "Alderney_Airport ",
+       "property": " r1Surface ",
+       "subject": " Poaceae"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Wilson Township, Alpena County, Michigan, Alpena County Regional Airport has an elevation of 210 metres above sea level and a runway length of 1,533 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aplena County Regional Airport; is elevated 210 metres above sea level, has a runway length of 1,533 metres and is located in Wilson Township, Alpena County, Michigan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan. It is 210 m above sea level and its runway length is 1533 feet.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpena_County_Regional_Airport ",
+   "property": " location ",
+   "subject": " Wilson_Township,_Alpena_County,_Michigan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " location ",
+       "subject": " Wilson_Township,_Alpena_County,_Michigan"
+       },
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " location ",
+       "subject": " Wilson_Township,_Alpena_County,_Michigan"
+       },
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " location ",
+       "subject": " Wilson_Township,_Alpena_County,_Michigan"
+       },
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " location ",
+       "subject": " Wilson_Township,_Alpena_County,_Michigan"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam airport, Schipol which serves the city of Amsterdam is located at -3.3528 metres above sea level and has a runway length of 3500.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam_Airport_Schiphol ",
+   "property": " cityServed ",
+   "subject": " Amsterdam"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amsterdam_Airport_Schiphol ",
+     "property": " city ",
+     "subject": " Amsterdam"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas (United States), where Houston is the largest city.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is in Texas, United States. Houston is the largest city in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Andrews County Airport is located in Texas, whose largest city is Houston.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo Angola, it has a runway length of 4000ft.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located at Ícolo e Bengo, Angola and is 4000 in length.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport, located in Icolo e Bengo, Angola has a runway length of 4000.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located at Ícolo e Bengo in Angola and the runway is named "south runway".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located at Ícolo e Bengo, Angola and the runway is known as "South Runway".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola_International_Airport ",
+     "property": " location ",
+     "subject": " Ícolo_e_Bengo"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport which has an elevation of 12.0 metres above sea level is owned and operated by the Flemish government.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport which is 12 meters above sea level is owned by Flemish Region and operated by the Flemish government.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Flemish_Government"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       },
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Flemish department of Mobility and Public Works is the operating organisation and owner of Antwerp International Airport that serves the city of Antwerp.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport; serves the city of Antwerp, is in the Flemish region and is operated by the Flemish department of mobility and public works.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves Antwerp. It is owned by the Flemish Region and operated by the Flemish department of Mobility and Public Works.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " owner ",
+   "subject": " Flemish_Region"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " owner ",
+     "subject": " Flemish_Region"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International airport serves the city of Appleton which is part of Kimberly, Wisconsin, as is Little Chute.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appletone International Airport served the city of Appleton, which is part of a little chute in Kimberly, Wisconsin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton,_Wisconsin ",
+   "property": " isPartOf ",
+   "subject": " Kimberly,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Kimberly,_Wisconsin"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Appleton International Airport is in Greenville which is part of Clayton Winnebago County, Wisconsin, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is located in Greenville, Wisconsin, USA, which is part of Clayton, Winnebago county.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Appleton International Airport is in Greenville, Clayton, Winnebago County, Wisconsin, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae which is of the order Poales and belongs to the division of flowering plants.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae which is part of the Poales order and is in the division of flowering plants.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " 3rd_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ardmore_Airport_(New_Zealand) ",
+     "property": " r3Surface ",
+     "subject": " Poaceae"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ashgabat International Airport (located in Ashgabat) is elevated 211 metres above sea level and has a runway length of 3800.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ashgabat is the location of Ashgabat International Airport which has a runway length of 3800.0 and is 211 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ashgabat International airport is located in Ashgabat at 211 metres above sea level and has a runway length of 3800.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ashgabat_International_Airport ",
+   "property": " location ",
+   "subject": " Ashgabat"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " location ",
+       "subject": " Ashgabat"
+       },
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " location ",
+       "subject": " Ashgabat"
+       },
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " location ",
+       "subject": " Ashgabat"
+       },
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " location ",
+       "subject": " Ashgabat"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Athens International Airport serves the city of Athens, in Greece where Alexis Tsipras is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Athens International Airport serves the city of Athens in Greece where Alexis Tsipras is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Athens International Airport serves the city of Athens in Greece, a country led by Alexis Tsipras.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Athens_International_Airport ",
+       "property": " cityServed ",
+       "subject": " Athens"
+       },
+       {
+       "object": "Athens ",
+       "property": " country ",
+       "subject": " Greece"
+       },
+       {
+       "object": "Athens_International_Airport ",
+       "property": " cityServed ",
+       "subject": " Athens"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport, which has a runway with the name is 4/22, is located in Egg Harbor Township, in New Jersey, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport is in Egg Harbor Township, New Jersey, United States and has the runway name 4/22.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwayName ",
+   "subject": " "4/22""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City_International_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "4/22""
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp in Belgium where the leader is Phillipe of Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp, Belgium, is led by Philippe of Belgium and served by Antwerp International Airport.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " leaderName ",
+   "subject": " Philippe_of_Belgium"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Belgium ",
+       "property": " leaderName ",
+       "subject": " Philippe_of_Belgium"
+       },
+       {
+       "object": "Belgium ",
+       "property": " leader ",
+       "subject": " Philippe_of_Belgium"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Poaceae is in the class Monocotyledon and the order of Commelinids. It is also the surface type of the second runway of Ardmore Airport, New Zealand.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the order of Commelinids and the class of Monocotyledon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " class ",
+   "subject": " Monocotyledon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Poaceae ",
+     "property": " class ",
+     "subject": " Monocotyledon"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id24"
+      }
+}

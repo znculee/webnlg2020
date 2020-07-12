@@ -1,0 +1,1360 @@
+{
+   1: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bread is an ingredient of Ajoblanco which originates from Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the ingredients of Ajoblanco is bread and it originates from Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bread is an ingredient of Ajoblanco which comes from Spain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " country ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " country ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ajoblanco, from Andalusia, has almond as one of its ingredients.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Almond is an ingredient in ajoblanco, from Andalusia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajoblanco is from the Andalusia region and has almond as one of its ingredients.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Almond"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Almond"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tomato is an ingredient in Amatriciana sauce which comes from Lazio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce is from the Lazio region and tomato is one of the ingredients.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tomato is an ingredient in Amatriciana sauce which comes from the region of Lazio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " region ",
+   "subject": " Lazio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " region ",
+     "subject": " Lazio"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bandeja paisa comes from the Antioquia Department of Colombia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bandeja paisa is a dish found in the Antioquia Department of Colombia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioquia_Department ",
+   "property": " country ",
+   "subject": " Colombia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioquia_Department ",
+     "property": " country ",
+     "subject": " Colombia"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arem-arem uses the ingredient banana leaf, it is a common dish in Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Banana leaf is an ingredient in arem arem, which comes from Indonesia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arem arem which includes banana leaf, comes from Indonesia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arem-arem ",
+   "property": " region ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arem-arem ",
+     "property": " region ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Olive oil is an ingredient used in the preparation of Arrabbiata sauce, found in Italy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Olive Oil is used to create Italian Arrabbiata sauce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Olive oil is an ingredient in Arrabbiata sauce, which can be found in Italy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arrabbiata_sauce ",
+   "property": " country ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arrabbiata_sauce ",
+     "property": " country ",
+     "subject": " Italy"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arrabbiata sauce is found in Italy where the capital city is Rome.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rome is the capital of Italy which is where Arrabbiata sauce comes from.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arrabbiata sauce is from Italy which has the capital city of Rome.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arrabbiata_sauce ",
+   "property": " country ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arrabbiata_sauce ",
+     "property": " country ",
+     "subject": " Italy"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tomatoes are found in Arrabbiata sauce which comes from Italy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tomatoes are an ingredient of Arrabbiata sauce from Italy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tomatoes are found in Arrabbiata sauce, which originated in Italy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arrabbiata_sauce ",
+   "property": " ingredient ",
+   "subject": " Tomato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arrabbiata_sauce ",
+     "property": " ingredient ",
+     "subject": " Tomato"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arròs negre is from Spain, it includes squid.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arròs negre is a traditional dish from Spain, it includes squid.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " country ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " country ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cuttlefish is an ingredient in Arros negre which comes from the region of Valencian Community.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "An ingredient of arros negre is cuttlefish, the dish comes from the Valencian community region.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " region ",
+   "subject": " Valencian_Community"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " region ",
+     "subject": " Valencian_Community"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ayam penyet is a food found in Java and the main ingredients are "squeezed" or "smashed" chicken served with sambal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ayam penyet (Javanese) includes squeezed/smashed fried chicken and is served with sambal.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ayam_penyet ",
+   "property": " country ",
+   "subject": " Java"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ayam_penyet ",
+     "property": " country ",
+     "subject": " Java"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A sausage is used when making a Bacon Explosion which has The United states to thank for inventing it.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon Explosion is a dish from the United States that contains sausage.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon Explosion comes from the United States and includes sausage among its ingredients.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bacon_Explosion ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bacon_Explosion ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States, where John Roberts is a leader, is the country of the Bacon Explosion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Bacon Explosion comes from the United States where John Roberts is a leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States (with a leader, John Roberts) boasts the Bacon Explosion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bacon_Explosion ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bacon_Explosion ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bacon is an ingredient in the main course dish 'Bacon Explosion'.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon is an ingredient in a main course called Bacon Explosion.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon Explosion is an entree that includes bacon, the main ingredient.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bacon_Explosion ",
+   "property": " ingredient ",
+   "subject": " Bacon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bacon_Explosion ",
+     "property": " ingredient ",
+     "subject": " Bacon"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A bacon sandwich on bread is also known as bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The bacon sandwich, which one of two ingedients is bread, has different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bacon_sandwich ",
+   "property": " alternativeName ",
+   "subject": " "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bacon_sandwich ",
+     "property": " alias ",
+     "subject": " "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baked Alaska is thought to have originated in the United States, France or China, and contains Christmas pudding as an ingredient.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " country ",
+   "subject": " "France, United States or China""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " country ",
+     "subject": " "France, United States or China"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baked Alaska comes from China, where Standard Chinese is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Standard Chinese is spoken in China where baked Alaska is a dish.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " country ",
+   "subject": " China"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " country ",
+     "subject": " China"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baked Alaska and cookies are types of dessert.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baked Alaska and a cookie are both desserts.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Baked Alaska is a dessert along with cookies which you can also eat as a dessert.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " course ",
+   "subject": " Dessert"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " course ",
+     "subject": " Dessert"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding was created in 1820 at the Rutland Arms, Bakewell and has ground almond, jam, butter and eggs as main ingredients.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of Bakewell pudding, which was invented in Rutland Arms, Bakewell, in 1820, are ground almond, jam, butter and eggs.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " creator ",
+   "subject": " "Rutland Arms, Bakewell, in 1820""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bakewell_pudding ",
+       "property": " creator ",
+       "subject": " "Rutland Arms, Bakewell, in 1820"@en"
+       },
+       {
+       "object": "Bakewell_pudding ",
+       "property": " ingredientName ",
+       "subject": " "Ground almond, jam, butter, eggs""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bakewell tart, made with shortcrust pastry, is a variation of Bakewell pudding.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A variant of bakewell pudding is bakewell tart, made with shortcrust pastry.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A variant of bakewell pudding is bakewell tart which uses shortcrust pastry.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " dishVariation ",
+   "subject": " Bakewell_tart"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_pudding ",
+     "property": " hasVariant ",
+     "subject": " Bakewell_tart"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lemon (part of genus Citrus) is an ingredient in Bandeja paisa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lemon, from the genus citrus, is an ingredient in Bandeja paisa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lemon (genus; citrus) is an ingredient found in Bandeja paisa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bandeja_paisa ",
+   "property": " ingredient ",
+   "subject": " Lemon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bandeja_paisa ",
+     "property": " ingredient ",
+     "subject": " Lemon"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Batchoy is a food in the Philippines and one of its ingredient is shrimp.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Philippines is the country of origin for the dish Batchoy, of which shrimp is one of the main ingredients.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Philippines is the country that Batchoy, a dish containing shrimp, comes from.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batchoy ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Batchoy ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Chinese Filipino is an ethnic group in the Philippines, where batchoy is a traditional dish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chinese Filipino are from the Philippines, where batchoy is eaten.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Batchoy is a food from the Philippines, the country where there is an ethnic group called the Chinese Filipino.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batchoy ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Batchoy ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Beef kway teow originates from Singapore, where Chinese is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Standard chinese speaking Singapore is the origin of beef kway teow.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Beef_kway_teow ",
+   "property": " region ",
+   "subject": " Singapore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Beef_kway_teow ",
+     "property": " region ",
+     "subject": " Singapore"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Beef kway teow is a dish of Singapore where Tony Tan is a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tony Tan is the leader of Singapore, from where Beef kway teow originates.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Beef kway teow originates from Singapore and it's leader is Tony Tan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Beef_kway_teow ",
+   "property": " region ",
+   "subject": " Singapore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Beef_kway_teow ",
+     "property": " region ",
+     "subject": " Singapore"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bhajji originates from India and Sumitra Mahajan is it's leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji comes from India where the leader is Sumitra Mahajan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji originates from India where the leader is Sumitra Mahajan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bhajji ",
+       "property": " country ",
+       "subject": " India"
+       },
+       {
+       "object": "Bhajji ",
+       "property": " country ",
+       "subject": " India"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bhajji, which uses gram flour, is a dish similar to pakora and other fritters made from wheat or corn flour.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gram flour is an ingredient of a Bhajji, which is a similar dish to pakora and other fritters made from wheat or corn flour.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " similarDish ",
+   "subject": " "Pakora and other fritters made from wheat or corn flour""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bhajji ",
+     "property": " similarDish ",
+     "subject": " "Pakora and other fritters made from wheat or corn flour"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ingredient of Binignit is sweet potato, and one of the main ingredients is the banana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Banana is a main ingredient of Binignit and sweet potato is also an ingredient.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredient of Binignit is banana, and also important is the inclusion of sweet potatoes.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " ingredient ",
+   "subject": " Sweet_potato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " ingredient ",
+     "subject": " Sweet_potato"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sago is the main ingredient in binignit but sweet potatoes are also used in it.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Binignit has the ingredients sweet potato and sago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sweet potato and sago are main ingredients in Binignit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " ingredient ",
+   "subject": " Sweet_potato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " ingredient ",
+     "subject": " Sweet_potato"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sweet potatoes (a kind of flowering plant) are used in binignit recipes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sweet potato belongs to flowering plants and is an ingredient of Binignit.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " ingredient ",
+   "subject": " Sweet_potato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " ingredient ",
+     "subject": " Sweet_potato"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sweet potatoes are the main ingredient of binignit and the potatoes are part of the order of Solanales.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sweet potatoes are members of the Solanales order of plants. They are the main ingredient of binignit.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sweet potato is of the order Solanales and are a main ingredient of binignit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " mainIngredients ",
+   "subject": " Sweet_potato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " mainIngredient ",
+     "subject": " Sweet_potato"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bionico is a dessert and it requires granola as one of it's ingredients.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico is a dessert, requiring granola as one of its ingredients.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico is a dessert that includes the ingredient granola.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " course ",
+   "subject": " Dessert"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bionico ",
+     "property": " course ",
+     "subject": " Dessert"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A popular dessert is Bionico and a variation of this dish can be honey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Honey can be used as a variaton in Bionico which is a dessert.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Honey can be added to bionico, a dessert dish.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " dishVariation ",
+   "subject": " Honey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bionico ",
+     "property": " hasVariant ",
+     "subject": " Honey"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bionico and ice cream are both served as a dessert course.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico and ice cream are types of dessert.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico and Ice Cream are served at the dessert course.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dessert ",
+   "property": " dishVariation ",
+   "subject": " Ice_cream"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dessert ",
+     "property": " hasVariant ",
+     "subject": " Ice_cream"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+   "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Batagor and Siomay (which has peanut sauce as an ingredient) are variations of the same dish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peanut sauce is an ingredient in Siomay and Batagor is a variation of this dish.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Batagor is a variation of the dish Siomay, of which peanut sauce is an ingredient.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Siomay ",
+   "property": " ingredient ",
+   "subject": " Peanut_sauce"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Siomay ",
+     "property": " ingredient ",
+     "subject": " Peanut_sauce"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id35"
+      }
+}

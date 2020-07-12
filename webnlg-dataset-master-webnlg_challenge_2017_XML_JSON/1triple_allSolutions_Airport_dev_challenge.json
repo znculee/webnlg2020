@@ -1,0 +1,1395 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Aarhus is Jacob Bundsgaard.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus ",
+   "property": " leaderName ",
+   "subject": " Jacob_Bundsgaard"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus ",
+     "property": " leaderName ",
+     "subject": " Jacob_Bundsgaard"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aarhus Airport's runway length is 2702.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aarhus Airport has a runway length of 2702.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2702.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2702.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport is 507 metres above sea level.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adirondack_Regional_Airport ",
+   "property": " elevationAboveTheSeaLevel_(in_metres) ",
+   "subject": " 507"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " elevationM ",
+       "subject": " 507"
+       },
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " elevation ",
+       "subject": " "507.0"^^xsd:double"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional airport is located at Harrietstown, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport is located in Harrietstown, New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adirondack_Regional_Airport ",
+   "property": " location ",
+   "subject": " Harrietstown,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adirondack_Regional_Airport ",
+     "property": " location ",
+     "subject": " Harrietstown,_New_York"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " location ",
+   "subject": " San_Sebastián_de_los_Reyes"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " location ",
+     "subject": " San_Sebastián_de_los_Reyes"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "14L/32R is the runway name of Adofo Suárez Madrid-Barajas Airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " runwayName ",
+   "subject": " "14L/32R""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "14L/32R""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "14R/32L is the runway name of Adolfo Suárez Madrid-Barajas Airport.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " runwayName ",
+   "subject": " "14R/32L""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "14R/32L""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The operating organization for Afonso Pena International Airport is Infraero.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport is operated by Infraero.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Afonso_Pena_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Infraero"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Afonso_Pena_International_Airport ",
+     "property": " operator ",
+     "subject": " Infraero"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agra Airport is in Agra.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra airport is located in Agra.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " location ",
+   "subject": " Agra"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agra_Airport ",
+     "property": " location ",
+     "subject": " Agra"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base is 84 metres above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Taqaddum Air Base is 84 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al-Taqaddum_Air_Base ",
+   "property": " elevationAboveTheSeaLevel_(in_metres) ",
+   "subject": " 84.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al-Taqaddum_Air_Base ",
+     "property": " elevation ",
+     "subject": " "83.82"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alderney Airport serves Alderney.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alderney Airport serves the city of Alderney.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " cityServed ",
+   "subject": " Alderney"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alderney_Airport ",
+       "property": " city ",
+       "subject": " Alderney"
+       },
+       {
+       "object": "Alderney_Airport ",
+       "property": " cityServed ",
+       "subject": " Alderney"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "18R/36L is the runway name at Allama Iqbal International airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International Airport has a runway named 18R/36L.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International Airport's runway name is "18R/36L".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allama_Iqbal_International_Airport ",
+   "property": " runwayName ",
+   "subject": " "18R/36L""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allama_Iqbal_International_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "18R/36L""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway length of Alpena County Regional Airport is 1,533.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length of Alpena County Regional airport is 1533.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpena_County_Regional_Airport ",
+   "property": " runwayLength ",
+   "subject": " 1533.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpena_County_Regional_Airport ",
+     "property": " runwayLength ",
+     "subject": " "1532.53"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpena Country Regional Airport runway name is 1/19/.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1/19 is the runway name of Alpena County Regional Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway name of Alpena County Regional Airport is 1/19.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpena_County_Regional_Airport ",
+   "property": " runwayName ",
+   "subject": " "1/19""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpena_County_Regional_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "1/19""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol serves the city of Amsterdam.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam airport, Schipol serves the city of Amsterdam.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schuphol serves Amsterdam.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam_Airport_Schiphol ",
+   "property": " cityServed ",
+   "subject": " Amsterdam"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amsterdam_Airport_Schiphol ",
+       "property": " city ",
+       "subject": " Amsterdam"
+       },
+       {
+       "object": "Amsterdam_Airport_Schiphol ",
+       "property": " cityServed ",
+       "subject": " Amsterdam"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County, Texas is country seat to Andrews, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews, Texas is the country seat of Andrews County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County, Texas has its county seat in Andrews, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Andrews,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Andrews,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews Country Airport's city is served by Andrews, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport serves Andrews, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport serves the city of Andrews in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " cityServed ",
+   "subject": " Andrews,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " city ",
+     "subject": " Andrews,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews Country Airport runway name is 11/29.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11/29 is the runway name of Andrews County Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway name of Andrews County Airport is 11/29.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " runwayName ",
+   "subject": " "11/29""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "11/29""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The name of the runway at Andrews County Airport is Helipad.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Helipad is the runway name of Andrews County Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway at Andrews County Airport is called Helipad.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " runwayName ",
+   "subject": " "Helipad""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "Helipad""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola International Airport city served is Luanda.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport serves the city of Luanda.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport serves Luanda.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Luanda"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " city ",
+       "subject": " Luanda"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " cityServed ",
+       "subject": " Luanda"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ardmore Airport, New Zealand is in Auckland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport is located in Auckland, New Zealand.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " location ",
+   "subject": " Auckland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ardmore_Airport_(New_Zealand) ",
+     "property": " location ",
+     "subject": " Auckland"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Athens mayor is Giorgos Kaminis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Giorgos Kaminis is the mayor of Athens.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The mayor of Athens is Giorgos Kaminis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens ",
+   "property": " mayor ",
+   "subject": " Giorgos_Kaminis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Athens ",
+     "property": " mayor ",
+     "subject": " Giorgos_Kaminis"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Athens International Airport is in Spata.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Athens International Airport is located in Spata.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens_International_Airport ",
+   "property": " location ",
+   "subject": " Spata"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Athens_International_Airport ",
+     "property": " location ",
+     "subject": " Spata"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Belgium language is German language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "German is the language of Belgium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The language spoken is Belgium is German.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " language ",
+   "subject": " German_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " language ",
+     "subject": " German_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Philippe of Belgium is the leader of Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Belgium is Philippe of Belgium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Belgium is Phillipe of Belgium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " leaderName ",
+   "subject": " Philippe_of_Belgium"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Belgium ",
+       "property": " leaderName ",
+       "subject": " Philippe_of_Belgium"
+       },
+       {
+       "object": "Belgium ",
+       "property": " leader ",
+       "subject": " Philippe_of_Belgium"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Denmark is Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Copenhagen is the capital of Denmark.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " capital ",
+   "subject": " Copenhagen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " capital ",
+     "subject": " Copenhagen"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Denmark's leader name is Lars Løkke Rasmussen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lars Løkke Rasmussen leads Denmark.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lars Løkke Rasmussen is the leader of Denmark.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderName ",
+   "subject": " Lars_Løkke_Rasmussen"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Denmark ",
+       "property": " leader ",
+       "subject": " Lars_Løkke_Rasmussen"
+       },
+       {
+       "object": "Denmark ",
+       "property": " leaderName ",
+       "subject": " Lars_Løkke_Rasmussen"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Flemish region is led by the Flemish government.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Flemish Government leads the Flemish Region.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Flemish_Region ",
+   "property": " leaderName ",
+   "subject": " Flemish_Government"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Flemish_Region ",
+     "property": " leaderName ",
+     "subject": " Flemish_Government"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Greek is the language spoken in Greece.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language spoken in Greece is Greek.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Greece ",
+   "property": " language ",
+   "subject": " Greek_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Greece ",
+     "property": " language ",
+     "subject": " Greek_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Greece is Nikos Voutsis.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Greece ",
+   "property": " leaderName ",
+   "subject": " Nikos_Voutsis"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Greece ",
+       "property": " leader ",
+       "subject": " Nikos_Voutsis"
+       },
+       {
+       "object": "Greece ",
+       "property": " leaderName ",
+       "subject": " Nikos_Voutsis"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Harrietstown, New York is part of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Harrietstown, N.Y. is part of the U.S.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Harrietstown,_New_York ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Harrietstown,_New_York ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Pakistan is Anwar Zaheer Jamali.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pakistan has a leader called Anwar Zaheer Jamali.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pakistan ",
+   "property": " leaderName ",
+   "subject": " Anwar_Zaheer_Jamali"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Pakistan ",
+       "property": " leader ",
+       "subject": " Anwar_Zaheer_Jamali"
+       },
+       {
+       "object": "Pakistan ",
+       "property": " leaderName ",
+       "subject": " Anwar_Zaheer_Jamali"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paracuellos de Jarama is part of the community of Madrid.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Paracuellos_de_Jarama ",
+   "property": " isPartOf ",
+   "subject": " Community_of_Madrid"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Paracuellos_de_Jarama ",
+     "property": " isPartOf ",
+     "subject": " Community_of_Madrid"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Port Authority of New York and New Jersey headquarter is Four World Trade Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Port_Authority_of_New_York_and_New_Jersey ",
+   "property": " headquarter ",
+   "subject": " Four_World_Trade_Center"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Port_Authority_of_New_York_and_New_Jersey ",
+     "property": " headquarter ",
+     "subject": " Four_World_Trade_Center"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "San Sebastián de los Reyes is in Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "San Sebastian de los Reyes is located in Spain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "San_Sebastián_de_los_Reyes ",
+   "property": " country ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "San_Sebastián_de_los_Reyes ",
+     "property": " country ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York is part of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York, is part of the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Saranac_Lake,_New_York ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "South Jersey Transportation Authority chief is Stephen Dilts.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Stephen Dilts is the chief of the South Jersey Transportation Authority.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Stephen Dilts is the chief of South Jersey Transportation Authority.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Jersey_Transportation_Authority ",
+   "property": " chief ",
+   "subject": " Stephen_Dilts"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "South_Jersey_Transportation_Authority ",
+     "property": " chief1Name ",
+     "subject": " Stephen_Dilts"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id37"
+      }
+}

@@ -1,0 +1,3250 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "The Alma Mater of Alan Bean is UT Austin, B.S. 1955.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean graduated in 1955 from UT Austin with a B.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean graduated from UT Austin in 1955 with a B.S.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " almaMater ",
+   "subject": " "UT Austin, B.S. 1955""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " almaMater ",
+     "subject": " "UT Austin, B.S. 1955"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on the 15th of March 1932.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on Mar 15, 1932.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on March 15, 1932.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthDate ",
+   "subject": " "1932-03-15""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthDate ",
+     "subject": " "1932-03-15"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean's full name was "Alan LaVern Bean".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born Alan LaVern Bean.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean's birth name was Alan LaVern Bean.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean's birth name is Alan LaVern Bean.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthName ",
+   "subject": " "Alan LaVern Bean""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthName ",
+     "subject": " "Alan LaVern Bean"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Alan Bean's birthplace is Wheeler,, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean's birth place is Wheeler, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthPlace ",
+   "subject": " Wheeler,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthPlace ",
+     "subject": " Wheeler,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean retired on June 1981.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean retired in June of 1981.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean retired in June 1981.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean's retirement was in June 1981.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean retired in June, 1981.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " dateOfRetirement ",
+   "subject": " "June 1981""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " dateOfRet ",
+     "subject": " "June 1981"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean served as a test pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean performed as a test pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean performs as a test pilot.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean is retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean has retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is now retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " status ",
+   "subject": " "Retired""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " status ",
+     "subject": " "Retired"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean spent 100305.0 minutes in Space.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean spent 100305 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "100305.0 minutes is the time Alan Bean spent in Space.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was in space 100305 minutes.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean spent over 69 days in space, 100305 minutes to be exact!",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean's time in space was 100305.0 minutes.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean spend a total of 100305 minutes in space.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " timeInSpace ",
+   "subject": " "100305.0"(minutes)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " timeInSpace ",
+     "subject": " "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a part of the crew of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean served as a crew member of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a member of the Apollo 12 crew.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member aboard Apollo 12.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was on the crew of Apollo 12.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member of Apollo 12.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member on the Apollo 12 flight mission.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was selected by Nasa in 1963.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was chosen by NASA in 1963.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was hired by NASA in 1963.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was selected by NASA ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " selection ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard graduated from NWC with a M.A. in 1957.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Alan Shepard graduated from NWC in 1957 with a M.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard went to school at NWC and graduated with an MA in 1957.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Alan Shepard graduated from NWC, M.A. in 1957.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born November 18th, 1923.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on November 18, 1923.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on Nov 18, 1923.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on 1923-11-18.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on the 18th of November 1923.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " birthDate ",
+   "subject": " "1923-11-18""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " birthDate ",
+     "subject": " "1923-11-18"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's birth place was New Hampshire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " birthPlace ",
+   "subject": " New_Hampshire"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " birthPlace ",
+     "subject": " New_Hampshire"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired on 1974-08-01.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired August 1st, 1974.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired 1st of August 1974.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired on August 1, 1974.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired on Aug 1, 1974.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard retired 1974-08-01.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Separd retired on 1st August 1974.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " dateOfRetirement ",
+   "subject": " "1974-08-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " dateOfRet ",
+     "subject": " "1974-08-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died on the 21st of July, 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died July 21st, 1998.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died on July 21, 1998.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died on 1998-07-21.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died 1998-07-21.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathDate ",
+   "subject": " "1998-07-21""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathDate ",
+     "subject": " "1998-07-21"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The nationality of Alan Shepard is United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's nationality is the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard is an American.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard is from the United States.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was from the United States.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was American.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's occupation was a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard served as a Test pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a test pilot.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was the Chief of the Astronaut Office in 1963.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard served as Chief of the Astronaut Office in 1963.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " served as Chief of the Astronaut Office in ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " years ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard is dead.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard is deceased.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's time in space amounted to 13017.0 minutes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard spent 13017 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "13017,0 minutes is the time Alan Shepard spent in space.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard spent 130017 minutes in space.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard spent just over 9 days in space.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's time in space is 13017 minutes.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard spent 13017.0 minutes in space.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " timeInSpace ",
+   "subject": " "13017.0"(minutes)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " timeInSpace ",
+     "subject": " "13017.0"^^&lt;http://dbpedia.org/datatype/minute&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was the Chief of the Astronaut Office.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard served as the Chief of the Astronaut Office.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard performed as the Chief of the Astronaut Office.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " title ",
+   "subject": " Chief_of_the_Astronaut_Office"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " title ",
+     "subject": " Chief_of_the_Astronaut_Office"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a crew member of Apollo 14.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard served as a crew member of Apollo 14.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a member of the Apollo 14 crew.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a crew member aboard Apollo 14.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was on the crew of Apollo 14.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a member of the crew of Apollo 14.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the american defence service ribbon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded American Defense Service ribbon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the American Defense Service Ribbon.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard won the American Defense Service ribbon.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded with the American Defense Service ribbon.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was awarded ",
+   "subject": " "American Defense Service ribbon.svg""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " ribbon ",
+     "subject": " "American Defense Service ribbon.svg"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "NASA selected Alan Shepard in 1959.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "In 1959, Alan Shepard was selected by NASA.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was selected by NASA in 1959.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was chosen by NASA in 1959.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was hired by NASA in 1959.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was selected by NASA ",
+   "subject": " 1959"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " selection ",
+     "subject": " 1959"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Apollo 11 was operated by NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Apollo 11 program was organized by NASA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_11 ",
+   "property": " operator ",
+   "subject": " NASA"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_11 ",
+     "property": " operator ",
+     "subject": " NASA"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Worden was a backup pilot of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 12's backup pilot was Alfred Worden.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Worden was the backup pilot of Apollo 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_12 ",
+   "property": " backup pilot ",
+   "subject": " Alfred_Worden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_12 ",
+     "property": " crew2Up ",
+     "subject": " Alfred_Worden"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Apollo 12 was commanded by David Scott.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "David Scott was the commander of Apollo 12.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_12 ",
+   "property": " commander ",
+   "subject": " David_Scott"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_12 ",
+     "property": " crew1Up ",
+     "subject": " David_Scott"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The operator of Apollo 12 was NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Apollo 12 operator is NASA.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "NASA operated Apollo 12.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Apollo 12 mission was operated by NASA.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 12 is operated by NASA.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_12 ",
+   "property": " operator ",
+   "subject": " NASA"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_12 ",
+     "property": " operator ",
+     "subject": " NASA"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Frank Borman was an Apollo 8 Commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Frank Borman was the Apollo 8 commander.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Apollo 8 commander was Frank Borman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_8 ",
+   "property": " commander ",
+   "subject": " Frank_Borman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_8 ",
+     "property": " crew1Up ",
+     "subject": " Frank_Borman"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Frank Borman was a member of the crew on Apollo 8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Frank Borman was a crew member of Apollo 8.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 8 crew members included Frank Borman.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Frank Borman was a crewman aboard Apollo 8.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Frank Borman was a crew member on Apollo 8.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_8 ",
+   "property": " crewMembers ",
+   "subject": " Frank_Borman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_8 ",
+     "property": " crewMembers ",
+     "subject": " Frank_Borman"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chris Patten served as a representative of British Hong Kong.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chris Patten represented British Hong Kong.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Chris Patten is a representative of British Hong Kong.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The British Hong Kong representative is Chris Patten.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "British_Hong_Kong ",
+   "property": " representative ",
+   "subject": " Chris_Patten"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "British_Hong_Kong ",
+     "property": " representative ",
+     "subject": " Chris_Patten"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's real name was Edwin E. Aldrin, Jr.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is also called Edwin E. Aldrin Jr.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " alternativeNames ",
+   "subject": " "Edwin E. Aldrin, Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " alternativeNames ",
+     "subject": " "Edwin E. Aldrin, Jr."@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The number of Buzz Aldrin's awards are 20.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin won 20 awards.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin received 20 awards.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin has won 20 awards.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin had 20 awards.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " awards ",
+   "subject": " 20"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " awards ",
+     "subject": " 20"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's birth date was 1930 01 20.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born January 20, 1930.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on 1930-01-20.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's birth date is January 20, 1930.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on January 20th, 1930.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on the 20th of January 1930.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on January 20,1930.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthDate ",
+   "subject": " "1930-01-20""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthDate ",
+     "subject": " "1930-01-20"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's birth name is Edwin Eugene Aldrin Jr.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born as Edwin Eugene Aldrin Jr.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born Edwin Eugene Aldrin Jr.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's birth name was Edwin Eugene Aldrin Jr.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born with the name Edwin Eugene Aldrin Jr.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthName ",
+   "subject": " "Edwin Eugene Aldrin Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthName ",
+     "subject": " "Edwin Eugene Aldrin Jr."@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge New Jersey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's birth place was Glen Ridge, New Jersey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on the 7th of January 1971.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin date of retirement was 1971/07/01.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's retirement date is "1971-07-01".",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on July 1st, 1971.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on July 1, 1971.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on the 1st of July 1971.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on 1971-07-01.",
+   "xml_id": "Id7"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin retired on Jul 1, 1971.",
+   "xml_id": "Id8"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " dateOfRetirement ",
+   "subject": " "1971-07-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " dateOfRet ",
+     "subject": " "1971-07-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin served as a Fighter pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's occupation was a fighter pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin performed as a fighter pilot.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is now retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin has retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " status ",
+   "subject": " "Retired""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " status ",
+     "subject": " "Retired"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id39"
+      }
+},
+{
+   40: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was in space for 52 minutes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin spent a total of 52.0 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin spent 52.0 minutes in Space.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin spent 52 minutes in space.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin walked in space 52.0 minutes.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " timeInSpace ",
+   "subject": " "52.0"(minutes)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " timeInSpace ",
+     "subject": " "52.0"^^&lt;http://dbpedia.org/datatype/minute&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id40"
+      }
+},
+{
+   41: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was awarded the Legion of Merit ribbon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was awarded with Legion of Merit ribbon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin won the Legion of Merit ribbon.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was awarded the "Legion of Merit" ribbon.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was awarded the 'Legion of Merit' ribbon.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was awarded ",
+   "subject": " "Legion of Merit ribbon.svg""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " ribbon ",
+     "subject": " "Legion of Merit ribbon.svg"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   42: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Smilodon is a fossil from California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "California have fossils of the Smilodon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Smilodon is a fossil from California.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Smilodon fossil was found in California.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " fossil ",
+   "subject": " Smilodon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " fossil ",
+     "subject": " Smilodon"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   43: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Senator representing California was Dianne Feinstein.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of California's senators is Dianne Feinstein.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dianne Feinstein is a senator in California.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Dianne Feinstein is a senator in the State of California.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " senators ",
+   "subject": " Dianne_Feinstein"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " senators ",
+     "subject": " Dianne_Feinstein"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id43"
+      }
+},
+{
+   44: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dallas is in Collin County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dallas is located in the Collin County in Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dallas ",
+   "property": " part ",
+   "subject": " Collin_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dallas ",
+     "property": " part ",
+     "subject": " Collin_County,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id44"
+      }
+},
+{
+   45: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dallas is a county in Texas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dallas ",
+   "property": " partsType ",
+   "subject": " List_of_counties_in_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dallas ",
+     "property": " partsType ",
+     "subject": " List_of_counties_in_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id45"
+      }
+},
+{
+   46: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "the Distinguished service medal from the Navy is higher than the department of commerce gold medal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Distinguished Service Medal of the United States Navy is higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Distinguished Service Medal from United States Navy ranks higher than Department of Commerce Gold Medal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id46"
+      }
+},
+{
+   47: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a student at University of Texas at Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See attended the University of Texas at Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   48: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot was born on the 23rd of July 1927.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on July 23, 1927.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on July 23rd, 1927.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on 23rd July 1927.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on 07/23/1927.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " birthDate ",
+   "subject": " "1927-07-23""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " birthDate ",
+     "subject": " "1927-07-23"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   49: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " birthPlace ",
+   "subject": " Dallas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " birthPlace ",
+     "subject": " Dallas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   50: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The nationality of Elliot See is United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See had a nationality that was of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See is from the United States.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See is a United States national.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   51: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "NASA selected Elliot See in 1962.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See joined NASA in 1962.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was selected by NASA in 1962.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Elliot See worked for NASA beginning in 1962,.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was chosen by NASA in 1962.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " was selected by NASA ",
+   "subject": " 1962"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " selection ",
+     "subject": " 1962"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   52: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Glen Ridge is in the Essex County in New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Glen Ridge is located in the Essex County in New Jersey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Glen Ridge, New Jersey is situated in the Essex County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Glen_Ridge,_New_Jersey ",
+   "property": " isPartOf ",
+   "subject": " Essex_County,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Glen_Ridge,_New_Jersey ",
+     "property": " isPartOf ",
+     "subject": " Essex_County,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id52"
+      }
+},
+{
+   53: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The purple finch is a native bird to New Hampshire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Purple finch is a bird found in New Hampshire.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Purple Finch is a New Hampshire bird.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Purple Finch is a bird living in New Hampshire.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "The New Hampshire state bird is the purple finch.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Hampshire ",
+   "property": " bird ",
+   "subject": " Purple_finch"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Hampshire ",
+     "property": " bird ",
+     "subject": " Purple_finch"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id53"
+      }
+},
+{
+   54: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "St. Louis was situated in the Kingdom of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "St. Louis was part of the Kingdom of France.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "St. Louis is part of the Kingdom of France.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "St. Louis was a part of the kingdom of France.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis ",
+   "property": " isPartOf ",
+   "subject": " Kingdom_of_France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "St._Louis ",
+     "property": " isPartOf ",
+     "subject": " Kingdom_of_France"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id54"
+      }
+},
+{
+   55: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The name of St Louis' leader is Francis G. Slay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Francis G Slay is the Mayor of St Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis ",
+   "property": " leaderName ",
+   "subject": " Francis_G._Slay"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "St._Louis ",
+     "property": " leaderName ",
+     "subject": " Francis_G._Slay"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id55"
+      }
+},
+{
+   56: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joe Biden is the United States leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a United States leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden was a representative of the United States.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the United States.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leader ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Joe_Biden"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id56"
+      }
+},
+{
+   57: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States leader was called Joe Biden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden served as United State's vice president.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a United States leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderName ",
+     "subject": " Joe_Biden"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id57"
+      }
+},
+{
+   58: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "University of Texas at Austin is affiliated with University of Texas System.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The University of Texas, Austin, is affiliated with the University of Texas System.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "University_of_Texas_at_Austin ",
+   "property": " affiliation ",
+   "subject": " University_of_Texas_System"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "University_of_Texas_at_Austin ",
+     "property": " affiliation ",
+     "subject": " University_of_Texas_System"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   59: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The University of Texas at Austin is competing in the Big 12 Conference.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The University of Texas, Austin, will compete in the Big 12 Conference.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The University of Texas competed in the Big 12 Conference in Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "University_of_Texas_at_Austin ",
+   "property": " compete in ",
+   "subject": " Big_12_Conference"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "University_of_Texas_at_Austin ",
+     "property": " athletics ",
+     "subject": " Big_12_Conference"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   60: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Gregory L. Fenves is the President of University of Texas at Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gregory L. Fenves is the appointed president of the University of Texas at Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Gregory L. Fenves was appointed as the president of the University of Texas at Ausitin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "University_of_Texas_at_Austin ",
+   "property": " president ",
+   "subject": " Gregory_L._Fenves"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "University_of_Texas_at_Austin ",
+     "property": " president ",
+     "subject": " Gregory_L._Fenves"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   61: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "In 1962, William Anders received a M.S. from his alma Mater, AFIT.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders graduated, with an M.S., from AFIT in 1962.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders graduated from AFIT in 1962 with an M.S.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders graduated from AFIT, M.S. in 1962.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " almaMater ",
+   "subject": " "AFIT, M.S. 1962""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " almaMater ",
+     "subject": " "AFIT, M.S. 1962"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id61"
+      }
+},
+{
+   62: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17th, 1933.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born October 17th 1933.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17, 1933.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born 1933-10-17.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on the 17th of October 1933.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id62"
+      }
+},
+{
+   63: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthPlace ",
+   "subject": " British_Hong_Kong"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthPlace ",
+     "subject": " British_Hong_Kong"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   64: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders retired on September 1st, 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired Sept 1st 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired on September 1, 1969.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired in 1969-09-01.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired 1969-09-01.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired on the 1st of September 1969.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id64"
+      }
+},
+{
+   65: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Willian Anders has a nationality that is of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is an American.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The nationality of William Anders is United States.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is from the United States.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was from the United STates.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is a US national.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id65"
+      }
+},
+{
+   66: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was a Fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders served as a Fighter pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is a fighter pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is a test pilot.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id66"
+      }
+},
+{
+   67: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders served as Chief of the Astronaut Office in 1976.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " served as Chief of the Astronaut Office in ",
+   "subject": " 1976"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " years ",
+     "subject": " 1976"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id67"
+      }
+},
+{
+   68: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders is retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is now retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders has retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " status ",
+   "subject": " "Retired""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " status ",
+     "subject": " "Retired"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id68"
+      }
+},
+{
+   69: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William anders spent 8820 minutes in space.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders spent 8820.0 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders time in space has been 8820.0 minutes.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders walked in space 8820.0 minutes.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders time in space is 8820.0 minutes.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " timeInSpace ",
+   "subject": " "8820.0"(minutes)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " timeInSpace ",
+     "subject": " "8820.0"^^&lt;http://dbpedia.org/datatype/minute&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id69"
+      }
+},
+{
+   70: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders serves as Ambassador to Norway in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders official title is the United States Ambassador to Norway.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "United States's Ambassador to Norway is William Anders.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is the US Ambassador to Norway.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders' title is the US Ambassador to Norway.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders title is the United States Ambassador to Norway.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is the United States Ambassador to Norway.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " title ",
+   "subject": " United_States_Ambassador_to_Norway"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " title ",
+     "subject": " United_States_Ambassador_to_Norway"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id70"
+      }
+},
+{
+   71: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders served as a crew member on Apollo 8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders served as a crew member of Apollo 8.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders crewed Apollo 8.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a crew member on Apollo 8.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a member of the Apollo 8 crew.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a member of Apollo 8's crew.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_8"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " mission ",
+     "subject": " Apollo_8"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id71"
+      }
+},
+{
+   72: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was selected by NASA in 1963.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders joined NASA in 1963.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was chosen by NASA in 1963.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was selected by NASA ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " selection ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id72"
+      }
+}

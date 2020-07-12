@@ -1,0 +1,1155 @@
+{
+   1: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code of Abilene, in Texas, is 325.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "325 is the area code for Abilene, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code for Abilene in Texas is 325.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " areaCode ",
+   "subject": " 325"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " areaCode ",
+     "subject": " 325"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene is a part of Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas, is part of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " isPartOf ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia has a Mayor as leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is lead by a Mayor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Albany, Georgia is the Mayor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon has a total area of 45.97 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Albany Oregon is 45.97 Sq K.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Albany, Oregon is 45.97 sq kms.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " areaTotal ",
+   "subject": " 45.97 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " areaTotal ",
+     "subject": " 4.59723e+07"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico is led by the State Senate.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " leaderTitle ",
+   "subject": " "State Senate""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " leaderTitle ",
+     "subject": " "State Senate"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Albuquerque City Council has a leadership role in Albuquerque, New Mexico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque in New Mexico is led by the Albuquerque City Council.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " leaderTitle ",
+   "subject": " Albuquerque_City_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " leaderTitle ",
+     "subject": " Albuquerque_City_Council"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States is the home country to Amarillo,Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo, Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo is part of Potter County in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo is part of Potter County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Potter_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amarillo,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Potter_County,_Texas"
+       },
+       {
+       "object": "Amarillo,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Potter_County,_Texas"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo, Texas is part of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo, Texas, is part of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " subdivisionName ",
+     "subject": " "United States"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, in California, has the area code 657.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Anaheim, California is 657.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code for Anaheim, California, is 657.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " areaCode ",
+   "subject": " 657"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " areaCode ",
+     "subject": " 657"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " "Adams, Fall Creek, Lafayette, Richland, Union""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " subdivisionName ",
+     "subject": " "Adams, Fall Creek, Lafayette, Richland, Union"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola is in Pleasant Township which is part of Steuben County, in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is part of Pleasant Township, which is in Steuben County.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Pleasant_Township,_Steuben_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Pleasant_Township,_Steuben_County,_Indiana"
+       },
+       {
+       "object": "Angola,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Pleasant_Township,_Steuben_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A City Administrator leads Ann Arbor, Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The City Administrator leads Ann Arbor in Michigan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " leaderTitle ",
+   "subject": " "City Administrator""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " leaderTitle ",
+     "subject": " "City Administrator"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mayor, is the title of the leader in Ann Arbor, Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor, Michigan is led by the Mayor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader title of Ann Arbor, Michigan, is Mayor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Ann Arbor, Michigan, has a population of 1580.7 as per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AnnArbor, Michigan has a population of 1580.7 peer square kilometer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Ann Arbor, Michigan is 1580.7 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " populationDensity ",
+   "subject": " 1580.7 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " populationDensity ",
+     "subject": " "1580.7"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antioch, CA is 13 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch, California is 13.0 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch, California is located at 13.0 above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 13.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " elevation ",
+     "subject": " "13.1064"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader title of Antioch, California, is California's 11th State Assembly district.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader title of Antioch California is California's 11th State Assembly district.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " leaderTitle ",
+   "subject": " California's_11th_State_Assembly_district"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " leaderTitle ",
+     "subject": " California's_11th_State_Assembly_district"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arlington Texas is has an elevation of 184 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arlington in Texas is located at 184.0 above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 184.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arlington,_Texas ",
+     "property": " elevation ",
+     "subject": " "184.099"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic County, New Jersey is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic County in New Jersey is located in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_County,_New_Jersey ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_County,_New_Jersey ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica is part of Fountain County Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is in Fountain County, Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Fountain_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Attica,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Fountain_County,_Indiana"
+       },
+       {
+       "object": "Attica,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Fountain_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn is part of Alabama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is located in Alabama.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " isPartOf ",
+   "subject": " Alabama"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auburn,_Alabama ",
+       "property": " subdivisionName ",
+       "subject": " Alabama"
+       },
+       {
+       "object": "Auburn,_Alabama ",
+       "property": " isPartOf ",
+       "subject": " Alabama"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "California is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "California is in the U.S.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta is the largest city of Fulton County, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is the largest city in Fulton County, Georgia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Fulton_County,_Georgia ",
+   "property": " largestCity ",
+   "subject": " Atlanta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Fulton_County,_Georgia ",
+     "property": " largestCity ",
+     "subject": " Atlanta"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The state of Georgia is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Georgia is in the country of United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The state of Georgia is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Georgia_(U.S._state) ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Georgia_(U.S._state) ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Indianapolis is the capital of Indiana.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Indiana ",
+   "property": " capital ",
+   "subject": " Indianapolis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Indiana ",
+     "property": " capital ",
+     "subject": " Indianapolis"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lee County is in Alabama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lee County is in the state of Alabama.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lee County is situated within the state of Alabama.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lee_County,_Alabama ",
+   "property": " state ",
+   "subject": " Alabama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lee_County,_Alabama ",
+     "property": " state ",
+     "subject": " Alabama"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Trenton is the capital of New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of the state of New Jersey is Trenton.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Jersey ",
+   "property": " capital ",
+   "subject": " Trenton,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Jersey ",
+     "property": " capital ",
+     "subject": " Trenton,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Potter County is in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Potter County is in the State of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Potter_County,_Texas ",
+   "property": " state ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Potter_County,_Texas ",
+     "property": " state ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tarrant County, Texas is situated in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tarrant County in Texas is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tarrant County, Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Tarrant_County,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Tarrant_County,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+   "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ann Arbor is the largest city in Washtenaw County, Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest town in Washtenaw county Michigan is Ann Arbor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in Washtenaw County, Michigan is Ann Arbor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Washtenaw_County,_Michigan ",
+   "property": " largestCity ",
+   "subject": " Ann_Arbor,_Michigan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Washtenaw_County,_Michigan ",
+     "property": " largestCity ",
+     "subject": " Ann_Arbor,_Michigan"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id31"
+      }
+}

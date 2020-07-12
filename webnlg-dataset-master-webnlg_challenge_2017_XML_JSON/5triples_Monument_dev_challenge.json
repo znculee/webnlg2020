@@ -1,0 +1,200 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry monument is located in the municipality of Gettysburg, Adams County, Pennsylvania. Adams County is east of Franklin County and south of Cumberland County. Maryland's Carrol county is located to the southeast.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg, Adams County, Pennsylvania. To the west of Adams County lies Franklin County and to the north, Cumberland County, both of these are in Pennsylvania. Carrol County Maryland is southeast of Adams County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry monument is located in Gettysburg, Adams County, Pennsylvania. Adams County is located east of Franklin County and south of Cumberland County. Maryland's Carrol County is located to the southeast.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Azerbaijan is Baku and the leader and Prime Minister of Azerbaijan is called Artur Rasizade. The Baku Turkish Martyr's Memorial is located in Azerbaijan and the legislature is known as the National Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Prime Minister of Azerbaijan (capital Baku) is the official title of the leader whose name is Artur Rasizade. Baku Turkish Martyrs' Memorial is located in Azerbaijan and the legislature of the country is the National Assembly.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner. The monument is also known by the native name Türk Şehitleri Anıtı. Azerbaijan's leader is Artur Rasizade.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial ( native name : "Türk Sehitleri Aniti") in Azerbaijan has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and it was designed by Hüseyin Bütüner and Hilmi Güner.Artur Rasizade is the leader of Azerbaijan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyr's Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the memorial is "Türk Sehitleri Aniti" and was designed by Hüseyin Bütüner and Hilmi Güner. The leader of Turkey is Artur Rasizade.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " dedicatedTo ",
+   "subject": " "Ottoman Army soldiers killed in the Battle of Baku""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " dedicatedTo ",
+     "subject": " "Ottoman Army soldiers killed in the Battle of Baku"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial in Azerbaijan. It is also known as Turk Sehitleri Aniti and is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is located in Azerbaijan, where it is known as "Türk Sehitleri Aniti". The memorial is dedicated to Ottoman Army soldiers who were killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner, and constructed out of red granite and white marble.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku Turkish Martyrs' Memorial, made of red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner. The memorial is known in Turkish as Turk Sehitleri Aniti and can be found in Azerbaijan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " dedicatedTo ",
+   "subject": " "Ottoman Army soldiers killed in the Battle of Baku""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Baku_Turkish_Martyrs'_Memorial ",
+       "property": " dedicatedTo ",
+       "subject": " "Ottoman Army soldiers killed in the Battle of Baku"@en"
+       },
+       {
+       "object": "Baku_Turkish_Martyrs'_Memorial ",
+       "property": " material ",
+       "subject": " "Red granite and white marble"@en"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner and made of granite and white marble, is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. The memorial is found in Azerbaijan whose leader is the Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner and is built using Red granite and white marble. Azerbaijan's leader is the Prime Minister of Azerbaijan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyr's Memorial, designed by Hüseyin Bütüner and Hilmi Güner, was constructed using red granite and white marble. It is located in Baku, Azerbaijan, which is led by a Prime Minister. This Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " material ",
+   "subject": " "Red granite and white marble""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " material ",
+     "subject": " "Red granite and white marble"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id5"
+      }
+}

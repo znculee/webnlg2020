@@ -1,0 +1,1520 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Romania where the anthem is Deșteaptă-te, române!",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is in Romania whose national anthem is Deșteaptă-te, române!",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " country ",
+   "subject": " Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " country ",
+     "subject": " Romania"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University of Romania has the latin name Universitas Apulensis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University 's latin name is Universitas Apulensis and is located in Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " latinName ",
+   "subject": " "Universitas Apulensis""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " latinName ",
+     "subject": " "Universitas Apulensis"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Breaz Valer Daniel is the rector of the 1 Decembrie 1918 University in the city of Alba Iulia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is situated in the city of Alba lulia and the rector is Breaz Valer Daniel.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " rector ",
+   "subject": " "Breaz Valer Daniel""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " rector ",
+     "subject": " "Breaz Valer Daniel"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is situated in the state of Alba, Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is in the state of Alba, Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " state ",
+   "subject": " Alba"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " state ",
+     "subject": " Alba"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 250 academic staff at the AWH Engineering College in the city of Kuttikkattoor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College in Kuttikkattoor has an academic staff size of 250 people.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College has a staff size of 250 and is in the city of Kuttikkattoor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " academicStaffSize ",
+   "subject": " 250"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " facultySize ",
+     "subject": " "250"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AWH Engineering College is located in the state of Kerala, India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is in the State of Kerala in India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is situated in the state of Kerala, India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " country ",
+     "subject": " India"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is located in India where the Ganges river flows.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is in India where the Ganges River can be found.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The biggest river of India is the Ganges. The AWH Engineering College is also located in India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " country ",
+     "subject": " India"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In 2001 the AWH Engineering College was established in the city of Kuttikkattoor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College in Kuttikkattoor was established in 2001.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College of the city Kuttikkattoor was established in 2001.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " established ",
+   "subject": " 2001"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " established ",
+     "subject": " 2001"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in the city of Mendrisio in Switzerland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Switzerland where the leader of the country is Johann Schneider-Ammann.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Switzerland, which is home to Accademia di Architettura di Mendrisio, is led by Johann Schneider-Ammann.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is located in Switzerland and the leader is Johann Schneider-Ammann.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mario Botta is dean of the Accademia di Architettura di Mendrisio where there is an academic staff of 100.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Dean of Accademia di Architettura di Mendrisio is Mario Botto and the school has an academic staff size of 100 people.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio has an academic staff of 100 and the dean is called Mario Botta.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " dean ",
+   "subject": " Mario_Botta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " dean ",
+     "subject": " Mario_Botta"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio was established in 1996 and the dean is Mario Botta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Dean of Accademia di Architettura di Mendrisio, which was created in 1996, is Mario Botta.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Mario Botta is Dean of the Accademia di Architettura di Mendrisio which was established in 1996.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " dean ",
+   "subject": " Mario_Botta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " dean ",
+     "subject": " Mario_Botta"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The number of students at the Accademia di Architettura di Mendrisio which was established in 1996, is 600.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio, which has 600 students, was established in 1996.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio was established in 1996 and has 600 students.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " numberOfStudents ",
+   "subject": " 600"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " students ",
+     "subject": " 600"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The motto of the Acharya Institute of Technology is "Nurturing Excellence" and there is an academic staff of 500.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The motto of Acharya Institute of Technology, which has about 500 employees, is Nurturing Excellence.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology has an academic staff size of 500 and their motto is Nurturing Excellence.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " academicStaffSize ",
+   "subject": " "~500""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " academicStaff ",
+     "subject": " "~500"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in the state of Karnataka, Acharya Institute of Technology is an affiliate of Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in Karnataka is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " affiliation ",
+   "subject": " Visvesvaraya_Technological_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " affiliation ",
+     "subject": " Visvesvaraya_Technological_University"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology, in the city of Bangalore, is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " city ",
+   "subject": " Bangalore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " city ",
+     "subject": " Bangalore"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institue of Technology in India is affiliated with the Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in India is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " country ",
+   "subject": " "India""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " country ",
+     "subject": " "India"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology was established in India in 2000.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in India was created in 2000.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology of India was established in the year 2000.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " established ",
+   "subject": " 2000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " established ",
+     "subject": " 2000"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology of India has 10000 Undergraduate students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Archarya Institute of Technology in India has 10000 undergraduate students.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology in India has 10000 Undergraduate students.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " numberOfUndergraduateStudents ",
+   "subject": " 10000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " undergrad ",
+     "subject": " "~10000"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology has the official school colours of blue, white and orange and has the Outlook Ranking of 63.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's ranking is 63 and its school colors are Blue, White and Orange.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The outlook ranking of the Acharya Institute of Technology is 63, and the official school colours are blue, white and orange.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " outlookRanking ",
+   "subject": " 63"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " outlook ",
+     "subject": " 63"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alba Iulia in Romania is the location of the 1 Decembrie 1918 University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Alba Iulia in Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " country ",
+   "subject": " Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " country ",
+     "subject": " Romania"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is a part of Alba County and is the location of the 1 Decembrie 1918 University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Alba lulia which is part of Alba County.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " isPartOf ",
+   "subject": " Alba_County"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " isPartOf ",
+     "subject": " Alba_County"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Denmark is Lars Lokke Rasmussen. Denmark is the home of the School of Business Studies and Social Sciences at the Aarhus University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Denmark, which is home to the School of Business and Social Sciences at the Aarhus University, is led by Lars Løkke Rasmussen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark whose leader is Lars Løkke Rasmussen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderName ",
+   "subject": " Lars_Løkke_Rasmussen"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Denmark ",
+       "property": " leaderName ",
+       "subject": " Lars_Løkke_Rasmussen"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " country ",
+       "subject": " Denmark"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Archiettura di Mendrisio is located in the city of Mendrisio, the neighboring municipality of Mendrisio is Meride.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio in Mendrisio is bordered by the Municipality of Meride.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is located in Meride in Mendrisio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mendrisio ",
+   "property": " neighboringMunicipality ",
+   "subject": " Meride"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mendrisio ",
+     "property": " neighboringMunicipalities ",
+     "subject": " Meride"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in Romania where the capital is Bucharest.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in the country of Romania, whose capital is Bucharest.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " capital ",
+   "subject": " Bucharest"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " capital ",
+     "subject": " Bucharest"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "The 1 Decembrie 1918 University in Romania has an ethnic group called Germans of Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "The 1 Decembrie 1918 University in Romania, has a large percentage of students from the native ethnic group, Germans of Romania.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "toFix",
+   "lex": "1 Decembrie 1918 University is located in Romania and is primarily German.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " ethnicGroup ",
+   "subject": " Germans_of_Romania"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " ethnicGroups ",
+       "subject": " Germans_of_Romania"
+       },
+       {
+       "object": "Romania ",
+       "property": " ethnicGroup ",
+       "subject": " Germans_of_Romania"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in Romania whose leader is Klaus Johannis.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " leaderName ",
+   "subject": " Klaus_Iohannis"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " leader ",
+       "subject": " Klaus_Iohannis"
+       },
+       {
+       "object": "Romania ",
+       "property": " leaderName ",
+       "subject": " Klaus_Iohannis"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is in the country of Romania who has the patron saint Andrew the Apostle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1981 University, in Romania, is dedicated to the country's patron saint, Andrew the Apostle.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " patronSaint ",
+   "subject": " Andrew_the_Apostle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " patronSaint ",
+     "subject": " Andrew_the_Apostle"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Denmark's School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 people.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University has a staff size of 737 and is located in Denmark.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " faculty ",
+     "subject": " 737"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928 and has an academic staff of 737.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University was created in 1928 and has an academic staff size of 737 people.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University was established in 1928 with a staff size of 737.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " faculty ",
+     "subject": " 737"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University, which was established in 1928, is affiliated with the European University Association.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University, which was created in 1928, is affiliated with the European University Association.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University was established in 1928 and is affiliated with the European University Association.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " affiliation ",
+   "subject": " European_University_Association"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " affiliation ",
+     "subject": " European_University_Association"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The type of government in Aarhus is that of magistrate. The city of Aarhus is where the School of Business and Social Sciences at the Aarhus University is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University in Aarhus has a Magistrate as its government.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is found in the city of Aarhus which has Magistrate as its government type.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " city ",
+   "subject": " Aarhus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " city ",
+     "subject": " Aarhus"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mols is situated to the northeast of Aarhus where the School of Business and Social Sciences at Aarhus University is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University is in the city of Aarhus which has Mols to its northeast.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, which has Mols to its northeast.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " city ",
+   "subject": " Aarhus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " city ",
+     "subject": " Aarhus"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aaarhus University is located in Aarhus, Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University is in Aarhus, Denmark.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " city ",
+   "subject": " Aarhus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " city ",
+     "subject": " Aarhus"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark which has the religion The Church of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University in Denmark is also where the Church of Denmark is located.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University is in Denmark as well as the Church of Denmark.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " country ",
+   "subject": " Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " country ",
+     "subject": " Denmark"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Thomas Pallesen is dean of the School of Business and Social Sciences at the Aarhus University where there is an academic staff of 737.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University, which has an academic staff size of 737, has Thomas Pallesen as its Dean.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 and the dean is Thomas Pallesen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " dean ",
+   "subject": " "Thomas Pallesen""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " dean ",
+     "subject": " "Thomas Pallesen"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Universitas Aarhusiensis is the latin name of the School of Business and Social Sciences at the Aarhus University which is affiliated to the European University Association.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Latin name for the School of Business and Social Sciences at Aarhus University, which is affiliated with the European University Association, is "Universitas Aarhusiensis".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and its called Universitas Aarhusiensis in latin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " latinName ",
+   "subject": " "Universitas Aarhusiensis""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " latinName ",
+       "subject": " "Universitas Aarhusiensis"@en"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " affiliation ",
+       "subject": " European_University_Association"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University takes 16000 students and is affiliated to the European University Association.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University has 16,000 students and is affiliated with the European University Association.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has 16000 students and is affiliated with the European University Association.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " numberOfStudents ",
+   "subject": " 16000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " students ",
+     "subject": " 16000"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has 16000 students and is located in Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University in Denmark has 16,000 students.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University in Denmark has 16000 students.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " numberOfStudents ",
+   "subject": " 16000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " students ",
+     "subject": " 16000"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id39"
+      }
+}

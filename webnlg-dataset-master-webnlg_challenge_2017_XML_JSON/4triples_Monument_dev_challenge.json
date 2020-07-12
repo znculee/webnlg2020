@@ -1,0 +1,235 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adams County, Pennsylvania has Carrol County, Maryland to its southeast and Pennsylvania's Cumberland County is to the north of the Adams County. The 11th Mississippi Infantry Monument is in Adams County of the municipality of Gettysburg Pennsylvania. .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located at Gettysburg, Adams County, Pennsylvania, which has Cumberland County, Pennsylvania to its north and Carrol County, Maryland to its southeast.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The municipality of Gettysburg, Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Adams County is south of Cumberland County and to the northwest of Carroll County, Maryland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its southeast ",
+   "subject": " Carroll_County,_Maryland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " southeast ",
+     "subject": " Carroll_County,_Maryland"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County, Pennsylvania, with Franklin County to its west and Carrol County, Maryland to its southeast.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pennsylvania's Franklin County is found to the west of Adams County while Carrol County Maryland is southeast of Adams County Pennsylvania. The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and falls under the category of Contributing property.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baku, the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army killed in the Battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and is located in Azerbaijan's capital Baku. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku is the capital of Azerbaijan and the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baku is the capital of Azerbaijan and the leader of the legislature (the National Assembly) is Artur Rasizade. Azerbaijan is the location of the Baku Turkish Martyrs memorial.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The National Assembly is the legislative branch of government in Azerbaijan where the leader is Artur Rasizade. The Turkish martyrs memorial is located in the capital, Baku.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, where leader is Artur Rasizade and the legislature is known as the National Assembly.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " leader ",
+   "subject": " Artur_Rasizade"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " leader ",
+     "subject": " Artur_Rasizade"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The red granite and white marble Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku, and is located in Baku, Azerbaijan, where the leader is Artur Rasizade.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Artur Rasizade was an Azerbaijan leader. Baku Turkish Martyrs' Memorial is made of red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and located in Azerbaijan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Artur Rasizade is an Azerbaijan leader. The Baku Turkish Martyrs' Memorial located in Baku, Azerbaijan is made with red granite and white marble and has been dedicated to Ottoman Army soldiers killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " leader ",
+   "subject": " Artur_Rasizade"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " leader ",
+     "subject": " Artur_Rasizade"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku, is located in Azerbaijan, where the official leader (Prime Minister of Azerbaijan) is called Artur Rasizade.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyr's Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, and is located in Azerbaijan, which is led by the Prime Minister of Azerbaijan, Artur Rasizade.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Artur Rasizade is the Prime Minister of Azerbaijan. Azerbaijan is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " leaderTitle ",
+   "subject": " Prime_Minister_of_Azerbaijan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " leaderTitle ",
+     "subject": " Prime_Minister_of_Azerbaijan"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id6"
+      }
+}

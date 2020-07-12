@@ -1,0 +1,290 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The academic staff size of Accademia di Architettura di Mendrisio is 100.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The academic staff number 100 at the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio has an academic staff of 100.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " academicStaffSize ",
+   "subject": " 100"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " facultySize ",
+       "subject": " "100"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " faculty ",
+       "subject": " 100"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The campus address for the Acharya Institue of Technology is: Soldenvanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The campus of the Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " campus ",
+   "subject": " "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " campus ",
+     "subject": " "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is located in Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is in the country of Romania.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is in Romania.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " country ",
+   "subject": " Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " country ",
+     "subject": " Romania"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "Alba Iulia os part of the county of Alba.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba lulia is part of Alba County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is part of Alba County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " isPartOf ",
+   "subject": " Alba_County"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " isPartOf ",
+     "subject": " Alba_County"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The patron Saint of Romania is Andrew the Apostle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew the Apostle is the patron saint of Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " patronSaint ",
+   "subject": " Andrew_the_Apostle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " patronSaint ",
+     "subject": " Andrew_the_Apostle"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The academic staff of the School of Business and Social Sciences at the Aarhus University number 737.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has academic staff size of 737.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has an academic staff of 737.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " facultySize ",
+       "subject": " "737"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aarhus University School of Business and Social Sciences is in the country of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is situated in Denmark.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in Denmark.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is in Denmark.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " country ",
+   "subject": " Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " country ",
+     "subject": " Denmark"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+}

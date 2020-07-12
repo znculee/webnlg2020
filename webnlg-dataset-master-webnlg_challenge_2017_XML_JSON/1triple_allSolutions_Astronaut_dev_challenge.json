@@ -1,0 +1,370 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Navy awarded the Distinguished Service Medal to Alan Shepard.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the Distinguished Service Medal by the United States Navy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the Distinguished Service Medal in the United States Navy.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the Distinguished Service Medal by the US Navy.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was awarded the United States Navy Distinguished Service Medal.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " awards ",
+   "subject": " Distinguished_Service_Medal_(United_States_Navy)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " awards ",
+     "subject": " Distinguished_Service_Medal_(United_States_Navy)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died in California.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathPlace ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathPlace ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was the backup pilot on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a backup pilot on the Apollo 11 mission.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 11's backup pilot was William Anders.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_11 ",
+   "property": " backup pilot ",
+   "subject": " William_Anders"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_11 ",
+     "property": " crew2Up ",
+     "subject": " William_Anders"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Apollo 14 was operated by NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "NASA operated the Apollo 14.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 14 was operated by NASA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_14 ",
+   "property": " operator ",
+   "subject": " NASA"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_14 ",
+     "property": " operator ",
+     "subject": " NASA"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Apollo 8 operator is NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 8 is operated by Nasa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 8 was operated by NASA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_8 ",
+   "property": " operator ",
+   "subject": " NASA"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_8 ",
+     "property": " operator ",
+     "subject": " NASA"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin's nationality is United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a United States national.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was an American.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a US national.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See served as a test pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See flew as a test pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See's occupation was a test pilot.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See performed as a test pilot.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The university of texas at Austin is affiliated to the university of texas system.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "University_of_Texas_at_Austin ",
+   "property": " affiliations ",
+   "subject": " University_of_Texas_System"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "University_of_Texas_at_Austin ",
+     "property": " affiliations ",
+     "subject": " University_of_Texas_System"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The University of Texas at Austin's mascot is called Hook'em.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Hook'em is the mascot for the University of Texas at Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The mascot of the University of Texas is Hook'em.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Hook 'em is the mascot of University of Texas at Austin.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "University_of_Texas_at_Austin ",
+   "property": " mascot ",
+   "subject": " Hook_'em_(mascot)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "University_of_Texas_at_Austin ",
+     "property": " mascot ",
+     "subject": " Hook_'em_(mascot)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+}

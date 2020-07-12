@@ -1,0 +1,390 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Asterix was created by René Goscinny and Albert Uderzo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Asterix was created by Reneé Goscinny and Albert Uderzo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asterix_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " René_Goscinny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asterix_(character) ",
+       "property": " creators ",
+       "subject": " René_Goscinny"
+       },
+       {
+       "object": "Asterix_(character) ",
+       "property": " creator ",
+       "subject": " René_Goscinny"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Created by Len Wein, Aurakles's alternative name is also Aurakles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Aurakles, also known as Aurakles, was created by Len Wein.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aurakles ",
+   "property": " creator ",
+   "subject": " Len_Wein"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aurakles ",
+       "property": " creators ",
+       "subject": " Len_Wein"
+       },
+       {
+       "object": "Aurakles ",
+       "property": " creator ",
+       "subject": " Len_Wein"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Doug Moench was the creator of the comic character Ballistic, who has the alternative name Kelvin Mao.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ballistic, ( also known as Kelvin Mao ), is a fictional comic superhero created by Doug Moench.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Doug Moench created the character Ballistic, the fictional superhero whose alter ego is Kelvin Mao.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ballistic_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Doug_Moench"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ballistic_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Doug_Moench"
+       },
+       {
+       "object": "Ballistic_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Doug_Moench"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Graeme Garden starred in the TV series Bananman, which was shown on the BBC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman , which starred Graeme Garden, was broadcasted by the BBC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " broadcastedBy ",
+   "subject": " BBC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " network ",
+     "subject": " BBC"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie, who stars in Bananaman, was born in Lancashire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman starred Bill Oddie who was born in Lancashire.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddie, who was born in Lancashire, starred in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bibbo Bibbowski was created by American, Jerry Ordway.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The creator of Bibbo Bibbowski is Jerry Ordway, an American.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jerry Ordway, an American, is the creator of Bibbo Bibbowski.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bibbo_Bibbowski ",
+   "property": " creator ",
+   "subject": " Jerry_Ordway"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Jerry_Ordway ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Bibbo_Bibbowski ",
+       "property": " creators ",
+       "subject": " Jerry_Ordway"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Black Pirate, also known as Jon Valor, was created by Sheldon Moldoff.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Black Pirate ( Jon Valor ), was created by Sheldon Moldoff.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sheldon Moldoff is the creator of Black Pirate, who is also known as Jon Valor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Black_Pirate ",
+   "property": " creator ",
+   "subject": " Sheldon_Moldoff"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Black_Pirate ",
+       "property": " creator ",
+       "subject": " Sheldon_Moldoff"
+       },
+       {
+       "object": "Black_Pirate ",
+       "property": " creators ",
+       "subject": " Sheldon_Moldoff"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Blockbuster was created by Roger Stern and Tom Lyle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Blockbuster is a comic book character which was created by both Roger Stern and Tom Lyle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster was created by Roger Stern and Tom Lyle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Roger_Stern"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Roger_Stern"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Roger_Stern"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paris Culins and Gary Cohn are the creators of the comics character Bolt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Both Paris Cullins and Gary Cohn were the creator's of the comic character Bolt.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt, was created by Paris Cullins and Gary Cohn.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Paris_Cullins"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Paris_Cullins"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Paris_Cullins"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id9"
+      }
+}

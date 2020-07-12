@@ -1,0 +1,7080 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Architect John Madin, designed 103 Colmore Row, located on Colmore Row, in Birmingham, England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Madin designed 103 Colmore Row, Birmingham, England.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row located in Birmingham, England was designed by the architect John Madin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, located at Colmore Row, was designed by the architect, John Madin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Madin is the architect of 103 Colmore Row, located in Colmore Row.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Architect John Madin designed 103 Colmore Row, located at Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by John Madin, born in Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin who was born in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Architect John Madin, born in Birmingham, designed 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Madin was an architect from Birmingham who designed 103 Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin whose hometown was Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "John Madin from Birmingham was the architect of 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row at Colmore Row was completed in 1976.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was completed in 1976.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Number 103 in Colmore Row was completed in 1976.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " completionDate ",
+   "subject": " 1976"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " buildingEndDate ",
+     "subject": " "1976""
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row actually on Colmore Row has 23 floors.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " floorCount ",
+   "subject": " 23"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Colmore_Row"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " floorCount ",
+       "subject": " "23"^^xsd:positiveInteger"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 23 floors at 103 Colmore Row, Birmingham, England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is in Birmingham, England and has 23 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row with 23 floors, is located on Colmore Row, Birmingham, England.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " "Colmore Row, Birmingham, England""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " "Colmore Row, Birmingham, England"@en"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " "Colmore Row, Birmingham, England"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, designed by the architect John Madin is located in Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, designed by architect John Madin, is located in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Birmingham and was designed by the architect John Madin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " Birmingham"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, Birmingham is a building with 23 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, with 23 floors, is located in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, located in Birmingham has 23 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Birmingham"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Birmingham"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace cost 120 million Australian dollars and has 50 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace has 50 floors and cost 120 million Australian dollars.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " cost ",
+   "subject": " "120 million (Australian dollars)""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " floorCount ",
+       "subject": " 50"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "A$120 million"@en"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "A$120 million"@en"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St. Georges Terrace is located in Perth, Australia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 108 St. Georges Terrace is located in Perth, Australia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " location ",
+   "subject": " Perth"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "108_St_Georges_Terrace ",
+     "property": " location ",
+     "subject": " Perth"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 11 Diagonal Street, completed in 1983, was Helmut Jahn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Completed in 1983, the architect of 11 Diagonal Street was Helmut Jahn.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was designed by Helmut Jahn and completed in 1983.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " completionDate ",
+   "subject": " 1983"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " architect ",
+       "subject": " Helmut_Jahn"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " buildingEndDate ",
+       "subject": " "1983""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has 20 floors and was completed in 1983.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was completed in 1983 and has 20 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " completionDate ",
+   "subject": " 1983"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " completionDate ",
+       "subject": " 1983"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " completionDate ",
+       "subject": " 1983"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has 20 floors and was designed by Helmut Jahn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has 20 floors and it's architect is Helmut Jahn.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " floorCount ",
+   "subject": " 20"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " floorCount ",
+       "subject": " 20"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " floorCount ",
+       "subject": " "20"^^xsd:positiveInteger"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " floorCount ",
+       "subject": " 20"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " architect ",
+       "subject": " Helmut_Jahn"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has 20 floors and is owned by Redefine Properties Limited.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street, which is owned by Redefine Properties Limited, has 20 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street which has 20 floors is owned by Redefine Properties.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " floorCount ",
+   "subject": " 20"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " floorCount ",
+       "subject": " 20"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " floorCount ",
+       "subject": " "20"^^xsd:positiveInteger"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cape Town is the capital of South Africa where 11 Diagonal Street is located.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, where there is an ethnic group of Asian South Africans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is found in South Africa where one of the ethnic groups is Asian South Africans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There is an ethnic group of Asian South Africans and the address 11 Diagonal Street is also located in South Africa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa where white South Africans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa where White South Africans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, which has Cyril Ramaphosa as a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, a country led by Cyril Ramaphosa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa, the country that has Cyril Ramaphosa as one of its leaders.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, where the leader is called Jacob Zuma.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jacob Zuma is the leader of South Africa which is also the location of 11 Diagonal Street.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa, which is led by Jacob Zuma.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square, completed in 1985, has a floor count of 45.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square finished in 1985 has 45 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square was completed in 1985 and has 45 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " "45"^^xsd:positiveInteger"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square, which has 45 floors, is located in Cleveland, Ohio 44114.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 45 floors of 200 Public Square in Cleveland, Ohio, 44114.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square, which has a floor count of 45, is located in Cleveland, Ohio 44114.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " "Cleveland, Ohio 44114"@en"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, governed by Cleveland City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland whose governing body is Cleveland City Council.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland which is governed by Cleveland City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Cuyahoga County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland, which is part of Cuyahoga County, Ohio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is found in Cleveland, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland which is lead by Frank G Jackson.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located at Public Square, Cleveland and has a floor count of 45.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square has 45 floors and is located in Public Square, Cleveland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Public_Square,_Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Public_Square,_Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Public_Square,_Cleveland"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street has a floor area of 62145.3 square metres and was begun in January 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Construction of 20 Fenchurch Street began in January 2009 and the building has a floor area of 62145.3 square metres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " buildingStartDate ",
+   "subject": " "January 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square meters.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, with a floor area of 62145.3 square metres, was completed in April of 2014.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " completionDate ",
+   "subject": " "April 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " floorArea ",
+       "subject": " "Offices:"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, which has a floor count of 34, was completed in April 2014.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014, and has 34 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, with 34 floors, was completed April 2014.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " completionDate ",
+   "subject": " "April 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Boris Johnson is the leader of London, the city where 20 Fenchurch Street is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of London is Boris Johnson and is home to 20 Fenchurch Street.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in London whose leader is the Parliament of the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in London, which is led by the parliament of the United Kingdom.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Parliament of the United Kingdom is the leader of London, the city in which 20 Fenchurch Street is located.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom, where the currency is pounds sterling.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom, whose currency is the Pound sterling.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The pound sterling is the currency of the United Kingdom, which is also the location of 20 Fenchurch Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom where we call the natives British people.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is in the United Kingdom where the denonym for natives is British people.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom which is occupied by British People which is the demonym for the natives.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elizabeth 11 is a leader in the United Kingdom and 20 Fenchurch Street is also located in the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom whose leader is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom, where Queen Elizabeth II reigns.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " location ",
+       "subject": " United_Kingdom"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " location ",
+       "subject": " United_Kingdom"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Ave. was begun in January 2014 and has 12 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The construction of 250 Delaware Avenue, which has 12 floors, began in January 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " buildingStartDate ",
+   "subject": " "January, 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " buildingStartDate ",
+       "subject": " "January, 2014""
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " buildingStartDate ",
+       "subject": " "January, 2014""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor area of 30853.8 square metres and has 12 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor area of 30843.8 square metres and a floor count of 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " floorArea ",
+   "subject": " 30843.8 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " floorArea ",
+       "subject": " "30843.8"^^xsd:double"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " floorArea ",
+       "subject": " "30843.8"^^xsd:double"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York, and it has the Postmodern style of architecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Ave. in Buffalo, N.Y. is a Postmodern style.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id39"
+      }
+},
+{
+   40: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue, Buffalo, New York, has a floor area of 30843.8 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in Buffalo, New York, and has a floor area of 30843.8 square metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor area of 30843.8 square metres and is located in Buffalo, New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id40"
+      }
+},
+{
+   41: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor count of 12 and is located in Buffalo New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is a location in Buffalo, New York, with a floor count of 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York and has 12 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id41"
+      }
+},
+{
+   42: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York which is in Erie County New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in Buffalo, New York, which is part of Erie County New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York, which is part of Erie County New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id42"
+      }
+},
+{
+   43: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is a location in Buffalo, New York, New York State.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo which is part of New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in Buffalo which is a part of New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id43"
+      }
+},
+{
+   44: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Byron Brown is the leader of Buffalo, New York, where 250 Delaware Avenue is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "240 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York, which is lead by Byron Brown.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id44"
+      }
+},
+{
+   45: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has the Postmodern style of architecture and is located in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id45"
+      }
+},
+{
+   46: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has 12 floors and is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue (which has a total of 12 floors) is located in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States and has a floor count of 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " United_States"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id46"
+      }
+},
+{
+   47: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle has 60 floors and was completed in 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 60 floors at 300 North LaSalle, a building that was completed in 2009.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " floorCount ",
+   "subject": " 60"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "300_North_LaSalle ",
+       "property": " floorCount ",
+       "subject": " "60"^^xsd:positiveInteger"
+       },
+       {
+       "object": "300_North_LaSalle ",
+       "property": " completionDate ",
+       "subject": " 2009"
+       },
+       {
+       "object": "300_North_LaSalle ",
+       "property": " buildingEndDate ",
+       "subject": " "2009""
+       },
+       {
+       "object": "300_North_LaSalle ",
+       "property": " buildingEndDate ",
+       "subject": " "2009""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id47"
+      }
+},
+{
+   48: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago and was designed by Pickard Chilton.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pickard Chilton was the architect of 300 North LaSalle in Chicago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pickard Chilton is the architect of 300 North LaSalle in Chicago.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id48"
+      }
+},
+{
+   49: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, US.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id49"
+      }
+},
+{
+   50: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Cook County, Chicago, Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Chicago in Cook County, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North La Salle is located in Chicago which is part of Cook County, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id50"
+      }
+},
+{
+   51: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Chicago part of Du Page County in Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, which is part of DuPage County, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, which is a part of Dupage County, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id51"
+      }
+},
+{
+   52: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Chciago, in the State of Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago which is part of Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id52"
+      }
+},
+{
+   53: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago which is lead by Rahm Emanuel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, whose leader is called Rahm Emanuel.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago where Rahm Emanuel is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id53"
+      }
+},
+{
+   54: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago where Susana Mendoza is a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Chicago is Susana Mendoza and 300 North LaSalle is also located in that city.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, which is lead by Susana Mendoza.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id54"
+      }
+},
+{
+   55: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 300 North Lasalle located in Illinois was Pickard Chilton.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pickard Chilton is the architect of 300 North LaSalle which is in Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of 300 North LaSalle, Illinois is Pickard Chilton.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Illinois"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id55"
+      }
+},
+{
+   56: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle, Illinois, was completed in 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North Lasalle was completed in 2009 and is located in Illinois.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Illinois"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id56"
+      }
+},
+{
+   57: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Illinois in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Illinois, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Illinois which is a state in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Illinois"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id57"
+      }
+},
+{
+   58: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Completed in 1929, 320 South Boston Building has 22 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "320 South Boston Building was completed in 1929 and has 22 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " completionDate ",
+   "subject": " 1929"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " floorCount ",
+       "subject": " "22"^^xsd:positiveInteger"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingEndDate ",
+       "subject": " "1929""
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingEndDate ",
+       "subject": " "1929""
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " completionDate ",
+       "subject": " 1929"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id58"
+      }
+},
+{
+   59: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building is 121.92 metres tall and has 22 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building has a height of 121.92 metres and has 22 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building is 121.92 metres and has 22 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " height ",
+   "subject": " 121.92 (metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " floorCount ",
+       "subject": " "22"^^xsd:positiveInteger"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " height ",
+       "subject": " "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " height ",
+       "subject": " "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id59"
+      }
+},
+{
+   60: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena, and it was completed in December 2008.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of 3Arena which was completed in December 2008.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena, designed by HOK SVE, was completed in December 2008.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " "HOK SVE""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "3Arena ",
+       "property": " buildingEndDate ",
+       "subject": " "December 2008""
+       },
+       {
+       "object": "3Arena ",
+       "property": " architect ",
+       "subject": " "HOK SVE"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id60"
+      }
+},
+{
+   61: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena was completed on December 2008 and it's architect was the company Populous.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena was completed in December 2008 and was designed by the company Populous.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " Populous_(company)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "3Arena ",
+       "property": " architect ",
+       "subject": " Populous_(company)"
+       },
+       {
+       "object": "3Arena ",
+       "property": " architect ",
+       "subject": " Populous_(company)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id61"
+      }
+},
+{
+   62: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at North Wall, Dublin and the architect was the company Populous.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Populous were architects that designed the 3Arena that is in North Wall, Dublin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Populous is the architect of 3Arena located at North Wall, Dublin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " Populous_(company)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " architect ",
+     "subject": " Populous_(company)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id62"
+      }
+},
+{
+   63: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena, designed by the company Populous, is located at East Link Bridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Populous were the architects of the 3Arena at East Link Bridge.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "East Link Bridge""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "East Link Bridge"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id63"
+      }
+},
+{
+   64: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena which is located on North Wall Quay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena, which is located at the North Wall Quay.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena which is located at "North Wall Quay".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "North Wall Quay""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "North Wall Quay"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id64"
+      }
+},
+{
+   65: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena, designed by the architectural company Populous, is located at "North Wall Quay".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of 3Arena (on North Wall Quay) was the company Populous.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at "North Wall Quay.", and was built by the company Populous.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "North Wall Quay""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "North Wall Quay"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id65"
+      }
+},
+{
+   66: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena, which can be found in Dublin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3 Arena is located in Dublin and its architect was HOK SVE.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " Dublin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " Dublin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id66"
+      }
+},
+{
+   67: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3 Arena is in Dublin which is part of Leinster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Dublin, a part of Leinster, is the 3Arena.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is located in Dublin in Leinster.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " Dublin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "3Arena ",
+       "property": " location ",
+       "subject": " Dublin"
+       },
+       {
+       "object": "3Arena ",
+       "property": " location ",
+       "subject": " Dublin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id67"
+      }
+},
+{
+   68: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena at the North Wall Quay is owned by Live Nation Entertainment.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena at North Wall Quay is owned by Live Nation Entertainment.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is located in North Wall Quay and it's owner is Live Nation Entertainment.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " owner ",
+   "subject": " Live_Nation_Entertainment"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " owner ",
+     "subject": " Live_Nation_Entertainment"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id68"
+      }
+},
+{
+   69: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena, in Dublin, is owned by Live Nation Entertainment.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena (located in Dublin) is owned by Live Nation Entertainment.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located in Dublin, which is owned by Live Nation Entertainment.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " owner ",
+   "subject": " Live_Nation_Entertainment"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " owner ",
+     "subject": " Live_Nation_Entertainment"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id69"
+      }
+},
+{
+   70: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena is located in North Wall, Dublin and is owned by Live Nation Entertainment.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The owner of 3Arena, located at North Wall, Dublin, is Live Nation Entertainment.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Live Nation Entertainment own 3Arena at North Wall in Dublin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " owner ",
+   "subject": " Live_Nation_Entertainment"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " owner ",
+     "subject": " Live_Nation_Entertainment"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id70"
+      }
+},
+{
+   71: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of the AC Hotel Bella Sky, Copenhagen, which has 23 floors, was 3XN.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky in Copenhagen, which has 23 floors, was designed by the architects of the 3XN firm.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky Copenhagen was designed by architect 3XN and has 23 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " architect ",
+   "subject": " 3XN"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " architect ",
+     "subject": " 3XN"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id71"
+      }
+},
+{
+   72: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky, Copenhagen, which has 814 rooms was developed by the Bella Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bella Center were developers of AC Hotel Bella Sky Copenhagen which has 814 rooms.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky, Copenhagen has 814 rooms and was developed by the Bella Center.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " developer ",
+   "subject": " Bella_Center"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " developer ",
+       "subject": " Bella_Center"
+       },
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " numberOfRooms ",
+       "subject": " 814"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id72"
+      }
+},
+{
+   73: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International rents the AC Hotel Bella Sky Copenhagen which is in Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mariott International Hotel in Denmark is a tenant of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " location ",
+   "subject": " Denmark"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " location ",
+       "subject": " Denmark"
+       },
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " location ",
+       "subject": " Denmark"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id73"
+      }
+},
+{
+   74: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen whose architect was 3XN is owned by Bella Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen was designed by the architects of 3XN and is owned by Bella Center.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3XN was the architect of AC Hotel Bella Sky Copenhagen which is owned by Bella Center.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " owner ",
+   "subject": " Bella_Center"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " owner ",
+     "subject": " Bella_Center"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id74"
+      }
+},
+{
+   75: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The owner of the AC Hotel Bella Sky Copenhagen (which has 23 floors) is Bella Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The owner of the 23 floor AC Hotel Bella Sky Copenhagen is Bella Center.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen, which has 23 floors, is owned by Bella Center.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " owner ",
+   "subject": " Bella_Center"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " owner ",
+     "subject": " Bella_Center"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id75"
+      }
+},
+{
+   76: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International, with Bill Marriott as a key leader, is the tenant of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, one of whose key people is Bill Marriott.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen is in the Marriott International Hotel overseen by Bill Marriott of Marriott International.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " tenant ",
+   "subject": " Marriott_International"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " tenant ",
+       "subject": " Marriott_International"
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " keyPerson ",
+       "subject": " Bill_Marriott"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id76"
+      }
+},
+{
+   77: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manore is located in Adare which is a part of Munster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, Munster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare in Munster.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare ",
+   "property": " isPartOf ",
+   "subject": " Munster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare ",
+       "property": " isPartOf ",
+       "subject": " Munster"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id77"
+      }
+},
+{
+   78: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architects James Pain and George Richard Pain designed Adare Manor, which was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "James Pain and George Richard Pain are the architects of the Adare Manor, completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "James Pain and George Richard Pain were the architects of Adare Manor, completed in 1862.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " "James Pain and George Richard Pain,""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " "James Pain and George Richard Pain,"@en"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " "James Pain and George Richard Pain,"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id78"
+      }
+},
+{
+   79: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor, completed in 1862, was Augustus Pugin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor was Augustus Pugin and the building was completed in 1862.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Augustus_Pugin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Augustus_Pugin"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " completionDate ",
+       "subject": " 1862"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id79"
+      }
+},
+{
+   80: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor is Augustus Pugin, whose birthplace is Bloomsbury.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Augustus Pugin, the architect of Adare Manor, was born in Bloomsbury.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Augustus Pugin born in Bloomsbury, is the creator of Adare Manor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Augustus_Pugin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " Augustus_Pugin"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id80"
+      }
+},
+{
+   81: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor is Augustus Pugin, who also designed the Palace Of Westminster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "August Pugin was the architect of Adare Manor and the Palace of Westminster.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Augustus_Pugin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Augustus_Pugin"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Augustus_Pugin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id81"
+      }
+},
+{
+   82: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "James Pain was the architect of Adare Manor, which was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor was James Pain and the construction of the building was completed in 1862.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " James_Pain"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " completionDate ",
+       "subject": " 1862"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " James_Pain"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id82"
+      }
+},
+{
+   83: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor, designed by Lewis Cottingham, was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor was completed in 1862, and was designed by Lewis Nockalls Cottingham.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Lewis_Nockalls_Cottingham"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Lewis_Nockalls_Cottingham"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Lewis_Nockalls_Cottingham"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id83"
+      }
+},
+{
+   84: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect responsible for Adare Manor was Philip Charles Hardwick and the building was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Philip Charles Hardwick was the architect of Adare Manor which was completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor, completed in 1862, was designed by Philip Charles Hardwick.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Philip_Charles_Hardwick"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Philip_Charles_Hardwick"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " architect ",
+       "subject": " Philip_Charles_Hardwick"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id84"
+      }
+},
+{
+   85: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Enda Kenny is the leader of the Rebulic of Ireland where Adare Manor is located.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " locationCountry ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id85"
+      }
+},
+{
+   86: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Both the Addis Ababa Stadium and the Addis Ababa City Hall are located in Addis Ababa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa ",
+   "property": " isPartOf ",
+   "subject": " Addis_Ababa_Stadium"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa ",
+     "property": " isPartOf ",
+     "subject": " Addis_Ababa_Stadium"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id86"
+      }
+},
+{
+   87: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City hall began being constructed in 1961 and has a floor area of 140000.0 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall began construction in 1961 and has a floor area of 140000.0 square metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall was built in 1961 and has 140000 square metre floor area.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " buildingStartDate ",
+   "subject": " 1961"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " startDate ",
+       "subject": " 1961"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " startDate ",
+       "subject": " 1961"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id87"
+      }
+},
+{
+   88: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Adaba City Hall was completed in 1964 and has a floor area of 140000.0 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, with a floor area of 140000,0 square metres, was completed in 1964.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " completionDate ",
+   "subject": " 1964"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id88"
+      }
+},
+{
+   89: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is in Ethiopia, where the currency is the Ethiopian birr.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ethiopian Birr is the currency of Ethiopia while The Addis Ababa City Hall is also located in Ethiopia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is in the country of Ethiopia, where the currency is the Ethiopian Birr.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " country ",
+   "subject": " Ethiopia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " country ",
+     "subject": " Ethiopia"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id89"
+      }
+},
+{
+   90: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is in the country of Ethiopia, where Amharic is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is in Ethiopia where they speak Amharic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Ethiopia is Amharic and the Addis Ababa City Hall is located in Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " country ",
+   "subject": " Ethiopia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " country ",
+       "subject": " Ethiopia"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " country ",
+       "subject": " Ethiopia"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id90"
+      }
+},
+{
+   91: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is where the Government of Addis Ababa is currently located and it's floor area covers 140000.0 (square metres).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall has a floor area of 140000.0 square metres and its current tenants are the Government of Addis Ababa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The " Government of Addis Ababa" are the current tenants of Addis Ababa City Hall, which has a floor area of 140000.0 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " currentTenants ",
+   "subject": " "Government of Addis Ababa""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " currentTenants ",
+       "subject": " "Government of Addis Ababa"@en"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " currentTenants ",
+       "subject": " "Government of Addis Ababa"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id91"
+      }
+},
+{
+   92: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is located in Addis Ababa, Ethiopia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa city hall is located in the city of Addis Ababa which is in the country of Ethiopia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is located in Addis Ababa, Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " location ",
+   "subject": " Addis_Ababa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " location ",
+     "subject": " Addis_Ababa"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id92"
+      }
+},
+{
+   93: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall whose architectural style is Tudor and Jacabian is located in Haputale.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale and has the architectural style of Tudor and Jacobean.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architecture style of adisham hall of Haputale, is Tudor and jacabian.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " "Tudor and Jacabian""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " "Tudor and Jacabian"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id93"
+      }
+},
+{
+   94: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall which is located in Sri Lanka has the architectural style of Tudor and Jacobean.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architectural style of Adisham Hall in Sri Lanka is Tudor and Jacobean.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall, Sri Lanka, has the Architectural style of Tudor and Jacobean.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " "Tudor and Jacabian""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " "Tudor and Jacabian"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id94"
+      }
+},
+{
+   95: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall has the Tudor Revival architectural style, and it is located in Haputale.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is styled as Tudor Revival and found in Haputale.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Haputale, Adisham Hall is Tudor Revival in style.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " Tudor_Revival_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " Tudor_Revival_architecture"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id95"
+      }
+},
+{
+   96: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall, Haputale was completed in 1931.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " completionDate ",
+   "subject": " 1931"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " buildingEndDate ",
+       "subject": " "1931""
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " completionDate ",
+       "subject": " 1931"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id96"
+      }
+},
+{
+   97: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Sri Lanka, whose capital is Sri Jayawardenepura Kotte.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sri Jayawardenepura Kotte is the capital of Sri Lanka where Adisham Hall is located.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id97"
+      }
+},
+{
+   98: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Sri Lanka, whose currency is the Sri Lankan rupee.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Sri Lanka, where the currency is the Sri Lankan rupee.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Sri Lanka where the currency is the Sri Lankan rupee.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " locationCountry ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id98"
+      }
+},
+{
+   99: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in the country of Sri Lanka, which is lead by Ranil Wickremesinghe.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Sri_Lanka ",
+       "property": " leader ",
+       "subject": " Ranil_Wickremesinghe"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id99"
+      }
+},
+{
+   100: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Admisham Hall is in Haputale, Sri Lanka and was completed in 1931.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall in Haputale, Sri Lanka, was finished in 1931.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Admisham Hall, completed in 1931, is located at Haputale, Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " "Haputale, Sri Lanka""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " completionDate ",
+       "subject": " 1931"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " location ",
+       "subject": " "Haputale, Sri Lanka"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id100"
+      }
+},
+{
+   101: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The construction of Adisham Hall, Sri Lanka, was completed in 1931.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall was completed in 1931 and is located in Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Finished in 1931, Adisham Hall is located in Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " completionDate ",
+       "subject": " 1931"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " location ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id101"
+      }
+},
+{
+   102: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ranil Wickremesinghe is a leader in Sri Lanka where Adisham Hall is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Sri Lanka whose leader is Ranil Wickremesinghe.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " location ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id102"
+      }
+},
+{
+   103: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita, Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita,Akita, Japan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, Japan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " country ",
+       "subject": " Japan"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " country ",
+       "subject": " Japan"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationCountry ",
+       "subject": " Japan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id103"
+      }
+},
+{
+   104: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art located in Akita Prefecture is found in Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita Prefecture in Japan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita Prefecture, Japan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " country ",
+       "subject": " Japan"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " country ",
+       "subject": " Japan"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationCountry ",
+       "subject": " Japan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id104"
+      }
+},
+{
+   105: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art has 3 floors and 3746.66 square metres of floor area.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum has 3 floors and an area of 3746.66(square meters).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located on 3 floors and is 3746.66 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " floorCount ",
+   "subject": " 3"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " floorCount ",
+       "subject": " "3"^^xsd:positiveInteger"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " floorCount ",
+       "subject": " 3"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " floorCount ",
+       "subject": " "3"^^xsd:positiveInteger"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " floorCount ",
+       "subject": " 3"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id105"
+      }
+},
+{
+   106: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is in Akita, Akita Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, Akita, which is found in Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " location ",
+   "subject": " Akita,_Akita"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationTown ",
+       "subject": " Akita,_Akita"
+       },
+       {
+       "object": "Akita,_Akita ",
+       "property": " country ",
+       "subject": " Japan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id106"
+      }
+},
+{
+   107: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, Akita, part of Akita Prefecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is an art museum in the city of Akita, and is part of Akita Prefecture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " location ",
+   "subject": " Akita,_Akita"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " locationTown ",
+     "subject": " Akita,_Akita"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id107"
+      }
+},
+{
+   108: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita, Akita Prefecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, Akita Prefecture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, in the Akita Prefecture.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " location ",
+   "subject": " Akita,_Akita"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationTown ",
+       "subject": " Akita,_Akita"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " location ",
+       "subject": " Akita,_Akita"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id108"
+      }
+},
+{
+   109: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita Prefecture, Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in The Akita Prefecture in Japan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita Prefecture, Japan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Prefecture ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " location ",
+       "subject": " Akita_Prefecture"
+       },
+       {
+       "object": "Akita_Prefecture ",
+       "property": " country ",
+       "subject": " Japan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id109"
+      }
+},
+{
+   110: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall is at 101 Ukrop Way and was completed on 1 June 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was completed on "1 June 2009", and it's address is 101 Ukrop Way.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " completionDate ",
+   "subject": " "1 June 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " address ",
+       "subject": " "101 Ukrop Way"@en"
+       },
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " completionDate ",
+       "subject": " "2009-06-01"^^xsd:date"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id110"
+      }
+},
+{
+   111: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business are the current tenants of Alan B Miller Hall, which was designed by Robert A M Stern.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business are the current tenants of Alan B Miller Hall, designed by Robert A M Stern.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " currentTenants ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " currentTenants ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id111"
+      }
+},
+{
+   112: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall (which was inaugurated on 2009-10-02) has the address "101 Ukrop Way".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall which is located at 101 Ukrop Way was inagurated on 2009-10-02.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The inauguration date of Alan B. Miller Hall, located at 101 Ukrop Way, was October 2, 2009.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " inaugurationDate ",
+   "subject": " "2009-10-02""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " inaugurationDate ",
+       "subject": " "2009-10-02"^^xsd:date"
+       },
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " address ",
+       "subject": " "101 Ukrop Way"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id112"
+      }
+},
+{
+   113: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall in Virginia is owned by The College of William and Mary.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall, which is owned by The College of William and Mary, is located in Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id113"
+      }
+},
+{
+   114: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The College of William and Mary owns the Alan B. Miller Hall and the Chancellor of the College is Robert Gates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Gates is the chancellor of The College of William and Mary which owns Alan B. Miller Hall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Gates served as chancellor of the College of William and Mary, which is the owner of the Alan B. Miller Hall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " owner ",
+   "subject": " College_of_William_&amp;_Mary"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " owner ",
+     "subject": " College_of_William_&amp;_Mary"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id114"
+      }
+},
+{
+   115: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is a tenant of Alan B. Miller Hall in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mason School of Business is a tenant of Alan B. Miller Hall which is located in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " tenant ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " tenant ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id115"
+      }
+},
+{
+   116: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, Ahmedabad near CEPT University, opp. Gujarat University, University Road.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " address ",
+   "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " address ",
+     "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id116"
+      }
+},
+{
+   117: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The prime minister of India is Narendra Modi and Amdavad ni Gufa is also located in India.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " Narendra_Modi"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id117"
+      }
+},
+{
+   118: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sumitra Mahajan is the leader of India where Amdavad ni Gufa is found.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India, the country which has Sumitra Mahajan as one of its leaders.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India whose leader is Sumitra Mahajan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " country ",
+       "subject": " India"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id118"
+      }
+},
+{
+   119: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad, India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Amdavad ni Gufa is Ahmedabad, India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Ahmedabad"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Ahmedabad"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Ahmedabad"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id119"
+      }
+},
+{
+   120: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Gujarat, India.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Gujarat"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Gujarat"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Gujarat"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Gujarat"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id120"
+      }
+},
+{
+   121: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is in Gujarat Ahmedabad.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is in Ahmedabad, Gujarat.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Gujarat, Ahmedabad.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Gujarat"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Gujarat"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Gujarat"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id121"
+      }
+},
+{
+   122: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital (bed count 476) is located in Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital, with a count of 473 beds, is in Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Sri Lanka and has 476 beds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " beds ",
+       "subject": " 476"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " bedCount ",
+       "subject": " "476"^^xsd:nonNegativeInteger"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id122"
+      }
+},
+{
+   123: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ampara Hospital is located in Ampara, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Sri Lanka, Ampara.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Ampara, Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " location ",
+       "subject": " Ampara"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id123"
+      }
+},
+{
+   124: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Eastern Province, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in the Easter Province, Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Eastern Province, a part of Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " state ",
+       "subject": " Eastern_Province,_Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id124"
+      }
+},
+{
+   125: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Sri Lanka, whose leader is Ranil Wickremesinghe.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sri Lanka's leader is Ranil Wickremesinghe and it is home to the Ampara Hospital.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Sri Lanka whose leader is Ranil Wickremesinghe.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id125"
+      }
+},
+{
+   126: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Asher and Mary Isabelle Richardson House was Alfred Giles, who was born in England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles, who was born in England.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Giles from England was the architect of Asher and Mary Isabelle Richardson House.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " architect ",
+   "subject": " Alfred_Giles_(architect)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " architect ",
+       "subject": " Alfred_Giles_(architect)"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " architect ",
+       "subject": " Alfred_Giles_(architect)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id126"
+      }
+},
+{
+   127: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Giles was the architect of Asher and Mary Isabelle Richardson House and died in Kendall County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles who died in Kendall County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Giles, architect of The Asher and Mary Isabelle Richardson House died in Kendall County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " architect ",
+   "subject": " Alfred_Giles_(architect)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " architect ",
+     "subject": " Alfred_Giles_(architect)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id127"
+      }
+},
+{
+   128: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House, located in Asherton, Texas, has the reference number 88002539 in the National Register of Historic Places.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton Texas and has a reference number of 88002539 in the National Register of Historic Places.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Reference Number in the National Register of Historic Places for Asher and Mary Isabelle Richardson House in Asherton, Texas, is 88002539.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " Asherton,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " Asherton,_Texas"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " ".Asherton, Texas"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id128"
+      }
+},
+{
+   129: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle House, constructed in 1911, is located in Asherton, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House, built in 1911. is located in Asherton, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was built in 1911, and is located in Asherton, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " Asherton,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " built ",
+       "subject": " 1911"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " built ",
+       "subject": " 1911"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " ".Asherton, Texas"@en"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " Asherton,_Texas"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id129"
+      }
+},
+{
+   130: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was added to the National Register of Historic Places on 1988-11-22.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is at U.S. Route 83 and was added to the National Register of Historic Places on November 22, 1988.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " U.S._Route_83"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " location ",
+     "subject": " U.S._Route_83"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id130"
+      }
+},
+{
+   131: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House, built in 1911, is located at U.S. Route 83.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House is on U.S. Route 83 and was constructed in 1911.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was built in 1911.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " U.S._Route_83"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " U.S._Route_83"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " U.S._Route_83"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id131"
+      }
+},
+{
+   132: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id132"
+      }
+},
+{
+   133: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, a part of Dimmit County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is part of Dimmit County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Dimmit_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " Asherton,_Texas"
+       },
+       {
+       "object": "Asherton,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Dimmit_County,_Texas"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id133"
+      }
+},
+{
+   134: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is a part of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id134"
+      }
+},
+{
+   135: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds was designed by Julia Morgan, who was born in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id135"
+      }
+},
+{
+   136: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan from San Francisco was the designer of the Asilomar Conference Grounds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Asilomar Conference Grounds was Julia Morgan, who was born in San Francisco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id136"
+      }
+},
+{
+   137: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar State Beach is one of the significant buildings designed by architect Julia Morgan, who also designed The Asilomar Conference Grounds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " architect ",
+       "subject": " Julia_Morgan"
+       },
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " architect ",
+       "subject": " Julia_Morgan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id137"
+      }
+},
+{
+   138: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julie Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect behind Chinatown in San Francisco and the grounds of Asilomar Conference.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Asilomar Conference Grounds was Julia Morgan who also designed significant buildings in Chinatown, San Francisco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id138"
+      }
+},
+{
+   139: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan designed the Asilomar Conference Gardens, and the landmark Los Angeles Herald Examiner building in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan is the architect of the grounds of the Asilomar Conference as well as many other significant buildings including the Los Angeles Herald Examiner building.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id139"
+      }
+},
+{
+   140: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect of the Asilomar Conference Grounds and The Riverside Art Museum.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " architect ",
+       "subject": " Julia_Morgan"
+       },
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " architect ",
+       "subject": " Julia_Morgan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id140"
+      }
+},
+{
+   141: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds, which is located at Asilomar Blvd., Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " "Asilomar Blvd., Pacific Grove, California""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " "Asilomar Blvd., Pacific Grove, California"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id141"
+      }
+},
+{
+   142: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds, with the American Craftsman architectural style, is located at Asilomar Blvd., Pacific Grove, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds, which has the architectural style of American Craftsman, is located at Asilomar Blvd., Pacific Grove, California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and has the architectural style of American Craftsman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " "Asilomar Blvd., Pacific Grove, California""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " "Asilomar Blvd., Pacific Grove, California"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id142"
+      }
+},
+{
+   143: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " "Asilomar Blvd., Pacific Grove, California""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " location ",
+       "subject": " "Asilomar Blvd., Pacific Grove, California"@en"
+       },
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " location ",
+       "subject": " "Asilomar Blvd., Pacific Grove, California"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id143"
+      }
+},
+{
+   144: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is it's reference number in the National Register of Historic Places.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id144"
+      }
+},
+{
+   145: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds, with an Arts and Crafts movement style architecture, is located at Pacific Grove, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds, with an architectural style of the Arts and Crafts Movement, is located in Pacific Grove, California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California and has the architectural style of Arts and Crafts Movement.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id145"
+      }
+},
+{
+   146: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds were constructed in 1913 and are located in Pacific Grove, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds, constructed in 1913, is located at Pacific Grove, California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Constructed in 1913, the Asilomar Conference Grounds are located at Pacific Grove, California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " location ",
+       "subject": " Pacific_Grove,_California"
+       },
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " location ",
+       "subject": " Pacific_Grove,_California"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id146"
+      }
+},
+{
+   147: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds is located at Pacific Grove, California in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds are in Pacific Grove, California in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California which is in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id147"
+      }
+},
+{
+   148: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds in Pacific Grove, CA is part of the state of California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds is located at Pacific Grove, which is part of California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, a part of California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id148"
+      }
+},
+{
+   149: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in Asser Levy Place on East 23rd Street and were built in 1904.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, built in 1904, are located on Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths (constructed in 1904) is in Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " "Asser Levy Place and East 23rd Street""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " "Asser Levy Place and East 23rd Street"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id149"
+      }
+},
+{
+   150: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths located at Avenue A, Manhattan. and constructed in 1904.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, which was built in 1904, is located in Avenue A, Manhattan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, which were constructed in 1904, is located in Avenue A, Manhattan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Avenue_A_(Manhattan)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " Avenue_A_(Manhattan)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id150"
+      }
+},
+{
+   151: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, built in 1904, is located in Manhattan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths in Manhattan were constructed in 1904.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " Manhattan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id151"
+      }
+},
+{
+   152: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Manhattan, which is a part of New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are in Manhattan, New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " Manhattan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id152"
+      }
+},
+{
+   153: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " Manhattan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id153"
+      }
+},
+{
+   154: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " Manhattan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id154"
+      }
+},
+{
+   155: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths which was built in 1904 is located in New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths (constructed in 1904) are located in New York City.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Asser Levy Public Baths, built in 1904, is New York City.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id155"
+      }
+},
+{
+   156: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located in New York City which Manhattan is a part of.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are in New York City which is part of Manhattan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id156"
+      }
+},
+{
+   157: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are in New York City of which New Netherland is a part.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located in New York City, which is part of New Netherland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id157"
+      }
+},
+{
+   158: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "New York City, part of New York, has the Asser Levy Public Baths.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located in New York City, which is part of New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Asser Levy Public Baths are New York City, New York State.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id158"
+      }
+},
+{
+   159: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena is located in Dublin, in the Republic of Ireland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3 Arena is located in Dublin, Republic of Ireland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " country ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id159"
+      }
+},
+{
+   160: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is located in the country of Ethiopia which is lead by Hailemariam Desalegn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " leaderName ",
+   "subject": " Hailemariam_Desalegn"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ethiopia ",
+       "property": " leaderName ",
+       "subject": " Hailemariam_Desalegn"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Hailemariam_Desalegn"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id160"
+      }
+},
+{
+   161: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " leaderName ",
+   "subject": " Mulatu_Teshome"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " country ",
+       "subject": " Ethiopia"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Mulatu_Teshome"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id161"
+      }
+},
+{
+   162: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India, which is populated by Indian People.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " demonym ",
+   "subject": " Indian_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "India ",
+     "property": " demonym ",
+     "subject": " Indian_people"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id162"
+      }
+},
+{
+   163: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "T S Thakur is the leader of India; also the location of Amdavad ni Gufa.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " T._S._Thakur"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id163"
+      }
+},
+{
+   164: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " foundationPlace ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " foundation ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " foundationPlace ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " foundationPlace ",
+       "subject": " Washington,_D.C."
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id164"
+      }
+},
+{
+   165: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethseda, Maryland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " location ",
+   "subject": " Bethesda,_Maryland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " location ",
+       "subject": " Bethesda,_Maryland"
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " location ",
+       "subject": " Bethesda,_Maryland"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id165"
+      }
+},
+{
+   166: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in Alan B Miller Hall in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mason_School_of_Business ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mason_School_of_Business ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id166"
+      }
+},
+{
+   167: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, in which English is the main language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language of the United States, where 250 Delaware Avenue is located.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States where they speak the English language.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id167"
+      }
+},
+{
+   168: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, which is led by Joe Biden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in the United States where Joe Biden is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderName ",
+     "subject": " Joe_Biden"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id168"
+      }
+},
+{
+   169: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " John_Roberts"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderName ",
+     "subject": " John_Roberts"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id169"
+      }
+},
+{
+   170: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States which is lead by Paul Ryan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States whose leader is Paul Ryan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Paul_Ryan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderName ",
+     "subject": " Paul_Ryan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id170"
+      }
+},
+{
+   171: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the USA and it's leader is the President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States whose leader has the title of President.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id171"
+      }
+}

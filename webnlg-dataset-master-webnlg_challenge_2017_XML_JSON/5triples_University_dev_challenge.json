@@ -1,0 +1,290 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland had 100 academic staff and 600 students. Its dean is Mario Botta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Dean of the Accademia di Architettura di Mendrisio in the city of Mendrisio, Switzerland is Mario Botta. There are 600 students and 100 academic staff at the Accademia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 and a student population of 600. The dean is Mario Botta.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Ticino, Switzerland. It was established in 1996 and it has 600 students. The leader of Switzerland is Johann Schneider-Ammann.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Switzerland is Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in Ticino which was established in 1996 and has 600 students.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio , which has 600 students, was founded in 1996 in Ticino, Switzerland. The leader of Switzerland is Johann Schneider - Amman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " country ",
+       "subject": " Switzerland"
+       },
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " country ",
+       "subject": " Switzerland"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University and is located in Bangalore, Karnataka. To its northeast is Telangana and to its west is the Arabian Sea.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology in Balgalore, Karnataka is east of the Arabian Sea and southwest of Telangana. It is affiliated with the Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Karnataka state which has the Arabian Sea to it's west and Telangana to it' s northwest is also home to the Acharya Institute of Technology. The Institute is located in the city of Bangalore and is affiliated with the Visvesvaraya Technological University.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " affiliation ",
+   "subject": " Visvesvaraya_Technological_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " affiliation ",
+     "subject": " Visvesvaraya_Technological_University"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The School was established in 2000 and has 700 Postgraduate Students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology was established in 2000 and is based in the city of Bangalore in India. It currently has 700 Postgraduate Students and it's exact location is ' In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " city ",
+   "subject": " Bangalore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " city ",
+     "subject": " Bangalore"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology was founded by Kempe Gowda I in Bangalore in the state of Karnataka. It has the Arabian Sea to its west and is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in Bangalore, Karnataka, east of the Arabian Sea. The Institute is affiliated with Visvesvaraya Technological University. Bangalore was founded by Kempe Gowda.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bangalore ",
+   "property": " founder ",
+   "subject": " Kempe_Gowda_I"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bangalore ",
+     "property": " founder ",
+     "subject": " Kempe_Gowda_I"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania and Klaus Iohannis is the country's Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1 Decembrie 1918 University is located in the city of Alba lulia in Romania. The capital of Romania is Bucharest and the Prime Minister is Klaus lohannis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " leaderTitle ",
+   "subject": " Prime_Minister_of_Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " leaderTitle ",
+     "subject": " Prime_Minister_of_Romania"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University in Denmark is affiliated with the European University Association. It has 16,000 students, 737 employees. and was established in 1928.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It is affiliated with the European University Association and has a staff compliment of 737. 16000 students attend the university currently.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in Denmark in 1928. The School is affiliated with the European University Association and has 16,000 students and 737 academic staff.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " affiliation ",
+   "subject": " European_University_Association"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " affiliation ",
+       "subject": " European_University_Association"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id7"
+      }
+}

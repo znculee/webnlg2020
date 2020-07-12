@@ -1,0 +1,420 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was a member of NASA's Apollo 12 which was commanded by David Scott. Bean, who was born in Wheeler, Texas, is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was born in Wheeler, Texas and is retired. He was on the crew of Apollo 12, whose operator was NASA and David Scott was the commander of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is originally from Wheeler, Texas and joined NASA where he became a crew member of Apollo 12. David Scott was his commander and Mr Bean is now retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The American Alan Shepard was born on November 18, 1923, in New Hampshire. He graduated with an M.A. from NWC in 1957, and was hired by NASA in 1959. Shepard died in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was an American who went to school at NWC and graduated with an MA in 1957. He was selected by NASA in 1959. He was born in New Hampshire on November 18, 1923 and died in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on the 18th of November, 1923 in New Hampshire. He graduated from NWC with a M.A. in 1957 and was selected by NASA in 1959. His death place was California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born November 18th, 1923 in New Hampshire. He graduated from NWC with a M.A. in 1957 and was selected by NASA in 1959. He passed away in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on November 18, 1923, in New Hampshire. He served as a crew member on NASA's Apollo 14 mission before retiring on August 1, 1974. Shepard passed away in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was part of NASA's Apollo 14 crew. He was born in New Hampshire on November 18th, 1923, he retired August 1st, 1974 and died in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in 1923 in New Hampshire . He worked for NASA and became a crew member for Apollo 14 before he retired in August 1974. He later died in California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shephard was born in New Hampshire. He was won the American Defence Service Ribbon. The United States Navy also awarded him the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal. He died on July 21st, 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard (who died on the 21st of July, 1998 in California) was born in New Hampshire. He was awarded American Defense Service ribbon, as well as the Distinguished Service Medal by the United States Navy. The Distinguished Service Medal of the United States Navy is ranked higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The U.S Navy awarded Alan Shepard the Distinguished Service Medal, an award that ranks higher than the Department of Commerce Gold Medal. Shepard who was born in New Hampshire and died July 21st, 1998 in California, was also the recipient of the American Defense Service Ribbon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was awarded ",
+   "subject": " "American Defense Service ribbon.svg""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " ribbon ",
+     "subject": " "American Defense Service ribbon.svg"@en"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot who was born in Glen Ridge, New Jersey om January 20th, 1930. His real name is Edwin E. Aldrin Jr. and after graduating from MIT with a doctorate in Science in 1963, he became a member of Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, NJ on January 20th 1930. His real name was Edwin E. Aldrin, Jr. He graduated from MIT with a Sc.D in 1963. He was a fighter pilot and crew member of Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Edwin E Aldrin Jr, more commonly known as Buzz Aldrin was born in Glen Ridge New Jersey in 1930 and graduated from MIT with a Doctorate in Science in 1963. He was a fighter pilot and a crew member of Apollo 11.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge New Jersey in 1930. He graduated from MIT in 1963 and was hired by NASA in the same year. He was a member of the Apollo 11 crew and is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Retired Apollo 11 crew member Buzz Aldrin was born January 20 1930 in Glen Ridge, New Jersey. He was selected by NASA in 1963 when he graduated from MIT with a Sc. D.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was originally from Glen Ridge, New Jersey and graduated in 1963 from Massachusetts Institute of Technology. He then went on to join NASA in 1963 and became a member of the Apollo 11 crew before he retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin graduated from Massachusetts Institute of Technology with a Sc.D in 1963 and became a fighter pilot. He was selected to work for NASA in 1963, and was chosen as a crew member (serving as backup pilot) of the NASA operated Apollo 11 mission.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot. In 1963, he graduated from Massachusetts Institute of Technology with a doctorate in Science and was selected to be part of NASA's Apollo 11 crew. William Anders was the backup pilot on Apollo 11.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas as US national and graduated from the University of Texas at Austin. Elliot See has died on the 28th of February 1966 in St Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "United States national Elliot See was born in Dallas, and studied at University of Texas at Austin. On the 28th of February, 1996 he passed away in St. Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on 07/23/1927 in Dallas and died in St. Louis. He attended the University of Texas at Austin which is a part of the university of Texas system.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "Elliot See was born on 07/23/1927 in Dallas has graduated from the University of Texas which affiliated to the university of Texas System has died and deceased in St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas on July 23rd 1927. He graduated from the University of Texas at Austin which is affiliated to the university of texas system. Elliot See died in St.Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17, 1933, in British Hong Kong. He graduated from AFIT in 1962 with an M.S., and would go on to serve as a fighter pilot, and as a crew member on Apollo 8. Anders retired on September 1, 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on the 17th of October 1933 in British Hong Kong. He graduated in 1962 from AFIT with a M.S. and went on to become a fighter pilot and a crew member on Apollo 8 before he retired in 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in 1933 in British Hong Kong and graduated in 1962 from AFIT with a M.S. He then went on to become a test pilot and joined the Apollo 8 crew before he retired in 1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "6",
+   "xml_id": "Id11"
+      }
+}

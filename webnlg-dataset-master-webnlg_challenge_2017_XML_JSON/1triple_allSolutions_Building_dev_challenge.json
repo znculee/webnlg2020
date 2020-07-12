@@ -1,0 +1,1075 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect, John Madin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located at Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Colmore Row.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Colmore_Row"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " Colmore_Row"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was completed in 1983.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " completionDate ",
+   "subject": " 1983"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " buildingEndDate ",
+       "subject": " "1983""
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " completionDate ",
+       "subject": " 1983"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 200 Public Square was completed in 1985.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square was completed in 1985.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " completionDate ",
+   "subject": " 1985"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " buildingEndDate ",
+       "subject": " "1985""
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " completionDate ",
+       "subject": " 1985"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The building at 20 Fenchurch Street was started in January 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The construction of 20 Fenchurch Street began in January 2009.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " buildingStartDate ",
+   "subject": " "January 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " buildingStartDate ",
+       "subject": " "January 2009""
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 60 floors at 300 North LaSalle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle has 60 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " floorCount ",
+   "subject": " 60"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " floorCount ",
+     "subject": " "60"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of 3Arena.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " "HOK SVE""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " architect ",
+     "subject": " "HOK SVE"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at East Link Bridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located on the East Link Bridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3 Arena is located at East Link Bridge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "East Link Bridge""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "East Link Bridge"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor's building start was in 1700.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building of the Adare Manor was started in 1700.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " buildingStartDate ",
+   "subject": " "1700""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " buildingStartDate ",
+     "subject": " "(original structure); 1832 (current structure)""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in the Republic of Ireland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adare Manor is in the Republic of Ireland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationCountry ",
+       "subject": " Republic_of_Ireland"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " country ",
+       "subject": " Republic_of_Ireland"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art was inaugurated on 28th September 2013.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " inaugurationDate ",
+   "subject": " "2013-09-28""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " openingDate ",
+     "subject": " "2013-09-28"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business are the current tenants of Alan B Miller Hall.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " currentTenants ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " currentTenants ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architecct B V Doshi designed Amdavad Ni Gufa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "B V Doshi is the architect who designed Amdavad ni Gufa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " architect ",
+   "subject": " B._V._Doshi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " architect ",
+     "subject": " B._V._Doshi"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Sri Lanka.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " country ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on "1988-11-22".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " added to the National Register of Historic Places ",
+   "subject": " "1988-11-22""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " added ",
+     "subject": " "1988-11-22"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths was built in 1904.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths were constructed in 1904.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " yearOfConstruction ",
+   "subject": " 1904"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " yearOfConstruction ",
+       "subject": " "1904"^^xsd:gYear"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Birmingham has the postcode area 'B'.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The B postcode area is the postal code of Birmingham.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " postalCode ",
+   "subject": " B_postcode_area"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " postalCode ",
+     "subject": " B_postcode_area"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is part of DuPage County in Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is part of DuPage County Illinois.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " isPartOf ",
+   "subject": " DuPage_County,_Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " isPartOf ",
+     "subject": " DuPage_County,_Illinois"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is in the Republic of Ireland.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " country ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is part of Leinster.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " isPartOf ",
+   "subject": " Leinster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dublin ",
+       "property": " isPartOf ",
+       "subject": " Leinster"
+       },
+       {
+       "object": "Dublin ",
+       "property": " subdivisionName ",
+       "subject": " Leinster"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sumitra Mahajan is an Indian leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The name of the leader in India is Sumitra Mahajan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " Sumitra_Mahajan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " Sumitra_Mahajan"
+       },
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " Sumitra_Mahajan"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "One of the ethnic groups in Japan in the Brazilians.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "The Brazilians in Japan are an ethnic group found in Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Brazilians_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Brazilians_in_Japan"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Japan is Tarō Asō.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " leaderName ",
+   "subject": " Tarō_Asō"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " leader ",
+     "subject": " Tarō_Asō"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Marriott is the key person at Marriott International.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the key people in Marriott International is Bill Marriott.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " keyPerson ",
+   "subject": " Bill_Marriott"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " keyPeople ",
+       "subject": " Bill_Marriott"
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " keyPerson ",
+       "subject": " Bill_Marriott"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ireland official language is Irish English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "English language is the main language of the Republic of Ireland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One language used in the Republic of Ireland is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " languages ",
+       "subject": " English_language"
+       },
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " language ",
+       "subject": " English_language"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cape Town is the capital of South Africa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of South Africa is Cape Town.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " capital ",
+   "subject": " Cape_Town"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "South_Africa ",
+     "property": " capital ",
+     "subject": " Cape_Town"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of the United Kingdom is London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "London is the capital of the United Kingdom.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " capital ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " capital ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Native Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Native_Americans_in_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Native_Americans_in_the_United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paul Ryan is the leader of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United States is Paul Ryan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Paul_Ryan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " Paul_Ryan"
+       },
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " Paul_Ryan"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id30"
+      }
+}

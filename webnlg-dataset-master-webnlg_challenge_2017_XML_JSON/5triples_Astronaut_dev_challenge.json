@@ -1,0 +1,435 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was an American born in Wheeler, Texas. He served as a test pilot and became a crew member of Apollo 12, which was operated by NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Apollo 12 was operated by NASA and its crew members included American national Alan Bean. He was born in Wheeler, Texas and served as a test pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, a US national, was born in Wheeler, Texas. He served as a test pilot before becoming part of the NASA operated Apollo 12 mission as a crew member.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, born in New Hampshire on November 18, 1923, graduated from NWC in 1957 with a M.A. He died in California on July 21, 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire on the 18th of November, 1923. He graduated from NWC in 1957 with a M.A. On the 21st of July, 1998, he passed away in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on the 18th of November, 1923 in New Hampshire and passed away on the 21st of July, 1998 in California. He graduated with a M.A. from NWC in 1957.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, born in New Hampshire, has died in California. After graduating from NWC, MA in 1957 he served as a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard has died in California. He was born in New Hampshire and went to school at NWC, graduating with an MA in 1957, He served as a test pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard has died in California. He was born in New Hampshire and graduated from NWC MA in 1957. He served as a test pilot.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The late Alan Shepard was born in New Hampshire, and chosen by NASA in 1959 a a crew member of Apollo 14.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The late Alan Shepard was born in New Hampshire. He was selected by NASA in 1959 and served as a crew member of NASA operated Apollo 14.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was originally from New Hampshire and joined NASA in 1959 where he became a member of the Apollo 14 crew. Mr Shepard passed away.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean (born in Wheeler, Texas) was a crew member of Apollo 12 operated by NASA and was in space 100305 minutes. Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Worden was a backup pilot on the NASA operated Apollo 12 on which David Scott the commander and Alan Bean, who spent a total of 100305 minutes in space, was a crewman.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_12 ",
+   "property": " backup pilot ",
+   "subject": " Alfred_Worden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_12 ",
+     "property": " crew2Up ",
+     "subject": " Alfred_Worden"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard (born November 18th, 1923, New Hampshire) was awarded the United States Navy Distinguished Service Medal which is higher than the department of commerce gold medal has died in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born on 18 November 1923 in New Hampshire. He was awarded the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal, by the US Navy. He died in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire on 18 November 1923. Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and later attended the University of Texas at Austin. The University of Texas at Austin is affiliated with University of Texas System and is competing in the Big 12 Conference. Nowadays, Gregory L. Fenves is the President of the University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and attended the University of Texas at Austin which is affiliated with the University of Texas System and competed in the Big 12 Conference in Austin. Gregory L. Fenves is the appointed president of the University of Texas at Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and was a student at University of Texas at Austin. This University, whose president is Gregory L. Fenves, is affiliated with the University of Texas System. The University of Texas at Austin competes in the Big 12 Conference.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, a graduate of the University of Texas at Austin, passed away on 28th February 1966 in St. Louis. He was born in Dallas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and attended the University of Texas at Austin. He died in St Louis on 28 February 1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who was born on the 28th February 1966 in Dallas, has died in St Louis. He will be remembered as a great student at University of Texas at Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas, which is a county in Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas system. The University of Texas at Austin will be part of the Big 12 Conference competition.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas, Texas and attended the University of Texas (affiliated to the University of Texas system) which competed in the Big 12 conference.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who was born in Dallas, Texas, attended the University of Texas at Austin (affiliated to the University of Texas system) which will compete in the big 12 conference.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and studied at the University of Texas in Austin (which is affiliated to the university of Texas system). He died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and studied at Austin University (part of the university of Texas system). He died in St. Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See , who was born in Dallas , has died in St Louis. He graduated from the University of Texas at Austin which is affiliated to the University of Texas system.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was a member of the Apollo 8 crew (operated by NASA) and he retired on September 1st, 1969. Frank Borman was the commander of Apollo 8 and Buzz Aldrin was a back up pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, who retired on September 1st, 1969, was a crew member on Apollo 8 and served under commander Frank Borman. Apollo 8 was operated by NASA with Buzz Aldrin as backup pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders joined NASA and was a member of Apollo 8 along with Frank Borman as Commander and Buzz Aldrin as back up pilot. William Anders retired on September 1st 1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id11"
+      }
+}

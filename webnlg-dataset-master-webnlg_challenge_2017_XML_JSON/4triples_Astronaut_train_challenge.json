@@ -1,0 +1,2855 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who was born in Wheeler, Texas, graduated from the University of Texas with a B.S. in 1955 and in 1963 NASA picked him as part of the Apollo 12 space program.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas. He attended the University of Texas in Austin and obtained a B.S. in 1955. He was selected by NASA in 1963 and was a crew member on Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean who was born in 1963 in Wheeler, Texas , graduated in 1955 and went on to become a crew member of Apollo 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " almaMater ",
+   "subject": " "UT Austin, B.S. 1955""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " almaMater ",
+     "subject": " "UT Austin, B.S. 1955"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who was part of Apollo 12, was born in Wheeler, Texas on March 15th, 1932 and is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who was a crew member on Apollo 12, was born 1932.03.15 in Wheeler Texas has now retired .",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthDate ",
+   "subject": " "1932-03-15""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthDate ",
+     "subject": " "1932-03-15"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a citizen of the United State and graduated from UT Austin in 1955. He was a crew member of Apollo 12 and is currently retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who has now retired, is a United States citizen who graduated from UT Austin, BS in 1955 and served as a crew member of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a United States national. His Alma mater was UT Austin and he graduated with a B.S. in 1955. He was a crew member of Apollo 12. He is now retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a United States citizen born in Wheeler, Texas on 15 March 1932 and who graduated from UT Austin BS in 1955.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B,S. In 1955.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was born in Wheeler, Texas on March 15th, 1932 and was a member of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a national of the United States. He was born in Wheeler Texas on 1932-03-15. He was a crew member of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, a United States national, was born on 15 March 1932 in Wheeler Texas. He was a crew member on Apollo 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was a test pilot who was born in Wheeler, Texas and in 1963 was picked by NASA as part of the space program.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a national of the United States. He was born in Wheeler, Texas. He was a test pilot and was selected by NASA in 1963.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean originally from Wheeler, Texas began work for NASA in 1963 as a test pilot.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American test pilot Alan Bean was part of Apollo 12 and was born in Wheeler, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a United States citizen born in Wheeler Texas. He served as a test pilot and was a crew member of the Apollo 12 mission.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a retired test pilot who was born in Wheeler, Texas. He graduated from UT Austin in 1955 with a B.S.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Test pilot Alan Bean was born on March 15th, 1932 in Wheeler, Texas and graduated with a B.S. from the University of Texas in 1955.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler Texas in 1932-03-15. He attended the University of Texas in Austin and obtained a B.S. in 1955. He became a test pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The test pilot Alan Bean, born 1932-03-15 in Wheeler, Texas, was selected by NASA in 1963.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Test pilot Alan Bean was born March 15th, 1932 in Wheeler, Texas and in 1963 was picked by NASA to join the space program.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on 15 March 1932 in Wheeler Texas. He was a test pilot who was selected by NASA in 1963.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Test pilot Alan Bean, who is now retired, was born in Wheeler, Texas and later became a crew member of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, retired, was born in Wheeler, Texas and served as a test pilot and crew member of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler Texas . He was a test pilot who was also a crew member of Apollo 12. He is now retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean who was born in Wheeler, Texas joined NASA and was a crew member of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas and became a test pilot. He was a crew member of the NASA operated Apollo 12 mission.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member of NASA's Apollo 12 with commander David Scott. He was a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Test Pilot Alan Bean was a crew member of NASA's Apollo 12 mission under commander David Scott.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean who was born in 1932 worked for NASA and became a crew member of Apollo 12 is now currently retired.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean graduated from UT Austin BS in 1955. He was selected as a crew member for the NASA operated Apollo 12 in 1963.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire. His alma Mater was NWC, where he received an M.A. in 1957. He was awarded the Distinguished Service Medal from the US Navy. He died in California.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire and obtained a MA in 1957 from NWC. he was selected by NASA in 1959 and became a test pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M,A, in 1957. He worked as a test pilot and he was selected by NASA in 1959.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In 1957 Alan Shepard graduated from NWC with an M.A. and later became an Apollo 14 crew member as chosen by NASA before retiring on August 1st, 1974.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a crew member of the NASA operated Apollo 14. He graduated from NWC, MA in 1957 and retired on 1 August 1974.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard graduated with an M.A. from NWC in 1957 and later received the Distinguished Service Medal from the U.S. Navy, an award that is higher than the Department of Gold Medal, retired on August 1st, 1974.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard graduated from NWS MA in 1957. He retired on 1 August 1974 having been awarded both the Distinguished Service Medal (US Navy) and the Department of Commerce Gold Medal.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard of the United States, was born in New Hampshire and retired on August 1, 1974. He died in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard (born in New Hampshire of the United States) retired on 1974-08-01 and died in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathPlace ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathPlace ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard who was born in New Hampshire on 18th November 1923, died in California on 21st July 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died in California on July 21, 1998. He was born in New Hampshire On 11-18-1923.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathPlace ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathPlace ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Shepard was a test pilot who was born in New Hampshire and died in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a national of the United States. He was born in New Hampshire became a test pilot and died in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathPlace ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathPlace ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard who was selected by NASA in 1959 is sadly now deceased. He was born in New Hampshire on 18th November 1923.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The now deceased Alan Shepard was born in New Hampshire on November 18,1923. He was selected by NASA in 1959.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire on 11/18/1923 and was selected by NASA in 1959.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died in California and he was born in New Hampshire on November 18th, 1923.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire on 1923-11-18 and died in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in 1923 in New Hampshire and died in California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Now dead, Alan Shepard was a test pilot who was awarded the Distinguished Service Medal from the U.S. Navy, an award that is higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Apollo 14 crew member Alan Shepard was born in New Hampshire on November 18th, 1923 and was picked by NASA for the space program.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who was a member of Apollo 14, died July 21st, 1998 in California well after being picked by NASA as part of the space program.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a crew member of NASA operated Apollo 14 who died in California which is represented by Dianne Feinstein.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire (whose bird is the purple finch). He was a crew member of NASA's Apollo 14.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was a crew member of NASA's Apollo 12 alongside backup pilot Alfred Worden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "United States citizen Alan Bean was a member of NASA's Apollo 12 crew with his backup pilot Alfred Worden.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_12 ",
+   "property": " backup pilot ",
+   "subject": " Alfred_Worden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_12 ",
+     "property": " crew2Up ",
+     "subject": " Alfred_Worden"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Williams Anders (born in British Hong Kong) was a crew member of NASA's Apollo 8 with commander Frank Borman.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Apollo_8 ",
+   "property": " commander ",
+   "subject": " Frank_Borman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Apollo_8 ",
+     "property": " crew1Up ",
+     "subject": " Frank_Borman"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born Edwin E. Aldrin, Jr on 1930-01-20. He attended the Massachusetts Institute of Technology obtaining the ScD. in 1963. He won 20 awards.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, real name Edwin E. Aldrin Jr was born 20th January 1930, received 20 awards and attended Massachusetts Institute of Technology,.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " alternativeNames ",
+   "subject": " "Edwin E. Aldrin, Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " alternativeNames ",
+     "subject": " "Edwin E. Aldrin, Jr."@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, AKA Edwin E. Aldrin, Jr., was a fighter pilot and crew member of Apollo 11. In 1963, he graduated from Massachusetts Institute of Technology with an Sc.D.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin (alternatively called Edwin E Aldrin Jr) was a crew member of Apollo 11. He was a fighter pilot and attended Massachusetts Institute of Technology, Sc. D. 1963.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " alternativeNames ",
+   "subject": " "Edwin E. Aldrin, Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " alternativeNames ",
+     "subject": " "Edwin E. Aldrin, Jr."@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a National of the United States. He was born in Glen Ridge, New Jersey. He was a fighter pilot and has now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, now retired, is a United States national born in Glen Ridge, New Jersey. He served as a fighter pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930 and was part of Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a national of the United States. He was in born in Glen Ridge, New Jersey on 1930-01-20. He was a crew member of Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, a United States citizen who served as crew member on Apollo 11, was born on 20 January 1930 in Glen Ridge, New Jersey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin, who was born in Glen Ridge, New Jersey, was part of Apollo 11 and earlier in time, a fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a United States National and was born in Glen Ridge New Jersey. He was a fighter pilot and was a crew member of Apollo 11.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin, who was born in Glen Ridge, New Jersey, joined NASA in 1963 and in 1963 graduated from MIT with a Sc. D.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a United States National born in Glen Ridge, New Jersey. He obtained a Sc.D in 1963 from the Massachusetts Institute of Technology. He was selected by NASA in 1963.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a US citizen born in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology, ScD in 1963 and was selected by NASA in 1963,.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey. He obtained an Sc.D in 1963 from Massachusetts Institute of Technology. He became a fighter pilot and has retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, now retired, was born in Glen Ridge New Jersey. After graduating from MIT ScD in 1963 he became a fighter pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin (born in Glen Ridge, New Jersey) was a crew member of NASA's Apollo 11 with William Anders as a backup pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin originally from Glen Ridge, New Jersey worked for NASA and became a crew member of Apollo 11 with William Anders as his back up pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id39"
+      }
+},
+{
+   40: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey on 1930-01-20. He attended the Massachusetts Institute of Technology obtaining a Sc.D in 1963. He was a crew member on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey on 20 January 1930. He graduated from MIT ScD in 1963 and was a crew member of Apollo 11.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id40"
+      }
+},
+{
+   41: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, who was born in Glen Ridge, New Jersey, was part of Apollo 11 as chosen by NASA, and is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, now retired, was born in Glen Ridge, New Jersey and was a crew member of the NASA operated Apollo 11 mission.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id41"
+      }
+},
+{
+   42: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey. Now retired, he was selected by NASA in 1963, and was a crew member of the Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin (born in Glen Ridge, New Jersey was selected by NASA in 1963 and was a crew member for Apollo 11 and is now retired.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id42"
+      }
+},
+{
+   43: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Edwin E. Aldrin, Jr., who is also known as Buzz Aldrin, was chosen by NASA to be a member of Apollo 11 and he retired on July 1st, 1971.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Edwin E Aldrin Jr, also known as Buzz Aldrin, was a crew member of the NASA operated Apollo 11 and retired on 1 July 1971.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id43"
+      }
+},
+{
+   44: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin was part of Apollo 11 along with William Anders as chosen by NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin worked for NASA and became a crew member of Apollo 11 with William Anders as his back up pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id44"
+      }
+},
+{
+   45: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a national of the United States led by Joe Biden. He was a crew member of Apollo 11. On Apollo 11 the backup pilot was William Anders.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id45"
+      }
+},
+{
+   46: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Fighter pilot Buzz Aldrin, who went to Massachusetts Institute of Technology, Sc.D. 1963, was a crew member of NASA's Apollo 11.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id46"
+      }
+},
+{
+   47: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Retired Buzz Aldrin was once a crew member of Apollo 11 which NASA assigned him to and he was born on January 20th, 1930.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id47"
+      }
+},
+{
+   48: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin began work for NASA in 1963 and became a crew member of Apollo 11 with William Anders as his back up pilot.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id48"
+      }
+},
+{
+   49: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire on 1923-11-18. He was awarded the Distinguished Service Medal and the Department of Commerce Gold Medal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard who was born in New Hampshire in 1923 was awarded a distinguished service medal by the United States Navy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id49"
+      }
+},
+{
+   50: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas on July 23, 1927. He graduated from University of Texas at Austin, and competed in the Big 12 Conference.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (born in Dallas on 1927-07-23) went to the University of Texas at Austin who competed in the Big 12 Conference.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id50"
+      }
+},
+{
+   51: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, born in Dallas, graduated from University of Texas at Austin, and was a test pilot. He died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (born in Dallas) went to the University of Texas at Austin. Worked as a test pilot and died in St. Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Test pilot Elliot See graduated from University of Texas at Austin, he was born in Dallas and died in St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id51"
+      }
+},
+{
+   52: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See who was born in Dallas and died in St. Louis, attended the University of Texas in Austin and in 1962 was picked by NASA to join the space program.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas. He attended the University of Texas in Austin and was selected by NASA in 1962. He died in St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See who was born in Dallas and died in St Louis, graduated from the University of Texas at Austin and was selected by NASA in 1962,.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id52"
+      }
+},
+{
+   53: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin which competes in the Big 12 Conference. He served as a test pilot and died in St Louis.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id53"
+      }
+},
+{
+   54: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See (born in Dallas) went to the University of Texas at Austin and was a test pilot. He is deceased now.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Test Pilot Elliot See (deceased) was born in Dallas and studied at the University of Texas at Austin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id54"
+      }
+},
+{
+   55: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from University of Texas at Austin, and died in St. Louis. Francis G. Slay of St. Louis competed in the Big 12 Conference at University of Texas at Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See went to the University of Texas at Austin to compete in the Big 12 Conference. He died in St. Louis with Francis G. Slay.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id55"
+      }
+},
+{
+   56: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas, and graduated from University of Texas at Austin, which is Affiliated with University of Texas System.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (born in Dallas) went to the University of Texas at Austin which is affiliated with the University of Texas System.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id56"
+      }
+},
+{
+   57: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See's Alma mater was the University of Texas , Austin, he had affiliations with the University of Texas System. He died in St. Louis on February 28, 1966.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id57"
+      }
+},
+{
+   58: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a test pilot born in Dallas. He graduated from university of Texas at Austin, which is affiliated with University of Texas System.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (born in Dallas) went to the University of Texas at Austin which is affiliated with the University of Texas System and was a test pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id58"
+      }
+},
+{
+   59: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, deceased, competed in the Big 12 Conference, and graduated from University of Texas at Austin, which is affiliated with University of Texas System.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See went to University of Texas at Austin which is affiliated with the University of Texas System and competed in the Big 12 Conference. He is now deceased.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id59"
+      }
+},
+{
+   60: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin which is affiliated to the University of Texas System and competes in the Big 12 Conference under its president Gregory L Fenves.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id60"
+      }
+},
+{
+   61: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a student at the University of Texas in Austin which competes in the Big 12 Conference, is part of the University of Texas system and has as its mascot, Hook'em.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id61"
+      }
+},
+{
+   62: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Elliot See was born on July 23rd, 1927 and died in St. Louis February 28th, 1966.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was a National of the United States. He was born on 1927-07-23 and died on 1966-02-28 in St. Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was a United States citizen born 1927.07.23 and dying in St Louis on 1966.02.28.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " deathPlace ",
+   "subject": " St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " deathPlace ",
+     "subject": " St._Louis"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id62"
+      }
+},
+{
+   63: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, deceased, was a test pilot born in Dallas on July 23, 1927.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id63"
+      }
+},
+{
+   64: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a test pilot who was born on July 23, 1927, died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (born on 1927-07-23) was a test pilot and died in St. Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Test Pilot Elliot See was born 23rd July 1927 and died in St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id64"
+      }
+},
+{
+   65: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas in the United States and died in St Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was a United States national born in Dallas. He died in St. Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id65"
+      }
+},
+{
+   66: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Test pilot Elliot See who was born in Dallas, died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and served as a test pilot before dying in St Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id66"
+      }
+},
+{
+   67: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The U.S. Navy awarded Alan Shepard, who was born in New Hampshire and is home to the Purple finch bird, the Distinguished Service Medal which is higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who was born in New Hampshire, well known for the Purple finch, was awarded the Distinguished Service Medal (United States Navy) and the higher Department of Commerce Gold Medal.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Hampshire ",
+   "property": " bird ",
+   "subject": " Purple_finch"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Hampshire ",
+     "property": " bird ",
+     "subject": " Purple_finch"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id67"
+      }
+},
+{
+   68: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was a fighter pilot who was born in British Hong Kong on October 17, 1933. He graduated from AFIT with an M.S. in 1962.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong on 1933-10-17) was a fighter pilot and went to AFIT, M.S. 1962.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id68"
+      }
+},
+{
+   69: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17, 1933 in British Hong Kong, served as a fighter pilot and crew member of Apollo 8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong on 1933-10-17) was a crew member of Apollo 8 and also a fighter pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id69"
+      }
+},
+{
+   70: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders is a US national who was born in British Hong Kong on 17 October 1933 and retired on 1 January 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong on October 17, 1933. His nationality is United States. He retired on September 1, 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on 10/17/1933 in British Hong Kong. He was of US nationality and retired on 09/01/1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id70"
+      }
+},
+{
+   71: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American William Anders was born in British Hong Kong. graduated with an M.S. from AFIT in 1962 and retired on September 1st, 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders who was born in Hong Kong before becoming a resident of the United States. He graduated in 1962 and retired in 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a United States citizen who was born in British Hong Kong. He graduated from AFIT, MS in 1962 and retired 1969.09.01.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id71"
+      }
+},
+{
+   72: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong and served as a fighter pilot after graduating from AFIT, M.S. in 1962. He retired on 1 September 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong. His Alma mater was AFIT and he graduated in 1962 with a M.S. He retired from his career as a fighter pilot on September 1, 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong. He graduated from AFIT with a M.S. in 1962 and became a fighter pilot. He retired on 09/01/1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id72"
+      }
+},
+{
+   73: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) was a crew member of Apollo 8 and was a fighter pilot. He retired on 1969-09-01.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id73"
+      }
+},
+{
+   74: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) was a crew member of Apollo 8 with Frank Borman and retired on 1969-09-01.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong. Along with Frank Borman he was a crew member on Apollo 8. He retired on 1969.09.01.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id74"
+      }
+},
+{
+   75: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) was selected by NASA in 1963 after attending AFIT, M.S. 1962 and retired on 1969-09-01.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id75"
+      }
+},
+{
+   76: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders, a crew member of Apollo 8, was born in British Hong Kong, and was selected by NASA in 1963. He retired September 1, 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) was a crew member of Apollo 8 and was selected by NASA in 1963. He retired on 1969-09-01.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a selected as a crew member of Apollo 8 by NASA in 1963 and retired 1st September 1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id76"
+      }
+},
+{
+   77: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Fighter pilot William Anders, who is now retired, was part of Apollo 8 which included Frank Borman among the crew.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders is a retired fighter pilot. He along side Frank Borman was a crew member of Apollo 8.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, retired, served as a fighter pilot before joining as a crew member on Apollo 8 alongside Frank Borman,.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id77"
+      }
+},
+{
+   78: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders worked for NASA and became a crew member of Apollo 8 with Buzz Aldrin as his back up pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a crew member of the NASA operated Apollo 8 along with fellow crew member Frank Borman and backup pilot Buzz Aldrin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_8"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " mission ",
+     "subject": " Apollo_8"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id78"
+      }
+},
+{
+   79: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American William Anders was part of Apollo 8 along with Frank Borman as chosen by NASA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, a United States citizen, was a crew member on the NASA operated Apollo 8 along with Frank Borman.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_8"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " mission ",
+     "subject": " Apollo_8"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id79"
+      }
+},
+{
+   80: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders, who was born in British Hong Kong on October 17th, 1033, was picked by NASA in 1963 to be part of Apollo 8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was selected by NASA as a crew member of Apollo 8 in 1963. He was born in British Hong Kong on 17 October 1933.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was selected by NASA ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " selection ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id80"
+      }
+},
+{
+   81: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong on October 17th, 1933 and in 1963 after a stint as a test pilot, NASA picked him to be part of the space program.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong on 1933.10.17. He served as a fighter pilot prior to being selected by NASA in 1963.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was selected by NASA ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " selection ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id81"
+      }
+},
+{
+   82: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders, from the United States was born in British Hong Kong and selected as a fighter pilot by NASA in 1963.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " was selected by NASA ",
+   "subject": " 1963"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " selection ",
+     "subject": " 1963"
+     }
+     ]
+   ],
+   "size": "4",
+   "xml_id": "Id82"
+      }
+}

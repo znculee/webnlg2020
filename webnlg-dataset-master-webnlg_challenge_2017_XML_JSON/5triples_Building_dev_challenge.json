@@ -1,0 +1,790 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom, where London is the capital, and the currency is pounds sterling. Boris Johnson is the leader in London, and one of the leaders of the United Kingdom is Elizabeth II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United Kingdom uses the currency of the pound sterling and is lead by Elizabeth II along with Boris Johnson. The capital city is London and the country is also the location of 20 Fenchurch Street.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue was built in Buffalo New York at a cost of 110 million dollars. Construction began in January 2014 and the building has 12 floors with an area of 30843.8 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 12 floors at 250 Delaware Avenue in Buffalo, New York. Construction, which began in January 2014 cost 110 million dollars for a floor area of 30843.8 square metres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rahm Emanuel is the leader of Chicago, DuPage County, Illinois, United States which is the location of the building at 300 North LaSalle which has 60 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle has 60 floors and is located in Chicago, DuPage County, Illinois, United States. The leader of Chicago is Rahm Emanuel.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle, which has 60 floors, is located in Chicago which is part of DuPage County in Illinois, United States. The leader of Chicago is Rahm Emanuel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena (owned by Live Nation Entertainment) is located in Dublin, Republic of Ireland. Dáil Éireann is a leader in Dublin, which is part of Leinster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena, owned by Live Nation Entertainment, is located in Dublin, which is part of Leinster in the Republic of Ireland. Dáil Éireann is a leader in Dublin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Dublin, Leinster, 3Arena is owned by Live Nation Entertainment. Dublin is also part of the Republic of Ireland and is lead by Dáil Éireann.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " owner ",
+   "subject": " Live_Nation_Entertainment"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "3Arena ",
+       "property": " owner ",
+       "subject": " Live_Nation_Entertainment"
+       },
+       {
+       "object": "3Arena ",
+       "property": " owner ",
+       "subject": " Live_Nation_Entertainment"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedicts Monastery, Adisham, Haputhale, Sri Lanka in the Tudor and Jacobean style of architecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Construction of Adisham Hall took place between 1927 and 1931 in the architectural style of Tudor and Jacobean. It is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " "Tudor and Jacabian""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " "Tudor and Jacabian"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language used in the country is Tamil and the currency is the Sri Lankan Rupee.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language spoken there is Tamil and the currency is the Sri Lankan Rupee.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Admisham Hall is located at Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the currency is the Sri Lankan Rupee and the language used is Tamil.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " locationCountry ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ranil Wickremesinghe is the leader of Sri Lanka where the capital city is Sri Jayawardenepura Kotte and the currency is the Sri Lankan rupee. Adisham Hall is located in the country at Haputale.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte with Ranil Wickremesinghe as its leader and the Rupee as its currency.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale, Sri Lanka, where the capital is called Sri Jayawardenepura Kotte. Ranil Wickremesinghe is a leader of Sri Lanka, and the currency is the Sri Lankan rupee.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The main ethnic group in Japan are the Japanese and the leader is Tarō Asō. Akita Museum of Art is in Akita, Akita which is part of Japan and the Akita Prefecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": ""The Akita Museum of Art is located in Akita, Akita which is located in Japan. The leader of Japan is Taro Aso and the main ethnic group in Japan is the Japanese. Akita, Akita is part of Akita Prefecture.".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is in the city of Akita, Japan. The main ethnic group in Japan are the Japanese, the leader is Taro Aso and Akita, Akita is part of Akita Prefecture.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " country ",
+     "subject": " Japan"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Gujarat, Ahmedabad, India. Gujarat's leader is known as the Gujarat Legislative Assembly, and the leader of India is Narendra Modi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Gujarat, Ahmedabad which is in India. The leader of India is Narendra Modi but the leader of Gujarat is the Gujarat Legislative Assembly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is in Gujarat, Ahmedabad which is in India. Gujarat's leader is the Gujarat Legislative Assembly and Narendra Modi is the prime minister of India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Gujarat"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Gujarat"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Ahmedabad"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad, Gujarat, India; led by the Gujarat Legislative Assembly, including leader T S Thakur.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Gujarat"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " location ",
+     "subject": " Gujarat"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin Fernando is the leader. The country's leader is Ranil Wickremesinghe.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital, which has 476 beds, is located in the Eastern Province of Sri Lanka lead by Austin Fernando. The leader of Sri Lanka is Ranil Wickremesinghe.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 476 beds at Ampara Hospital in the Eastern Province of Sri Lanka where Austin Fernando is the leader. Another leader within the country is Ranil Wickremesinghe.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan, who was born in California, designed the Asilomar Conference Grounds, the Los Angeles Herald examiner building, The Riverside Art Musuem and Hearst Castle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was an architect born in California. She designed Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and the Los Angeles Herald Examiner building.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds were designed by Julia Morgan (born in California), who is known for a number of buildings, including Hearst Castle and The Riverside Art Museum, and her work in San Francisco's Chinatown.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan, the architect, was born in California and some of her significant projects include: the Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and some buildings in Chinatown, San Francisco.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan, born in California, was the architect behind the grounds of Asilomar Conference, the Riverside Art Museum, Hearst Castle and Chinatown in San Francisco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds were constructed in 1913. They are located in Pacific Grove, California and they were added to the National Register of Historic Places on February 27th 1987 (with reference number 87000823). The grounds are in the architectural style of the Arts and Crafts Movement.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California. They were constructed in 1913 with the architectural style of the Arts and Crafts Movement. They were added to the National Register of Historic Places on 27 February 1987 with reference number "87000823".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds were constructed in 1913 and are in Pacific Grove, California. They have an Arts and Crafts movement style architecture and were added to the National Register of Historic Places on 27 February 1987 with the reference number 87000823.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, built in 1904 in a Romanesque Revival style, is located at 23rd Street (Manhattan). The site was added to the National Register of Historic Places on 1980-04-23, with Reference Number 80002709.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy baths are located on 23rd Street in Manhattan and have the Romanesque Revival style of architecture. They were built in 1904 and added to the National Register of Historic Places with the reference number 80002709 on 23 April 1980.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths was built in 1904 in the architectural style of Romanesque Revival, and is located on 23rd Street, Manhattan. The site was added to the National Register of Historic Places on "1980-04-23", with reference number 80002709.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " 23rd_Street_(Manhattan)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " 23rd_Street_(Manhattan)"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are found in New York City, New York, United States. Another part of New York City is Manhattan where Gale Brewer is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gale Brewer is the leader of Manhattan which is part of New York City, New York, United States. New York City is the location of Asser Levy Public Baths.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Asser Levy Public Baths are New York City, US.New York City and Manhattan are part of New York. The leader of Manhattan is Gale Brewer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, where the postal code is 'B'. Andrew Mitchell is the leader of the city and Birmingham City Council is the governing body.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The City Council is the governing body for Birmingham where Andrew Mitchell is a leader. The city has the B postcode and is the birthplace of the Architect John Madin who designed 103 Colmore Row.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Birmingham is lead by Andrew Mitchell and the Birmingham City Council. The town, which has the B postcode, is the birthplace of architect John Madin who designed 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " postalCode ",
+   "subject": " B_postcode_area"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " postalCode ",
+     "subject": " B_postcode_area"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Hailemariam Desalegn and Mulatu Teshome are leaders within Ethiopia. The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The country is lead by Malatu Teshome and Hailemariam Desalegn,.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Malatu Teshome and Hailemariam Desalegn are leaders in the country.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " leaderName ",
+   "subject": " Mulatu_Teshome"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Mulatu_Teshome"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Hailemariam_Desalegn"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The President is the primary leader of English language speaking United States, (includes leader John Roberts), has the ethnic African American group and is home to 250 Delaware Avenue.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, where the leader is known as the President of the United States, supported by the United States of America`s Chief Justice, John Roberts. The main language is English, and one of the ethnic groups is the African Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the United States which is lead by a President. The White Americans are one of the ethnic groups of the country which uses the English language and is where 250 Delaware Avenue is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, where English is spoken. The President of the United States is the main leader, alongside Joe Biden, and an ethnic group in the country is White Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id20"
+      }
+}

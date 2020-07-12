@@ -1,0 +1,325 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was under commander David Scott on Nasa's Apollo 12 mission.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a member of the NASA operated Apollo 12 crew commanded by David Scott.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "David Scott was the commander of the NASA operated Apollo 12 flight mission on which the crew included Alan Bean.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dianne Feinstein is a senator in California where Alan Shepard died on July 21 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shephard died on the 21st of July, 1998 in California (whose Senator was Dianne Feinstein).",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathDate ",
+   "subject": " "1998-07-21""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathDate ",
+     "subject": " "1998-07-21"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, also called Edwin E. Aldrin Jr., graduated in 1963 from MIT with a Sc.D. and was a crew member on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, whose real name was Edwin E. Aldrin, Jr., graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and later became a crew member of Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin (AKA Edwin E Aldrin Jr) graduated in 1963 from MIT with a Sc.D. was a crew member of Apollo 11.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, whose real name is Edwin E. Aldrin Jr., was a member of Apollo 11 who in 1963 graduated with a Sc. D. from MIT.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " alternativeNames ",
+   "subject": " "Edwin E. Aldrin, Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " alternativeNames ",
+     "subject": " "Edwin E. Aldrin, Jr."@en"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, who was a member of the Apollo 11 crew and spent 52 minutes in space, was born in Glen Ridge New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Glen Ridge New Jersey, Apollo 11 crewman Buzz Aldrin spent 52 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who was awarded the US Navy Distinguished Service Medal died in California, incidentally a Smilodon is a fossil from California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shephard was awarded the Distinguished Service Medal by United States Navy and died in California (where a Smilodon fossil was found).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who was awarded the Distinguished Service Medal by the US Navy, died in California where the Smilodon fossil was found.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " fossil ",
+   "subject": " Smilodon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " fossil ",
+     "subject": " Smilodon"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See who was selected by NASA in 1962 died on 28 February 1966 in St Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, ex NASA worker since 1962, died in St Louis on the 28th of February 1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was selected by NASA in 1962. He died in St. Louis on 1966-02-28.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " deathPlace ",
+   "subject": " St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " deathPlace ",
+     "subject": " St._Louis"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, born July 23 1927 in Dallas, has died.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See is deceased, was born on 23rd July 1927 in Dallas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (deceased) was born in Dallas 1927-07-23.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas on July 23, 1927. He is now deceased.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born on October 17th, 1933 in British Hong Kong, William Anders would serve as a crew member on Apollo 8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders who was born on 17 October 1933 in British Hong Kong later served as a crew member of Apollo 8.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, who was born in British Hong Kong on the 17th of October 1933, crewed Apollo 8.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id8"
+      }
+}

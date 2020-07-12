@@ -1,0 +1,470 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Faber and Faber are the publishers of The Secret Scripture, a sequel to A Long Long Way. That book comes from Ireland which is located in Europe and where there is an ethnic group of white people.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ireland, where the white people are an ethnic group, is situated within Europe. The book A Long Long Way was written in Ireland and published by Faber and Faber. The sequel to the book is known as The Secret Scripture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ireland is a country within Europe and the ethnic group are white people. The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which was published by Faber and Faber.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " country ",
+   "subject": " Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " country ",
+     "subject": " Ireland"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ethnic group of Ireland is White people and is where A Long Long Way comes from. It was preceded by Annie Dunne and followed by The Secret Scripture which is published by Faber and Faber.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "An ethnic group of Ireland is white people where A Long Long Way comes from. It was preceded by Annie Dunne preceded and followed by The Secret Scripture which is published by Faber and Faber.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " precededBy ",
+   "subject": " Annie_Dunne"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " previousWork ",
+     "subject": " Annie_Dunne"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was later followed by Into Battle and The Violet Keystone.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Viel is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into the Battle and The Violet Keystone.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " country ",
+       "subject": " Australians"
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " subsequentWork ",
+       "subject": " Into_Battle_(novel)"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and is nicknamed Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell Unversity is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Administrative Science Quarterly is published by Cornell University, Ithaca, in the state of New York. Cornell University (nicknamed 'Cornell Big Red') is affiliated with the Association of Public and Land Grant Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell Big Red is the nickname of Cornell University which is affiliated with the Association of Public and Land grant Universities. The University is in the city of Ithaca, New York, New York State and publishes the Administrative Science Quarterly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University, of Ithaca, New York, is the publisher of the Administrative Science Quarterly. The University, which has the nickname Cornell Big Red , is affiliated with the Association of Public and Land grant Universities.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States is home to the ethnic group of African Americans and is lead by Barack Obama. The country is the origin of the book Alcatraz Versus the Evil Librarians. This book was written in English, as spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from the United States and is written in English which is also spoken in Great Britain. The leader of the US is Barack Obama and African Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp originates in the United States where like in Great Britain, English is also spoken. Washington DC is the capital of the US and one ethnic group is the African Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and the United States where Joe Biden is leader, African Americans are an ethnic group and Alcatraz Versus the Evil Librarians is from there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is a book from The United States. In that country the majority language is English (as in Great Britain). A leading politician of the US is Joe Biden and African Americans are an ethnic group there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States. English is spoken there (as in Great Britain) and Joe Biden is a leading politician there. African Americans are an ethnic group in the US.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "David Cameron and Elizabeth II are leaders in the United Kingdom. The country, which uses the English language has the capital city of London and is where the AIDS journal originates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom, where English is spoken. The leader of the UK is Elizabeth II, and another leader is David Cameron. English is spoken in the United Kingdom, where the capital is London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS journal is from the United Kingdom, which capital is London and the language is English. The leaders of that country are David Cameron and Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " language ",
+       "subject": " English_language"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leaders of the United Kingdom are Elizabeth II and David Cameron. The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, whose parent company is Wolters Kluwer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom where Elizabeth II and David Cameron are leaders. The journal was published by Lippincott Williams &amp; Wilkins whose parent company is Wolters Kluwer.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " Elizabeth_II"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " David_Cameron"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and A Severed Wasp was written in it even though it comes from the United States. Barack Obama is the leader of the United States where Native Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is written in English, the language spoken in Great Britain. However, it originates from the United States where the President is Barack Obama and the Native Americans are an ethnic group.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, where Barack Obama is the president. English is the main language of the U.S., and is also spoken in Great Britain. Native Americans are one of the national ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, where English is spoken (as in Great Britain), and Barack Obama is President. Native Americans are one of the ethnic groups in the U.S.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id12"
+      }
+}

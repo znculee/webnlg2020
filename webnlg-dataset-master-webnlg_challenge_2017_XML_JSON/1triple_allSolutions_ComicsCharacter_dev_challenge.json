@@ -1,0 +1,515 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asterix was created by Rene Goscinny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The creator of Asterix (comics character) is René Goscinny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Asterix, was created by René Goscinny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asterix_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " René_Goscinny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asterix_(character) ",
+       "property": " creator ",
+       "subject": " René_Goscinny"
+       },
+       {
+       "object": "Asterix_(character) ",
+       "property": " creators ",
+       "subject": " René_Goscinny"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Auron was created by Marv Wolfman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auron was created by Marv Wolfman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Auron was created by Marv Wolfman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Marv_Wolfman"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auron_(comics) ",
+       "property": " creators ",
+       "subject": " "Marv Wolfman"@en"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Marv_Wolfman"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character, Balder, was created by Jack Kirby.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Balder was created by Jack Kirby.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jack Kirby created the comic character Balder.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Balder_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jack_Kirby"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Balder_(comics) ",
+     "property": " creators ",
+     "subject": " Jack_Kirby"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman is broadcast by STV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman is broadcasted by "STV".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman was broadcasted by STV.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " broadcastedBy ",
+   "subject": " "STV""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " network ",
+     "subject": " "STV"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman first aired on 3rd October 1983.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman first aired on the 3rd of October, 1983.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman was first aired on 10/03/1983.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " firstAired ",
+   "subject": " "1983-10-03""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " firstAired ",
+     "subject": " "1983-10-03"^^xsd:date"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie stars in Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman starred Bill Oddie.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddie starred in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " series ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Everett has won the Eisner Award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Everett has been awarded the Eisner award.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bill_Everett ",
+   "property": " award ",
+   "subject": " Eisner_Award"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bill_Everett ",
+     "property": " award ",
+     "subject": " Eisner_Award"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie's daughter is Kate Hardie.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Kate Hardie is Bill Oddie's child.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bill_Oddie ",
+   "property": " child ",
+   "subject": " Kate_Hardie"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bill_Oddie ",
+       "property": " children ",
+       "subject": " Kate_Hardie"
+       },
+       {
+       "object": "Bill_Oddie ",
+       "property": " child ",
+       "subject": " Kate_Hardie"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dan Mishkin is one of the creators of the comic character, Bolt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Bolt was created by Dan Mishkin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt was created by Dan Mishkin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Dan_Mishkin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Dan_Mishkin"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Dan_Mishkin"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bozo the Iron Man’s full name is Hugh Hazzard.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of Bozo the Iron Man is "Hugh Hazzard".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Bozo the Iron Man's alter ego is Hugh Hazzard.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bozo_the_Iron_Man ",
+   "property": " fullName ",
+   "subject": " "Hugh Hazzard""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bozo_the_Iron_Man ",
+     "property": " fullName ",
+     "subject": " "Hugh Hazzard"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Buscema has won the comic book award, Eagle Award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Buscema received the Eagle Award for his work in comics.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "John_Buscema ",
+   "property": " award ",
+   "subject": " Eagle_Award_(comics)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "John_Buscema ",
+     "property": " award ",
+     "subject": " Eagle_Award_(comics)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marv Wolfman is a recipient of the Eagle Award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Marv Wolfman won the Eagle Award for comics.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Marv Wolfman has received the Eagle Award for comics.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marv_Wolfman ",
+   "property": " award ",
+   "subject": " Eagle_Award_(comics)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Marv_Wolfman ",
+     "property": " award ",
+     "subject": " Eagle_Award_(comics)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+}

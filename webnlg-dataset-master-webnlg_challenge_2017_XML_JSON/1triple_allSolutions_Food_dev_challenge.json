@@ -1,0 +1,1235 @@
+{
+   1: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The alternative name for Ajoblanco is "Ajo blanco".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajo blanco is an alternative name to Ajoblanco.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajo blanco is an alternative name of Ajoblanco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " alternativeName ",
+   "subject": " "Ajo blanco""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " alias ",
+     "subject": " "Ajo blanco"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of Ajoblanco are bread, almonds, garlic, water, olive oil.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " mainIngredients ",
+   "subject": " "Bread, almonds, garlic, water, olive oil""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " mainIngredient ",
+     "subject": " "Bread, almonds, garlic, water, olive oil"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arem-arem is found nationwide in Indonesia, but is more specific to Java.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arem-arem is nationwide in Indonesia, but more specific to Java.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arem-arem ",
+   "property": " region ",
+   "subject": " "Nationwide in Indonesia, but more specific to Java""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arem-arem ",
+     "property": " region ",
+     "subject": " "Nationwide in Indonesia, but more specific to Java"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arem arem comes from Indonesia.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arem-arem ",
+   "property": " region ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arem-arem ",
+     "property": " region ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "the main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arrabbiata_sauce ",
+   "property": " mainIngredients ",
+   "subject": " "Tomatoes, red chili, garlic, olive oil""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arrabbiata_sauce ",
+       "property": " ingredientName ",
+       "subject": " "Tomatoes,red chili,garlic,olive oil""
+       },
+       {
+       "object": "Arrabbiata_sauce ",
+       "property": " mainIngredient ",
+       "subject": " "Tomatoes, red chili, garlic, olive oil"@en"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cuttlefish is an ingredient in Arros negre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cuttlefish is an ingredient of the dish Arròs negre.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " ingredient ",
+   "subject": " Cuttlefish"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " ingredient ",
+     "subject": " Cuttlefish"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Squid is an ingredient of Arros negre.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " ingredient ",
+   "subject": " Squid"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " ingredient ",
+     "subject": " Squid"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a food found in Malaysia.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Malaysia"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The genus of the avocado is persea.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The genus of Avocado is Persea.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Avocado ",
+   "property": " genus ",
+   "subject": " Persea"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Avocado ",
+     "property": " genus ",
+     "subject": " Persea"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ayam penyet should be served hot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ayam penyet is a dish that should be served hot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "ayam penyet is served hot.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ayam_penyet ",
+   "property": " servingTemperature ",
+   "subject": " "Hot""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ayam_penyet ",
+     "property": " servingTemperature ",
+     "subject": " "Hot""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baked Alaska is a dessert.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " course ",
+   "subject": " Dessert"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " course ",
+     "subject": " Dessert"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ingredient of bakewell tart is frangipane.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Frangipane is an ingredient in a Bakewell tart.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Frangipane is an ingredient of Bakewell tart.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_tart ",
+   "property": " ingredient ",
+   "subject": " Frangipane"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_tart ",
+     "property": " ingredient ",
+     "subject": " Frangipane"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The dish Bakso contains noodles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Noodle is an ingredient in Bakso.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "bakso contains noodles.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " ingredient ",
+   "subject": " Noodle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " ingredient ",
+     "subject": " Noodle"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vermicelli is an ingredient in Bakso.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermicelli is an ingredient of the dish Bakso.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermicelli is included in bakso.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " ingredient ",
+   "subject": " Vermicelli"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " ingredient ",
+     "subject": " Vermicelli"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chorizo is an ingredient in the dish Bandeja paisa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chorizo is an ingredient in Bandeja paisa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bandeja_paisa ",
+   "property": " ingredient ",
+   "subject": " Chorizo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bandeja_paisa ",
+     "property": " ingredient ",
+     "subject": " Chorizo"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mondelez International is the creator of Barny cakes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barny cakes were created by Mondelez International.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barny cakes is created by Mondelez International.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " creator ",
+   "subject": " Mondelez_International"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " creator ",
+     "subject": " Mondelez_International"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Barny Cakes can be chocolate flavoured.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chocolate is one variation of the Barny Cakes dish.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " dishVariation ",
+   "subject": " Chocolate"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " hasVariant ",
+     "subject": " Chocolate"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Barny cakes contain 1.8 g of protein.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barny cakes contain 1.8g of protein.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " protein ",
+   "subject": " 1.8 g"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " protein ",
+     "subject": " "1.8"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Batchoy is eaten in the Philippines.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Philippines is the country Batchoy comes from.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batchoy ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Batchoy ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicken is an ingredient in Batchoy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Batchoy includes chicken.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batchoy ",
+   "property": " ingredient ",
+   "subject": " Chicken"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Batchoy ",
+     "property": " ingredient ",
+     "subject": " Chicken"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vegetable are used in the preparation of Batchoy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vegetables are an ingredient in Batchoy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batchoy ",
+   "property": " ingredient ",
+   "subject": " Vegetable"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Batchoy ",
+     "property": " ingredient ",
+     "subject": " Vegetable"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Binignit is a dish from the region of Visayas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " region ",
+   "subject": " Visayas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " region ",
+     "subject": " Visayas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Patrick McLoughlin is a leader in the Derbyshire Dales.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Patrick McLoughlin is a leader in Derbyshire Dales.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Patrick McLoughlin is the leader of Derbyshire Dales.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Derbyshire_Dales ",
+   "property": " leaderName ",
+   "subject": " Patrick_McLoughlin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Derbyshire_Dales ",
+     "property": " leaderName ",
+     "subject": " Patrick_McLoughlin"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A variation on dessert is cake.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dessert ",
+   "property": " dishVariation ",
+   "subject": " Cake"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dessert ",
+     "property": " hasVariant ",
+     "subject": " Cake"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ice cream is a type of dessert.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A type of dessert is an ice cream.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ice cream is a dessert.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dessert ",
+   "property": " dishVariation ",
+   "subject": " Ice_cream"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dessert ",
+     "property": " hasVariant ",
+     "subject": " Ice_cream"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jusuf Kalla is a leader in Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jusuf Kalla is the leader of Indonesia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Indonesia ",
+   "property": " leaderName ",
+   "subject": " Jusuf_Kalla"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Indonesia ",
+       "property": " leaderName ",
+       "subject": " Jusuf_Kalla"
+       },
+       {
+       "object": "Indonesia ",
+       "property": " leader ",
+       "subject": " Jusuf_Kalla"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Italians are from Italy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Italians is the name given to people from Italy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Italy ",
+   "property": " demonym ",
+   "subject": " Italians"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Italy ",
+     "property": " demonym ",
+     "subject": " Italians"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baduy is the ethnic group of Java.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baduy is an ethnic group in Java.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baduy is an ethnic group of Java.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Java ",
+   "property": " ethnicGroup ",
+   "subject": " Baduy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Java ",
+     "property": " ethnicGroup ",
+     "subject": " Baduy"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lemon is under the order of Rosids.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "the order of lemons is Rosids.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lemon ",
+   "property": " order ",
+   "subject": " Rosids"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lemon ",
+     "property": " order ",
+     "subject": " Rosids"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mexico is inhabited by Mexicans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mexicans are people from Mexico.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mexico ",
+   "property": " demonym ",
+   "subject": " Mexicans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mexico ",
+     "property": " demonym ",
+     "subject": " Mexicans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In Mexico, the spoken language is Spanish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish is the language spoken in Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Mexico is Spanish.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mexico ",
+   "property": " language ",
+   "subject": " Spanish_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mexico ",
+     "property": " language ",
+     "subject": " Spanish_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the languages used in the Philippines is Arabic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arabic is a language spoken in the Philippines.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the languages in Philippines is Arabic.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Arabic is one of the languages spoken in the Philippines.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Philippines ",
+   "property": " language ",
+   "subject": " Arabic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Philippines ",
+     "property": " language ",
+     "subject": " Arabic"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Shumai is a variation of the dish Siomay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Siomay and Shumai are variations of the same dish.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Siomay ",
+   "property": " dishVariation ",
+   "subject": " Shumai"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Siomay ",
+       "property": " hasVariant ",
+       "subject": " Shumai"
+       },
+       {
+       "object": "Siomay ",
+       "property": " variations ",
+       "subject": " Shumai"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+   "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Native Americans in the United States are one of the ethnic groups of the country.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Native_Americans_in_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Native_Americans_in_the_United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id34"
+      }
+}

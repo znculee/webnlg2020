@@ -1,0 +1,195 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 and the director is Dr. G. P. Prabhukumar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The director of the Acharya Institute of Technology is Dr G P Prabhukumar. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " director ",
+   "subject": " "Dr. G. P. Prabhukumar""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " director ",
+     "subject": " "Dr. G. P. Prabhukumar"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The All India Council for Technical Education gave the Acharya Institute of Technology the status of "Technical Campus". The official school colours are blue, white and orange.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The official school colours for Acharya Institute of Technology are blue, white and orange and the school got its Technical Campus status from the All India Council.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology (official colour blue, white and orange) has been given the 'Technical Campus' status by All India Council for Technical Education.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " officialSchoolColour ",
+   "subject": " "Blue, White and Orange""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " officialSchoolColour ",
+     "subject": " "Blue, White and Orange""
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The International Tennis Federation, which is the sport's governing body, has agreed to let Acharya Institute of Technology offer tennis at the school.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tennis, as governed by the International Tennis Federation, is a sport offered at the Acharya Institute of Technology.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " sportsOffered ",
+   "subject": " Tennis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " sport ",
+     "subject": " Tennis"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association which has its headquarters in Brussels.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University is affiliated with the European University Association in Brussels.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and is located in Brussels.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "European_University_Association ",
+   "property": " headquarters ",
+   "subject": " Brussels"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "European_University_Association ",
+       "property": " headquarters ",
+       "subject": " Brussels"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " affiliation ",
+       "subject": " European_University_Association"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institue of Technology is located in the state of Karnataka which has the Arabian Sea to the west.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is in the state of Karnataka which has the Arabian Sea to its west.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in the state of Karnataka, which has to its west the Arabian Sea.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Karnataka ",
+   "property": " has to its west ",
+   "subject": " Arabian_Sea"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Karnataka ",
+     "property": " west ",
+     "subject": " Arabian_Sea"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+}

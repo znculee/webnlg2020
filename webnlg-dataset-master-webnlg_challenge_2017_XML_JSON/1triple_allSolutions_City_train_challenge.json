@@ -1,0 +1,9310 @@
+{
+   1: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 14.2 square kilometers of water in Abilene, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas has a water area of 14.2 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas has an area of water that is 14.2 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " areaOfWater ",
+   "subject": " 14.2 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " areaWater ",
+     "subject": " 1.42e+07"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene (Texas) has a total area of 286.5 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene in Texas has a total area of 286.5 SqK.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas has a total area of 286.5 sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " areaTotal ",
+   "subject": " 286.5 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " areaTotal ",
+     "subject": " "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albilene is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is located in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Texas is 524m above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is 524.0 above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is situated at 524.0 above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 524.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " elevation ",
+     "subject": " "523.951"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene is part of Jones County in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene is part of Jones County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Jones_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " isPartOf ",
+     "subject": " Jones_County,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene is part of Taylor County in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is located in Taylor County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Taylor_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " isPartOf ",
+     "subject": " Taylor_County,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total population density of Abilene, Texas is 429.9 inhabitants per sq km.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albilene, Texas has a population density of 429.9 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas, has a population density of 429.9 (inhabitants per square kilometre).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene,_Texas ",
+   "property": " populationDensity ",
+   "subject": " 429.9 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene,_Texas ",
+     "property": " populationDensity ",
+     "subject": " "429.9"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adams Township is in Madison County, in Indiana, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adams Township, Madison County, Indiana is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adams Township, Madison County, Indiana is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area codes in Akron, Ohio are 234 and 330.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " areaCode ",
+   "subject": " 234, 330"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " areaCode ",
+     "subject": " "234, 330""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron in Ohio has .88 square kilometres of water.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of water with Akron, Ohio, is .88 sq. km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There is 0.88 square km of water in Akron, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " areaOfWater ",
+   "subject": " 0.88 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " areaWater ",
+     "subject": " "880000.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio has a total area of 161.54 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Akron Ohio is 161.54 Sq Km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Akron, Ohio is 161.54 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " areaTotal ",
+   "subject": " 161.54 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " areaTotal ",
+     "subject": " "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is located in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is located within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The country of Akron, Ohio, is United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is at a height of 306.0 above sea level.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 306.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " elevation ",
+     "subject": " "306.019"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron is in Summit County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron is a part of Summit County, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron is located within Summit County, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " isPartOf ",
+   "subject": " Summit_County,_Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " subdivisionName ",
+     "subject": " Summit_County,_Ohio"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Ohio is part of the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is part of the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mayor is the title of the leader of Akron, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Akron, Ohio is the Mayor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader in Akron, Ohio is the Mayor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population density, of Akron (Ohio), is 1239.3 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Akron, Ohio is 1239.3 inhabitants per square km.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " populationDensity ",
+   "subject": " 1239.3 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " populationDensity ",
+     "subject": " "1239.35"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alabama is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alabama is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alabama ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alabama ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area, of Albany (Georgia), is 144.7 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia has a total area of 144.7 SqKm.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Albany, Georgia is 144.7 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " areaTotal ",
+   "subject": " 144.7 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " areaTotal ",
+     "subject": " "144.7"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is in Georgia in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia, is within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is located at 62.0 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The elevation above the sea level in Albany, Georgia, is 62.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 62.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " elevation ",
+     "subject": " "61.8744"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is a city in Dougherty County, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Dougherty County in Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is located in Dougherty County, Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Dougherty_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Georgia ",
+       "property": " isPartOf ",
+       "subject": " Dougherty_County,_Georgia"
+       },
+       {
+       "object": "Albany,_Georgia ",
+       "property": " subdivisionName ",
+       "subject": " Dougherty_County,_Georgia"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is part of the U.S. State of Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is located in the US state of Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of the state of Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Georgia ",
+       "property": " isPartOf ",
+       "subject": " Georgia_(U.S._state)"
+       },
+       {
+       "object": "Albany,_Georgia ",
+       "property": " subdivisionName ",
+       "subject": " Georgia_(U.S._state)"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is in Georgia which is a part of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia, is in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany in Georgia has a population density of 535 people per square kilometer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Albany, Georgia is 535.0 inhabitants per square kilometre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " populationDensity ",
+   "subject": " 535.0 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " populationDensity ",
+     "subject": " "535.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon has area codes 541 and 458.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes for Albany, Oregon are 541 and 458.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " areaCode ",
+   "subject": " 541, 458"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " areaCode ",
+     "subject": " 541458"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There is .54 square kilometers of water in Albany, Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon has a water area of 0,54 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of water in Albany, Oregon, is 0.54 (square kilometres).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " areaOfWater ",
+   "subject": " 0.54 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " areaWater ",
+     "subject": " "540000.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is 64,008 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is located at 64.008 above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 64.008"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " elevation ",
+     "subject": " "64.008"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County in Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Albany is part of Benton County, Oregon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Benton_County,_Oregon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " isPartOf ",
+       "subject": " Benton_County,_Oregon"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " subdivisionName ",
+       "subject": " Benton_County,_Oregon"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is a city in Linn County, Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon falls under Linn County Oregon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Linn County, Oregon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Linn_County,_Oregon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " isPartOf ",
+       "subject": " Linn_County,_Oregon"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " subdivisionName ",
+       "subject": " Linn_County,_Oregon"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is a city in Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Oregon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Oregon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " subdivisionName ",
+       "subject": " Oregon"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " isPartOf ",
+       "subject": " Oregon"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population density of Albany, in Oregon, is 1104.1 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is located in Oregon, where the population density is 1104.1 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density for Albany, Oregon is 1104.1 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " populationDensity ",
+   "subject": " 1104.1 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " populationDensity ",
+     "subject": " "1104.1"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico has area codes 505 and 575.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes in Albuquerque, New Mexico are 505 and 575.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " areaCode ",
+   "subject": " 505, 575"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " areaCode ",
+     "subject": " "505, 575""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The land area, of Albuquerque (New Mexico), is 486.2 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque, N.M. has an area of land of 486.2 square kilometers.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " areaOfLand ",
+   "subject": " 486.2 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " areaLand ",
+     "subject": " 4.862e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque, in New Mexico, has a total are of 490.9 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Albuquerque, New Mexico is 490.9 square kilometres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " areaTotal ",
+   "subject": " 490.9 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " areaTotal ",
+     "subject": " "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque is in New Mexico, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico, is within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico is part of Bernalillo County, New Mexico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque is part of Bernalillo County, New Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque, New Mexico, is part of Bernalillo County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " isPartOf ",
+   "subject": " Bernalillo_County,_New_Mexico"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albuquerque,_New_Mexico ",
+       "property": " subdivisionName ",
+       "subject": " Bernalillo_County,_New_Mexico"
+       },
+       {
+       "object": "Albuquerque,_New_Mexico ",
+       "property": " isPartOf ",
+       "subject": " Bernalillo_County,_New_Mexico"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque is in New Mexico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque is part of New Mexico.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " isPartOf ",
+   "subject": " New_Mexico"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albuquerque,_New_Mexico ",
+       "property": " isPartOf ",
+       "subject": " New_Mexico"
+       },
+       {
+       "object": "Albuquerque,_New_Mexico ",
+       "property": " subdivisionName ",
+       "subject": " "New Mexico"@en"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader, of Albuquerque (New Mexico), is Richard J. Berry.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Richard J. Berry is the leader of Albuquerque, New Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Albuquerque in New Mexico is Richard J Berry.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " leader ",
+   "subject": " Richard_J._Berry"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " leaderName ",
+     "subject": " "Richard J. Berry"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id39"
+      }
+},
+{
+   40: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Albuquerque (New Mexico) is called the Mayor of Albuquerque.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Albuquerque, New Mexico has the title of Mayor of Albuquerque.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albuquerque in New Mexico is led by the Mayor of Albuquerque.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " leaderTitle ",
+   "subject": " Mayor_of_Albuquerque"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " leaderTitle ",
+     "subject": " Mayor_of_Albuquerque"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id40"
+      }
+},
+{
+   41: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In Albuquerque (New Mexico), the leader is called, the United States House of Representatives.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader for Albuquerque in New Mexico is the United States House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Albuquerque, New Mexico is the United States House of Representatives.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " leaderTitle ",
+   "subject": " United_States_House_of_Representatives"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " leaderTitle ",
+     "subject": " United_States_House_of_Representatives"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   42: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 1142.3 people per square kilometers in Albuquerque, N.M.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Albuquerque in New Mexico is 1142.3 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque,_New_Mexico ",
+   "property": " populationDensity ",
+   "subject": " 1142.3 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque,_New_Mexico ",
+     "property": " populationDensity ",
+     "subject": " "1142.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   43: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albuquerque City Council is led by Richard J. Berry.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the Albuquerque City Council is Richard J. Berry.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Richard J Berry is the leader of Albuquerque City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albuquerque_City_Council ",
+   "property": " leader ",
+   "subject": " Richard_J._Berry"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albuquerque_City_Council ",
+     "property": " leader ",
+     "subject": " Richard_J._Berry"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id43"
+      }
+},
+{
+   44: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code for Alexandria, Indiana is 765.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Alexandria, Indiana is 765.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " areaCode ",
+   "subject": " 765"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alexandria,_Indiana ",
+     "property": " areaCode ",
+     "subject": " 765"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id44"
+      }
+},
+{
+   45: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria, in Indiana, has a total area of 6,81 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria in Indiana occupies 6.81 square kilometers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Alexandria, Indiana is 6.81 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " areaTotal ",
+   "subject": " 6.81 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alexandria,_Indiana ",
+     "property": " areaTotal ",
+     "subject": " 6.81e+06"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id45"
+      }
+},
+{
+   46: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana is 265m above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana is located at 265.0 above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 265.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alexandria,_Indiana ",
+     "property": " elevation ",
+     "subject": " "265.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id46"
+      }
+},
+{
+   47: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria is part of Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria is located in Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria is part of the state of Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Indiana"
+       },
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   48: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria is part of Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana, is part of Madison County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana is part of Madison County Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Madison_County,_Indiana"
+       },
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Madison_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   49: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria is part of the Monroe Township which is in Madison County, in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana is part of Monroe Township, in Madison County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexandria is part of Monroe township, Madison County, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Monroe_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Monroe_Township,_Madison_County,_Indiana"
+       },
+       {
+       "object": "Alexandria,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Monroe_Township,_Madison_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   50: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alexandria, Indiana has a population density of 755.3 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Alexandria, Indiana is 755.3 inhabitants per sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Alexandria, Indiana, is 755.3 (inhabitants per square kilometer).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alexandria,_Indiana ",
+   "property": " populationDensity ",
+   "subject": " 755.3 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alexandria,_Indiana ",
+     "property": " populationDensity ",
+     "subject": " "755.3"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   51: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia has area codes 770, 404, and 678.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes for Alpharetta, Georgia are 770, 404 and 678.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " areaCode ",
+   "subject": " 770, 404, 678"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " areaCode ",
+     "subject": " 770404678"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   52: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia has an area of water 1.0 sq km.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia has a total area of water of 1.0 sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of water in Alpharetta, Georgia, is 1.0 (square kilometres).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " areaOfWater ",
+   "subject": " 1.0 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " areaWater ",
+     "subject": " "100000.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id52"
+      }
+},
+{
+   53: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area of Alpharetta, Georgia is 55.4 SqKm.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of Alpharetta, Georgia is 55.4 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta in Georgia has a total area of 55.4 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " areaTotal ",
+   "subject": " 55.4 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " areaTotal ",
+     "subject": " 5.54e+07"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id53"
+      }
+},
+{
+   54: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, is in Georgia, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id54"
+      }
+},
+{
+   55: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia is elevated 346.0 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia is located at 346.0 above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 346.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " elevation ",
+     "subject": " "345.948"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id55"
+      }
+},
+{
+   56: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, is part of Fulton County, in Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Fulton County is the location of Alpharetta,Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta is part of Fulton County in Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Fulton_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " isPartOf ",
+       "subject": " Fulton_County,_Georgia"
+       },
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " subdivisionName ",
+       "subject": " Fulton_County,_Georgia"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id56"
+      }
+},
+{
+   57: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta is part of the U.S. state, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta is part of the state of Georgia in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta is part of Georgia (U.S state).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " subdivisionName ",
+       "subject": " Georgia_(U.S._state)"
+       },
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " isPartOf ",
+       "subject": " Georgia_(U.S._state)"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id57"
+      }
+},
+{
+   58: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 992.6 people per square kilometres in Alpharetta, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Georgia has a population density of 992.6 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density in Alpharetta, Georgia is 992.6 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " populationDensity ",
+   "subject": " 992.6 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alpharetta,_Georgia ",
+     "property": " populationDensity ",
+     "subject": " "992.6"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   59: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code for Amarillo, Texas is 806.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "806 is the area code for Amarillo, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " areaCode ",
+   "subject": " 806"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " areaCode ",
+     "subject": " "806""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   60: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo Texas is elevated 1099.0 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo, Texas is 1099 metres above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 1099.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " elevation ",
+     "subject": " "1099.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   61: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo is a city in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo is part of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amarillo,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Amarillo,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " "Texas"@en"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id61"
+      }
+},
+{
+   62: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo, Texas has a population density of 746 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "746 people per square kilometre inhabit Amarillo, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo Texas has a population density of 746.0 inhabitants per square kilometre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " populationDensity ",
+   "subject": " 746.0 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " populationDensity ",
+     "subject": " "746.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id62"
+      }
+},
+{
+   63: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California has a UTC offset of - 7.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, CA has a UTC offset of minus 7.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California has an UTC offset of -7.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " UTCOffset ",
+   "subject": " "-7""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " utcOffset ",
+     "subject": " "&amp;minus;7""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   64: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, in California, has a UTC offset of -8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The UTC offset for Anaheim, California is -8.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " UTCOffset ",
+   "subject": " "-8""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " utcOffset ",
+     "subject": " "&amp;minus;8"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id64"
+      }
+},
+{
+   65: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "657 and 714 are area codes for Anaheim, CA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim in California has the area code: 657, 714.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " areaCode ",
+   "subject": " 657, 714"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " areaCode ",
+     "subject": " "657/714""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id65"
+      }
+},
+{
+   66: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area of water, in Anaheim (California), is 25.2 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, CA has 25.2 square kilometres of water.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of water in Anaheim, California is 25.2 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " areaOfWater ",
+   "subject": " 25.2 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " areaWater ",
+     "subject": " 2.52783e+06"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id66"
+      }
+},
+{
+   67: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California has a total area of 131.6 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Anaheim California is 131.6 sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area for Anaheim California is 131.6 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " areaTotal ",
+   "subject": " 131.6 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " areaTotal ",
+     "subject": " "131.5998858742825"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id67"
+      }
+},
+{
+   68: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in California in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id68"
+      }
+},
+{
+   69: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim in California has an elevation of 48.0m above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California elevation is 48.0 above the sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is situated at 48.0 above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 48.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " elevation ",
+     "subject": " "47.8536"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id69"
+      }
+},
+{
+   70: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is part of California.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id70"
+      }
+},
+{
+   71: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is a city in Orange County which is part of California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in Orange County, CA.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is part of Orange County, California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id71"
+      }
+},
+{
+   72: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tom Tait is a leader in Anaheim, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tom Tait is the leader of Anaheim, California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Anaheim, California, is Tom Tait.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leader ",
+   "subject": " Tom_Tait"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderName ",
+     "subject": " Tom_Tait"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id72"
+      }
+},
+{
+   73: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is led by the California State Assembly.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id73"
+      }
+},
+{
+   74: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Senate leads Anaheim, California.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Senate"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Senate"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id74"
+      }
+},
+{
+   75: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives leads Anaheim, California.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " United_States_House_of_Representatives"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " United_States_House_of_Representatives"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id75"
+      }
+},
+{
+   76: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, CA has 336265 people inhabiting it.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total population of Anaheim California is 336265.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California has a population of 336265.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " populationTotal ",
+   "subject": " 336265"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " populationTotal ",
+     "subject": " "336265"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id76"
+      }
+},
+{
+   77: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code of Anderson, in Indiana, is 765.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Anderson, Indiana is 765.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Anderson, Indiana , is 765.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " areaCode ",
+   "subject": " 765"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " areaCode ",
+     "subject": " "765""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id77"
+      }
+},
+{
+   78: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana has an area of 107.43 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is located in Indiana , whose total area is 107.43 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Anderson, Indiana is 107.43 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " areaTotal ",
+   "subject": " 107.43 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " areaTotal ",
+     "subject": " 1.07433e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id78"
+      }
+},
+{
+   79: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson Indiana has an elevation of 268.0 above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is located at 268.0 above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The elevation above the sea level for Anderson, Indiana, is 268.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 268.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " elevation ",
+     "subject": " "268.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id79"
+      }
+},
+{
+   80: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Adams Township, Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is located within Adams Township, Madison County, Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Adams_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Adams_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id80"
+      }
+},
+{
+   81: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Anderson Township, Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Anderson Township, Madison County, Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana, is part of the Anderson Township, Madison County in Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Anderson_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Anderson_Township,_Madison_County,_Indiana"
+       },
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Anderson_Township,_Madison_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id81"
+      }
+},
+{
+   82: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Fall Creek Township, Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana, is part of Fall Creek Township, Madison County, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Fall_Creek_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Fall_Creek_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id82"
+      }
+},
+{
+   83: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is a city in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Anderson is part of Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Indiana"
+       },
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id83"
+      }
+},
+{
+   84: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Lafayette Township, Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Lafayette Township, Madison County,Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Lafayette_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Lafayette_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id84"
+      }
+},
+{
+   85: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson in Madison County is in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is located in Madison County, Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Madison County, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Madison_County,_Indiana"
+       },
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Madison_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id85"
+      }
+},
+{
+   86: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of the Union Township, Madison County.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Union Township, Madison County, Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Union_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Union_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id86"
+      }
+},
+{
+   87: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is led by the Democratic Party of the US.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " leader ",
+   "subject": " Democratic_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " leaderName ",
+     "subject": " Democratic_Party_(United_States)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id87"
+      }
+},
+{
+   88: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana has 523.9 people per square kilometer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Anderson, Indiana is 523.9 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Anderson, Indiana, is 523.9 (inhabitants per square kilometre).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " populationDensity ",
+   "subject": " 523.9 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " populationDensity ",
+     "subject": " "523.9"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id88"
+      }
+},
+{
+   89: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Township of Madison County, Indiana is in the Country of United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson Township, Madison County, Indiana is located within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The country of Anderson Township, Madison County, Indiana, is United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id89"
+      }
+},
+{
+   90: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola, in Indiana, has a total area of 16.55 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Angola, Indiana, is 16.55 square kilometres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " areaTotal ",
+   "subject": " 16.55 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola,_Indiana ",
+     "property": " areaTotal ",
+     "subject": " "16.55"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id90"
+      }
+},
+{
+   91: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id91"
+      }
+},
+{
+   92: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola is a city in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola is part of the state of Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Indiana"
+       },
+       {
+       "object": "Angola,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id92"
+      }
+},
+{
+   93: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is part of Steuben County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana, is part of Steuben County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is in Steuben County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Steuben_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Steuben_County,_Indiana"
+       },
+       {
+       "object": "Angola,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Steuben_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id93"
+      }
+},
+{
+   94: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola is part of Indiana which is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola, Indiana is part of the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola in Indiana is part of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola,_Indiana ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id94"
+      }
+},
+{
+   95: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population density of Angola Indians is 524.5 (inhabitants per square kilometre).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Angola, Indiana is 524.5 inhabitants per sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density in Angola, Indiana, is 524.5 (inhabitants per square kilometre).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola,_Indiana ",
+   "property": " populationDensity ",
+   "subject": " 524.5 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola,_Indiana ",
+     "property": " populationDensity ",
+     "subject": " "524.5"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id95"
+      }
+},
+{
+   96: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code for Ann Arbor Michigan is 734.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "734 is the area code for Ann Arbor, Michigan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " areaCode ",
+   "subject": " 734"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " areaCode ",
+     "subject": " "734""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id96"
+      }
+},
+{
+   97: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ann Arbor, Michigan has a total area of 74.33 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor (Michigan), has a total area of 74.33 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor in Michigan has a total area of 74.33 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " areaTotal ",
+   "subject": " 74.33 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " areaTotal ",
+     "subject": " "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id97"
+      }
+},
+{
+   98: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ann Arbor is in Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor is part of Michigan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " isPartOf ",
+   "subject": " Michigan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ann_Arbor,_Michigan ",
+       "property": " isPartOf ",
+       "subject": " Michigan"
+       },
+       {
+       "object": "Ann_Arbor,_Michigan ",
+       "property": " subdivisionName ",
+       "subject": " Michigan"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id98"
+      }
+},
+{
+   99: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ann Arbor is part of Washtenaw County in Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor, Michigan is part of Washtenaw County.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " isPartOf ",
+   "subject": " Washtenaw_County,_Michigan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ann_Arbor,_Michigan ",
+       "property": " subdivisionName ",
+       "subject": " Washtenaw_County,_Michigan"
+       },
+       {
+       "object": "Ann_Arbor,_Michigan ",
+       "property": " isPartOf ",
+       "subject": " Washtenaw_County,_Michigan"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id99"
+      }
+},
+{
+   100: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christopher Taylor, politician, leads Ann Arbor, Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ann Arbor, Michigan is led by the politician Christopher Taylor.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " leader ",
+   "subject": " Christopher_Taylor_(politician)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " leaderName ",
+     "subject": " Christopher_Taylor_(politician)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id100"
+      }
+},
+{
+   101: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city manager is the leader of Ann Arbor, Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The title of the leader of Ann Arbor in Michigan is the City Manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "City Manager is the leader title in Ann Arbor, Michigan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ann_Arbor,_Michigan ",
+   "property": " leaderTitle ",
+   "subject": " City_Manager"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ann_Arbor,_Michigan ",
+     "property": " leaderTitle ",
+     "subject": " City_manager"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id101"
+      }
+},
+{
+   102: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antioch, California has a UTC offset of - 7.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch, California time zone offset is -7.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The UTC offset for Antioch California is -7.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " UTCOffset ",
+   "subject": " "-7""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " utcOffset ",
+     "subject": " "&amp;minus;7""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id102"
+      }
+},
+{
+   103: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antioch in California has a UTC offset of -8.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The UTC offset for Antioch, California is -8.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The UTC offset in Antioch, California, is -8.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " UTCOffset ",
+   "subject": " "-8""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " utcOffset ",
+     "subject": " "&amp;minus;8"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id103"
+      }
+},
+{
+   104: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area of Antioch, California is 75.324 square km.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch, California has a total area of 75.324 square km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area in Antioch, California is 75.324 (square kilometres).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " areaTotal ",
+   "subject": " 75.324 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " areaTotal ",
+     "subject": " "75.324"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id104"
+      }
+},
+{
+   105: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antioch is part of California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Antioch is located within California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " isPartOf ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antioch,_California ",
+       "property": " settlementType ",
+       "subject": " California"
+       },
+       {
+       "object": "Antioch,_California ",
+       "property": " isPartOf ",
+       "subject": " California"
+       },
+       {
+       "object": "Antioch,_California ",
+       "property": " subdivisionName ",
+       "subject": " California"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id105"
+      }
+},
+{
+   106: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The mayor is the leader of Antioch, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mayor, is the title for the leader of Antioch, in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mayor leads Antioch, California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id106"
+      }
+},
+{
+   107: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives is the leader of Antioch, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch, California is led by the United States House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader title of Antioch, California, is United States House of Representatives.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " leaderTitle ",
+   "subject": " United_States_House_of_Representatives"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " leaderTitle ",
+     "subject": " "United States representatives"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id107"
+      }
+},
+{
+   108: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population of Antioch California is 102372.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total population of Antioch, California is 102372.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population of Antioch, California is 102372.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " populationTotal ",
+   "subject": " 102372"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " populationTotal ",
+     "subject": " 102372"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id108"
+      }
+},
+{
+   109: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antioch, California has postal codes 94509 and 94531.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antioch California has the postal codes 94509 and 94531.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "94509 and 94531 are postal codes for Antioch, CA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioch,_California ",
+   "property": " postalCode ",
+   "subject": " 94509, 94531"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioch,_California ",
+     "property": " postalCode ",
+     "subject": " "9450994531"^^xsd:decimal"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id109"
+      }
+},
+{
+   110: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Area codes for Arlington, Texas are: 682, 817, 214, 469 and 972.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes for Arlington, Texas are 682, 817, 214, 469 and 972.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes for Arlington, Texas are 682, 817, 214, 469, 972.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " areaCode ",
+   "subject": " 682, 817, 214, 469, 972"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arlington,_Texas ",
+     "property": " areaCode ",
+     "subject": " "682, 817,214, 469, 972""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id110"
+      }
+},
+{
+   111: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arlington, Texas has a water area of 82.8 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of water within Arlington Texas is 82.8 sq km.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " areaOfWater ",
+   "subject": " 82.8 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arlington,_Texas ",
+     "property": " areaWater ",
+     "subject": " 8.3e+06"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id111"
+      }
+},
+{
+   112: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area of Arlington (Texas) is 258.3 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arlington Texas has an area of 258.2 SqK.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Arlington in Texas is 258.2 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " areaTotal ",
+   "subject": " 258.2 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arlington,_Texas ",
+     "property": " areaTotal ",
+     "subject": " 2.58222e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id112"
+      }
+},
+{
+   113: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arlington is part of Tarrant County in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arlington, Tarrant County, is in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arlington is part of Tarrant County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Tarrant_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arlington,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Tarrant_County,_Texas"
+       },
+       {
+       "object": "Arlington,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Tarrant_County,_Texas"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id113"
+      }
+},
+{
+   114: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arlington is part of Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arlington is part of the state of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arlington,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arlington,_Texas ",
+     "property": " isPartOf ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id114"
+      }
+},
+{
+   115: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta has the area code of 404.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta has an area code of 404.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code for Atlanta is 404.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " areaCode ",
+   "subject": " 404"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " areaCode ",
+     "subject": " 404"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id115"
+      }
+},
+{
+   116: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area codes in Atlanta are 404, 678, and 470.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area codes for Atlanta are 404, 678 and 470.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta has the area codes 404, 678, and 470.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " areaCode ",
+   "subject": " 404, 678, 470"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " areaCode ",
+     "subject": " "404/678/470""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id116"
+      }
+},
+{
+   117: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta covers 344.9 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta covers an area of 344.9 (square kilometres).",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " areaOfLand ",
+   "subject": " 344.9 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " areaLand ",
+     "subject": " 3.449e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id117"
+      }
+},
+{
+   118: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area of Atlanta is 347.1 SqKm.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Atlanta is 347.1 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Atlanta is 347.1 (square kilometres).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " areaTotal ",
+   "subject": " 347.1 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " areaTotal ",
+     "subject": " "347.1"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id118"
+      }
+},
+{
+   119: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is in the U.S.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id119"
+      }
+},
+{
+   120: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta is part of Georgia.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " isPartOf ",
+   "subject": " "Georgia""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " subdivisionName ",
+     "subject": " "Georgia"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id120"
+      }
+},
+{
+   121: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Most of Atlanta is part of DeKalb County in Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is part of DeKalb County in Georgia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " isPartOf ",
+   "subject": " DeKalb_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlanta ",
+       "property": " isPartOf ",
+       "subject": " DeKalb_County,_Georgia"
+       },
+       {
+       "object": "Atlanta ",
+       "property": " subdivisionName ",
+       "subject": " DeKalb_County,_Georgia"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id121"
+      }
+},
+{
+   122: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta is a part of Fulton County in Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is part of Fulton County in Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is part of Fulton County, Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " isPartOf ",
+   "subject": " Fulton_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlanta ",
+       "property": " isPartOf ",
+       "subject": " Fulton_County,_Georgia"
+       },
+       {
+       "object": "Atlanta ",
+       "property": " subdivisionName ",
+       "subject": " Fulton_County,_Georgia"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id122"
+      }
+},
+{
+   123: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta, is a part of the U.S. state, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is part of Georgia in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is located within the US state of Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " isPartOf ",
+     "subject": " Georgia_(U.S._state)"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id123"
+      }
+},
+{
+   124: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Atlanta is the Atlanta City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is led by Atlanta City Council.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " leader ",
+   "subject": " Atlanta_City_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " leaderName ",
+     "subject": " Atlanta_City_Council"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id124"
+      }
+},
+{
+   125: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta has a population density of 1299 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Atlanta is 1299.0 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlanta ",
+   "property": " populationDensity ",
+   "subject": " 1299.0 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlanta ",
+     "property": " populationDensity ",
+     "subject": " "1299.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id125"
+      }
+},
+{
+   126: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code in Atlantic City (New Jersey) is 609.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "609 is the area code of Atlantic City, N.J.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Atlantic City, New Jersey, is 609.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " areaCode ",
+   "subject": " 609"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " areaCode ",
+     "subject": " "609""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id126"
+      }
+},
+{
+   127: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City is in new Jersey, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey, is within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id127"
+      }
+},
+{
+   128: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City is part of Atlantic County, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey is in Atlantic County, New Jersey.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " isPartOf ",
+   "subject": " Atlantic_County,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " isPartOf ",
+     "subject": " Atlantic_County,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id128"
+      }
+},
+{
+   129: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Don Guardian is the leader of Atlantic City (New Jersey).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Atlantic City, New Jersey is Don Guardian.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader in Atlantic City, New Jersey is Don Guardian.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " leader ",
+   "subject": " Don_Guardian"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " leaderName ",
+     "subject": " Don_Guardian"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id129"
+      }
+},
+{
+   130: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader's title in Atlantic City (New Jersey) is Clerk, which is a municipal official.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Clerk (municipal official) is the leader of Atlantic City, N.J.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The municipal official titled the Clerk leads Atlantic City, New Jersey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " leaderTitle ",
+   "subject": " Clerk_(municipal_official)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " leaderTitle ",
+     "subject": " "Clerk"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id130"
+      }
+},
+{
+   131: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": ""Mayor" is the title of the leader in Atlantic City, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The municipal leader of Atlantic City, New Jersey is known as the Mayor.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " leaderTitle ",
+   "subject": " Mayors_of_Atlantic_City,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " leaderTitle ",
+     "subject": " Mayors_of_Atlantic_City,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id131"
+      }
+},
+{
+   132: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City, in New Jersey, has a population density of 1421.2 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey, has a population of 1421.2 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Atlantic City, New Jersey is 1421.2 inhabitants per square kilometre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " populationDensity ",
+   "subject": " 1421.2 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " populationDensity ",
+     "subject": " "1421.2"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id132"
+      }
+},
+{
+   133: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica in Indiana, has a total area of 4.14 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area of Attica Indiana is 4.14 SqKm.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana has a total area of 4.14 sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " areaTotal ",
+   "subject": " 4.14 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Attica,_Indiana ",
+     "property": " areaTotal ",
+     "subject": " 4.14e+06"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id133"
+      }
+},
+{
+   134: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana, is part of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is in the United Sates.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Attica,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id134"
+      }
+},
+{
+   135: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica is part of Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica is part of the state of Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Attica,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Indiana"
+       },
+       {
+       "object": "Attica,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id135"
+      }
+},
+{
+   136: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is part of Logan Township, Fountain County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica is a city in Logan Township which is a part of Fountain County in Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica is part of Logan Township, Fountain County, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Logan_Township,_Fountain_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Attica,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Logan_Township,_Fountain_County,_Indiana"
+       },
+       {
+       "object": "Attica,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Logan_Township,_Fountain_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id136"
+      }
+},
+{
+   137: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is part of the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica,Indiana is part of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Attica, Indiana is part of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Attica,_Indiana ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id137"
+      }
+},
+{
+   138: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population density, of Attica (Indiana), is 783.1 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Attica, Indiana, is 783.1 inhabitants per sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Attica Indiana is 783.1 (inhabitants per square kilometre).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Attica,_Indiana ",
+   "property": " populationDensity ",
+   "subject": " 783.1 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Attica,_Indiana ",
+     "property": " populationDensity ",
+     "subject": " "783.1"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id138"
+      }
+},
+{
+   139: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama, has the area code, 334.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code for Auburn, Alabama is 334.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " areaCode ",
+   "subject": " 334"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " areaCode ",
+     "subject": " 334"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id139"
+      }
+},
+{
+   140: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1.7 square kilometres is the area of water in Auburn, Alabama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama has an area of water that is 1.7 km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There is a total area of 1.7 square kilometres of water in Auburn, Alabama.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " areaOfWater ",
+   "subject": " 1.7 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " areaWater ",
+     "subject": " 1.7e+06"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id140"
+      }
+},
+{
+   141: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The total area of the city Auburn, in Alabama, is 140.8 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Auburn, Alabama is 140.8 Sq Km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The total area of Auburn, Alabama is 140.8 square kilometres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " areaTotal ",
+   "subject": " 140.8 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " areaTotal ",
+     "subject": " "140.8"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id141"
+      }
+},
+{
+   142: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn Alabama is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id142"
+      }
+},
+{
+   143: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn Alabama has an elevation above sea level of 214.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama is located at 214.0 above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " elevationAboveTheSeaLevel ",
+   "subject": " 214.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " elevation ",
+     "subject": " "214.0"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id143"
+      }
+},
+{
+   144: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Population density in Auburn,Alabama is 368.65 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Alabama has a population density of 368.65 inhabitants per sq km.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of the city, Auburn in Alabama is 368.65 (inhabitants per square kilometre).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Alabama ",
+   "property": " populationDensity ",
+   "subject": " 368.65 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Alabama ",
+     "property": " populationDensity ",
+     "subject": " "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id144"
+      }
+},
+{
+   145: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn, Washington is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Washington is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Washington ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id145"
+      }
+},
+{
+   146: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "King County is the location of Auburn, Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is part of King County in Washington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is part of King County, Washington.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " isPartOf ",
+   "subject": " King_County,_Washington"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auburn,_Washington ",
+       "property": " isPartOf ",
+       "subject": " King_County,_Washington"
+       },
+       {
+       "object": "Auburn,_Washington ",
+       "property": " subdivisionName ",
+       "subject": " King_County,_Washington"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id146"
+      }
+},
+{
+   147: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn is in Pierce County, Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn forms part of Pierce County, Washington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is part of Pierce County, Washington.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " isPartOf ",
+   "subject": " Pierce_County,_Washington"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auburn,_Washington ",
+       "property": " subdivisionName ",
+       "subject": " Pierce_County,_Washington"
+       },
+       {
+       "object": "Auburn,_Washington ",
+       "property": " isPartOf ",
+       "subject": " Pierce_County,_Washington"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id147"
+      }
+},
+{
+   148: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn, Washington is part of the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn, Washington is part of the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Washington ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id148"
+      }
+},
+{
+   149: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn is part of Washington state.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is located within the state of Washington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Auburn is part of Washington (state).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " isPartOf ",
+   "subject": " Washington_(state)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auburn,_Washington ",
+       "property": " subdivisionName ",
+       "subject": " Washington_(state)"
+       },
+       {
+       "object": "Auburn,_Washington ",
+       "property": " isPartOf ",
+       "subject": " Washington_(state)"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id149"
+      }
+},
+{
+   150: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mayor is the title of the leader of Auburn, in Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mayor is the leader in Auburn, Washington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The title of the leader in Auburn, Washington is the Mayor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Washington ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id150"
+      }
+},
+{
+   151: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auburn, Washington has a population density of 914.8 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density, of Auburn (Washington), is 914.8 inhabitants per square kilometre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Auburn, Washington, is 914.8 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auburn,_Washington ",
+   "property": " populationDensity ",
+   "subject": " 914.8 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auburn,_Washington ",
+     "property": " populationDensity ",
+     "subject": " "914.8"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id151"
+      }
+},
+{
+   152: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area code of Austin (Texas), is 512.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code for Austin, Texas is 512.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The area code of Austin, Texas, is 512.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " areaCode ",
+   "subject": " 512"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " areaCode ",
+     "subject": " 512"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id152"
+      }
+},
+{
+   153: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ares codes of Austin (Texas) are 512 and 737.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " areaCode ",
+   "subject": " 512, 737"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " areaCode ",
+     "subject": " "512 &amp; 737""
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id153"
+      }
+},
+{
+   154: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin, Texas has a land area of 686 square kilometres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas has a area of land that measures 686.0 (square kilometers).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas covers 686.0 square kilometres of land.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " areaOfLand ",
+   "subject": " 686.0 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " areaLand ",
+     "subject": " 6.86088e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id154"
+      }
+},
+{
+   155: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The area of Austin, Texas is 703.95 (square kilometres).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas has a total area of 703.95 square kilometres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " areaTotal ",
+   "subject": " 703.95 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " areaTotal ",
+     "subject": " 7.03959e+08"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id155"
+      }
+},
+{
+   156: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin, Texas is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas is located within the country of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The country of Austin, Texas, is United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id156"
+      }
+},
+{
+   157: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is in Hays County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin is a part of Hays County in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas, is part of Hays County Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Hays_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Austin,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Hays_County,_Texas"
+       },
+       {
+       "object": "Austin,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Hays_County,_Texas"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id157"
+      }
+},
+{
+   158: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is part of Travis County, in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin is located in Travis County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin is part of Travis County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Travis_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Austin,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Travis_County,_Texas"
+       },
+       {
+       "object": "Austin,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Travis_County,_Texas"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id158"
+      }
+},
+{
+   159: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is part of Williamson County, in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin Texas is part of Williamson County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin is part of Williamson County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Williamson_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Austin,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Williamson_County,_Texas"
+       },
+       {
+       "object": "Austin,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Williamson_County,_Texas"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id159"
+      }
+},
+{
+   160: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city manager is the leader of Austin, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The City Manager leads Austin, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " leaderTitle ",
+   "subject": " City_Manager"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " leaderTitle ",
+     "subject": " "City Manager"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id160"
+      }
+},
+{
+   161: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader in Austin Texas is the Mayor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Austin, Texas is called the Mayor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin Texas is led by a Mayor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " leaderTitle ",
+   "subject": " Mayor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " leaderTitle ",
+     "subject": " "Mayor"@en"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id161"
+      }
+},
+{
+   162: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The population density, of Austin (Texas), is 1296.65 inhabitants per square kilometre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin in Texas has a population of 1296.65 people per square kilometer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The population density of Austin, Texas, is 1296.65 inhabitants per sq km.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austin,_Texas ",
+   "property": " populationDensity ",
+   "subject": " 1296.65 (inhabitants per square kilometre)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austin,_Texas ",
+     "property": " populationDensity ",
+     "subject": " "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id162"
+      }
+},
+{
+   163: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Corvallis is the largest city in Benton County, Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in Benton County, Oregon, is Corvallis, Oregon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in Benton County Oregon is Corvallis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Benton_County,_Oregon ",
+   "property": " largestCity ",
+   "subject": " Corvallis,_Oregon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Benton_County,_Oregon ",
+     "property": " largestCity ",
+     "subject": " Corvallis,_Oregon"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id163"
+      }
+},
+{
+   164: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chinese is one of the languages spoken in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Some parts of California speak Chinese.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Chinese language is spoken in California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " Chinese_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " Chinese_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id164"
+      }
+},
+{
+   165: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id165"
+      }
+},
+{
+   166: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vietnamese is a language spoken in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the languages spoken in California is Vietnamese.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Vietnamese is one of the languages being spoken in California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " Vietnamese_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " Vietnamese_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id166"
+      }
+},
+{
+   167: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Assembly is part of the California State Legislature.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California_State_Assembly ",
+   "property": " isPartOf ",
+   "subject": " California_State_Legislature"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California_State_Assembly ",
+     "property": " isPartOf ",
+     "subject": " California_State_Legislature"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id167"
+      }
+},
+{
+   168: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Assembly is located in the California State Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The California State Assembly is in the California State Capitol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The California State Assembly is located at the California State Capitol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California_State_Assembly ",
+   "property": " location ",
+   "subject": " California_State_Capitol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California_State_Assembly ",
+     "property": " location ",
+     "subject": " California_State_Capitol"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id168"
+      }
+},
+{
+   169: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Senate is part of the California State Legislature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The senate in California is part of the California State Legislature.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California_State_Senate ",
+   "property": " isPartOf ",
+   "subject": " California_State_Legislature"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California_State_Senate ",
+     "property": " isPartOf ",
+     "subject": " California_State_Legislature"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id169"
+      }
+},
+{
+   170: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Senate is located at the California State Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The California State Senate is located in the California State Capitol.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California_State_Senate ",
+   "property": " location ",
+   "subject": " California_State_Capitol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California_State_Senate ",
+     "property": " location ",
+     "subject": " California_State_Capitol"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id170"
+      }
+},
+{
+   171: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Contra Costa County is part of the San Francisco Bay area, in California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Contra Costa County in California is part of the San Francisco Bay Area.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Contra_Costa_County,_California ",
+   "property": " isPartOf ",
+   "subject": " San_Francisco_Bay_Area"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Contra_Costa_County,_California ",
+       "property": " subdivisionName ",
+       "subject": " San_Francisco_Bay_Area"
+       },
+       {
+       "object": "Contra_Costa_County,_California ",
+       "property": " isPartOf ",
+       "subject": " San_Francisco_Bay_Area"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id171"
+      }
+},
+{
+   172: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "DeKalb County, Georgia, is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "DeKalb County, Georgia is located within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "DeKalb County, Georgia is in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "DeKalb_County,_Georgia ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "DeKalb_County,_Georgia ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id172"
+      }
+},
+{
+   173: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The chair of the Democratic Party in the United States is Debbie Wasserman Schultz.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Democratic_Party_(United_States) ",
+   "property": " chairperson ",
+   "subject": " Debbie_Wasserman_Schultz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Democratic_Party_(United_States) ",
+     "property": " chairperson ",
+     "subject": " Debbie_Wasserman_Schultz"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id173"
+      }
+},
+{
+   174: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Democratic Party of the U.S. headquarters on South Capitol Street.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The headquarters of the Democratic Party (United States) is at South Capitol Street.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Democratic_Party_(United_States) ",
+   "property": " headquarter ",
+   "subject": " South_Capitol_Street"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Democratic_Party_(United_States) ",
+       "property": " headquarter ",
+       "subject": " South_Capitol_Street"
+       },
+       {
+       "object": "Democratic_Party_(United_States) ",
+       "property": " headquarters ",
+       "subject": " South_Capitol_Street"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id174"
+      }
+},
+{
+   175: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Democratic Party headquarters are in Washington, D.C..",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Democratic Party (U.S.) is headquartered in Washington, D.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Democratic_Party_(United_States) ",
+   "property": " headquarter ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Democratic_Party_(United_States) ",
+       "property": " headquarter ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Democratic_Party_(United_States) ",
+       "property": " headquarters ",
+       "subject": " Washington,_D.C."
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id175"
+      }
+},
+{
+   176: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Fall Creek Township, Madison County, Indiana is located in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Fall Creek Township, Madison County, Indiana is within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Fall Creek Township, Madison County, Indiana is in the country United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Fall_Creek_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Fall_Creek_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id176"
+      }
+},
+{
+   177: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Fountain County is in Indiana, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Fountain County is in Indiana in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Fountain County, Indiana is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Fountain_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Fountain_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id177"
+      }
+},
+{
+   178: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Covington is the County seat of Fountain County, in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Covington is the county seat of Fountain County, Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Fountain_County,_Indiana ",
+   "property": " countySeat ",
+   "subject": " Covington,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Fountain_County,_Indiana ",
+     "property": " countySeat ",
+     "subject": " Covington,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id178"
+      }
+},
+{
+   179: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlanta is the county seat of Fulton County, Georgia.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Fulton_County,_Georgia ",
+   "property": " countySeat ",
+   "subject": " Atlanta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Fulton_County,_Georgia ",
+     "property": " countySeat ",
+     "subject": " Atlanta"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id179"
+      }
+},
+{
+   180: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Georgia is Atlanta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is the capital of the U.S. state of Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlanta is the capital of Georgia, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Georgia_(U.S._state) ",
+   "property": " capital ",
+   "subject": " Atlanta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Georgia_(U.S._state) ",
+     "property": " capital ",
+     "subject": " Atlanta"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id180"
+      }
+},
+{
+   181: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "San Marcos is the county seat of Hays County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Hays County Texas county seat is San Marcos Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Hays_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " San_Marcos,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Hays_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " San_Marcos,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id181"
+      }
+},
+{
+   182: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The largest city in Hays County, Texas is San Marcos.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "San Marcos is the largest city in Hays County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Hays_County,_Texas ",
+   "property": " largestCity ",
+   "subject": " San_Marcos,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Hays_County,_Texas ",
+     "property": " largestCity ",
+     "subject": " San_Marcos,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id182"
+      }
+},
+{
+   183: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Indiana is the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Indiana is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Indiana is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id183"
+      }
+},
+{
+   184: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In Indiana, the language spoken is American English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language in Indiana is American English.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Indiana ",
+   "property": " language ",
+   "subject": " English_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Indiana ",
+     "property": " language ",
+     "subject": " English_Americans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id184"
+      }
+},
+{
+   185: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jones County, Texas is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jones County, Texas is within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jones County, Texas is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Jones_County,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Jones_County,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id185"
+      }
+},
+{
+   186: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "King County Washington is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "King County ,Washington is located in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "King County, Washington is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "King_County,_Washington ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "King_County,_Washington ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id186"
+      }
+},
+{
+   187: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Seattle is the largest city in King County, in Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Seattle is the largest city in King County Washington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Seattle is the largest city in King County, Washington.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "King_County,_Washington ",
+   "property": " largestCity ",
+   "subject": " Seattle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "King_County,_Washington ",
+     "property": " largestCity ",
+     "subject": " Seattle"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id187"
+      }
+},
+{
+   188: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lafayette Township, Madison County, Indiana is part of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lafayette Township, Madison County, Indiana is situated within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lafayette_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lafayette_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id188"
+      }
+},
+{
+   189: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lee County in Alabama is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lee County, Alabama, is within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lee County in Alabama is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lee_County,_Alabama ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lee_County,_Alabama ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id189"
+      }
+},
+{
+   190: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Opelika is the county seat of Lee County, Alabama.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lee_County,_Alabama ",
+   "property": " countySeat ",
+   "subject": " Opelika,_Alabama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lee_County,_Alabama ",
+     "property": " countySeat ",
+     "subject": " Opelika,_Alabama"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id190"
+      }
+},
+{
+   191: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is the largest city in Linn County, Oregon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is the largest city in Linn county which is in Oregon.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in Linn County, Oregon, is Albany.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Linn_County,_Oregon ",
+   "property": " largestCity ",
+   "subject": " Albany,_Oregon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Linn_County,_Oregon ",
+     "property": " largestCity ",
+     "subject": " Albany,_Oregon"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id191"
+      }
+},
+{
+   192: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Madison County is in Indiana, which is in the United States,.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Madison County, Indiana is in the country of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Madison County, Indiana, is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id192"
+      }
+},
+{
+   193: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is the largest city in Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is the largest city of Madison County, Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Madison_County,_Indiana ",
+   "property": " largestCity ",
+   "subject": " Anderson,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Madison_County,_Indiana ",
+     "property": " largestCity ",
+     "subject": " Anderson,_Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id193"
+      }
+},
+{
+   194: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lansing is the capital of Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of Michigan is Lansing.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Michigan ",
+   "property": " capital ",
+   "subject": " Lansing,_Michigan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Michigan ",
+     "property": " capital ",
+     "subject": " Lansing,_Michigan"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id194"
+      }
+},
+{
+   195: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arabic is a language found in Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arabic is spoken in Michigan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The language used in Michigan is Arabic.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Michigan ",
+   "property": " language ",
+   "subject": " Arabic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Michigan ",
+     "property": " language ",
+     "subject": " Arabic"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id195"
+      }
+},
+{
+   196: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language spoken in Michigan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Michigan ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Michigan ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id196"
+      }
+},
+{
+   197: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Spanish is one of the languages spoken in Michigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish is a language spoken in Michigan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Spanish language is spoken in Michigan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Michigan ",
+   "property": " language ",
+   "subject": " Spanish_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Michigan ",
+     "property": " language ",
+     "subject": " Spanish_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id197"
+      }
+},
+{
+   198: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Monroe Township, Madison County, Indiana is in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Monroe Township, Madison County, Indiana is situated within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Monroe_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Monroe_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id198"
+      }
+},
+{
+   199: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Monroe Township is in Madison County which is a part of Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Monroe Township, Madison County is in Indiana.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Monroe_Township,_Madison_County,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Monroe_Township,_Madison_County,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Indiana"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id199"
+      }
+},
+{
+   200: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Monroe Township is part of Madison County in Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Monroe Township is a part of Madison County in Indiana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Monroe Township is part of Madison County, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Monroe_Township,_Madison_County,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Monroe_Township,_Madison_County,_Indiana ",
+       "property": " subdivisionName ",
+       "subject": " Madison_County,_Indiana"
+       },
+       {
+       "object": "Monroe_Township,_Madison_County,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Madison_County,_Indiana"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id200"
+      }
+},
+{
+   201: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "New Jersey is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New Jersey is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Jersey ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Jersey ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id201"
+      }
+},
+{
+   202: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Newark is the largest city of New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in New Jersey is Newark.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Jersey ",
+   "property": " largestCity ",
+   "subject": " Newark,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Jersey ",
+     "property": " largestCity ",
+     "subject": " Newark,_New_Jersey"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id202"
+      }
+},
+{
+   203: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Navajo language, is one of the languages spoken in New Mexico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Navajo language is spoken in New Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Navajo is a language in New Mexico.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Mexico ",
+   "property": " language ",
+   "subject": " Navajo_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Mexico ",
+     "property": " language ",
+     "subject": " Navajo_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id203"
+      }
+},
+{
+   204: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of New Mexico's House of Representatives is Don Tripp.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Don Tripp leads the New Mexico House of representatives.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Mexico_House_of_Representatives ",
+   "property": " leader ",
+   "subject": " Don_Tripp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Mexico_House_of_Representatives ",
+     "property": " leader ",
+     "subject": " Don_Tripp"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id204"
+      }
+},
+{
+   205: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Sánchez, is one of the leaders, in the New Mexico Senate.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Sanchez is the Senate leader of New Mexico.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Mexico_Senate ",
+   "property": " leader ",
+   "subject": " John_Sánchez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Mexico_Senate ",
+     "property": " leader ",
+     "subject": " John_Sánchez"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id205"
+      }
+},
+{
+   206: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Orange County, California is part of the Greater Los Angeles area.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Orange County, is part of the greater Los Angeles area, in California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Orange County in California is part of the Greater Los Angeles area.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Orange_County,_California ",
+   "property": " isPartOf ",
+   "subject": " Greater_Los_Angeles_Area"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Orange_County,_California ",
+     "property": " subdivisionName ",
+     "subject": " Greater_Los_Angeles_Area"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id206"
+      }
+},
+{
+   207: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Salem is the capital of Oregon.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Oregon ",
+   "property": " capital ",
+   "subject": " Salem,_Oregon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Oregon ",
+     "property": " capital ",
+     "subject": " Salem,_Oregon"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id207"
+      }
+},
+{
+   208: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pierce County, Washington is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pierce County, Washington is located within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The country of Pierce Country, Washington, is United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pierce_County,_Washington ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pierce_County,_Washington ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id208"
+      }
+},
+{
+   209: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pierce County is the largest city in Tacoma, Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tacoma, Washington, is the largest city in Pierce County.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pierce_County,_Washington ",
+   "property": " largestCity ",
+   "subject": " Tacoma,_Washington"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pierce_County,_Washington ",
+     "property": " largestCity ",
+     "subject": " Tacoma,_Washington"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id209"
+      }
+},
+{
+   210: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Potter County is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Potter County, Texas is in the US.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Potter County, Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Potter_County,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Potter_County,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id210"
+      }
+},
+{
+   211: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amarillo is the county seat of Potter County which is in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo is the county seat for Potter County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Potter_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Amarillo,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Potter_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Amarillo,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id211"
+      }
+},
+{
+   212: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Randall County is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Randall County is located in Texas,United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Randall County in Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Randall_County,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Randall_County,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id212"
+      }
+},
+{
+   213: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Canyon, is the county seat of Randall County, which is in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Randall County is a county located in Texas with the county seat being Canyon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Randall_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Canyon,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Randall_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Canyon,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id213"
+      }
+},
+{
+   214: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Richland Township is in Madison County, Indiana, U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Richland Township, in Madison County, Indiana is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Richland Township, Madison County, Indiana is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Richland_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Richland_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id214"
+      }
+},
+{
+   215: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The county seat of Tarrant County in Texas is Fort Worth.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The county seat of Tarrant County is Fort Worth in Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Tarrant_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Fort_Worth,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Tarrant_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Fort_Worth,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id215"
+      }
+},
+{
+   216: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Taylor County is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Taylor County, Texas is in the US.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Taylor County, Texas is located within the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Taylor_County,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Taylor_County,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id216"
+      }
+},
+{
+   217: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene is the largest city, in Taylor County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene is the largest city in Taylor County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Taylor_County,_Texas ",
+   "property": " largestCity ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Taylor_County,_Texas ",
+     "property": " largestCity ",
+     "subject": " Abilene,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id217"
+      }
+},
+{
+   218: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is the capital city of Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin is the capital of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " capital ",
+   "subject": " Austin,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Texas ",
+     "property": " capital ",
+     "subject": " Austin,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id218"
+      }
+},
+{
+   219: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Texas is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Texas is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Texas is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id219"
+      }
+},
+{
+   220: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is a language spoken in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Texas ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id220"
+      }
+},
+{
+   221: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Spanish is a language spoken in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the languages spoken in Texas is Spanish.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish is spoken in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " language ",
+   "subject": " Spanish_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Texas ",
+     "property": " language ",
+     "subject": " Spanish_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id221"
+      }
+},
+{
+   222: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Houston is the largest city in Texas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " largestCity ",
+   "subject": " Houston"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Texas ",
+       "property": " largestCity ",
+       "subject": " Houston"
+       },
+       {
+       "object": "Texas ",
+       "property": " largestcity ",
+       "subject": " Houston"
+       }
+     ]
+     },
+   "size": "1",
+   "xml_id": "Id222"
+      }
+},
+{
+   223: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is the county seat of Travis County, in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The County Seat for Travis County is in Austin, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Travis_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Austin,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Travis_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Austin,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id223"
+      }
+},
+{
+   224: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Austin is the largest city in Travis County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin, Texas is the largest city in Travis County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in Travis County, Texas, is Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Travis_County,_Texas ",
+   "property": " largestCity ",
+   "subject": " Austin,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Travis_County,_Texas ",
+     "property": " largestCity ",
+     "subject": " Austin,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id224"
+      }
+},
+{
+   225: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Union Township is in Madison County, which is in Indiana, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Union Township, Madison County, Indiana is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Union_Township,_Madison_County,_Indiana ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Union_Township,_Madison_County,_Indiana ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id225"
+      }
+},
+{
+   226: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of the U.S. is Washington, D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Washington, D.C. is the capital of the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of the United States is Washington DC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id226"
+      }
+},
+{
+   227: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Americans live in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Americans are the people occupying the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The inhabitants of the United States are known as Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " demonym ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " demonym ",
+     "subject": " Americans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id227"
+      }
+},
+{
+   228: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group within the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in the United States are the African Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id228"
+      }
+},
+{
+   229: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in the United States, is Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asian Americans are an ethnic group in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asian Americans are an ethnic group of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id229"
+      }
+},
+{
+   230: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Native Americans are one of the ethnic groups in the United States of America.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Native Americans are an ethnic group within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Native_Americans_in_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Native_Americans_in_the_United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id230"
+      }
+},
+{
+   231: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "White Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "White Americans are an ethnic group within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " White_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " White_Americans"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id231"
+      }
+},
+{
+   232: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is the language spoken in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language of the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id232"
+      }
+},
+{
+   233: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The biggest city in the U.S. is New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City is the largest city of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city in United States is New York City.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " largestCity ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " largestCity ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id233"
+      }
+},
+{
+   234: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The president is the leader of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United States is called the President of the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id234"
+      }
+},
+{
+   235: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives is part of the United States Congress.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The House of Representatives forms part of the United States Congress.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "United States House of Representatives is part of United States Congress.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States_House_of_Representatives ",
+   "property": " isPartOf ",
+   "subject": " United_States_Congress"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States_House_of_Representatives ",
+     "property": " isPartOf ",
+     "subject": " United_States_Congress"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id235"
+      }
+},
+{
+   236: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States house of Representatives is in the Unites States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States_House_of_Representatives ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States_House_of_Representatives ",
+     "property": " location ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id236"
+      }
+},
+{
+   237: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The U.S. House of Reps is located in Washington, D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives is located in Washington D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "United States House of Representatives is located in Washington DC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States_House_of_Representatives ",
+   "property": " location ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States_House_of_Representatives ",
+     "property": " location ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id237"
+      }
+},
+{
+   238: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Olympia is the capital of Washington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Washington state capital is Olympia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Olympia is the capital of Washington (state).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Washington_(state) ",
+   "property": " capital ",
+   "subject": " Olympia,_Washington"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Washington_(state) ",
+     "property": " capital ",
+     "subject": " Olympia,_Washington"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id238"
+      }
+},
+{
+   239: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Washington state is located within the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Washington is a state is United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Washington_(state) ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Washington_(state) ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id239"
+      }
+},
+{
+   240: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Seattle is the largest city in Washington State.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city of Washington state is Seattle.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Washington_(state) ",
+   "property": " largestCity ",
+   "subject": " Seattle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Washington_(state) ",
+     "property": " largestCity ",
+     "subject": " Seattle"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id240"
+      }
+},
+{
+   241: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Washtenaw County, Michigan is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Washtenaw County in Michigan is located within the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Washtenaw_County,_Michigan ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Washtenaw_County,_Michigan ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id241"
+      }
+},
+{
+   242: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Georgetown is the county seat of Williamson County, Texas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Williamson_County,_Texas ",
+   "property": " countySeat ",
+   "subject": " Georgetown,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Williamson_County,_Texas ",
+     "property": " countySeat ",
+     "subject": " Georgetown,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id242"
+      }
+},
+{
+   243: {
+   "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Round Rock is the largest city in Williamson County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The largest city of Williamson County, Texas is Round Rock.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Williamson_County,_Texas ",
+   "property": " largestCity ",
+   "subject": " Round_Rock,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Williamson_County,_Texas ",
+     "property": " largestCity ",
+     "subject": " Round_Rock,_Texas"
+     }
+     ]
+   ],
+   "size": "1",
+   "xml_id": "Id243"
+      }
+}

@@ -1,0 +1,320 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Auron was created by Walt Simonson and the American, Karl Kesel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Karl Kesel, an American along with Walt Simonson created the comic book character Auron.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character, Auron, was created by Walt Simonson and the American Karl Kesel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Karl_Kesel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Karl_Kesel ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Karl_Kesel"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tony Hall, Baron Hall of Birkenhead, is a key person at the BBC which is located in London and broadcast Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A key person at the BBC, which is located in London and broadcast Bananaman, is Baron Hall of Birkenhead, Tony Hall.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "BBC ",
+   "property": " keyPerson ",
+   "subject": " Tony_Hall,_Baron_Hall_of_Birkenhead"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "BBC ",
+     "property": " keyPeople ",
+     "subject": " Tony_Hall,_Baron_Hall_of_Birkenhead"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie starred in Bananaman which first aired on 3 October 1983 and was broadcast by STV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddie starred in Bananaman which was first aired on 3 October 1983 and broadcast by STV.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman which first aired on October 3rd, 1983 stars Billie Oddie and is broadcasted by STV.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax first appeared in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax's first film appearance was in Big Hero 6. He was created by Duncan Rouleau and Steven T Seagle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Duncan Rouleau and Steven T. Seagle created Baymax who had his first movie appearance in Big Hero 6.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " firstAppearanceInFilm ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Baymax ",
+       "property": " creators ",
+       "subject": " Duncan_Rouleau"
+       },
+       {
+       "object": "Baymax ",
+       "property": " creator ",
+       "subject": " Duncan_Rouleau"
+       },
+       {
+       "object": "Baymax ",
+       "property": " first ",
+       "subject": " Big_Hero_6_(film)"
+       },
+       {
+       "object": "Baymax ",
+       "property": " first ",
+       "subject": " Big_Hero_6_(film)"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creator of Bibbo Bibbowski, who is often called Bibbo, are Jerry Ordway and Marv Wolfman.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bibbo_Bibbowski ",
+   "property": " creator ",
+   "subject": " Jerry_Ordway"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bibbo_Bibbowski ",
+       "property": " creator ",
+       "subject": " Jerry_Ordway"
+       },
+       {
+       "object": "Bibbo_Bibbowski ",
+       "property": " creators ",
+       "subject": " Jerry_Ordway"
+       }
+     ]
+     },
+   "size": "3",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Blockbuster, also known as Roland Desmond, was created by Roger Stern and Tom Lyle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster's alter ego is Roland Desmond and he was created by Roger Stern and Tom Lyle.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Roger_Stern"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Blockbuster_(DC_Comics) ",
+     "property": " creator ",
+     "subject": " Roger_Stern"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt has the alternative name of Larry Bolatinsky and was created by Ernie Colon and Dan Mishkin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bolt, a comic character AKA Larry Bolatinsky was created by Dan Mishkin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt whose alternative name is Larry Bolatinsky was created by Ernie Colon and Dan Mishkin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Ernie_Colón"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bolt_(DC_Comics) ",
+     "property": " creators ",
+     "subject": " Ernie_Colón"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An alternative name for the comic character Bolt is Larry Bolatinsky and he was created by Paris Cullins and Dan Mishkin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt, aka Larry Bolatinsky, was created by Paris Cullins and Dan Mishkin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Paris_Cullins"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bolt_(DC_Comics) ",
+     "property": " creators ",
+     "subject": " Paris_Cullins"
+     }
+     ]
+   ],
+   "size": "3",
+   "xml_id": "Id8"
+      }
+}

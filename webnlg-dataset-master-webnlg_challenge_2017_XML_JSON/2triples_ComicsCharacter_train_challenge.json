@@ -1,0 +1,3235 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "George Kapitan created the comic character Airman whose alter ego is Drake Stevens.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": ""Drake Stevens, known as Airman, was created by George Kapitan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "George Kapitan is the creator of the comic character "Airman" or otherwise known as "Drake Stevens".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airman_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Drake Stevens""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Airman_(comics) ",
+       "property": " creator ",
+       "subject": " George_Kapitan"
+       },
+       {
+       "object": "Airman_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Drake Stevens"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic book character Airman, AKA Drake Stephens, was created by Harry Sahle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Drake Stevens is known as the comic character Airman, which was created by Harry Sahle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Airman, who has the alternative name Drake Stevens, was created by Harry Sahle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airman_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Drake Stevens""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Airman_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Drake Stevens"@en"
+       },
+       {
+       "object": "Airman_(comics) ",
+       "property": " creator ",
+       "subject": " Harry_Sahle"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creators of the comic character Airman were Harry Sahle and George Kapitan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Airman was created by both Harry Sahle and George Kapitan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The creators of the comic book character Airman were Harry Sahle and George Kapitan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airman_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Harry_Sahle"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Airman_(comics) ",
+       "property": " creator ",
+       "subject": " George_Kapitan"
+       },
+       {
+       "object": "Airman_(comics) ",
+       "property": " creator ",
+       "subject": " Harry_Sahle"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Aman (created by Bill Everett) is also known as Amazing-Man in the comics genre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Everett is the creator of the comic character, Amazing-Man who has the alternative name, John Aman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Amazing-Man's alter ego is John Aman and it was created by Bill Everett.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amazing-Man_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Bill_Everett"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amazing-Man_(Centaur_Publications) ",
+       "property": " creators ",
+       "subject": " Bill_Everett"
+       },
+       {
+       "object": "Amazing-Man_(Centaur_Publications) ",
+       "property": " creator ",
+       "subject": " Bill_Everett"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character April O'Neal was created by Peter Laird and Kevin Eastman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "April O'Neil was created by Kevin Eastman and Peter Laird.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Laird and Kevin Eastman, created the character, April O'Neal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "April_O'Neil ",
+   "property": " creator ",
+   "subject": " Peter_Laird"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "April_O'Neil ",
+       "property": " creators ",
+       "subject": " Peter_Laird"
+       },
+       {
+       "object": "April_O'Neil ",
+       "property": " creator ",
+       "subject": " Peter_Laird"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paul Kupperberg is the creator of the comic character Arion, sometimes known as Ahri'ahn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Created by Paul Kupperberg, the book character Arion is also known as Ahri'ahn.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Paul Kupperberg is the creator of the comic character Arion , otherwise known as Ahri'ahn.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arion_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Ahri'ahn""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arion_(comics) ",
+       "property": " creator ",
+       "subject": " Paul_Kupperberg"
+       },
+       {
+       "object": "Arion_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Ahri'ahn"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Arion, also known as Ahri'ahn, was created by Jan Duursema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Created by Jan Duursema, the comic character Arion is also known as Ahri'ahn.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arion_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jan_Duursema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arion_(comics) ",
+       "property": " creator ",
+       "subject": " Jan_Duursema"
+       },
+       {
+       "object": "Arion_(comics) ",
+       "property": " creators ",
+       "subject": " Jan_Duursema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Arion was created by Jan Duursema and Paul Kupperberg.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character, Arion, was created by Jan Duursema and Paul Kupperberg.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Arion was created by Jan Duursema and Paul Kupperberg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arion_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jan_Duursema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arion_(comics) ",
+       "property": " creator ",
+       "subject": " Jan_Duursema"
+       },
+       {
+       "object": "Arion_(comics) ",
+       "property": " creators ",
+       "subject": " Jan_Duursema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character, Arion, was created by Jan Duursema, who has won the Eisner Award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Eisner award winning Jan Duursema created the comic book character Arion.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arion_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jan_Duursema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arion_(comics) ",
+       "property": " creators ",
+       "subject": " Jan_Duursema"
+       },
+       {
+       "object": "Arion_(comics) ",
+       "property": " creator ",
+       "subject": " Jan_Duursema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Asterix, sometimes called Astérix, was created by Albert Uderzo.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The alternative name of Asterix (comics character) is "Astérix" and he was created by Albert Uderzo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Uderzo is the creator of the comic character, Asterix, which is also known as Astérix.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asterix_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Astérix""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asterix_(character) ",
+       "property": " creator ",
+       "subject": " Albert_Uderzo"
+       },
+       {
+       "object": "Asterix_(character) ",
+       "property": " alterEgo ",
+       "subject": " "Astérix"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creator of Asterix, the comics character also known as Astérix, is René Goscinny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Asterix, sometimes called Astérix, was created by Rene Goscinny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Asterix (also known as Astérix), was created by Rene Goscinny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asterix_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " René_Goscinny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asterix_(character) ",
+       "property": " creators ",
+       "subject": " René_Goscinny"
+       },
+       {
+       "object": "Asterix_(character) ",
+       "property": " creator ",
+       "subject": " René_Goscinny"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creator of Asterix , a comics character, is René Goscinny, who is French.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asterix was created by Rene Goscinny, who is a frenchman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rene Goscinny is a French national and also the creator of the comic character Asterix.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asterix_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " René_Goscinny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "René_Goscinny ",
+       "property": " nationality ",
+       "subject": " French_people"
+       },
+       {
+       "object": "Asterix_(character) ",
+       "property": " creators ",
+       "subject": " René_Goscinny"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dick Dillin is the creator of the comic book character Aurakles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dick Dillin was the creator of the comic book character Aurakles.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dick Dillin created the comic book character called Aurakles, whose alternative name is also Aurakles.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aurakles ",
+   "property": " creator ",
+   "subject": " Dick_Dillin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aurakles ",
+       "property": " creators ",
+       "subject": " Dick_Dillin"
+       },
+       {
+       "object": "Aurakles ",
+       "property": " creator ",
+       "subject": " Dick_Dillin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aurakles was created by Dick Dillin and Len Wein.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character, Aurakles, was created by Dick Dillin and Len Wein.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Aurakles was created by both Dick Dillin and Len Wein.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aurakles ",
+   "property": " creator ",
+   "subject": " Dick_Dillin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aurakles ",
+       "property": " creator ",
+       "subject": " Dick_Dillin"
+       },
+       {
+       "object": "Aurakles ",
+       "property": " creators ",
+       "subject": " Dick_Dillin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dick Dillian is an american who created the fictional character, Aurakles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aurakles is a fictional character created by American national Dick Dillin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dick Dillin, the creator of Aurakles, is from the US.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aurakles ",
+   "property": " creator ",
+   "subject": " Dick_Dillin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dick_Dillin ",
+       "property": " nationality ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Aurakles ",
+       "property": " creators ",
+       "subject": " Dick_Dillin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic book character Auron was created by Karl Kesel and Marv Wolfman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Auron, was created by Kark Kesel and Marv Worlfman,.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The creators of Auron (comics character) are Karl Kesel and Marv Wolfman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Karl_Kesel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Karl_Kesel"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creators ",
+       "subject": " Karl_Kesel"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Auron was created by both Karl Kesel and Walt Simonson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Walt Simonson and Karl Kesel created the comic character Auron.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Auron was created by Karl Kesel and Walt Simonson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Karl_Kesel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Karl_Kesel"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creators ",
+       "subject": " Karl_Kesel"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Auron was created by both Marv Wolfman and Walt Simonson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character auron was created by Marv Wolfman and Walt Simonson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Auron was created by both Marv Wolfman and Walt Simonson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Marv_Wolfman"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Marv_Wolfman"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Walt_Simonson"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marv Wolfman created the comic book character Auron aka Lambien.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Auron, whose full name is Lambien, was created by Marv Wolfman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Auron, otherwise known as "Lambien" was created by Marv Wolfman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Auron_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Marv_Wolfman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Auron_(comics) ",
+     "property": " creator ",
+     "subject": " Marv_Wolfman"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Balder, full name, Balder Odinson was created by Stan Lee.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "An alternative name for the comic character Balder (created by Stan Lee), is Balder Odinson.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Balder_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Balder Odinson""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Balder_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Balder Odinson"@en"
+       },
+       {
+       "object": "Balder_(comics) ",
+       "property": " creator ",
+       "subject": " Stan_Lee"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Balder, also known as Balder Odinson was created by Jack Kirby.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Balder, otherwise known as Balder Odinson, was created by Jack Kirby.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Balder_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jack_Kirby"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Balder_(comics) ",
+     "property": " creators ",
+     "subject": " Jack_Kirby"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jack Kirby and Stan Lee are the creators of the comic character Balder.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Balder created by Jack Kirby and Stan Lee.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jack Kirby and Stan Lee, created the comic character Balder.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Balder_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jack_Kirby"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Balder_(comics) ",
+     "property": " creators ",
+     "subject": " Jack_Kirby"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character, Balder, was created by Jack Kirby, an American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The American Jack Kirby created the comic character Balder.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Balder_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Jack_Kirby"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Balder_(comics) ",
+     "property": " creators ",
+     "subject": " Jack_Kirby"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Michael Manley created the comic character, Ballistic, who has the alternative name, Kelvin Mao.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character, Ballistic, has the alternative name, Kelvin Mao, and was created by Michael Manley.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ballistic_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Kelvin Mao""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ballistic_(DC_Comics) ",
+     "property": " alterEgo ",
+     "subject": " "Kelvin Mao"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creators of the comic character Ballistic were Michael Manley and Doug Moench.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Doug Moench and Michael Manley, created the comic character Ballistic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Ballistic was created by Michael Manley and Doug Moench.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ballistic_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Doug_Moench"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ballistic_(DC_Comics) ",
+     "property": " creator ",
+     "subject": " Doug_Moench"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman is broadcast by the BBC which is headquartered in Broadcasting house.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman the TV series was shown on the BBC, the BBC is headquartered in Broadcasting house.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman is broadcasted by the BBC which is based in the Broadcasting House in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " broadcastedBy ",
+   "subject": " BBC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " network ",
+     "subject": " BBC"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in London, the BBC, broadcast Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman is broadcast by the BBC, which is based in London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman the TV series was shown on the BBC which is located in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " broadcastedBy ",
+   "subject": " BBC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " network ",
+     "subject": " BBC"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The BBC broadcasted Bananaman which starred Bill Oddie.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddies stars in Bananaman, broadcasted by the BBC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " broadcastedBy ",
+   "subject": " BBC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " network ",
+     "subject": " BBC"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie starred in Bananaman broadcast by STV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "STV broadcast Bananaman starring Bill Oddie.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman first aired on the 3rd of October 1983, and starred Bill Oddie.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddie stars in Bananaman that was first aired on the 3rd of October, 1983.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   31: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Oddie (born in Rochdale) stars in Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bill Oddie, who was born in Rochdale, starred in Bananaman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman starred Bill Oddie, who was born in Rochdale.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Bill_Oddie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Bill_Oddie"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   32: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman first aired on tv screens on the 3rd of October 1983, and starred Graeme Garden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman, first aired 3/10/1983, stars Graeme Garden.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman was first aired on 10/03/1983 and starred Graeme Garden.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Graeme_Garden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Graeme_Garden"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   33: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Graeme Garden, one of the stars of Bananaman, was born in Aberdeen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman stars Graeme Garden who was born in Aberdeen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Graeme Garden, born in Aberdeen, stars in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Graeme_Garden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Graeme_Garden"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   34: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jill Shilling stared in Bananaman, broadcasted by STV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jill Shilling starred in Bananaman, broadcasted by STV,.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bananaman which stars Jill Shilling is broadcasted by STV.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Jill_Shilling"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Jill_Shilling"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   35: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor starred in Bananaman, which was broadcasted by STV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor starred in Bananaman, which is broadcast by STV.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor starred as Bananaman, which was broadcast by STV.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   36: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor starred in Bananaman, broadcasted by the BBC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke Tayler starred in Bananaman, broadcasted by the BBC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   37: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buxton is the birthplace of Tim Brooke-Taylor, who starred in Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Tayler, born in Buxton, starred in bananaman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Buxton, Tim Brooke-Taylor, starred in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id37"
+      }
+},
+{
+   38: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor, born in England, starred in Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke Taylor, who starred in Bananaman, was born in England.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke Taylor was born in England and starred in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id38"
+      }
+},
+{
+   39: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor was born in the UK and starred in Bananaman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in the United Kingdom, Tim Brooke-Taylor, starred in Bananaman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tim Brooke-Taylor , originally from the U.K, starred in Bananaman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id39"
+      }
+},
+{
+   40: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Duncan Rouleau and Steven T. Seagle created Baymax.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax was created by Duncan Rouleau and Steven T. Seagle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax was created by both Duncan Rouleau and Steven T. Seagle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " creator ",
+   "subject": " Duncan_Rouleau"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Baymax ",
+       "property": " creator ",
+       "subject": " Duncan_Rouleau"
+       },
+       {
+       "object": "Baymax ",
+       "property": " creators ",
+       "subject": " Duncan_Rouleau"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id40"
+      }
+},
+{
+   41: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax first appeared in Big Hero 6, starring Ryan Potter.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax first appeared in the film Big Hero 6 which stars Ryan Potter.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The first appearance in a film for the character Baymax was Big Hero 6 which starred Ryan Potter.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " firstAppearanceInFilm ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " first ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id41"
+      }
+},
+{
+   42: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Duncan Rouleau created Baymax, a character in Big Hero 6.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Created by Duncan Rouleau, Baymax, is a character in Big Hero 6.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Baymax ",
+       "property": " series ",
+       "subject": " Big_Hero_6_(film)"
+       },
+       {
+       "object": "Baymax ",
+       "property": " series ",
+       "subject": " Big_Hero_6_(film)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id42"
+      }
+},
+{
+   43: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Big Hero 6, starring Damon Wayans Jr., features the character Baymax.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6 that stars the actor Damon Wayans Jr.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The film Big Hero 6, which stars Damon Wayans Jr, has a character called Baymax.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " series ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id43"
+      }
+},
+{
+   44: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in the film Big Hero 6 that starred Jamie Chung.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6, where Jamie Chung is the star.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Big Hero 6, starring Jamie Chung, features the character Baymax.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " series ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id44"
+      }
+},
+{
+   45: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6 which also starred Maya Rudolph.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6 that stars Maya Rudolph.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Maya Rudolph starred in the film Big Hero 6, in which Baymax is a character.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " series ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id45"
+      }
+},
+{
+   46: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6, Scott Adsit starred in the movie version of Big Hero 6.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in the film Big Hero 6 which stars Scott Adsit.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6, starring Scott Adsit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " series ",
+   "subject": " Big_Hero_6_(film)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " series ",
+     "subject": " Big_Hero_6_(film)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id46"
+      }
+},
+{
+   47: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Scott Adsit was born in Northbrook, Illinois and does the voice for Baymax.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Baymax is voiced by Scott Adsit, who was born in Northbrook, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Northbrook Illinois, Scott Adsit, provides the voice for the character Baymax.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baymax ",
+   "property": " voice ",
+   "subject": " Scott_Adsit"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baymax ",
+     "property": " voice ",
+     "subject": " Scott_Adsit"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id47"
+      }
+},
+{
+   48: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Ben Urich ( Benjamin Urich ) was created by Gene Colan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ben Urich's full name is actually Benjamin Urich, the character was created by Gene Colan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ben Urich, full name Benjamin Urich, was created by Gene Colan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ben_Urich ",
+   "property": " creator ",
+   "subject": " Gene_Colan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ben_Urich ",
+       "property": " creator ",
+       "subject": " Gene_Colan"
+       },
+       {
+       "object": "Ben_Urich ",
+       "property": " creators ",
+       "subject": " Gene_Colan"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id48"
+      }
+},
+{
+   49: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Comic book character Ben Urich was created by Roger McKenzie and Gene Colan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "comic book writer, Roger McKenzie, along with Gene Colan, created Ben Urich.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ben_Urich ",
+   "property": " creator ",
+   "subject": " Roger_McKenzie_(comic_book_writer)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ben_Urich ",
+       "property": " creator ",
+       "subject": " Roger_McKenzie_(comics)"
+       },
+       {
+       "object": "Ben_Urich ",
+       "property": " creators ",
+       "subject": " Roger_McKenzie_(comics)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id49"
+      }
+},
+{
+   50: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bo Bibbowski (full name Bibbo Bibbowski) was created by Jerry Ordway.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bo Bibbowski , otherwise known as Bibbo, was created by Jerry Ordway.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bo Bibbowski is often called Bibbo and was created by Jerry Ordway.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bibbo_Bibbowski ",
+   "property": " creator ",
+   "subject": " Jerry_Ordway"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bibbo_Bibbowski ",
+       "property": " creators ",
+       "subject": " Jerry_Ordway"
+       },
+       {
+       "object": "Bibbo_Bibbowski ",
+       "property": " creator ",
+       "subject": " Jerry_Ordway"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id50"
+      }
+},
+{
+   51: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in the film Big Hero 6, which stars Alan Tudyk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The film Big Hero 6, starring Alan Tudyk, has a character called Baymax.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in the film Big Hero 6, which starred Alan Tudyk.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Big_Hero_6_(film) ",
+   "property": " starring ",
+   "subject": " Alan_Tudyk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Big_Hero_6_(film) ",
+     "property": " starring ",
+     "subject": " Alan_Tudyk"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id51"
+      }
+},
+{
+   52: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in the film Big Hero 6, which starred Ryan Potter.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character in Big Hero 6 in which Ryan Potter stars.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Big_Hero_6_(film) ",
+   "property": " starring ",
+   "subject": " Ryan_Potter"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Big_Hero_6_(film) ",
+     "property": " starring ",
+     "subject": " Ryan_Potter"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id52"
+      }
+},
+{
+   53: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sheldon Moldoff created the Black Pirate and won the Inkpot Award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sheldon Moldoff, creator of the Black Pirate, has won the Inkpot Award.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Black Pirate was created by Sheldon Moldoff, who won the Inkpot Award.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Black_Pirate ",
+   "property": " creator ",
+   "subject": " Sheldon_Moldoff"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Black_Pirate ",
+       "property": " creator ",
+       "subject": " Sheldon_Moldoff"
+       },
+       {
+       "object": "Black_Pirate ",
+       "property": " creators ",
+       "subject": " Sheldon_Moldoff"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id53"
+      }
+},
+{
+   54: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Blockbuster is a comic character that was created by Carmine Infantino and Gardner Fox.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster was created by both Gardner Fox and Carmine Infantino.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Blockbuster was created by Garnder Fox and Carmine INfantino.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Gardner_Fox"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Gardner_Fox"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Gardner_Fox"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id54"
+      }
+},
+{
+   55: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Blockbuster was created by Gardner Fox and Roger Stern.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Blockbuster was created by Gardner Fox and Roger Stern.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Gardner_Fox"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Gardner_Fox"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Gardner_Fox"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id55"
+      }
+},
+{
+   56: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creators of Blockbuster (comics character) are Gardner Fox and Tom Lyle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Both Gardner Fox and Tom Lyle were the creators of the comic character, Blockbuster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster was created by Gardner Fox and Tom Lyle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Gardner_Fox"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Gardner_Fox"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Gardner_Fox"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id56"
+      }
+},
+{
+   57: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster was created by Roger Stern and Carmine Infantino.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comics character Blockbuster was created by Carmine Infantino and Roger Stern.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Roger_Stern"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Roger_Stern"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Roger_Stern"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id57"
+      }
+},
+{
+   58: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Blockbuster was created by Tom Lyle and Carmine Infantino.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The creators of the comics character Blockbuster are Carmine Infantino and Tom Lyle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Blockbuster was created by both Tom Lyle and Carmine Infantino.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Tom_Lyle"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Tom_Lyle"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Carmine_Infantino"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id58"
+      }
+},
+{
+   59: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Bolt was created by Dan Mishkin and Garcy Cohn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt was created by Gary Cohn and Dan Mishkin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dan Mishkin created the comic book character Bolt while Gary Cohn is the creator of Bolf.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Dan_Mishkin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Gary_Cohn_(comics)"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Dan_Mishkin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id59"
+      }
+},
+{
+   60: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The character Bolt was created by Ernie Colon and Dan Mishkin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ernie Colón and Dan Mishkin are among the creators of the comic character Bolt.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Bolt was created by both Dan Mishkin and Ernie Colon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Ernie_Colón"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Dan_Mishkin"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Ernie_Colón"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id60"
+      }
+},
+{
+   61: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ernie Colon and Gary Cohn created the comic character Bolt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ernie Colón and comic book writer Gary Cohn were the creators of the comic character Bolt.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ernie Colón and Gary Cohn are some of the creators of the comic character Bolt.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Ernie_Colón"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Ernie_Colón"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Ernie_Colón"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id61"
+      }
+},
+{
+   62: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ernie Colon, one of the creators of the character Bolt is a Puerto Rican national.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ernie Colon, a Puerto Rican national, created Bolt.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Ernie_Colón"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Ernie_Colón"
+       },
+       {
+       "object": "Ernie_Colón ",
+       "property": " nationality ",
+       "subject": " Puerto_Ricans"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id62"
+      }
+},
+{
+   63: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creators of the comic character, Bolt, were Paris Cullins and Dan Mishkin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Bolt was created by Paris Cullins and Dan Mishkin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dan Mishkin and Paris Cullins are creators of the comic character known as Bolt.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Paris_Cullins"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Paris_Cullins"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Dan_Mishkin"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id63"
+      }
+},
+{
+   64: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character Bolt, was created by Paris Cullins and Ernie Colon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The creators of the comic character, Bolt, are Paris Cullins and Ernie Colon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Paris_Cullins"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Paris_Cullins"
+       },
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Paris_Cullins"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id64"
+      }
+},
+{
+   65: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The creator of the comic character, Bolt, is Paris Cullins, A United States national.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Paris Cullins is an United States national that created the comic character "Bolt".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Bolt was created Paris Cullins, from the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bolt_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Paris_Cullins"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bolt_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Paris_Cullins"
+       },
+       {
+       "object": "Paris_Cullins ",
+       "property": " nationality ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id65"
+      }
+},
+{
+   66: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bozo the Iron Man's full name is Hugh Hazzard and he was created by Goerge Brenner.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Created by George Brenner, the full name of Bozo the Iron Man is "Hugh Hazzard".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "George Brenner is the creator of Bozo the Iron Man whose alter ego is Hugh Hazzard.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bozo_the_Iron_Man ",
+   "property": " creator ",
+   "subject": " George_Brenner"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bozo_the_Iron_Man ",
+       "property": " creator ",
+       "subject": " George_Brenner"
+       },
+       {
+       "object": "Bozo_the_Iron_Man ",
+       "property": " creators ",
+       "subject": " George_Brenner"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id66"
+      }
+},
+{
+   67: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, aka the Black Knight was created by John Buscema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Black Knight, ( also known as Dane Whitman ), was created in the comics genre by John Buscema.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight, which was created by John Buscema.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dane_Whitman_Black_Knight_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " John_Buscema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creator ",
+       "subject": " John_Buscema"
+       },
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creators ",
+       "subject": " John_Buscema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id67"
+      }
+},
+{
+   68: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic book character Dane Whitman ( otherwise known as the Black Knight ), was created by both Roy Thomas and John Buscema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, from the Black Knight was created by John Buscema and Roy Thomas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, aka Black Night was created by John Buscema and Roy Thomas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dane_Whitman_Black_Knight_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " John_Buscema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creators ",
+       "subject": " John_Buscema"
+       },
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creator ",
+       "subject": " John_Buscema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id68"
+      }
+},
+{
+   69: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, alter ego Black Knight, was created by the American, John Buscema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) in the comics genre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman, a.k.a. Black Knight, was created by John Buscema (Amercian) and considered to be in the comics genre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dane_Whitman_Black_Knight_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " John_Buscema"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "John_Buscema ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creators ",
+       "subject": " John_Buscema"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id69"
+      }
+},
+{
+   70: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight which was created by Roy Thomas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Dane Whitman Black Knight is also known as simply Dane Whitman or the alter ego Black Knight, and was created by Roy Thomas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dane Whitman Black, also known as Dane Whitman was created by Roy Thomas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dane_Whitman_Black_Knight_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Roy_Thomas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creators ",
+       "subject": " Roy_Thomas"
+       },
+       {
+       "object": "Black_Knight_(Dane_Whitman) ",
+       "property": " creator ",
+       "subject": " Roy_Thomas"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id70"
+      }
+},
+{
+   71: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Duncan Rouleau is an American national who created Baymax.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax was created by American, Duncan Rouleau.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Duncan_Rouleau ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Duncan_Rouleau ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Baymax ",
+       "property": " creator ",
+       "subject": " Duncan_Rouleau"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id71"
+      }
+},
+{
+   72: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Gene Colan is the American national who created the character Ben Urich.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ben Urich was created by Gene Colan, an American.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The American Gene Nolan created the character Ben Urich.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Gene_Colan ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ben_Urich ",
+       "property": " creator ",
+       "subject": " Gene_Colan"
+       },
+       {
+       "object": "Gene_Colan ",
+       "property": " nationality ",
+       "subject": " Americans"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id72"
+      }
+},
+{
+   73: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic book character Auron was created by Karl Kesel, an American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American, Karl Kesel, is the creator of the comic character, Auron.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The American Karl Kesel created the comic character Auron.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Karl_Kesel ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Karl_Kesel ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Auron_(comics) ",
+       "property": " creator ",
+       "subject": " Karl_Kesel"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id73"
+      }
+},
+{
+   74: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The American Roger McKenzie is a comic book writer who created the character Ben Urich.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A United States national, comic book writer, Roger McKenzie, is the creator of Ben Urich.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Roger Mckenzie, the american comic book writer is the creator of Ben Urich.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Roger_McKenzie_(comic_book_writer) ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Roger_McKenzie_(comics) ",
+       "property": " nationality ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Ben_Urich ",
+       "property": " creator ",
+       "subject": " Roger_McKenzie_(comics)"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id74"
+      }
+},
+{
+   75: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sheldon Moldoff is the American creator of Black Pirate.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Black Pirate was created by Sheldon Moldoff, who was an American national.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sheldon Moldoff is an American who created the Black Pirate.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Sheldon_Moldoff ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Sheldon_Moldoff ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Black_Pirate ",
+       "property": " creator ",
+       "subject": " Sheldon_Moldoff"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id75"
+      }
+},
+{
+   76: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paul Gustavson is the creator of " The Arrow", otherwise known as Ralph Payne.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arrow, also known as Ralph Payne, was created by Paul Gustavson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arrow, otherwise known as Ralph Payne, was created by Paul Gustavson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "The_Arrow_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Ralph Payne""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arrow_(comics) ",
+       "property": " creator ",
+       "subject": " Paul_Gustavson"
+       },
+       {
+       "object": "Arrow_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Ralph Payne"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id76"
+      }
+},
+{
+   77: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rick parker, aka the Arrow was created by Paul Gustavson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The character Arrow's alter ego is Rick Parker, created by Paul Gustavson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rick Parker, aka the Arrow, was created by Paul Gustavson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "The_Arrow_(comicsCharacter) ",
+   "property": " alternativeName ",
+   "subject": " "Rick Parker""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Arrow_(comics) ",
+       "property": " alterEgo ",
+       "subject": " "Rick Parker"@en"
+       },
+       {
+       "object": "Arrow_(comics) ",
+       "property": " creator ",
+       "subject": " Paul_Gustavson"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id77"
+      }
+}

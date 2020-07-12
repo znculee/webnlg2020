@@ -1,0 +1,1065 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette III.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: the Bavarian Crisis, authored by Virginia DeMarce and Eric Flint, was preceded by Grantville Gazette III.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " Grantville_Gazette_III"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " previousWork ",
+     "subject": " Grantville_Gazette_III"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Eric Flint is the author of '1634: The Ram Rebellion' which can be found as an E book.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion available as an E-Book is written by Eric Flint.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Ram_Rebellion ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Ram_Rebellion ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion was written by Eric Flint and can be found in hardcover.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book titled 1634: The Ram Rebellion is a hardcover book by Eric Flint.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion, available in hardcover was written by Eric Flint.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Ram_Rebellion ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Ram_Rebellion ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "ACM Transactions on Information Systems with the CODEN ATISET is abbreviated as ACM Trans. Inf. Syst.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the CODEN code "ATISET".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "ACM_Transactions_on_Information_Systems ",
+   "property": " abbreviation ",
+   "subject": " "ACM Trans. Inf. Syst.""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "ACM_Transactions_on_Information_Systems ",
+       "property": " abbreviation ",
+       "subject": " "ACM Trans. Inf. Syst."@en"
+       },
+       {
+       "object": "ACM_Transactions_on_Information_Systems ",
+       "property": " abbreviation ",
+       "subject": " "ACM Trans. Inf. Syst."@en"
+       },
+       {
+       "object": "ACM_Transactions_on_Information_Systems ",
+       "property": " coden ",
+       "subject": " "ATISET"@en"
+       },
+       {
+       "object": "ACM_Transactions_on_Information_Systems ",
+       "property": " coden ",
+       "subject": " "ATISET""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AIDS journal is from the United Kingdom whose leader is Elizabeth II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom whose leader is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom, where the leader is Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AIDS_(journal) ",
+   "property": " country ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AIDS_(journal) ",
+     "property": " country ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice was written by J. V. Jones and has the ISBN number 0-7653-0633-6.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "J.V. Jones authored A Fortress of Grey Ice, which has the ISBN number 0-7653-0633-6.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "J. V. Jones is the author of "A Fortress of Grey Ice," ISBN number 0-7653-0633-6.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " author ",
+   "subject": " J._V._Jones"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " author ",
+     "subject": " J._V._Jones"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance has the ISBN number 0-7156-3648-0 and is in print.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance with ISBN 0-7156-3648-0 is available in print.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number of the currently in print book, "A Glastonbury Romance," is 0-7156-3648-0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Glastonbury_Romance ",
+   "property": " mediaType ",
+   "subject": " "Print""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Glastonbury_Romance ",
+     "property": " mediaType ",
+     "subject": " "Print"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance identified by ISBN 0-7156-3648-0 was published in hardcover.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": ""A Glastonbury Romance " can be found in hardcover with the ISBN number 0-7156-3648-0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A hardcover copy of A Glastonbury Romance is available with the ISBN number 0-7156-3648-0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Glastonbury_Romance ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Glastonbury_Romance ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance has 1174 pages and is available in print.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance, currently in print, has 1174 pages.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance, 1174 pages, is available in print.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Glastonbury_Romance ",
+   "property": " numberOfPages ",
+   "subject": " "1174""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Glastonbury_Romance ",
+     "property": " numberOfPages ",
+     "subject": " "1174"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ISBN number of A Long Long Way is 0-670-03380-4, and its OCLC number is 57392246.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The OCLC number of A Long Long Way is 57392246 and the The ISBN number is 0-670-03380-4.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number of A Long Long Way is 0-670-03380-4; the OCLC number is 57392246.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " OCLC_number ",
+   "subject": " 57392246"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " oclc ",
+       "subject": " 57392246"
+       },
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " oclc ",
+       "subject": " "57392246""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published in the United States, which includes among its ethnic groups Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published in the United States, where many Asian Americans live,.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press which is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published by Soho Press, based in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published by Soho Press in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " publisher ",
+   "subject": " Soho_Press"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " publisher ",
+     "subject": " Soho_Press"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was written by Diane Duane with on OCLC number 318875313.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Diane Duane wrote A Wizard of Mars which has the OCLC number of 318875313.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " author ",
+   "subject": " Diane_Duane"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Wizard_of_Mars ",
+       "property": " author ",
+       "subject": " Diane_Duane"
+       },
+       {
+       "object": "A_Wizard_of_Mars ",
+       "property": " oclc ",
+       "subject": " "318875313""
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is published in Hardcover and has the ISBN number 978-0-15-204770-2.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was published in hardback and has the ISBN number 978-0-15-204770-2.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars has the ISBN number 978-0-15-204770-2 and was published in hardback.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is 560 pages long and has the ISBN number 978-0-15-204770-2.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars has 560 pages and the ISBN number 978-0-15-204770-2.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars with ISBN number "978-0-15-204770-2 contains 560 pages.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " numberOfPages ",
+   "subject": " "560""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " numberOfPages ",
+     "subject": " "560"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir and it's sequel Above the Veil are examples of Austrlian literature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil, preceded by Aenir, is from the country of Australia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " country ",
+       "subject": " Australians"
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " country ",
+       "subject": " Australians"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Above the Veil followed the book Aenir and is written in English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Aenir was followed up by Above the Veil, which is written in English.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The novel Aenir was followed by Above the Veil written in English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " language ",
+       "subject": " English_language"
+       },
+       {
+       "object": "Aenir ",
+       "property": " subsequentWork ",
+       "subject": " Above_the_Veil"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Above the Veil is the sequel to Aenir, which was written after Castle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil is the sequel to Aenir, which was preceded by the novel Castle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil was preceded by Aenir which was preceded by the novel Castle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " precededBy ",
+   "subject": " Aenir"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " previousWork ",
+       "subject": " Aenir"
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " precededBy ",
+       "subject": " Aenir"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Mathematica Hungarica is the publisher of Springer Science+Business Media, founded by Julius Springer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Springer Science and Business Media, founded by Julius Springer, publishes Acta Mathematica Hungarica.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Springer Science+Business Media founded by Julius Springer is the publisher of Acta Mathematica Hungarica.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Mathematica_Hungarica ",
+   "property": " publisher ",
+   "subject": " Springer_Science+Business_Media"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Mathematica_Hungarica ",
+     "property": " publisher ",
+     "subject": " Springer_Science+Business_Media"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Administrative Science Quarterly has a Coden code of "ASCQAG" and the abbreviation of Admin.Sci.Q.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Administrative Science Quarterly, abbreviated Admin. Sci. Q, has a Coden code of "ASCQAG".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The code for Administrative Science Quarterly (abbreviated as Admin. Sci. Q) is ASCQAG.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " CODEN_code ",
+   "subject": " "ASCQAG""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " abbreviation ",
+       "subject": " "Admin. Sci. Q."@en"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " coden ",
+       "subject": " "ASCQAG"@en"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " abbreviation ",
+       "subject": " "Admin. Sci. Q.""
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " abbreviation ",
+       "subject": " "Admin. Sci. Q."@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is affiliated with the Association of Public and Land grant Universities and published Administrative Science Quarterly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University, affiliated with the Association of Public and Land grant Universities, is publisher of Administrative Science Quarterly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University, affiliated with the Association of Public and Land grant Universities, is the publisher of the Administrative Science Quarterly.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Written by Garth Nix, Aenir, has the ISBN number of "0-439-17684-0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir was written by Garth Nix and has the ISBN number of 0-439-17684-0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir was written by Garth Nix and has the ISBN number 0-439-17684-0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " author ",
+   "subject": " Garth_Nix"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " author ",
+     "subject": " Garth_Nix"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is published in Hardcover and has the ISBN number 0-439-92550-9.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The hardcover edition of, "Alcatraz Versus the Evil Librarians", has ISBN number 0-439-92550-9.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarian, which is identified by ISBN 0-439-92550-9, has 320 pages.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9 and is 320 pages long.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number of the 320-page long Alcatraz Versus the Evil Librarians is 0-439-92550-9.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " numberOfPages ",
+   "subject": " "320""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " numberOfPages ",
+     "subject": " "320"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AIDS (journal) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS(journal) is the academic discipline of HIV, a disease part of the Orthoretrovirinae family.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS (journal) comes under the academic discipline HIV which is part of the family of orthoretrovirinae.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "HIV ",
+   "property": " family ",
+   "subject": " Orthoretrovirinae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "HIV ",
+     "property": " family ",
+     "subject": " Orthoretrovirinae"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where the language is English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, which has English as one of its languages.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id26"
+      }
+}

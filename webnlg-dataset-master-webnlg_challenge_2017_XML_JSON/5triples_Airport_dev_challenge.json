@@ -1,0 +1,1070 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "With a runway length of 2194.0, Abilene regional airport serves Abiliene, part of Jones County, Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport has a runway length of 2194.0 and serves Abilene, Jones County, Texas in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene_Regional_Airport ",
+     "property": " cityServed ",
+     "subject": " Abilene,_Texas"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is served by Abilene regional airport which is 546 metres above sea level and has the ICAO location identifier of KABI. It has the runway name of 17L/35R with a length of 2194.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional airport, whichis 546 metres above sea level, has the ICAO location identifier of KABI and serves the city of Abilene, Texas. It has the runway named 17L/35R which is 2194.0 in length.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Runway 17L/35R at Abilene Regional Airport in Texas has a length of 2194 and is 546m above sea level. It has the identifier of KABI.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Serving the city of Abilene in Texas, is Abilene Regional Airport. It has the ICAO location identifier KABI and the runway name 17R/35L. The airport is 546 metres above sea level and has a runway length of 2194.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas is served by Abilene Regional Airport which has the ICAO location identifier of KABI. It is located 546 metres above sea level and has a runway 2194 metres long with the name of 17R/35L.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene in Texas, it's ICAO identifier is KABI, it's runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abilene_Regional_Airport ",
+     "property": " cityServed ",
+     "subject": " Abilene,_Texas"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE and can be found in Madrid.The airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adofo Suárez Madrid-Barajas Airport, which lies 610 metres above sea level, is located in Madrid and operated by ENAIRE. The airport's runway, named 14L/32R, has a length of 4349.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " runwayLength ",
+   "subject": " 4349.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " runwayLength ",
+     "subject": " "4348.89"^^xsd:double"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agra Airport is in Uttar Pradesh Bundelkhand, it's ICAO location identifier is VIAG. the leader of Utterar Pradesh is Ram Naik.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra Airport is located in Uttar Pradesh. Uttar Pradesh is part of both Awadh ad Bundelkhand. The Airport's ICAO location identifier is "VIAG". The leader of Uttar Pradesh is called Ram Naik.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " ICAO_Location_Identifier ",
+   "subject": " "VIAG""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agra_Airport ",
+       "property": " icaoLocationIdentifier ",
+       "subject": " "(Location of airport in India)""
+       },
+       {
+       "object": "Agra_Airport ",
+       "property": " icaoLocationIdentifier ",
+       "subject": " "VIAG""
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ram Naik is the leader of Uttar Pradesh which is part of Awadh and Bundelkhand. It is the location of Agra airport which has the native name of Kheria Air Force Station.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra Airport, which has the native name of Kheria Air Force Station, is in Uttar Pradesh, part of Awadh and Bundelkhand, where Ram Naik is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra Airport is located in Uttar Pradesh which is part of Awadh and Bundelkhand. Kheria Air Force Station is its native name. Ram Naik is the leader in Uttar Pradesh.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " nativeName ",
+   "subject": " "Kheria Air Force Station""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agra_Airport ",
+     "property": " nativenameA ",
+     "subject": " "Kheria Air Force Station"@en"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Asad airbase is operated by the United States Air Force. Some of its aircraft include the Boeing C-17 Globemaster III (transport aircraft), General Dynamics F-16 Fighting Falcon (aircraft fighter), and the Lockheed AC-130 which can be found on USAF aircraft carriers. The USAF was involved in the Invasion of Panama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad airbase is operated by the United States Air Force which was involved in battles at the invasion of Panama. They deploy the Lockheed AC-130 on their aircraft carriers, the Boeing C-17 Globemaster III as transport aircraft and the General Dynamics F-16 Fighting Falcon as fighter aircraft.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Air Force, which was involved in the Invasion of Panama, are the operators of Al Asad airbase. The USAF have aircraft including: the Lockheed AC-130 attack aircraft, the Boeing C-17 Globemaster III transporter and the General Dynamics F-16 Fighting Falcon fighter plane.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F- Eagle was a Fighter Aircraft of the United States Air Force.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Air Force, which fought battles in the Korean war, is the operating organisation for Al Asad airbase. The US Airforce has a Boeing C-17 Globemaster III transport aircraft, an aircraft fighter called the McDonnell Douglas F-15 Eagle and an attack aircraft named The Lockheed AC-130.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenda involved the United States Air Force which currently operates the Al Asad Airbase.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers is the Lockheed AC-130 Hercules which is a transport plane.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack air crafts and Lockheed C-130 Hercules transport aircrafts. The USAF participated in the Korean War and the Invasion of Grenada.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       },
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Invasions of Grenada and Panama in involved the United States Air Force which now operates the Al Asad airbase. The Air Force has several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 which can be found on USAF aircraft carriers.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad airbase is operated by The United States Air Force. The USAF is equipped with the attack aircraft, Lockheed AC-130 and Boeing C-17 Globemaster III transport aircraft. The USAF has been involved in the Invasion of Grenada and invasion of Panama.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International airport is located in Punjab Pakistan and serves Lahore, Pakistan. The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport. The country is lead by Anwar Zaheer Jamali.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International Airport, which serves the city of Lahore, is located in Punjab, Pakistan and is operated by the Pakistan Civil Aviation Authority. Pakistan is led by Anwar Zaheer Jamali.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "In the city of Lahore, Punjab, Pakistan, there is an airport called Allama Iqbal International Airport. It is operated by the Pakistan Civil Aviation Authority, in Punjab Pakistan, which is led by Anwar Zaheer Jamali.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allama_Iqbal_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Pakistan_Civil_Aviation_Authority"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allama_Iqbal_International_Airport ",
+       "property": " operator ",
+       "subject": " Pakistan_Civil_Aviation_Authority"
+       },
+       {
+       "object": "Allama_Iqbal_International_Airport ",
+       "property": " operator ",
+       "subject": " Pakistan_Civil_Aviation_Authority"
+       },
+       {
+       "object": "Allama_Iqbal_International_Airport ",
+       "property": " operator ",
+       "subject": " Pakistan_Civil_Aviation_Authority"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport. The airport serves the city of Lahore, in Pakistan where Shehbaz Sharif is the leader, It is also where the Allama Iqbal International Airport is found, in Punjab, Pakistan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport located in Punjab, Pakistan, which is lead by Shehbaz Sharif. The airport serves Lahore in Pakistan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allama_Iqbal_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Pakistan_Civil_Aviation_Authority"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allama_Iqbal_International_Airport ",
+       "property": " operator ",
+       "subject": " Pakistan_Civil_Aviation_Authority"
+       },
+       {
+       "object": "Allama_Iqbal_International_Airport ",
+       "property": " operator ",
+       "subject": " Pakistan_Civil_Aviation_Authority"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Texas, and serving Andrews, is Andrews County Airport. The airport is 973.0 below sea level, has a runway length of 896, and a runway with the name 11/29.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport in Texas has a runway length of 896 and serves the city of Andrews. It is located 973 metres below sea level and has the runway name 11/29.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas. It serves the city of Andrews and is 973 metres above sea level. Its runway length is named 11/29 and is 896 long.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is in Texas in the U.S.A. where Spanish is one of the languages spoken. Houston is the largest city in the state and its capital is Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, United States. The largest city in Texas is Houston, the state capital is Austin and Spanish is one of the languages spoken there.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Houston is the largest city in Texas, where Austin is the Capital city. Andrews County Airport is located in Texas and Some texans can speak Spanish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, a state where Spanish is spoken and the people are called Texans. Houston is the largest city in Texas and Austin is the state's capital.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas where the Spanish language is spoken and the people are known as Texans. The capital city is Austin but the largest city is Houston.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Angola International Airport is in Ícolo e Bengo, (Luanda Province), The airport serves Luanda, and is 159 metres above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located at Ícolo e Bengo in Luanda province,Angola.The Airport is situated 159 meters above sea level and serves the city of Luanda.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport, which is located in Ícolo e Bengo in the Luanda Province in Angola, serves Luanda. The airport lies 159 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola_International_Airport ",
+     "property": " location ",
+     "subject": " Ícolo_e_Bengo"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located in Ícolo e Bengo, Luanda, Angola. The runway is 4000ft long and is 159m a.s.l.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo, which is a part of Luanda Province, located in Angola. The airport is 159 meters above sea level and its runway has a lenght of 4000.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located in Icolo e Bengo, which is located in the Luanda Province, Angola. The airport is situated 159 meters above sea level and it has a runway that measures a length of 4000.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region. The airport serves the city of Antwerp, is 12.0 metres above sea level, and has a runway length of 600.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Flemish Region owns Antwerp International Airport which is operated by the Flemish Department of Mobility and Public Works and serves the city of Antwerp. The runway length is 600.0 and the airport is 12 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is owned by the Flemish Region and located in the city of Antwerp. The airport has a runway length of 600.0 , elevation of 12.0 metres above sea level and the Flemish department of Mobility and Public Works is the operating organisation.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " owner ",
+   "subject": " Flemish_Region"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " owner ",
+       "subject": " Flemish_Region"
+       },
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " owner ",
+       "subject": " Flemish_Region"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville, Wisconsin. The runway at the airport is 3/21 and is 2439 in length.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport can be found in Greenville, Wisconsin and serves the city of Appleton.It is situated 280 meters above sea level and has a 2,439 kilometers long runway called 3/21.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport, which serves the city of Appleton is located in Greenville, Wisconsin. It is elevated 2801 meters above sea level. The airport's runway, which is named 3/21 measures a lenght of 2439 units.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Appleton is served by Appleton International Airport in Greenville (part of Menasha), Clayton Winnebago County, Wisconsin, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin is served by Appleton International Airport which is located in Greenville (part of Menasha town), Clayton Winnebago County, Wisconsin, USA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport in New Zealand is operated by the Civil Aviation Authority and is 34 metres above sea level. It has a runway named 03R/21L which is 1,411 long and its third runway has a poaceae surface.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand) is operated by the Civil Aviation Authority of New Zealand. Its 3rd runway is made of Poaceae and its name is 03R/21L. It is 1411 m long and the airport is 34 m above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand and is situated 34 meters above sea level.The airport's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called "03R/21L".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " runwayLength ",
+   "subject": " 1411.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " runwayLength ",
+       "subject": " "1411.22"^^xsd:double"
+       },
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " runwayLength ",
+       "subject": " "1411.0"^^xsd:double"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat. The airport is 211 metres above sea level, has the runway length of 2989.0 and 12R/30L is the runway name.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ashgabat International Airport is operated by Turkmenistan Airlines. The runway 12R/30L is 2989m long and is 211m a.s.l.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ashgabat International Airport is located in Ashgabat and is operated byTurkmenistan Airlines. It is 211 metres above sea level and has a runway length of 2989.0. It has a runway named 12R/30L.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ashgabat_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Turkmenistan_Airlines"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " operator ",
+       "subject": " Turkmenistan_Airlines"
+       },
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " operator ",
+       "subject": " Turkmenistan_Airlines"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport has a runway length of 1,873 and is operated by the Port Authority of New York and New Jersey. It is situated 23 metres above sea level, has the runway name of 4/22 and is known by the ICAO location identifier KACY.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Runway 4/22 at Atlantic City International Airport has an elevation of 23m above sea level and its length is 1873. It is operated by Port Authority of New York and New Jersey under the location Identifier of KACY.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which lies 23.0 meters above sea level. The airport's ICAO Location Identifier is KACY. The 4/22 is the name of the runway in Atlantic City International Airport and it measures 1873.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 1873.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1873.0"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1873.0"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Flemish Government have jurisdiction over the Flemish Region of Belgium. The leader of the country is Charles Michel and the city of Antwerp is served by Antwerp International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp in Belgium, the country where the leader is Charles Michel. The Flemish Region can be found in Belgium and it is led by the Flemish Government who has jurisdiction over it.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves Antwerp. The Flemish region is in the country of Belgium and it is led by the Flemish Government. The jurisdiction of the Flemish Government is in the Flemish Region and the leader of Belgium is Charles Michel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " leaderName ",
+   "subject": " Charles_Michel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " leader ",
+     "subject": " Charles_Michel"
+     }
+     ]
+   ],
+   "size": "5",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake in New York. Saranac Lake is part of Harrietstown and Essex County in New York in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake, New York,United States.Saranac Lake, New York is part of Harrietstown,Essex County,New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake in New York state,United States. Saranac Lake, New York is part of Harrietstown in Essex County,New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " Harrietstown,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " Harrietstown,_New_York"
+       },
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " Harrietstown,_New_York"
+       }
+     ]
+     },
+   "size": "5",
+   "xml_id": "Id25"
+      }
+}

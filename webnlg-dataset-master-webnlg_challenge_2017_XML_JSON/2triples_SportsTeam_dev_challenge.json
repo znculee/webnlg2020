@@ -1,0 +1,890 @@
+{
+   1: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Cesena are in the Serie B league, the previous champions of which are Carpi FC 1909.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Cesana play in Serie B, in which Carpi FC 1909 are the champions.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Cesena are in the Serie B league, previously won by Carpi F.C. 1909.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Cesena ",
+   "property": " league ",
+   "subject": " Serie_B"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Cesena ",
+     "property": " league ",
+     "subject": " Serie_B"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc Antonio Bentegodi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Chievo_Verona ",
+   "property": " ground ",
+   "subject": " Stadio_Marc'Antonio_Bentegodi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Chievo_Verona ",
+     "property": " ground ",
+     "subject": " Stadio_Marc'Antonio_Bentegodi"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.C. Lumezzane's ground is in Italy where the leader is Pietro Grasso.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Lumezzane play in italy where the leader is Pietro Grasso.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Lumezzane play in Italy, where the leader is Pietro Grasso.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Lumezzane ",
+   "property": " ground ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Lumezzane ",
+     "property": " ground ",
+     "subject": " Italy"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he played for the C.D. FAS.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He is in the C.D. FAS.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for C.D. FAS.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.D._Isidro_Metapán ",
+   "property": " manager ",
+   "subject": " Jorge_Humberto_Rodríguez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.D._Isidro_Metapán ",
+     "property": " manager ",
+     "subject": " Jorge_Humberto_Rodríguez"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.E. Dimitra Efeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.E_Dimitra_Efxeinoupolis ",
+   "property": " numberOfMembers ",
+   "subject": " 1500"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A.E_Dimitra_Efxeinoupolis ",
+       "property": " capacity ",
+       "subject": " "1500"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "A.E_Dimitra_Efxeinoupolis ",
+       "property": " capacity ",
+       "subject": " 1500"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Runcorn F.C. Halton.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Blackpool have had Stuart Parker as their manager who was a football player for Runcorn FC Halton.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The manager of A.F.C. Blackpool is Stuart Parker (footballer), he played for Runcorn FC Halton.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Blackpool ",
+   "property": " manager ",
+   "subject": " Stuart_Parker_(footballer)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Blackpool ",
+     "property": " manager ",
+     "subject": " Stuart_Parker_(footballer)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The manager of A.F.C. Blackpool is Stuart Parker (footballer), who plays at the Sparta Rotterdam club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Stuart Parker, who plays at the Sparta Rotterdam Club, has also managed AFC Blackpool.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Blackpool have had the manager Stuart Parker who currently plays for Sparta Rotterdam.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Blackpool ",
+   "property": " manager ",
+   "subject": " Stuart_Parker_(footballer)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Blackpool ",
+     "property": " manager ",
+     "subject": " Stuart_Parker_(footballer)"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde has the home ground called The Fylde and has 3180 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Fylde has the home ground called The Fylde, which holds 3180 fans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Fylde, (capacity 3180) is the home ground of AFC Fylde.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " The_Fylde"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " The_Fylde"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde has 3180 members and are based at Bryning Lane.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Fylde has 3180 members and are based at Bryning Lane.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde are based at Bryning Lane and they have 3180 members.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " numberOfMembers ",
+   "subject": " 3180"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " capacity ",
+     "subject": " "3180"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Livorno_Calcio ",
+   "property": " manager ",
+   "subject": " Christian_Panucci"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Livorno_Calcio ",
+     "property": " manager ",
+     "subject": " Christian_Panucci"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Grounds being in Rome, Italy, A.S. Roma to play in Serie A.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Roma play in the Serie A league and their ground is in Rome, Italy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Roma's ground is in Rome, Italy and they play in Serie A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " ground ",
+   "subject": " "Rome, Italy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " ground ",
+     "subject": " "Rome, Italy"@en"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "ACF Fiorentina play in Serie A which is based in Italy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "ACF Fiorentina play in Serie A based in Italy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "ACF_Fiorentina ",
+   "property": " league ",
+   "subject": " Serie_A"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "ACF_Fiorentina ",
+     "property": " league ",
+     "subject": " Serie_A"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax's manager is Frank de Boer, who played for the Ajax Youth Academy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Frank de Boer is in the Ajax Youth Academy and manages AFC Ajax.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " manager ",
+   "subject": " Frank_de_Boer"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax ",
+     "property": " manager ",
+     "subject": " Frank_de_Boer"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax has 53502 members and is the owner of AFC Ajax NV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax has 53502 members and is owned by AFC Ajax NV.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax has 53502 members and is owned by AFC Ajax N.V..",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " owner ",
+   "subject": " AFC_Ajax_N.V."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AFC_Ajax ",
+       "property": " owner ",
+       "subject": " "AFC Ajax NV"@en"
+       },
+       {
+       "object": "AFC_Ajax ",
+       "property": " owner ",
+       "subject": " AFC_Ajax_N.V."
+       },
+       {
+       "object": "AFC_Ajax ",
+       "property": " owner ",
+       "subject": " AFC_Ajax_N.V."
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ground of AFC Ajax (amateurs) can be found in Amsterdam where Eberhard van der Laan is a leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax is based in Amsterdam where Eberhard van der Laan is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax_(amateurs) ",
+   "property": " ground ",
+   "subject": " Amsterdam"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax_(amateurs) ",
+     "property": " ground ",
+     "subject": " Amsterdam"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs) played in the 2014-15 Topklasse season and their home ground has a capacity for 5000 fans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax_(amateurs) ",
+   "property": " season ",
+   "subject": " 2014–15_Topklasse"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AFC_Ajax_(amateurs) ",
+       "property": " capacity ",
+       "subject": " "5000"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "AFC_Ajax_(amateurs) ",
+       "property": " season ",
+       "subject": " 2014–15_Topklasse"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK play their home matches at the AZAL Arena in Shuvulan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AZAL Arena is located in Shuvulan and is the ground of AZAL PFK.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AZAL Arena in Shuvalan is the ground of AZAL PFK.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_Arena ",
+   "property": " location ",
+   "subject": " Shuvalan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_Arena ",
+     "property": " location ",
+     "subject": " Shuvalan"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar's fullname is Alkmaar Zaanstreek, it has 17023 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar has 17023 member and their full name is "Alkmaar Zaanstreek".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alkmaar Zaanstreek is the full name of AZ Alkmaar which has 17023 members.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " fullname ",
+   "subject": " "Alkmaar Zaanstreek""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AZ_Alkmaar ",
+       "property": " fullname ",
+       "subject": " "Alkmaar Zaanstreek"@en"
+       },
+       {
+       "object": "AZ_Alkmaar ",
+       "property": " fullname ",
+       "subject": " "Alkmaar Zaanstreek"@en"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense's ground is the Estadio Minicipal Coaracy da Mata Fonseca, its located in Brazil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Estádio Municipal Coaracy da Mata Fonseca is located in Brazil and is the ground of Agremiação Sportiva Arapiraquense.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense which is in Brazil.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " ground ",
+   "subject": " Estádio_Municipal_Coaracy_da_Mata_Fonseca"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " ground ",
+     "subject": " Estádio_Municipal_Coaracy_da_Mata_Fonseca"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense (which is his full name) has a club with 17000 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense" and they have 17000 members.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " numberOfMembers ",
+   "subject": " 17000"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " capacity ",
+       "subject": " "17000"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " capacity ",
+       "subject": " 17000"
+       }
+     ]
+     },
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The team Akron Summit Assault are based in Akron, Ohio, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akron Summit Assault team is based in Akron, Ohio which is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akron Summit Assault team is based in Akron, Ohio in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " Akron,_Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " Akron,_Ohio"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+   "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Massimo Drago's club is the S.S. Chieti Calcio and he manages A.C. Cesena.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Massimo Drago manages A.C. Cesena and plays for S.S. Chieti Calcio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Massimo_Drago ",
+   "property": " club ",
+   "subject": " S.S._Chieti_Calcio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Massimo_Drago ",
+     "property": " team ",
+     "subject": " S.S._Chieti_Calcio"
+     }
+     ]
+   ],
+   "size": "2",
+   "xml_id": "Id22"
+      }
+}
