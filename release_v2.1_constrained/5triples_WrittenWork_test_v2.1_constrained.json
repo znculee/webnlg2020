@@ -1,0 +1,163 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Eric Flint was born in Burbank, California and came under the influence of Robert A Heinlein. He is the author of 1634: The Bavarian Crisis which is preceded by 1634: The Baltic War. Also preceding the book are the DeMarce short stories in the Grantville Gazettes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint, born in Burbank California, is the author of 1634: The Bavarian Crisis, which was preceded by 1634: The Baltic War. These books were preceded by DeMarce short stories in the Grantville Gazettes. He was influenced by Robert A. Heinlein.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "1634:_The_Bavarian_Crisis ",
+       "property": " author ",
+       "subject": " Eric_Flint"
+       },
+       {
+       "object": "1634:_The_Bavarian_Crisis ",
+       "property": " author ",
+       "subject": " Eric_Flint"
+       },
+       {
+       "object": "1634:_The_Bavarian_Crisis ",
+       "property": " author ",
+       "subject": " Eric_Flint"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634:The Ram Rebellion is from the United States where Barack Obama is President, the capital city is Washington D.C. and African American is one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barack Obama is the President of the United States where the capital city is Washington D.C. African American is one of the ethnic groups and the book 1634:The Ram Rebellion was written.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id93"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion comes from the United States, where Barack Obama is the President, and its capital city is Washington D.C. Asian Americans is one of the ethnic groups in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the United States, where Barack Obama is President, and its capital city is Washington D.C. Asian Americans are one of the ethnic groups there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barack Obama (title: President) is the leader of the United States, where the capital is Washington DC. The book 1634 The Ram Rebellion comes from the US, where there is an ethnic group called Asian Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id94"
+      }
+},
+{
+   4: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The demonym for people living in the United States is Americans, African Americans are an ethnic group there and is where 1634 The Ram Rebellion was written. The leader of the United States is known as the President and is currently Barack Obama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States are inhabited by Americans and the ethnic group of African Americans. 1634 The Ram Rebellion was written in the country where President Barack Obama is the leader.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id96"
+      }
+}

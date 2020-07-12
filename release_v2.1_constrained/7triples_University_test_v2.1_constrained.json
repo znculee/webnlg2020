@@ -1,0 +1,84 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in Bangalore, the city that was established by Kempe Gowda. The Institute was given the 'Technical Campus' status by All India Council for Technical Education (which is located in Mumbai). Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and one of the sports offered at the campus is tennis, which has as its governing body The International Tennis Federation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The All India Council for Technical Education in Mumbai granted Technical Campus status to the Acharya Institute of Technology in the city of Bangalore which was founded by Kempe Gowda. One of the sports offered at the Institute which is affiliated with the Visvesvaraya Technological University, is tennis, which has the International Tennis Federation as its governing body.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology, founder Kempe Gowda, in Bangalore, was given Technical Campus status by the all India Council for Technical Education in Mumbai. The institute offers Tennis under the International Tennis federation and is affiliated to the Visvesvaraya technological University.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " was given the 'Technical Campus' status by ",
+   "subject": " All_India_Council_for_Technical_Education"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " free ",
+       "subject": " All_India_Council_for_Technical_Education"
+       },
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " affiliation ",
+       "subject": " Visvesvaraya_Technological_University"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "7",
+   "xml_id": "Id26"
+      }
+},
+{
+   2: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is in Bangalore, Karnataka. It was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai and is affiliated with the Visvesvaraya Technological University. Karnataka has Telangana to its northeast. Karnataka has the Arabian Sea to its west.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The state of Karnataka is located to the southwest of Telangana, and east of the Arabian Sea. Located in the city of Bangalore in Karnataka is the Acharya Institute of Technology, which was granted the 'Technical Campus' status by the All India Council for Technical Education, located in Mumbai. The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " was given the 'Technical Campus' status by ",
+   "subject": " All_India_Council_for_Technical_Education"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " free ",
+     "subject": " All_India_Council_for_Technical_Education"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "7",
+   "xml_id": "Id27"
+      }
+}

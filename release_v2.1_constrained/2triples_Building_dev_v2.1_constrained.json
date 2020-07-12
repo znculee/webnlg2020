@@ -1,0 +1,1307 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, located at Colmore Row, was designed by the architect, John Madin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Madin is the architect of 103 Colmore Row, located in Colmore Row.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Architect John Madin designed 103 Colmore Row, located at Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by John Madin, born in Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin who was born in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Architect John Madin, born in Birmingham, designed 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Madin was an architect from Birmingham who designed 103 Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin whose hometown was Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "John Madin from Birmingham was the architect of 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row at Colmore Row was completed in 1976.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was completed in 1976.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Number 103 in Colmore Row was completed in 1976.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " completionDate ",
+   "subject": " 1976"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " buildingEndDate ",
+     "subject": " "1976""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row actually on Colmore Row has 23 floors.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " floorCount ",
+   "subject": " 23"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Colmore_Row"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " floorCount ",
+       "subject": " "23"^^xsd:positiveInteger"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 23 floors at 103 Colmore Row, Birmingham, England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is in Birmingham, England and has 23 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row with 23 floors, is located on Colmore Row, Birmingham, England.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " "Colmore Row, Birmingham, England""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " "Colmore Row, Birmingham, England"@en"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " "Colmore Row, Birmingham, England"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, designed by the architect John Madin is located in Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, designed by architect John Madin, is located in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Birmingham and was designed by the architect John Madin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " Birmingham"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, Birmingham is a building with 23 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, with 23 floors, is located in Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row, located in Birmingham has 23 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Birmingham"
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " location ",
+       "subject": " Birmingham"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, governed by Cleveland City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland whose governing body is Cleveland City Council.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland which is governed by Cleveland City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Cuyahoga County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland, which is part of Cuyahoga County, Ohio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is found in Cleveland, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland which is led by Frank G Jackson.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located at Public Square, Cleveland and has a floor count of 45.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square has 45 floors and is located in Public Square, Cleveland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Public_Square,_Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Public_Square,_Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Public_Square,_Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, which has a floor count of 34, was completed in April 2014.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014, and has 34 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, with 34 floors, was completed April 2014.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " completionDate ",
+   "subject": " "April 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Boris Johnson is the leader of London, the city where 20 Fenchurch Street is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of London is Boris Johnson and is home to 20 Fenchurch Street.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in London whose leader is the Parliament of the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in London, which is led by the parliament of the United Kingdom.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Parliament of the United Kingdom is the leader of London, the city in which 20 Fenchurch Street is located.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom, where the currency is pounds sterling.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom, whose currency is the Pound sterling.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The pound sterling is the currency of the United Kingdom, which is also the location of 20 Fenchurch Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Completed in 1929, 320 South Boston Building has 22 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "320 South Boston Building was completed in 1929 and has 22 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " completionDate ",
+   "subject": " 1929"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " floorCount ",
+       "subject": " "22"^^xsd:positiveInteger"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingEndDate ",
+       "subject": " "1929""
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingEndDate ",
+       "subject": " "1929""
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " completionDate ",
+       "subject": " 1929"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id58"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall in Virginia is owned by The College of William and Mary.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall, which is owned by The College of William and Mary, is located in Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id113"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The College of William and Mary owns the Alan B. Miller Hall and the Chancellor of the College is Robert Gates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Gates is the chancellor of The College of William and Mary which owns Alan B. Miller Hall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Gates served as chancellor of the College of William and Mary, which is the owner of the Alan B. Miller Hall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " owner ",
+   "subject": " College_of_William_&amp;_Mary"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " owner ",
+     "subject": " College_of_William_&amp;_Mary"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id114"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is a tenant of Alan B. Miller Hall in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mason School of Business is a tenant of Alan B. Miller Hall which is located in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " tenant ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " tenant ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id115"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, Ahmedabad near CEPT University, opp. Gujarat University, University Road.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " address ",
+   "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " address ",
+     "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id116"
+      }
+},
+{
+   24: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The prime minister of India is Narendra Modi and Amdavad ni Gufa is also located in India.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " Narendra_Modi"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id117"
+      }
+},
+{
+   25: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sumitra Mahajan is the leader of India where Amdavad ni Gufa is found.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India, the country which has Sumitra Mahajan as one of its leaders.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India whose leader is Sumitra Mahajan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " country ",
+       "subject": " India"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id118"
+      }
+},
+{
+   26: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad, India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Amdavad ni Gufa is Ahmedabad, India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Ahmedabad"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Ahmedabad"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Ahmedabad"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id119"
+      }
+},
+{
+   27: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id132"
+      }
+},
+{
+   28: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, a part of Dimmit County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is part of Dimmit County, Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Dimmit_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " Asherton,_Texas"
+       },
+       {
+       "object": "Asherton,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Dimmit_County,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id133"
+      }
+},
+{
+   29: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is a part of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id134"
+      }
+},
+{
+   30: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds was designed by Julia Morgan, who was born in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id135"
+      }
+},
+{
+   31: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan from San Francisco was the designer of the Asilomar Conference Grounds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Asilomar Conference Grounds was Julia Morgan, who was born in San Francisco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id136"
+      }
+}

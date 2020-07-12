@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio, established in 1996, is located in Ticino in the city of Mendriso. Its dean is Mario Botta and has 600 students.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio was established in 1996 and is located at Ticino, in the city of Mendrisio. There are 600 students in attendance, and the school is headed by the dean, Mario Botta.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio, Ticino and has 600 students. Mario Botta is dean of the Accademia.</lex>
+    </entry>
+    <entry category="University" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | "100"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Ticino, Mendrisio was established in 1996. It has 100 academic staff and 600 students.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Ticino. It was established in 1996 and has 600 students and an academic staff of 100.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Ticino was established 1996. It has a staff of 100 and a student population of 600.</lex>
+    </entry>
+    <entry category="University" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio, Ticino has 100 academic staff and 600 students. Its dean is Mario Botta.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Ticino and has 600 students and 100 academic staff. The Dean at the Accademia is Mario Botta.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Ticino has a staff of 100 and a student population of 600. The dean is Mario Botta.</lex>
+    </entry>
+    <entry category="University" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio was established in 1996. It has 100 academic staff and 600 students. Its dean is Mario Botta.</lex>
+      <lex comment="good" lid="Id2">Mendrisio is the location of the Accademia di Architettura di Mendrisio which was established in 1996. The name of the Dean is Mario Botta and there is an academic staff of 100 and 600 students.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland was established 1996. It has a staff of 100 and a student population of 600. The dean is Mario Botta.</lex>
+    </entry>
+    <entry category="University" eid="Id24" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">B M Reddy is the President of the Acharya Institute of Technology, Bangalore, Karnataka, India. The Institute is affiliated to the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2">Acharya Institute of Technology (president B M Reddy) is located in Bangalore, Karnataka, India and is affiliated with Visvesvaraya Technological University.</lex>
+    </entry>
+    <entry category="University" eid="Id25" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acharya Institute of Technology, located in the state of Karnataka in India, at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with Visvesvaraya Technological University, located in the city of Belgaum.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+    </entry>
+    <entry category="University" eid="Id26" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2">The campus of the Acharya Institute of Technology which is affiliated with the Visvesvaraya Technological University is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The are 700 postgraduate students at the Institute.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology in Balgalore, India is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University and has 700 post-graduate students.</lex>
+    </entry>
+    <entry category="University" eid="Id43" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>India | largestCity | Mumbai</otriple>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | faculty | 250</otriple>
+        <otriple>India | river | Ganges</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | largestCity | Mumbai</mtriple>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>India | river | Ganges</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AWH Engineering College, established in 2001, is located in India and has an academic staff of 250. India's largest city is Mumbai and has a river called the Ganges.</lex>
+    </entry>
+    <entry category="University" eid="Id46" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+        <mtriple>Romania | leaderName | Klaus_Iohannis</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba Iulia, Romania. Romania's capital is Bucharest; its leader is Klaus Iohannis and its ethnic group is the Germans of Romania.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in the Romanian city of Alba Iulia. The Germans of Romania are one of the ethnic groups in the country which is led by Klaus Iohannis and has Bucharest as its capital city.</lex>
+      <lex comment="good" lid="Id3">The leader of Romania is Klaus Iohannis. The capital of the country is Bucharest and their ethnic group is Germans of Romania. Alba Iulia is a city in Romania where is based the 1 Decembrie 1918 University.</lex>
+    </entry>
+    <entry category="University" eid="Id47" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>Romania | leaderName | Klaus_Iohannis</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1 Decembrie 1918 University is in Romania which has Bucharest as its capital and the national anthem is Deșteaptă-te, române. The country is led by Klaus Iohannis and its ethnic group is the Germans of Romania.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and is led by Klaus Iohannis. One of the ethnicities of the country is Germanic and the national anthem is Deșteaptă-te, române!</lex>
+    </entry>
+    <entry category="University" eid="Id56" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+        <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. Denmark has a monarchy and its leader is Lars Lokke Rasmussen. Denmark has a magistrate government.</lex>
+      <lex comment="good" lid="Id2">The government type in Aarhus, Denmark is that of magistrate and the city is the location of the School of Business and Social Sciences at the Aarhus University. The leader of Denmark, with the title of Monarchy of Denmark is Lars Lokke Rasmussen.</lex>
+    </entry>
+  </entries>
+</benchmark>

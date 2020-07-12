@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__3</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Straight-six_engine</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | 106</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__6</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a straight-six engine and was manufactured by the Alvis Car and Engineering Company that was founded in Coventry and succeeded by the Rover Company.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25, with its straight-six engine, was made by Coventry area, Alvis Car and Engineering Company, which was succeeded by the Rover Company.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company which was founded in Coventry and succeeded by The Rover Co. It has a straight-six engine.</lex>
+    </entry>
+  </entries>
+</benchmark>

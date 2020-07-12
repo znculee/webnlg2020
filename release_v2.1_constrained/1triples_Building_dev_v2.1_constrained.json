@@ -1,0 +1,654 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland's governing body is Cleveland City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Cleveland City Council is the governing body of Cleveland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The governing body of Cleveland is Cleveland City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cleveland ",
+   "property": " governingBody ",
+   "subject": " Cleveland_City_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Cleveland ",
+     "property": " governingBody ",
+     "subject": " Cleveland_City_Council"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id155"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland is part of Cuyahoga County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cleveland is part of the Cuyahoga County in Ohio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cleveland ",
+   "property": " isPartOf ",
+   "subject": " Cuyahoga_County,_Ohio"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Cleveland ",
+       "property": " isPartOf ",
+       "subject": " Cuyahoga_County,_Ohio"
+       },
+       {
+       "object": "Cleveland ",
+       "property": " subdivisionName ",
+       "subject": " Cuyahoga_County,_Ohio"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id156"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland is located within Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cleveland is part of Ohio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cleveland ",
+   "property": " isPartOf ",
+   "subject": " Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Cleveland ",
+     "property": " isPartOf ",
+     "subject": " Ohio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id157"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Frank G Jackson is a leader in Cleveland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader in Cleveland is Frank G Jackson.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cleveland ",
+   "property": " leaderName ",
+   "subject": " Frank_G._Jackson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Cleveland ",
+     "property": " leaderName ",
+     "subject": " Frank_G._Jackson"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id158"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Robert Gates is the chancellor of the College of William &amp; Mary.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Chancellor of the College of William and Mary is Robert Gates.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Gates served as chancellor of the College of William and Mary.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "College_of_William_&amp;_Mary ",
+   "property": " chancellor ",
+   "subject": " Robert_Gates"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "College_of_William_&amp;_Mary ",
+     "property": " chancellor ",
+     "subject": " Robert_Gates"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id159"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "County Limerick is governed by the Limerick City and County Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Limerick City and County Council governs County Limerick.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "County_Limerick ",
+   "property": " governmentType ",
+   "subject": " Limerick_City_and_County_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "County_Limerick ",
+     "property": " governmentType ",
+     "subject": " Limerick_City_and_County_Council"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id160"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Copenhagen is the capital of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of Denmark is Copenhagen.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " capital ",
+   "subject": " Copenhagen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " capital ",
+     "subject": " Copenhagen"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id161"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Faroese Language is spoken in Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language Faroese is spoken in Denmark.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " language ",
+   "subject": " Faroese_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " language ",
+     "subject": " Faroese_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id162"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Gujarat's leader is known as the Gujarat Legislative Assembly.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Gujarat ",
+   "property": " leaderTitle ",
+   "subject": " Gujarat_Legislative_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Gujarat ",
+     "property": " leaderTitle ",
+     "subject": " Gujarat_Legislative_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id177"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Illinois is Springfield, Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of Illinois is Springfield.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Illinois ",
+   "property": " capital ",
+   "subject": " Springfield,_Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Illinois ",
+     "property": " capital ",
+     "subject": " Springfield,_Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id178"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Illinois is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Illinois state is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Illinois is situated in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Illinois ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Illinois ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id179"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Illinois is the English language.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Illinois ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Illinois ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id180"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Narendra Modi leads India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of India is Narendra Modi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Narendra Modi is the prime minister of India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " Narendra_Modi"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " Narendra_Modi"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " Narendra_Modi"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id181"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "T S Thakur is a leader in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of India is called T S Thakur.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "T. S. Thakur was an Indian leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " T._S._Thakur"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id182"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There is an ethnic group of Chinese people in Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "In Japan there is an ethnic group of Chinese people.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Chinese_people_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Chinese_people_in_Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id183"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in Japan is the Filipinos.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Filipinos_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Filipinos_in_Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id184"
+      }
+},
+{
+   17: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "toFix",
+   "lex": "The main ethnic group in Japan is the Japanese.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Japanese_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Japanese_people"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id185"
+      }
+}

@@ -1,0 +1,408 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE, which is located in the city of Madrid, Spain. The Adolfo Suarez Madrid-Barajas Airport is located in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE from the city of Madrid, Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adolfo Suárez Madrid–Barajas Airport, operated by ENAIRE (Madrid), is found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas; Spain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "ENAIRE ",
+   "property": " locationCity ",
+   "subject": " Madrid"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "ENAIRE ",
+     "property": " locationCity ",
+     "subject": " Madrid"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id21"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport is 911.0 metres above sea level and has a runway that is 1800 meters long. It is operated by Infraero which is located in Brasilia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport is 911 metres above sea level and has a runway 1800 meters long. It is operated by Infraero located in Brasilia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Infraero, located in Brasilia, runs the Afonso Pena International airport which is 911 metres above sea level and has a runway length of 1800.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Infraero ",
+   "property": " location ",
+   "subject": " Brasília"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Infraero ",
+       "property": " location ",
+       "subject": " Brasília"
+       },
+       {
+       "object": "Infraero ",
+       "property": " location ",
+       "subject": " Brasília"
+       },
+       {
+       "object": "Infraero ",
+       "property": " location ",
+       "subject": " Brasília"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id22"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Iraq is Haider al-Abadi and they speak Arabic. Fallujah which is located in Iraq is served by the Al-Taqaddum air base.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Fallujah is served by the Al Taqaddum air base and is located in Iraq which is led by Haider Al Abadi and the Arabic language is spoken there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Al Taqaddum Air Base serves the city of Fallujah, Iraq. Haider Al-Abadi is a leader in Iraq whose language is Arabic.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " leaderName ",
+   "subject": " Haider_al-Abadi"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Iraq ",
+       "property": " leader ",
+       "subject": " Haider_al-Abadi"
+       },
+       {
+       "object": "Iraq ",
+       "property": " leader ",
+       "subject": " Haider_al-Abadi"
+       }
+     ]
+     },
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id23"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International Airport, which serves the city of Lahore, is located in Punjab, Pakistan. The leader of which is Malik Muhammad Rafique Rajwana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Pakistan, the city of Lahore is served by Allama Iqbal International Airport which is Punjab Pakistan, where the leader is Malik Muhammad Rafique Rajwana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Malik Muhammad Rafique Rajwana is the leader of Punjab in Pakistan. The region is the location of Allama Iqbal International airport which serves the city of Lahore.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lahore ",
+   "property": " country ",
+   "subject": " Pakistan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lahore ",
+     "property": " country ",
+     "subject": " Pakistan"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id25"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The surface of the 1st runway at Alderney airport is poaceae, a flowering plant of the Poales or Commelinids order.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alderney Airport's first runway is made from Poaceae, a flowering plant of the Poales order, which is also the order of Commelinids.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Poaceaea, which belongs to the division of flowering plants and the orders of poales and commelinids constitutes the surface of the 1st runway at Alderney airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " division ",
+   "subject": " Flowering_plant"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Poaceae ",
+       "property": " unrankedDivisio ",
+       "subject": " Flowering_plant"
+       },
+       {
+       "object": "Poaceae ",
+       "property": " division ",
+       "subject": " Flowering_plant"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id26"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "At 167.94 metres above sea level, Agra Airport is in Uttar Pradesh (part of Awadh) where Ram Naik is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ram Naik is the leader of Uttar Pradesh, part of Awadh, which is the location of Agra airport at an elevation of 167.94 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Uttar Pradesh is part of Awadh and is led by Ram Naik. It is the location of Agra airport situated at 167.94 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " elevationAboveTheSeaLevel_(in_metres) ",
+   "subject": " 167.94"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agra_Airport ",
+     "property": " elevation ",
+     "subject": " "167.94"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id47"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Agra airport is located in India and operated by the Airports Authority of India. AGR is the ATA Location ID and ICAO, with the value "VIAG", is another location identifier for this airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra Airport is in India and run by the Airports Authority of India. It has the IATA Location Identifier of AGR and the ICAO Location Identifier of VIAG.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The IATA I.D for Agra Airport (India) is AGR, while the ICAO is VIAG. Agra is operated by the Airports Authority of India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " location ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       },
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id48"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Boeing C-17 Globemaster III is a transport aircraft in the Indian Air Force who are the operating organisation of Agra Airport. The airport is located in India where Narendra Modi is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra airport is located in India and operated by the Indian Air Force. The country's leader is Narendra Modi and the airforce uses Boeing C-17 Globemaster III transport aircraft.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " location ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       },
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id49"
+      }
+},
+{
+   9: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agra airport, located in India, where the leader is T S Thakur, is operated by the Indian air force who deploy the transport aircraft Boeing C-17 Globemaster III.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra airport is located in India, which is owned and operated by the Indian air force. That is where the Boeing C-17 Globemaster III transport aircraft is located. T S Thakur is the leader of India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra airport is operated by the Indian Air Force and uses Boeing C-17 Globemaster III as its transport aircraft. India is led by T. S. Thakur.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " location ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       },
+       {
+       "object": "Agra_Airport ",
+       "property": " location ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id50"
+      }
+}

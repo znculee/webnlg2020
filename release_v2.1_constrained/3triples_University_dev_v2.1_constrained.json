@@ -1,0 +1,37 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928. It is affiliated with the European University Association in Brussels.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established 1928 and is affiliated with the European University Association (which has its headquarters in Brussels).",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " affiliation ",
+   "subject": " European_University_Association"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " affiliation ",
+     "subject": " European_University_Association"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id6"
+      }
+}

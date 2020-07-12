@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | ISBN_number | "0-374-26131-8"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp which has the ISBN number 0-374-26131-8, also has an OCLC number of 8805735.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp has the ISBN number 0-374-26131-8 and OCLC number 8805735.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp has the ISBN number 0-374-26131-8, and the OCLC number 8805735.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where the capital is in Washington, D.C.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States, which has among its ethnic groups African Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id180" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>The_Secret_Scripture | publisher | Faber_and_Faber</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Secret_Scripture | publisher | Faber_and_Faber</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel A Long Long Way was followed by The Secret Scripture published by Faber and Faber.</lex>
+      <lex comment="good" lid="Id2">"The Secret Scriptures," published by Faber and Faber, followed "A Long, Long Way".</lex>
+      <lex comment="good" lid="Id3">The book The Secret Scriptures, published by Faber and Faber, followed the book "A Long Long Way".</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id181" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_Kingdom | language | English_language</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | language | English_language</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) is published in the UK where English is the spoken language.</lex>
+      <lex comment="good" lid="Id2">AIDS journal is from the United Kingdom where the language spoken is English.</lex>
+      <lex comment="good" lid="Id3">The AIDS journal was published in the United Kingdom where the English language is spoken.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id182" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leaderName | David_Cameron</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS Journal was published in the UK, where David Cameron was a leader.</lex>
+      <lex comment="good" lid="Id2">AIDS (journal) is published in the UK where David Cameron is the leader.</lex>
+      <lex comment="good" lid="Id3">AIDS journal is from the United Kingdom where the leader is David Cameron.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id183" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the capital is Washington DC.</lex>
+      <lex comment="good" lid="Id2">'A severed Wasp' comes from the United States where the capital is Washington, D.C.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id184" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars originates from the United States where the capital city is Washington DC.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States where the capital is Washington D. C.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id199" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"A Wizard of Mars" was published in the United States, where the leader is known as the President.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States where the title of the leader is the President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id200" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Viking_Press | country | United_States</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Viking_Press | country | United_States</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way is published by Viking press in the United States.</lex>
+      <lex comment="good" lid="Id2">The book 'A Long Long Way' was published by Viking Press which is in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id201" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</otriple>
+        <otriple>A_Glastonbury_Romance | subsequentWork | Weymouth_Sands</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Weymouth_Sands | subsequentWork | Maiden_Castle_(novel)</otriple>
+        <otriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</mtriple>
+        <mtriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">'A Glastonbury Romance' was followed by 'Weymouth Sands', the sequel to which was 'Maiden Castle'.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance was followed by Weymouth Sands and Maiden Castle.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id202" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Wizards_at_War | publisher | Harcourt_(publisher)</otriple>
+        <otriple>A_Wizard_of_Mars | previousWork | Wizards_at_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Wizards_at_War | publisher | Harcourt_(publisher)</otriple>
+        <otriple>A_Wizard_of_Mars | precededBy | Wizards_at_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wizards_at_War | publisher | Harcourt_(publisher)</mtriple>
+        <mtriple>A_Wizard_of_Mars | precededBy | Wizards_at_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wizards at War, which preceded A Wizard of Mars is published by Harcourt.</lex>
+      <lex comment="good" lid="Id2">Wizards at War, which was preceded by A Wizard of Mars was published by Harcourt (publishers).</lex>
+      <lex comment="good" lid="Id3">Wizards at War, followed by A Wizard of Mars, was published by Harcourt (publishers).</lex>
+    </entry>
+  </entries>
+</benchmark>

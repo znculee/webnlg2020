@@ -1,0 +1,744 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>April_O'Neil | creators | Peter_Laird</otriple>
+        <otriple>Peter_Laird | nationality | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Laird | nationality | United_States</otriple>
+        <otriple>April_O'Neil | creator | Peter_Laird</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>April_O'Neil | creator | Peter_Laird</mtriple>
+        <mtriple>Peter_Laird | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">April O'Neil was created by Peter Laird, from the US.</lex>
+      <lex comment="good" lid="Id2">The character, April O'Neil, was created by Peter Laird, a United States national.</lex>
+      <lex comment="good" lid="Id3">April O'Neil was created by the American Peter Laird.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman, starring Jill Shilling, is broadcasted by the BBC.</lex>
+      <lex comment="good" lid="Id2">Bananaman was broadcast by the BBC and starred Jill Shilling.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman, which is broadcast by STV.</lex>
+      <lex comment="good" lid="Id2">Bananaman stars Graeme Garden, and is broadcasted by STV.</lex>
+      <lex comment="good" lid="Id3">Graeme Garden stars in Bananaman which is broadcasted by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor, star of Bananaman was born in Derbyshire.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in Derbyshire, and starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The first appearance in a film for the character Baymax was Big Hero 6, the film that Scott Adsit starred in.</lex>
+      <lex comment="good" lid="Id2">The first appearance in a film for the character Baymax was Big Hero 6 which starred Scott Adsit.</lex>
+      <lex comment="good" lid="Id3">Baymax first appeared in Big Hero 6, starring Scott Adsit.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax, created by Steven T. Seagle, is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by Steven T Seagle and is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id3">Baymax, a character in Big Hero 6, was created by Steven T. Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Ben Urich (full name, Benjamin Urich) was created by Roger McKenzie.</lex>
+      <lex comment="good" lid="Id2">Roger McKenzie is the comic book writer who created Ben Urich (full name Benjamin Urich).</lex>
+      <lex comment="good" lid="Id3">Roger McKenzie, the comic book writer, is the creator of Ben Urich (Benjamin Urich).</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bibbo Bibbowski was created by Jerry Ordway and Marv Wolfman.</lex>
+      <lex comment="good" lid="Id2">Jerry Ordway and Marv Wolfman are the creators of Bibbo Bibbowski.</lex>
+      <lex comment="good" lid="Id3">Bibbo Bibbowski is the creation of Marv Wolfman and Jerry Ordway.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bibbo Bibbowski, often called Bo Bibbowski, was created by Marv Wolfman.</lex>
+      <lex comment="good" lid="Id2">Marv Wolfman was creator of Bibbo Bibbowski, often called Bo Bibbowski.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | George_Kapitan</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | George_Kapitan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | alternativeName | "Drake Stevens"</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | George_Kapitan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">George Kapitan created the comic character Airman whose alter ego is Drake Stevens.</lex>
+      <lex comment="good" lid="Id2">"Drake Stevens, known as Airman, was created by George Kapitan.</lex>
+      <lex comment="good" lid="Id3">George Kapitan is the creator of the comic character "Airman" or otherwise known as "Drake Stevens".</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | Harry_Sahle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | Harry_Sahle</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | alternativeName | "Drake Stevens"</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Airman, AKA Drake Stevens, was created by Harry Sahle.</lex>
+      <lex comment="good" lid="Id2">Drake Stevens is known as the comic character Airman, which was created by Harry Sahle.</lex>
+      <lex comment="good" lid="Id3">The comic character Airman, who has the alternative name Drake Stevens, was created by Harry Sahle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | George_Kapitan</otriple>
+        <otriple>Airman_(comics) | creators | Harry_Sahle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | Harry_Sahle</otriple>
+        <otriple>Airman_(comics) | creators | George_Kapitan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | George_Kapitan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creators of the comic character Airman were Harry Sahle and George Kapitan.</lex>
+      <lex comment="good" lid="Id2">The comic book character Airman was created by both Harry Sahle and George Kapitan.</lex>
+      <lex comment="good" lid="Id3">The creators of the comic book character Airman were Harry Sahle and George Kapitan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Arion was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex comment="good" lid="Id2">The comic character, Arion, was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex comment="good" lid="Id3">The comic book character Arion was created by Jan Duursema and Paul Kupperberg.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character, Arion, was created by Jan Duursema, who has won the Eisner Award.</lex>
+      <lex comment="good" lid="Id2">The Eisner award winning Jan Duursema created the comic book character Arion.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Asterix, sometimes called Astérix, was created by Albert Uderzo.</lex>
+      <lex comment="good" lid="Id2">The alternative name of Asterix (comics character) is "Astérix" and he was created by Albert Uderzo.</lex>
+      <lex comment="good" lid="Id3">Albert Uderzo is the creator of the comic character, Asterix, which is also known as Astérix.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creator of Asterix, the comics character also known as Astérix, is René Goscinny.</lex>
+      <lex comment="good" lid="Id2">The comic character Asterix, sometimes called Astérix, was created by Rene Goscinny.</lex>
+      <lex comment="good" lid="Id3">The comic character Asterix (also known as Astérix), was created by Rene Goscinny.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creator of Asterix, a comics character, is René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id2">Asterix was created by Rene Goscinny, who is a frenchman.</lex>
+      <lex comment="good" lid="Id3">Rene Goscinny is a French national and also the creator of the comic character Asterix.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dick Dillin is the creator of the comic book character Aurakles.</lex>
+      <lex comment="good" lid="Id2">Dick Dillin was the creator of the comic book character Aurakles.</lex>
+      <lex comment="good" lid="Id3">Dick Dillin created the comic book character called Aurakles, whose alternative name is also Aurakles.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aurakles was created by Dick Dillin and Len Wein.</lex>
+      <lex comment="good" lid="Id2">The comic book character, Aurakles, was created by Dick Dillin and Len Wein.</lex>
+      <lex comment="good" lid="Id3">The comic book character Aurakles was created by both Dick Dillin and Len Wein.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dick Dillin is an American who created the fictional character, Aurakles.</lex>
+      <lex comment="good" lid="Id2">Aurakles is a fictional character created by American national Dick Dillin.</lex>
+      <lex comment="good" lid="Id3">Dick Dillin, the creator of Aurakles, is from the US.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Auron was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex comment="good" lid="Id2">The character Auron, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex comment="good" lid="Id3">The creators of Auron (comics character) are Karl Kesel and Marv Wolfman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auron was created by both Marv Wolfman and Walt Simonson.</lex>
+      <lex comment="good" lid="Id2">The comic character auron was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex comment="good" lid="Id3">The comic book character Auron was created by both Marv Wolfman and Walt Simonson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Marv Wolfman created the comic book character Auron aka Lambien.</lex>
+      <lex comment="good" lid="Id2">The comic character Auron, whose full name is Lambien, was created by Marv Wolfman.</lex>
+      <lex comment="good" lid="Id3">The comic character Auron, otherwise known as "Lambien" was created by Marv Wolfman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character, Balder, was created by Jack Kirby, an American.</lex>
+      <lex comment="good" lid="Id2">The American Jack Kirby created the comic character Balder.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+        <otriple>Ballistic_(DC_Comics) | creators | "Michael Manley"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | creator | "Michael Manley"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Michael Manley created the comic character, Ballistic, who has the alternative name, Kelvin Mao.</lex>
+      <lex comment="good" lid="Id2">The comic character, Ballistic, has the alternative name, Kelvin Mao, and was created by Michael Manley.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | creators | "Michael Manley"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | creator | "Michael Manley"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creators of the comic character Ballistic were Michael Manley and Doug Moench.</lex>
+      <lex comment="good" lid="Id2">Doug Moench and Michael Manley, created the comic character Ballistic.</lex>
+      <lex comment="good" lid="Id3">The comic book character Ballistic was created by Michael Manley and Doug Moench.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden, one of the stars of Bananaman, was born in Aberdeen.</lex>
+      <lex comment="good" lid="Id2">Bananaman stars Graeme Garden who was born in Aberdeen.</lex>
+      <lex comment="good" lid="Id3">Graeme Garden, born in Aberdeen, stars in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jill Shilling stared in Bananaman, broadcasted by STV.</lex>
+      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman, broadcasted by STV.</lex>
+      <lex comment="good" lid="Id3">Bananaman which stars Jill Shilling is broadcasted by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman, which was broadcasted by STV.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor starred in Bananaman, which is broadcast by STV.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor starred as Bananaman, which was broadcast by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id69" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>John_Buscema | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dane Whitman, alter ego Black Knight, was created by the American, John Buscema.</lex>
+      <lex comment="good" lid="Id2">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) in the comics genre.</lex>
+      <lex comment="good" lid="Id3">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) and considered to be in the comics genre.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight which was created by Roy Thomas.</lex>
+      <lex comment="good" lid="Id2">The comic book character Dane Whitman Black Knight is also known as simply Dane Whitman or the alter ego Black Knight, and was created by Roy Thomas.</lex>
+      <lex comment="good" lid="Id3">Dane Whitman Black, also known as Dane Whitman was created by Roy Thomas.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id71" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau is an American national who created Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by American, Duncan Rouleau.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id72" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gene Colan is the American national who created the character Ben Urich.</lex>
+      <lex comment="good" lid="Id2">Ben Urich was created by Gene Colan, an American.</lex>
+      <lex comment="good" lid="Id3">The American Gene Colan created the character Ben Urich.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id73" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Auron was created by Karl Kesel, an American.</lex>
+      <lex comment="good" lid="Id2">American, Karl Kesel, is the creator of the comic character, Auron.</lex>
+      <lex comment="good" lid="Id3">The American Karl Kesel created the comic character Auron.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id74" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American Roger McKenzie is a comic book writer who created the character Ben Urich.</lex>
+      <lex comment="good" lid="Id2">A United States national, comic book writer, Roger McKenzie, is the creator of Ben Urich.</lex>
+      <lex comment="good" lid="Id3">Roger McKenzie, the American comic book writer is the creator of Ben Urich.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id75" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sheldon Moldoff is the American creator of Black Pirate.</lex>
+      <lex comment="good" lid="Id2">The Black Pirate was created by Sheldon Moldoff, who was an American national.</lex>
+      <lex comment="good" lid="Id3">Sheldon Moldoff is an American who created the Black Pirate.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id76" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | "Ralph Payne"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Ralph Payne"@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paul Gustavson is the creator of " The Arrow", otherwise known as Ralph Payne.</lex>
+      <lex comment="good" lid="Id2">Arrow, also known as Ralph Payne, was created by Paul Gustavson.</lex>
+      <lex comment="good" lid="Id3">Arrow, otherwise known as Ralph Payne, was created by Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id77" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Rick Parker"@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | "Rick Parker"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Rick parker, aka the Arrow was created by Paul Gustavson.</lex>
+      <lex comment="good" lid="Id2">The character Arrow's alter ego is Rick Parker, created by Paul Gustavson.</lex>
+      <lex comment="good" lid="Id3">Rick Parker, aka the Arrow, was created by Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2">The comic book character Asterix was created by René Goscinny and Albert Uderzo.</lex>
+      <lex comment="good" lid="Id3">The character Asterix was created by René Goscinny and Albert Uderzo.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Created by Len Wein, Aurakles's alternative name is also Aurakles.</lex>
+      <lex comment="good" lid="Id2">The character Aurakles, also known as Aurakles, was created by Len Wein.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creators | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Doug Moench was the creator of the comic character Ballistic, who has the alternative name Kelvin Mao.</lex>
+      <lex comment="good" lid="Id2">Ballistic (also known as Kelvin Mao) is a fictional comic superhero created by Doug Moench.</lex>
+      <lex comment="good" lid="Id3">Doug Moench created the character Ballistic, the fictional superhero whose alter ego is Kelvin Mao.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.</lex>
+      <lex comment="good" lid="Id2">Graeme Garden starred in the TV series Bananaman, which was shown on the BBC.</lex>
+      <lex comment="good" lid="Id3">Bananaman, which starred Graeme Garden, was broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie, who stars in Bananaman, was born in Lancashire.</lex>
+      <lex comment="good" lid="Id2">Bananaman starred Bill Oddie who was born in Lancashire.</lex>
+      <lex comment="good" lid="Id3">Bill Oddie, who was born in Lancashire, starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bibbo Bibbowski was created by American, Jerry Ordway.</lex>
+      <lex comment="good" lid="Id2">The creator of Bibbo Bibbowski is Jerry Ordway, an American.</lex>
+      <lex comment="good" lid="Id3">Jerry Ordway, an American, is the creator of Bibbo Bibbowski.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Black_Pirate | alternativeName | "Jon Valor"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Black Pirate, also known as Jon Valor, was created by Sheldon Moldoff.</lex>
+      <lex comment="good" lid="Id2">The Black Pirate (Jon Valor) was created by Sheldon Moldoff.</lex>
+      <lex comment="good" lid="Id3">Sheldon Moldoff is the creator of Black Pirate, who is also known as Jon Valor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Blockbuster was created by Roger Stern and Tom Lyle.</lex>
+      <lex comment="good" lid="Id2">Blockbuster is a comic book character which was created by both Roger Stern and Tom Lyle.</lex>
+      <lex comment="good" lid="Id3">The comic book character Blockbuster was created by Roger Stern and Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paris Cullins and Gary Cohn are the creators of the comics character Bolt.</lex>
+      <lex comment="good" lid="Id2">Both Paris Cullins and Gary Cohn were the creator's of the comic character Bolt.</lex>
+      <lex comment="good" lid="Id3">The comic character Bolt, was created by Paris Cullins and Gary Cohn.</lex>
+    </entry>
+  </entries>
+</benchmark>

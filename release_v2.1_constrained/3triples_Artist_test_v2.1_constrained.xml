@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aaron_Deer | hometown | United_States</otriple>
+        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
+        <otriple>Aaron_Deer | origin | Indiana</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
+        <otriple>Aaron_Deer | hometown | Indiana</otriple>
+        <otriple>Aaron_Deer | origin | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | origin | United_States</mtriple>
+        <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
+        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Deer is an American from Indiana who performs Psychedelia music.</lex>
+      <lex comment="good" lid="Id2">American, Aaron Deer, whose genre is Psychedelia, is from Indiana.</lex>
+      <lex comment="good" lid="Id3">American Aaron Deer, comes from Indiana and performs Psychedelia music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Magik_(rapper)</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Kaliber_44</otriple>
+        <otriple>Abradab | dateOfBirth | "1978-11-12"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Kaliber_44</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Magik_(rapper)</otriple>
+        <otriple>Abradab | dateOfBirth | "1978-11-12"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)</mtriple>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Kaliber_44</mtriple>
+        <mtriple>Abradab | birthDate | 1978-11-12</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abradab who was born on November 12th 1978 is an artist for the band Kaliber 44 and he is associated with rapper Magik.</lex>
+      <lex comment="good" lid="Id2">Born on 12th November, 1978, Abradab, played with the band Kaliber 44 and is associated with the rapper, Magik.</lex>
+      <lex comment="good" lid="Id3">Abradab, born 11/12/1978, is a member of Kaliber 44 and is associated with rap artist, Magik.</lex>
+    </entry>
+    <entry category="Artist" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Albennie_Jones | birthPlace | Errata,_Mississippi</otriple>
+        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Albennie_Jones | birthPlace | Errata,_Mississippi</mtriple>
+        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albennie Jones, born in Errata, Mississippi, is a performer of rhythm and blues, of which disco is a derivative.</lex>
+      <lex comment="good" lid="Id2">Albennie Jones was born in Errata Mississippi and his musical genre is rhythm and blues which is where Disco derives.</lex>
+      <lex comment="good" lid="Id3">Albennie Jones was born in Errata, Mississippi and performs in the rhythm and blues genre. Disco is a derivative of rhythm and blues.</lex>
+    </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedBand | Bebi_Dol</otriple>
+        <otriple>Aleksandra_Kovač | associatedMusicalArtist | K2_(Kovač_sisters_duo)</otriple>
+        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Bebi_Dol</mtriple>
+        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)</mtriple>
+        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovač plays pop music for the K2 band. He knows musician, Bebi Dol.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovač is associated with the musical artist Bebi Dol, is part of the band K2 (Kovac sisters duo), and musical genre is Pop.</lex>
+      <lex comment="good" lid="Id3">Pop musician Aleksandra Kovač is associated with the musical artist Bebi Dol and is part of the band K2 Kovac sisters duo.</lex>
+    </entry>
+    <entry category="Artist" eid="Id129" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | deathPlace | London</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | England</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
+        <mtriple>London | leaderName | Boris_Johnson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Garth Jones, born in England, died in Boris Johnson led, London.</lex>
+      <lex comment="good" lid="Id2">Boris Johnson is a leader in London, where Alfred Garth Jones died. He was born in England.</lex>
+      <lex comment="good" lid="Id3">Boris Johnson is a leader in London, the city where English born, Alfred Garth Jones, died.</lex>
+    </entry>
+    <entry category="Artist" eid="Id130" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | deathPlace | London</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
+        <mtriple>London | leaderName | Boris_Johnson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Manchester born, Alfred Garth Jones, died in London which is led by Boris Johnson.</lex>
+      <lex comment="good" lid="Id2">Alfred Garth Jones, born in Manchester, died in, Boris Johnson led, London.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester and died in London, the leader of which, is Boris Johnson.</lex>
+    </entry>
+    <entry category="Artist" eid="Id131" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | deathPlace | London</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
+        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
+        <mtriple>Manchester | leaderName | Labour_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester (which has the Labour Party as leader) and died in London.</lex>
+      <lex comment="good" lid="Id2">The Labour Party (UK) is the leader of Manchester. Born in Manchester, Alfred Garth Jones, died in London.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England, where the Labour Party is the majority, and he died in London.</lex>
+    </entry>
+    <entry category="Artist" eid="Id144" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Mellow_Candle</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Flibbertigibbet</otriple>
+        <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Flibbertigibbet</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Mellow_Candle</otriple>
+        <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Flibbertigibbet</mtriple>
+        <mtriple>Alison_O'Donnell | genre | Folk_rock</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Folk rock musician Alison O’Donnell was in the Mellow Candle and Flibbertigibbet bands.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs in the folk rock genre and was part of the Flibbertigibbet band and the Mellow Candle band.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell is an artist for the band Mellow Candle and was a member of the Flibbertigibbet band. Her genre of music is folk rock.</lex>
+    </entry>
+    <entry category="Artist" eid="Id145" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Mellow_Candle</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Flibbertigibbet</otriple>
+        <otriple>Alison_O'Donnell | genre | Psychedelic_folk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Flibbertigibbet</mtriple>
+        <mtriple>Alison_O'Donnell | genre | Psychedelic_folk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O’Donnell was in the bands Mellow Candle and Flibbertigibbet. Her genre is Psychedelic folk.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell, a Psychedelic folk musician, was a member of the Flibbertigibbet band and was in the band Mellow Candle.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell, whose musical genre of Psychedelic folk, was once a member of the band Flibbertigibbet and is now with Mellow Candle.</lex>
+    </entry>
+    <entry category="Artist" eid="Id146" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
+        <otriple>Alison_O'Donnell | recordLabel | Deram_Records</otriple>
+        <otriple>Alison_O'Donnell | label | Static_Caravan_Recordings</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Folk_rock</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Deram_Records</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell plays folk rock and once was signed to Deram Records and she recorded with Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id2">Previously signed to Deram Records, Alison O'Donnell, is signed to the record label Static Caravan Recordings. Alison O'Donnell's musical genre is folk rock.</lex>
+      <lex comment="good" lid="Id3">Folk rock musician Alison O'Donnell, once signed to Static Caravan Recordings, is now with Deram Records.</lex>
+    </entry>
+    <entry category="Artist" eid="Id147" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
+        <otriple>Alison_O'Donnell | associatedBand | Flibbertigibbet</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Bajik</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Flibbertigibbet</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Bajik</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jazz music performer Alison O'Donnell, was once a member of both the Flibbertigibbet band and the band, Bajik.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music, was a member of the Flibbertigibbet band, and is associated with Bajik.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell plays jazz music and is associated with Bajik. She was a member of the Flibbertigibbet band.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,2892 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ring of Fire II is written in English and preceded by Grantville Gazette, Grantville Gazette II and 1634: The Bavarian Crisis. The latter book is written by Virginia DeMarce and Eric Flint.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " followedBy ",
+   "subject": " Ring_of_Fire_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " followedBy ",
+     "subject": " Ring_of_Fire_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. The University is located in Ithaca New York and is overseen by its President, Elizabeth Garrett. It is responsible for publishing the Administrative Science Quarterly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Administrative Science Quarterly was published by Cornell University, located in Ithaca, New York, and affiliated with the Association of Public and Land-grant Universities, as well as with the Association of American Universities. President of Cornell University is Elizabeth Garrett.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Affiliated with the Association of Public and Land-grant Universities and the Association of American Universities., Cornell University is the publisher of the Administrative Science Quarterly. The university is located in Ithaca New York and the president is Elizabeth Garrett.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States, a country with an ethnic groups of African American and a language of English (also spoken in Great Britain).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language spoken in both Great Britain and the United States. However it is in the US that A Loyal Character Dancer was published by Soho Press. It is in this country that the ethnic group of African Americans can be found.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States, where there is an ethnic group called the African Americans. English is the language of the United States and also of Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and the United States where Native Americans are an ethnic group. A Loyal Character Dancer is published in the United States by Soho Press.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain but is also the language of the United States where Native Americans are one of the ethnic groups. The book "A Loyal Character Dancer" was published in the US by Soho Press.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States. The language spoken in the United States (as well as in Great Britain) is English, and one of the US ethnic groups is Native Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press, located in the United States. English is the main language of the U.S., and is also spoken in Great Britain. The U.S. has an ethnic group called Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published by Soho Press, which is located in the U.S. where they speak English, same as in Great Britain and have many Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X (X)))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the Native Americans are an ethnic group. The capital city is Washington DC and uses the English language which is also spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of both Great Britain and the United States is English. It is in the United States, where the capital is Washington DC and the ethnic group of Native Americans are found. The country is also the origin of the book "A Severed Wasp".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Native Americans are an ethnic group in the United States where the book A Severed Wasp originated. The capital of the US is Washington DC and the language spoken in the US, and also Great Britain, is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Into Battle is published in Australia. It is in a series of books including The Violet Keystone, Above The Veil, Aenir and Castle.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Into_Battle_(novel) ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Into_Battle_(novel) ",
+     "property": " country ",
+     "subject": " Australians"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp was written in the English language which is spoken in Great Britain. A severed Wasp originates from the United States where Barack Obama is the leader and there is an ethnic group called Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp, published in the United States, is written in the English language, which is also spoken in Great Britain. The president of the United States, where many Asian Americans live, is Barack Obama.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Barack Obama is the president of the US where there are many Asian Americans and the capital is Washington D. C. 1634 The Ram Rebellion was written in the U.S and is preceded by 1634: The Galileo Affair.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion is an American novel and is preceded by 1634: The Galileo Affair. The capital of the US is Washington D.C. and the previous leader was Barack Obama. One ethnic group in the country is Asian American.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion (preceded by 1634: The Galileo Affair), was written in the US, where Barack Obama is the leader, Washington DC is the capital and there is an ethnic group called Asian Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The demonym for people living in the United States is Americans and there is an ethnic group called African American. The leader of the United States is Barack Obama, the capital is Washington D. C. and 1634 The Ram Rebellion was written there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States is inhabited by Americans including the ethnic group of African Americans. The book 1634 The Ram Rebellion was written in the country which is led by President Barack Obama and has the capital city of Washington DC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The people living in the United States are Americans, including the ethnic group of African Americans. The capital of the US is Washington DC and the President is Barack Obama. The book 1634 The Ram Rebellion was written within the US.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and the United States where there are many Asian Americans. A Wizard of Mars was published in the United States and the leader is the President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and the United States where A Wizard of Mars was published. The leader of the United States is known as the President and there is an ethnic group called Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id12"
+      }
+},
+{
+   12: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Eric Flint, born in Burbank, California, and influenced by Robert A. Heinlein, is the author of 1634: The Bavarian Crisis. DeMarce short stories in the Grantville Gazettes and Grantville Gazette III preceded 1634: The Bavarian Crisis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint, who was born in Burbank, California was influenced by Robert A Heinlein. He wrote 1634: The Bavarian crisis (the sequel to The Grantville Gazettes). The book was also preceded by the DeMarce short stories in The Grantville Gazettes.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Iinfluenced by Robert A Heinlein, Eric Flint (born in Burbank California) is the author of 1634: The Bavarian Crisis and its prequel The Grantville Gazettes, a collection of DeMarce short stories.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   13: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "After DeMarce short stories were published in the Grantville Gazettes, there came 1634: The Bavarian Crisis written by Eric Flint of Burbank California, who was influenced by Robert A, Heinlein, as a sequel to Grantville Gazette III.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint was born in Burbank, California and is the author of 1634: The Bavarian Crisis. He was influenced by Robert A. Heinlein and has also written DeMarce short stories in the Grantville Gazettes and Grantville Gazette III.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   14: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was the sequel to The Grantville Gazettes and Grantville Gazette III. It was written by Eric Flint from Burbank California who was influenced by Robert A. Heinlein.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Influenced by Robert A Heinlein, 1634: The Bavarian Crisis was written by Eric Flint who was born in Burbank California. The book was preceded by Grantville Gazette III and The Grantville Gazettes.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   15: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The authors of 1634: The Bavarian Crisis are Virginia DeMarce and Eric Flint and was preceded by The Grantville Gazettes and followed by Ring of Fire II which is written in English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The novel 1634: The Bavarian Crisis (authored by Virginia DeMarce and Eric Flint) is followed by Ring of Fire II, which was written in English. This book was preceded by The Grantville Gazettes and Grantville Gazette II.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " followedBy ",
+   "subject": " Ring_of_Fire_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " followedBy ",
+     "subject": " Ring_of_Fire_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   16: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Burbank California is the birth place of Eric Flint who was influenced by Robert A Heinlein. He is the author of 1634: The Ram Rebellion. The book is written in English, the language spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Ram Rebellion was written by Eric Flint, who was born in Burbank, California and was influenced by Robert A Heinlein. 1634: The Ram Rebellion was written in English, the language also spoken in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint, who was born in Burbank, California and was influenced by Robert A. Heinlein, was the author of "1634: The Ram Rebellion". The book was written in English which is the language spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Ram_Rebellion ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Ram_Rebellion ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   17: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "London is the capital city of the United Kingdom which is led by Elizabeth II. The country is where the AIDS journal is published by Lippincott Williams &amp; Wilkins who have Wolters Kluwer as their parent company.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is the leader of the United Kingdom where the capital city is London. The AIDS (journal) is published in the UK by Lippincott Williams &amp; Wilkins. Their parent company is Wolters Kluwer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins which publishes AIDS (journal) in the UK. The capital city of the UK is London and one of the leaders is Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AIDS_(journal) ",
+   "property": " country ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AIDS_(journal) ",
+       "property": " country ",
+       "subject": " United_Kingdom"
+       },
+       {
+       "object": "Lippincott_Williams_&amp;_Wilkins ",
+       "property": " parent ",
+       "subject": " Wolters_Kluwer"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   18: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice originates from the United States, and is written in English, also spoken in Great Britain. The US includes many Native Americans, and its capital city is Washington D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Great Britain is English, and this was used in the original publication of A Fortress of Grey Ice. The book is, however, from the United States where the capital city is Washington DC. The country is also where the Native Americans are known as an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is a novel from the United States where English is spoken (as in Great Britain). The capital of the US is Washington D.C. and Native Americans are an ethnic group there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   19: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was published in Ireland, where white people live, by Viking Press, parented by Penguin Random House, who subsequently published The Secret Scripture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Penguin Random House is the parent company of Viking Press who published A Long Long Way. The book is written in Ireland and was followed by The Secret Scripture. Ireland is a country where one of the ethnic groups are the white people.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way Was published by Viking Press (whose parent company is Penguin Random House) and comes from Ireland. The novel was followed by The Secret Scripture. Ireland has the ethnic group, White.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " country ",
+   "subject": " Ireland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " country ",
+       "subject": " Ireland"
+       },
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " country ",
+       "subject": " Ireland"
+       },
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " country ",
+       "subject": " Ireland"
+       },
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " country ",
+       "subject": " Ireland"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   20: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The largest city in Ireland is Dublin where white people are an ethnic group and A Long Long Way was written. It was published by Viking press and followed by The Secret Scripture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Published by Viking Press in Ireland, the novel A Long Long Way was followed by The Secret Scripture. The main ethnic group of Ireland is white and the capital is Dublin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " country ",
+   "subject": " Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " country ",
+     "subject": " Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   21: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ethnic group of Ireland is white people and its largest city is Dublin. A Long Long Way, published by Faber and Faber, comes from Ireland and was followed by The Secret Scripture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Secret Scripture is published by Faber and Faber in Ireland and is a sequel to A Long Long Way. Ireland's largest ethnic demographic is white/caucasian, and its largest city is Dublin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book A Long Long Way comes from Ireland, where there is an ethnic group of White people and where the largest city is Dublin. This book was followed by The Secret Scripture, which was published by Faber and Faber.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " country ",
+   "subject": " Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " country ",
+     "subject": " Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   22: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way, written in English (language of Great Britain) was published in ireland by Viking Press. It was followed by the novel The Secret Scripture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was written in Ireland and published by Viking Press. This book was followed by The Secret Scripture and was written in English, the language used in Great Britain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id12"
+      }
+},
+{
+   23: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way is written in the English language and comes from Ireland although English is also spoken in Great Britain. It was followed by The Secret Scripture which is published by Faber and Faber.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was written in English and originates from Ireland. The English language is spoken in Great Britain. It precedes The Secret Scripture which was published by Faber and Faber.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Irish book The Secret Scripture, published by Faber and Faber, followed the book "A Long Long Way," which is written in English (the language of Great Britain).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id13"
+      }
+},
+{
+   24: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way is written in the English language which is spoken in Great Britain. A Long Long Way was published by Viking Press, located in the United States, and was followed by The Secret Scripture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way is written in the English Language (spoken in Great Britain). The book was published by Viking Press, which is based in the United States, and was followed by the book The Secret Scripture.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id14"
+      }
+},
+{
+   25: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was written in Ireland, where white people live, and published by Viking Press between Annie Dunne and The Secret Scripture.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " precededBy ",
+   "subject": " Annie_Dunne"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " previousWork ",
+     "subject": " Annie_Dunne"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id15"
+      }
+},
+{
+   26: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and A Loyal Character Dancer is written in it. A Loyal Character Dancer was published by Soho Press in the United States where one of the ethnic groups is African American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer, written in English, published by Soho Press in the United States. The English language is spoken in Great Britain. One of the ethnic groups in the United States is African American.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States, where there is an ethnic group called the African Americans. A Loyal Character Dancer is written in English, which is the language of Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id16"
+      }
+},
+{
+   27: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English, which is also spoken in Great Britain. It is published by Soho Press in the United States where there are many Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The primary language spoken in Great Britain is English and the book A loyal Character Dancer was written in this language. It was published by Soho Press which is located in United States. The US includes many Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States, written in English (language of Great Britain). The US has many ethnically Asian Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id17"
+      }
+},
+{
+   28: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer, written in English, was published by Soho Press in the United States, where Native Americans are among the ethnic groups. The English language is also spoken in Great Britain.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id18"
+      }
+},
+{
+   29: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English, as spoken in Great Britain. However, it is published by Soho Press in the United States where the African Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English, a language spoken in Great Britain. It is published by Soho Press, located in the United States, where African Americans are an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English, which is spoken in Great Britain, was published by Soho Press and is located in the U.S, where there are an ethnic group called The African Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id19"
+      }
+},
+{
+   30: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English which is spoken in Great Britain. A Loyal Character Dancer was published by Soho Press who are based in the United States where one of the ethnic groups are Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Although A Loyal Character Dancer is published by Soho Press in the United States, it is written in English as spoken in Great Britain. The US is known as home to the ethnic group of Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer (written in English-also spoken in Great Britain) was published by the United States' Soho Press. The United States has the Asian American ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id20"
+      }
+},
+{
+   31: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and is the language used in "A Loyal Character Dancer". The book is published by Soho Press in the United States. That country contains the ethnic group of Native Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Soho Press in the United States published the book A Loyal Character Dancer. The book is written in English, as spoken in Great Britain. The United States is home to the ethnic group of Native Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Great Britain is English and this is used by the writer of A Loyal Character Dancer. The book is published by Soho Press in the United States where the ethnic group of Native Americans can be found.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id21"
+      }
+},
+{
+   32: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is in English (also spoken in Great Britain), from the United States, a country with capital city Washington D.C. and a large population of Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asian Americans are an ethnic group in the United States which has the capital city of Washington DC and is the originating country of A Severed Wasp. The book is written in the English language as spoken in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp was written in English (language of Great Britain) and originates from the United States, where one ethnic group is Asian American and the capital city is Washington D.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id22"
+      }
+},
+{
+   33: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States and is published in English, which is also spoken in Great Britain. Native Americans are one of the ethnic groups of the United States, where the capital city is Washington D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was Published in the United States and written in English, language of Great Britain. The capital of the US is Washington D.C. and the original population of the country are Native Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was published in English (language of Great Britain) in the United States, where the capital is Washington D.C. and Native Americans are one ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id23"
+      }
+},
+{
+   34: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is published in English (language of Great Britain) in the United States. The capital city there is Washington D.C. and Asian Americans are an ethnic group there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States, where the capital is Washington DC and the country includes many Asian Americans. This book is written in English, which is the language of Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States, where the capital is Washington DC and there is an ethnic group called Asian Americans. The book is written in English which is the language spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id24"
+      }
+},
+{
+   35: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir is an Australian novel that was preceded by the novel Castle. Above the Veil is the sequel to Aenir and was followed by Into Battle and The Violet Keystone.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Australian novel Aenir was preceded by the novel Castle and its sequel is Above The Veil which in turn was followed by Into Battle and later The Violet Keystone.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The novel "Into Battle", that was followed by The Violet Keystone, followed "Above the Veil", that was preceded By Aenir, which was written by Australians and after Castle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " followedBy ",
+   "subject": " Into_Battle_(novel)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aenir ",
+       "property": " country ",
+       "subject": " Australians"
+       },
+       {
+       "object": "Aenir ",
+       "property": " country ",
+       "subject": " Australians"
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " subsequentWork ",
+       "subject": " Into_Battle_(novel)"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id25"
+      }
+},
+{
+   36: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica (abbr. Acta Palaeontol. Pol) is published by the Institute of Paleobiology, Polish Academy of Sciences. Code information: ISSN number 0567-7920, LCCN number of 60040714, CODEN code APGPAC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica (abbrv. Acta Palaeontol. Pol) was published by the Institute of Paleobiology, Polish Academy of Sciences. Code information: ISSN 0567-7920, LCCN 60040714 and the CODEN code is APGPAC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " ISSN_number ",
+   "subject": " "0567-7920""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " issn ",
+       "subject": " "0567-7920""
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " issn ",
+       "subject": " "0567-7920""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id26"
+      }
+},
+{
+   37: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and has the abbreviated name of Acta Palaeontol. Pol. It is also identified by an ISSN number (0567-7920), a CODEN code (APGPAC) and the LCCN number (60040714).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica which has the abbreviated name of Acta Palaeontol. Pol. It is identified by the LCCN number 60040714, the ISSN number of 0567-7920 and the CODEN code of APGPAC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica (abbrv. Acta Palaeontol. Pol). The ISSN number for the journal is 0567-7920, the LCCN number 60040714 and the CODEN code is APGPAC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " publisher ",
+   "subject": " Polish_Academy_of_Sciences"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id27"
+      }
+},
+{
+   38: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and is abbreviated to Acta Palaeontol. Pol. It is identified by the ISSN number of "1732-2421" and the LCCN number of 60040714. It also has the CODEN code of "APGPAC".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and can be abbreviated to Acta Palaeontol. Pol. It has an ISSN number of 1732-2421, a LCCN number of 60040714 and the CODEN code is APGPAC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " publisher ",
+   "subject": " Polish_Academy_of_Sciences"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Palaeontologica_Polonica ",
+     "property": " publisher ",
+     "subject": " Polish_Academy_of_Sciences"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id28"
+      }
+},
+{
+   39: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and their president is Elizabeth Garrett. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth Garrett is president at Cornell University, Ithaca, New York. The University is the publisher of Administrative Science Quarterly and is affiliated with the Association of American Universities.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id29"
+      }
+},
+{
+   40: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Administrative Science Quarterly is published by Cornell University, Ithaca, New York. Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University is the publisher of Administrative Science Quarterly affiliated with Association of American Universities and Association of Public and Land-grant Universities is in Ithaca, New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id30"
+      }
+},
+{
+   41: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id31"
+      }
+},
+{
+   42: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University, nicknamed Cornell Big Red, and located in Ithaca, New York, is the publisher of Administrative Science Quarterly and is also affiliated with both the Association of Public and Land-grant Universities and the Association of American Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. Its nickname is Cornell Big Red.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       },
+       {
+       "object": "Administrative_Science_Quarterly ",
+       "property": " publisher ",
+       "subject": " Cornell_University"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id32"
+      }
+},
+{
+   43: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but comes from the United States where African Americans are an ethnic group and the capital is Washington, D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians originates from the United States, and is written in English, also spoken in Great Britain. The US includes many African Americans, and its capital city is Washington D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is African American and the capital city is Washington DC. However it is written in English, as spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id33"
+      }
+},
+{
+   44: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but comes from the U.S. Native Americans are one of the ethnic groups of the United States and the capital city is Washington D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was written in English which is the spoken language in Great Britain. However the book comes from the United States where the Native Americans are an ethnic group. Washington DC is the capital in that country.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Native Americans are one of the ethnic groups of the United States where the capital city is Washington DC. The book Alcatraz Versus the Evil Librarians originates from the US and is written in English, as spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id34"
+      }
+},
+{
+   45: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but it comes from the U.S. where White Americans live and Washington D. C. is the capital.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id35"
+      }
+},
+{
+   46: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians originates from the United States, and is written in English, also spoken in Great Britain. The US includes many Asian Americans, and its capital city is Washington D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language spoken in Great Britain is English and the book Alcatraz Versus the Evil Librarians was written in this language but comes from the United States. In the United States, the capital is Washington D.C and there is an ethnic group called Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States, which capital is Washington, D.C. and Asian Americans is one of the ethnic groups. The book is written in the English language. that is spoken as well in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id36"
+      }
+},
+{
+   47: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is written in English, as spoken in Great Britain. However is originates from the United States which is led by Barack Obama. That country is also home to the ethnic group of Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Although Alcatraz Versus the Evil Librarians is written in the English language, as spoken in Great Britain, it originates from the United States. This country is led by Barack Obama and includes many Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id37"
+      }
+},
+{
+   48: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians originates from the United States, where Joe Biden is a leader. It is written in English, also spoken in Great Britain. The US includes many Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The English language, as spoken in Great Britain, was used by the authors of Alcatraz Versus the Evil Librarians. The book comes from the United States where Joe Biden is a leader and the Asian Americans are an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader in the United States where one of the ethnic groups is that of the Asian Americans. The country is the origin of the book Alcatraz Versus the Evil Librarians which is written in English, as spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id38"
+      }
+},
+{
+   49: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was written in the United States in English, which is also spoken in Britain. The United States is home to White Americans and is led by President Barack Obama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was written in English which is spoken in Great Britain. However, the book originates from the United States where Barack Obama is the leader. Some of the inhabitants of the US are the white Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id39"
+      }
+},
+{
+   50: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States where Joe Biden is a leader. The country is home to the ethnic group of African Americans. The book is written in the English language as spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The African Americans are an ethnic group in the United States where the leader is Joe Biden. The country is the origin of the book Alcatraz Versus the Evil Librarians which was written in English, as spoken in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians comes from the U.S., where a leader is Joe Biden and where the African Americans are an ethnic group. The book was written in English which is the language spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id40"
+      }
+},
+{
+   51: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is an English language book from the United States which Joe Biden is a leader of. White Americans are an ethnic group there. English is also spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians originates from the United States, where Joe Biden is a leader. It is written in English, also spoken in Great Britain. The US includes many White Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from the United States and written in English which is also a language spoken in Great Britain. White Americans live in the US where Joe Biden is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id41"
+      }
+},
+{
+   52: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press, located in the U.S. It is written in English, which is also spoken in Great Britain. Asian Americans is one of the ethnic groups in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the United States, where many people are Asian American and English (language of Great Britain) is largely spoken.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id42"
+      }
+},
+{
+   53: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and the United States where The African Americans are an ethnic group. A Loyal Character Dancer was published by Soho Press who are located in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published by Soho Press in the United States where African American is an ethnic group and like in Great Britain, English is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press in the U.S. The language spoken there is English, which was originated in Great Britain. One ethnic group of the U.S. is African American.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X (X)))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id43"
+      }
+},
+{
+   54: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Native Americans are an ethnic group in the United States where English is the language spoken, as in Great Britain. The book "A Loyal Character Dancer" was published in the US by Soho Press.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press and it is based in the United States, where one of the ethnic groups of the United States are Native Americans, and they speak English, same as in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press, that is based in the United States, where people speak English, same as in Great Britain and there are an ethnic group called Native Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X (X)))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id44"
+      }
+},
+{
+   55: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was written in the United States where like in Great Britain, English is spoken. Washington DC is the capital of the US and African Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians comes from the U.S, the capital is Washington, D.C. and one of the ethnic groups is African American. They speak English, same as in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians comes from the U.S, the capital of this country is Washington D. C. and one of the ethnic group is The African Americans. They speak English, same as in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id45"
+      }
+},
+{
+   56: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States, whose capital is Washington D.C., is home to Native Americans, only one of the many ethnic groups in residence. English is spoken in the United States, like in Britain, the language in which the American book Alcatraz Versus the Evil Librarians is written.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Washington D.C. is the capital of the United States. The English language is spoken in both the U.S. and Great Britain. An ethnic group called Native Americans and a book Alcatraz Versus the Evil Librarians come from the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is a book from The United States, where English (the language of Great Britain) is spoken. The capital is Washington D.C. and one ethnic group is Native American.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id46"
+      }
+},
+{
+   57: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "President Barack Obama leads the United States where the population includes the ethnic group of Native Americans. It has the capital of Washington DC and 1634 The Ram Rebellion was written in the country.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the US, where Native Americans are an ethnic group, Washington DC is the capital and Barack Obama is the leader and President.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id95"
+      }
+},
+{
+   58: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion comes from the United States, where Barack Obama is the President. Americans inhabit the U.S., with a sub-group being the Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "President Barack Obama is the leader of the United States. The country is inhabited by Americans including many Asian Americans, and is where the book 1634 The Ram Rebellion was written.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion comes from the United States where the leader, known as the president is Barack Obama. Americans inhabit the US and Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id97"
+      }
+},
+{
+   59: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Native Americans are an ethnic group in the United States where the population are known as Americans. The country is led by President Barack Obama and is where 1634 The Ram Rebellion originates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "President Barack Obama leads the United States which is inhabited by Americans. These include the ethnic group of Native Americans. The country is the origin of the book 1634 The Ram Rebellion.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id98"
+      }
+},
+{
+   60: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Faber and Faber are the publishers of The Secret Scripture, a sequel to A Long Long Way. That book comes from Ireland which is located in Europe and where there is an ethnic group of white people.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ireland, where the white people are an ethnic group, is situated within Europe. The book A Long Long Way was written in Ireland and published by Faber and Faber. The sequel to the book is known as The Secret Scripture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ireland is a country within Europe and the ethnic group are white people. The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which was published by Faber and Faber.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " country ",
+   "subject": " Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " country ",
+     "subject": " Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   61: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ethnic group of Ireland is White people and is where A Long Long Way comes from. It was preceded by Annie Dunne and followed by The Secret Scripture which is published by Faber and Faber.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "An ethnic group of Ireland is white people where A Long Long Way comes from. It was preceded by Annie Dunne preceded and followed by The Secret Scripture which is published by Faber and Faber.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " precededBy ",
+   "subject": " Annie_Dunne"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " previousWork ",
+     "subject": " Annie_Dunne"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id2"
+      }
+},
+{
+   62: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was later followed by Into Battle and The Violet Keystone.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was followed by Into the Battle and The Violet Keystone.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " country ",
+       "subject": " Australians"
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " subsequentWork ",
+       "subject": " Into_Battle_(novel)"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id3"
+      }
+},
+{
+   63: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and is nicknamed Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of American Universities.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id4"
+      }
+},
+{
+   64: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Administrative Science Quarterly is published by Cornell University, Ithaca, in the state of New York. Cornell University (nicknamed 'Cornell Big Red') is affiliated with the Association of Public and Land-grant Universities.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell Big Red is the nickname of Cornell University which is affiliated with the Association of Public and Land-grant Universities. The University is in the city of Ithaca, New York, New York State and publishes the Administrative Science Quarterly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cornell University, of Ithaca, New York, is the publisher of the Administrative Science Quarterly. The University, which has the nickname Cornell Big Red, is affiliated with the Association of Public and Land-grant Universities.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Administrative_Science_Quarterly ",
+   "property": " publisher ",
+   "subject": " Cornell_University"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Administrative_Science_Quarterly ",
+     "property": " publisher ",
+     "subject": " Cornell_University"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id5"
+      }
+},
+{
+   65: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States is home to the ethnic group of African Americans and is led by Barack Obama. The country is the origin of the book Alcatraz Versus the Evil Librarians. This book was written in English, as spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from the United States and is written in English which is also spoken in Great Britain. The leader of the US is Barack Obama and African Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   66: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp originates in the United States where like in Great Britain, English is also spoken. Washington DC is the capital of the US and one ethnic group is the African Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   67: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and the United States where Joe Biden is leader, African Americans are an ethnic group and Alcatraz Versus the Evil Librarians is from there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is a book from The United States. In that country the majority language is English (as in Great Britain). A leading politician of the US is Joe Biden and African Americans are an ethnic group there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States. English is spoken there (as in Great Britain) and Joe Biden is a leading politician there. African Americans are an ethnic group in the US.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   68: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "David Cameron and Elizabeth II are leaders in the United Kingdom. The country, which uses the English language has the capital city of London and is where the AIDS journal originates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom, where English is spoken. The leader of the UK is Elizabeth II, and another leader is David Cameron. English is spoken in the United Kingdom, where the capital is London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS journal is from the United Kingdom, which capital is London and the language is English. The leaders of that country are David Cameron and Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " language ",
+       "subject": " English_language"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   69: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leaders of the United Kingdom are Elizabeth II and David Cameron. The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, whose parent company is Wolters Kluwer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom where Elizabeth II and David Cameron are leaders. The journal was published by Lippincott Williams &amp; Wilkins whose parent company is Wolters Kluwer.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " Elizabeth_II"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " David_Cameron"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   70: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain and A Severed Wasp was written in it even though it comes from the United States. Barack Obama is the leader of the United States where Native Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is written in English, the language spoken in Great Britain. However, it originates from the United States where the President is Barack Obama and the Native Americans are an ethnic group.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   71: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, where Barack Obama is the president. English is the main language of the U.S., and is also spoken in Great Britain. Native Americans are one of the national ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, where English is spoken (as in Great Britain), and Barack Obama is President. Native Americans are one of the ethnic groups in the U.S.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id12"
+      }
+}

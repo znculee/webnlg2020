@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6, starring Alan Tudyk, was Baymax's first film appearance.</lex>
+      <lex comment="good" lid="Id2">Baymax first appeared in the film Big Hero 6, starring Alan Tudyk.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Amazing-Man_(Centaur_Publications) | creators | Bill_Everett</otriple>
+        <otriple>Amazing-Man_(Centaur_Publications) | alterEgo | "John Aman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amazing-Man_(Centaur_Publications) | creator | Bill_Everett</otriple>
+        <otriple>Amazing-Man_(Centaur_Publications) | alterEgo | "John Aman"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amazing-Man_(comicsCharacter) | creator | Bill_Everett</mtriple>
+        <mtriple>Amazing-Man_(comicsCharacter) | alternativeName | "John Aman"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John Aman (created by Bill Everett) is also known as Amazing-Man in the comics genre.</lex>
+      <lex comment="good" lid="Id2">Bill Everett is the creator of the comic character, Amazing-Man who has the alternative name, John Aman.</lex>
+      <lex comment="good" lid="Id3">The comic book character Amazing-Man's alter ego is John Aman and it was created by Bill Everett.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>April_O'Neil | creators | Peter_Laird</otriple>
+        <otriple>April_O'Neil | creator | Kevin_Eastman</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>April_O'Neil | creator | Peter_Laird</otriple>
+        <otriple>April_O'Neil | creators | Kevin_Eastman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>April_O'Neil | creator | Peter_Laird</mtriple>
+        <mtriple>April_O'Neil | creator | Kevin_Eastman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character April O'Neil was created by Peter Laird and Kevin Eastman.</lex>
+      <lex comment="good" lid="Id2">April O'Neil was created by Kevin Eastman and Peter Laird.</lex>
+      <lex comment="good" lid="Id3">Peter Laird and Kevin Eastman, created the character, April O'Neil.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paul Kupperberg is the creator of the comic character Arion, sometimes known as Ahri'ahn.</lex>
+      <lex comment="good" lid="Id2">Created by Paul Kupperberg, the book character Arion is also known as Ahri'ahn.</lex>
+      <lex comment="good" lid="Id3">Paul Kupperberg is the creator of the comic character Arion, otherwise known as Ahri'ahn.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Arion, also known as Ahri'ahn, was created by Jan Duursema.</lex>
+      <lex comment="good" lid="Id2">Created by Jan Duursema, the comic character Arion is also known as Ahri'ahn.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Auron was created by both Karl Kesel and Walt Simonson.</lex>
+      <lex comment="good" lid="Id2">Walt Simonson and Karl Kesel created the comic character Auron.</lex>
+      <lex comment="good" lid="Id3">The character Auron was created by Karl Kesel and Walt Simonson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+        <otriple>Balder_(comics) | creators | Stan_Lee</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Balder, full name, Balder Odinson was created by Stan Lee.</lex>
+      <lex comment="good" lid="Id2">An alternative name for the comic character Balder (created by Stan Lee), is Balder Odinson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Balder, also known as Balder Odinson was created by Jack Kirby.</lex>
+      <lex comment="good" lid="Id2">Balder, otherwise known as Balder Odinson, was created by Jack Kirby.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jack Kirby and Stan Lee are the creators of the comic character Balder.</lex>
+      <lex comment="good" lid="Id2">The character Balder created by Jack Kirby and Stan Lee.</lex>
+      <lex comment="good" lid="Id3">Jack Kirby and Stan Lee, created the comic character Balder.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman is broadcast by the BBC which is headquartered in Broadcasting house.</lex>
+      <lex comment="good" lid="Id2">Bananaman the TV series was shown on the BBC, the BBC is headquartered in Broadcasting house.</lex>
+      <lex comment="good" lid="Id3">Bananaman is broadcasted by the BBC which is based in the Broadcasting House in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | locationCity | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in London, the BBC, broadcast Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bananaman is broadcast by the BBC, which is based in London.</lex>
+      <lex comment="good" lid="Id3">Bananaman the TV series was shown on the BBC which is located in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The BBC broadcasted Bananaman which starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id2">Bill Oddies stars in Bananaman, broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie starred in Bananaman broadcast by STV.</lex>
+      <lex comment="good" lid="Id2">STV broadcast Bananaman starring Bill Oddie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman first aired on the 3rd of October 1983, and starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id2">Bill Oddie stars in Bananaman that was first aired on the 3rd of October, 1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie (born in Rochdale) stars in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bill Oddie, who was born in Rochdale, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Bananaman starred Bill Oddie, who was born in Rochdale.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman first aired on tv screens on the 3rd of October 1983, and starred Graeme Garden.</lex>
+      <lex comment="good" lid="Id2">Bananaman, first aired 3/10/1983, stars Graeme Garden.</lex>
+      <lex comment="good" lid="Id3">Bananaman was first aired on 10/03/1983 and starred Graeme Garden.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman, broadcasted by the BBC.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor starred in Bananaman, which was broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Buxton is the birthplace of Tim Brooke-Taylor, who starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor, born in Buxton, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Born in Buxton, Tim Brooke-Taylor, starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor, born in England, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor, who starred in Bananaman, was born in England.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor was born in England and starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in the UK and starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Born in the United Kingdom, Tim Brooke-Taylor, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor, originally from the U.K., starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau and Steven T. Seagle created Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id3">Baymax was created by both Duncan Rouleau and Steven T. Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id41" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax first appeared in Big Hero 6, starring Ryan Potter.</lex>
+      <lex comment="good" lid="Id2">Baymax first appeared in the film Big Hero 6 which stars Ryan Potter.</lex>
+      <lex comment="good" lid="Id3">The first appearance in a film for the character Baymax was Big Hero 6 which starred Ryan Potter.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau created Baymax, a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Created by Duncan Rouleau, Baymax, is a character in Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id43" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6, starring Damon Wayans Jr., features the character Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 that stars the actor Damon Wayans Jr.</lex>
+      <lex comment="good" lid="Id3">The film Big Hero 6, which stars Damon Wayans Jr, has a character called Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id44" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6 that starred Jamie Chung.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6, where Jamie Chung is the star.</lex>
+      <lex comment="good" lid="Id3">Big Hero 6, starring Jamie Chung, features the character Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id45" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6 which also starred Maya Rudolph.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 that stars Maya Rudolph.</lex>
+      <lex comment="good" lid="Id3">Maya Rudolph starred in the film Big Hero 6, in which Baymax is a character.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id46" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6, Scott Adsit starred in the movie version of Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in the film Big Hero 6 which stars Scott Adsit.</lex>
+      <lex comment="good" lid="Id3">Baymax is a character in Big Hero 6, starring Scott Adsit.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id47" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Scott Adsit was born in Northbrook, Illinois and does the voice for Baymax.</lex>
+      <lex comment="good" lid="Id2">The character Baymax is voiced by Scott Adsit, who was born in Northbrook, Illinois.</lex>
+      <lex comment="good" lid="Id3">Born in Northbrook Illinois, Scott Adsit, provides the voice for the character Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id51" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6, which stars Alan Tudyk.</lex>
+      <lex comment="good" lid="Id2">The film Big Hero 6, starring Alan Tudyk, has a character called Baymax.</lex>
+      <lex comment="good" lid="Id3">Baymax is a character in the film Big Hero 6, which starred Alan Tudyk.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id53" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sheldon Moldoff created the Black Pirate and won the Inkpot Award.</lex>
+      <lex comment="good" lid="Id2">Sheldon Moldoff, creator of the Black Pirate, has won the Inkpot Award.</lex>
+      <lex comment="good" lid="Id3">The Black Pirate was created by Sheldon Moldoff, who won the Inkpot Award.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id54" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Blockbuster is a comic character that was created by Carmine Infantino and Gardner Fox.</lex>
+      <lex comment="good" lid="Id2">The comic book character Blockbuster was created by both Gardner Fox and Carmine Infantino.</lex>
+      <lex comment="good" lid="Id3">The character Blockbuster was created by Gardner Fox and Carmine INfantino.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id55" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Blockbuster was created by Gardner Fox and Roger Stern.</lex>
+      <lex comment="good" lid="Id2">The comic character Blockbuster was created by Gardner Fox and Roger Stern.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id56" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creators of Blockbuster (comics character) are Gardner Fox and Tom Lyle.</lex>
+      <lex comment="good" lid="Id2">Both Gardner Fox and Tom Lyle were the creators of the comic character, Blockbuster.</lex>
+      <lex comment="good" lid="Id3">The comic book character Blockbuster was created by Gardner Fox and Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id57" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Blockbuster was created by Roger Stern and Carmine Infantino.</lex>
+      <lex comment="good" lid="Id2">The comics character Blockbuster was created by Carmine Infantino and Roger Stern.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id65" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creator of the comic character, Bolt, is Paris Cullins, A United States national.</lex>
+      <lex comment="good" lid="Id2">Paris Cullins is an United States national that created the comic character "Bolt".</lex>
+      <lex comment="good" lid="Id3">The character Bolt was created Paris Cullins, from the United States.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id66" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bozo_the_Iron_Man | creator | George_Brenner</otriple>
+        <otriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bozo_the_Iron_Man | creators | George_Brenner</otriple>
+        <otriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bozo_the_Iron_Man | creator | George_Brenner</mtriple>
+        <mtriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bozo the Iron Man's full name is Hugh Hazzard and he was created by George Brenner.</lex>
+      <lex comment="good" lid="Id2">Created by George Brenner, the full name of Bozo the Iron Man is "Hugh Hazzard".</lex>
+      <lex comment="good" lid="Id3">George Brenner is the creator of Bozo the Iron Man whose alter ego is Hugh Hazzard.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id67" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dane Whitman, aka the Black Knight was created by John Buscema.</lex>
+      <lex comment="good" lid="Id2">The Black Knight (also known as Dane Whitman) was created in the comics genre by John Buscema.</lex>
+      <lex comment="good" lid="Id3">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight, which was created by John Buscema.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id68" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Dane Whitman (otherwise known as the Black Knight) was created by both Roy Thomas and John Buscema.</lex>
+      <lex comment="good" lid="Id2">Dane Whitman, from the Black Knight was created by John Buscema and Roy Thomas.</lex>
+      <lex comment="good" lid="Id3">Dane Whitman, aka Black Night was created by John Buscema and Roy Thomas.</lex>
+    </entry>
+  </entries>
+</benchmark>

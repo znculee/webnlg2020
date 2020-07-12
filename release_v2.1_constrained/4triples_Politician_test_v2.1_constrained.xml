@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id22" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | party | Justicialist_Party</otriple>
+        <otriple>Alberto_Teisaire | nationality | Argentina</otriple>
+        <otriple>Argentina | language | Spanish_language</otriple>
+        <otriple>Alberto_Teisaire | president | Juan_Perón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | party | Justicialist_Party</mtriple>
+        <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
+        <mtriple>Argentina | language | Spanish_language</mtriple>
+        <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alberto Teisaire, a member of the Justicialist Party in Spanish speaking Argentina, was Argentinian. He was in office while Juan Peron was President.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire is from Argentina, a Spanish-speaking country. He is a member of the Justicialist Party and was in office while Juan Peron was President.</lex>
+      <lex comment="good" lid="Id3">Alberto Teisaire was a member of the Justicialist Party and was in office while Juan Peron was President. Teisaire was from Argentina, where Spanish is spoken.</lex>
+    </entry>
+    <entry category="Politician" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</otriple>
+        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
+        <otriple>Aaron_S._Daggett | deathPlace | Massachusetts</otriple>
+        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</mtriple>
+        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
+        <mtriple>Aaron_S._Daggett | deathPlace | Massachusetts</mtriple>
+        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett was born in Maine and he died in Massachusetts. He fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett, who was born in Maine and died in Massachusetts, has fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
+    </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</otriple>
+        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
+        <otriple>Aaron_S._Daggett | deathPlace | West_Roxbury</otriple>
+        <otriple>Aaron_S._Daggett | birthPlace | Greene,_Maine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</mtriple>
+        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
+        <mtriple>Aaron_S._Daggett | deathPlace | West_Roxbury</mtriple>
+        <mtriple>Aaron_S._Daggett | birthPlace | Greene,_Maine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett, who was born in Greene Maine and died in West Roxbury, fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett was born in Greene, Maine and died in West Roxbury. He was awarded the Purple Heart and fought in the Battle of the Wilderness.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggett, born in Greene in Maine, died in West Roxbury. He fought in the Battle of the Wilderness and also was the recipient of the Purple Heart.</lex>
+    </entry>
+    <entry category="Politician" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Sociology</otriple>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Netherlands</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</otriple>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Netherlands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</mtriple>
+        <mtriple>Ab_Klink | office (workedAt, workedAs) | "Member of the House of Representatives"</mtriple>
+        <mtriple>Ab_Klink | party | Christian_Democratic_Appeal</mtriple>
+        <mtriple>Ab_Klink | birthPlace | Netherlands</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in the Netherlands, Ab Klink belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives. His alma materis Erasmus University in Rotterdam.</lex>
+      <lex comment="good" lid="Id2">Ab Klink was born in the Netherlands and attended Erasmus University Rotterdam. He belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives.</lex>
+      <lex comment="good" lid="Id3">Ab Klink worked as a Member of the House of Representatives as a member of Christian Democratic Appeal party, was born in the Netherlands and went Erasmus University Rotterdam.</lex>
+    </entry>
+    <entry category="Politician" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Sociology</otriple>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</otriple>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</mtriple>
+        <mtriple>Ab_Klink | office (workedAt, workedAs) | "Member of the House of Representatives"</mtriple>
+        <mtriple>Ab_Klink | party | Christian_Democratic_Appeal</mtriple>
+        <mtriple>Ab_Klink | birthPlace | Stellendam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Stellendam was the birthplace of Ab Klink; who belongs to the Christian Democratic Appeal party, worked as a Member of the House of Representatives, and has Erasmus University in Rotterdam for an alma mater.</lex>
+      <lex comment="good" lid="Id2">Ab Klink; was born in Stellendam, belongs to the Christian Democratic Appeal party, worked as a Member of the House of Representatives and his alma mater is Erasmus University Rotterdam.</lex>
+    </entry>
+    <entry category="Politician" eid="Id137" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Airey_Neave | unit | Royal_Artillery</otriple>
+        <otriple>Royal_Artillery | garrison | Hohne</otriple>
+        <otriple>Airey_Neave | battles | Battle_of_France</otriple>
+        <otriple>Battle_of_France | commander | Hugo_Sperrle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | unit | Royal_Artillery</mtriple>
+        <mtriple>Royal_Artillery | garrison | Hohne</mtriple>
+        <mtriple>Airey_Neave | battles | Battle_of_France</mtriple>
+        <mtriple>Battle_of_France | commander | Hugo_Sperrle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Airey Neave served in the Royal Artillery Unit which had a garrison in Hohne. He fought in the Battle of France for which Hugo Sperrle was a commander.</lex>
+      <lex comment="good" lid="Id2">Airey Neave fought in the Battle of France with the Royal Artillery who have a garrison at Hohne. He fought in the Battle of France where Hugo Sperrle was a commander.</lex>
+      <lex comment="good" lid="Id3">Airey Neave was in the Battle of France where his unit was known as the Royal Artillery. Their garrison was at Hohne. A commander in the Battle of France was Hugo Sperrle.</lex>
+    </entry>
+    <entry category="Politician" eid="Id138" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Airey_Neave | unit | Royal_Artillery</otriple>
+        <otriple>Royal_Artillery | garrison | Hohne</otriple>
+        <otriple>Airey_Neave | battles | World_War_II</otriple>
+        <otriple>World_War_II | commander | Benito_Mussolini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | unit | Royal_Artillery</mtriple>
+        <mtriple>Royal_Artillery | garrison | Hohne</mtriple>
+        <mtriple>Airey_Neave | battles | World_War_II</mtriple>
+        <mtriple>World_War_II | commander | Benito_Mussolini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Hohne is one of the garrisons of Royal Artillery, the unit that Airey Neave served in. Airey Neave fought in World War II, during which one oft he commanders was, Benito Mussolini.</lex>
+      <lex comment="good" lid="Id2">Airey Neave was in the Royal Artillery, which has one of its garrisons at Hohne and fought in the Second World War. Benito Mussolini was a commander in this war.</lex>
+      <lex comment="good" lid="Id3">Airey Neave's unit was the Royal Artillery, which has a garrison at Hohne. He fought in World War II and Benito Mussolini was a commander in the same war.</lex>
+    </entry>
+    <entry category="Politician" eid="Id139" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Airey_Neave | unit | Royal_Artillery</otriple>
+        <otriple>Royal_Artillery | garrison | Hohne</otriple>
+        <otriple>Airey_Neave | battles | World_War_II</otriple>
+        <otriple>World_War_II | commander | Chiang_Kai-shek</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | unit | Royal_Artillery</mtriple>
+        <mtriple>Royal_Artillery | garrison | Hohne</mtriple>
+        <mtriple>Airey_Neave | battles | World_War_II</mtriple>
+        <mtriple>World_War_II | commander | Chiang_Kai-shek</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Airey Neave served in the Royal Artillery Unit, which has a garrison in Hohne, during World War Two. One of the commanders in that war was Chiang Kai-shek.</lex>
+      <lex comment="good" lid="Id2">Airey Neave served in the Royal Artillery Unit which has a garrison in Hohne. He also participated in World War II where Chiang Kai-shek was a commander.</lex>
+      <lex comment="good" lid="Id3">Airey Neave fought in World War Two with the Royal Artillery which had a garrison in Hohne. One of the commanders of World War Two was Chiang Kai-shek.</lex>
+    </entry>
+    <entry category="Politician" eid="Id149" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
+        <otriple>Albert_B._White | party | Republican_Party_(United_States)</otriple>
+        <otriple>Albert_B._White | birthPlace | Cleveland</otriple>
+        <otriple>Albert_B._White | activeYearsEndDate | "1905-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
+        <mtriple>Albert_B._White | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Albert_B._White | birthPlace | Cleveland</mtriple>
+        <mtriple>Albert_B._White | activeYearsEndDate | 1905-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albert B. White was born in Cleveland and was married to Agnes Ward White. Albert B.White was a member of the Republican Party of the United States and ended his career on March 4, 1905.</lex>
+      <lex comment="good" lid="Id2">Albert B. White, a member of the Republican Party in the U.S., was born in Cleveland. He was married to Agnes Ward White. His career was finished on March 4, 1905.</lex>
+      <lex comment="good" lid="Id3">U.S. Republican Party member Albert B. White was born in Cleveland and married Agnes Ward White. He retired 03/04/1905.</lex>
+    </entry>
+    <entry category="Politician" eid="Id150" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
+        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
+        <otriple>Albert_B._White | activeYearsEndDate | "1905-03-04"^^xsd:date</otriple>
+        <otriple>Albert_B._White | activeYearsStartDate | "1901-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
+        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
+        <mtriple>Albert_B._White | activeYearsEndDate | 1905-03-04</mtriple>
+        <mtriple>Albert_B._White | activeYearsStartDate | 1901-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Agnes Ward White was the wife of Albert B. White, who, started his career on March 4, 1901 and finished his career on March 4th 1905. Albert B White was succeeded by William M O Dawson.</lex>
+      <lex comment="good" lid="Id2">Albert B. White, who was married to Agnes Ward White, started his career on March 4, 1901 and finished on March 4th 1905 and was succeded by William M. O. Dawson.</lex>
+      <lex comment="good" lid="Id3">Albert B. White married Agnes Ward White. He began his career 03/04/1901 and retired 03/04/1905, he was succeeded by William M. O. Dawson.</lex>
+    </entry>
+    <entry category="Politician" eid="Id151" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
+        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
+        <otriple>Albert_B._White | birthPlace | Cleveland</otriple>
+        <otriple>Albert_B._White | activeYearsEndDate | "1905-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
+        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
+        <mtriple>Albert_B._White | birthPlace | Cleveland</mtriple>
+        <mtriple>Albert_B._White | activeYearsEndDate | 1905-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Agnes Ward White was the wife of Albert B. White, who was born Cleveland. Albert B. White finished his career on March 4th 1905 and was succeeded by, William M. O. Dawson.</lex>
+      <lex comment="good" lid="Id2">Albert B. White was born in Cleveland and married Agnes Ward White. He finished his career on March 4th 1905 and was succeeded by William M.O. Dawson.</lex>
+      <lex comment="good" lid="Id3">Albert B. White, who was born in Cleveland, was married to Agnes Ward White and finished his career on March 4th 1905 and was succeeded by William M O Dawson.</lex>
+    </entry>
+    <entry category="Politician" eid="Id152" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
+        <otriple>Albert_B._White | birthPlace | Cleveland</otriple>
+        <otriple>Albert_B._White | activeYearsEndDate | "1905-03-04"^^xsd:date</otriple>
+        <otriple>Albert_B._White | activeYearsStartDate | "1901-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
+        <mtriple>Albert_B._White | birthPlace | Cleveland</mtriple>
+        <mtriple>Albert_B._White | activeYearsEndDate | 1905-03-04</mtriple>
+        <mtriple>Albert_B._White | activeYearsStartDate | 1901-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Cleveland, Albert B. White started his career on March 4, 1901 and finished it on March 4th 1905. He was succeeded by WilliamM. O. Dawson.</lex>
+      <lex comment="good" lid="Id2">Albert B. White was born in Cleveland and his successor was William M. O. Dawson. He started his career on March 4, 1901 and finished it on March 4th 1905.</lex>
+      <lex comment="good" lid="Id3">Albert B. White was born in Cleveland. He began his career on March 4, 1901 and ended it on March 4, 1905. His successor was William M. O. Dawson.</lex>
+    </entry>
+    <entry category="Politician" eid="Id153" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Albert_Jennings_Fountain | battles | American_Civil_War</otriple>
+        <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Albert_Jennings_Fountain | birthPlace | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_Jennings_Fountain | battles | American_Civil_War</mtriple>
+        <mtriple>American_Civil_War | commander | Jefferson_Davis</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>Albert_Jennings_Fountain | birthPlace | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albert Jennings Fountain was born in the United states, a place where African Americans are an ethnic group, and fought in the American Civil War. Jefferson Davis was a commander in the same war.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain, who was born in the US, where African Americans are an ethnic group. He fought in the American Civil War and a commander in this war was Jefferson Davis.</lex>
+      <lex comment="good" lid="Id3">Jefferson Davis was a commander in the American Civil War. Albert Jennings Fountain fought in this war - he was born in the United States, where African Americans represent one of the ethnic groups.</lex>
+    </entry>
+  </entries>
+</benchmark>

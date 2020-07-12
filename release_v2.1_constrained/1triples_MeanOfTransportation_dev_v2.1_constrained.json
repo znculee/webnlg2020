@@ -1,0 +1,904 @@
+{
+   1: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Guiana Space Centre was the launch site of the Ariane 5.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ariane 5 was launched from the Guiana Space Centre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ariane 5 was launched from the Guiana Space Centre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ariane_5 ",
+   "property": " launchSite ",
+   "subject": " Guiana_Space_Centre"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ariane_5 ",
+     "property": " sites ",
+     "subject": " Guiana_Space_Centre"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   2: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "December 16, 2004 was the launch date for the A-Rosa Luna ship.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ship A-Rosa Luna's launch date was the 16th December 2004.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A-Rosa_Luna ",
+   "property": " shipLaunch ",
+   "subject": " 2004-12-16"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A-Rosa_Luna ",
+     "property": " shipLaunch ",
+     "subject": " "2004-12-16"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   3: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna was ordered on the 22nd of January 2004.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna ship was ordered on January 22nd 2004.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna ship was ordered on January 22, 2004.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A-Rosa_Luna ",
+   "property": " shipOrdered ",
+   "subject": " 2004-01-22"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A-Rosa_Luna ",
+       "property": " shipOrdered ",
+       "subject": " "2004-01-22"^^xsd:date"
+       },
+       {
+       "object": "A-Rosa_Luna ",
+       "property": " orderDate ",
+       "subject": " "2004-01-22"^^xsd:date"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   4: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna has a 2 × MTU 16V 2000 M60 engine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna ship has a 2 × MTU 16V 2000 M60 engine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The powering of the A-Rosa Luna is the "2xMTU 16V 2000 M60 engine".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A-Rosa_Luna ",
+   "property": " shipPower ",
+   "subject": " "2 × MTU 16V 2000 M60 engine""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A-Rosa_Luna ",
+     "property": " shipPower ",
+     "subject": " "*2 × MTU 16V 2000 M60\n*"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   5: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna has a top speed of 24 km/h.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The top speed pf the A-Rosa Luna is 24.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The top speed of the A-Rosa Luna is 24.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A-Rosa_Luna ",
+   "property": " topSpeed ",
+   "subject": " 24.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A-Rosa_Luna ",
+     "property": " topSpeed ",
+     "subject": " "24.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   6: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AMC Matador is assembled in Mexico City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AMC Matador was assembled in Mexico City.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AMC_Matador ",
+   "property": " assembly ",
+   "subject": " Mexico_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AMC_Matador ",
+     "property": " assembly ",
+     "subject": " Mexico_City"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id67"
+      }
+},
+{
+   7: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AMC Matador is assembled at Port Melbourne, Victoria.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AMC Matador is assembled in Port Melbourne, Victoria.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The assembly line on the AMC Matador is in Port Melbourne, Victoria.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AMC_Matador ",
+   "property": " assembly ",
+   "subject": " Port_Melbourne,_Victoria"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AMC_Matador ",
+     "property": " assembly ",
+     "subject": " Port_Melbourne,_Victoria"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id68"
+      }
+},
+{
+   8: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AMC Matador was assembled in Thames, New Zealand.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AMC Matador is assembled in Thames, New Zealand.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AMC Matador is assembled in Thames, New Zealand.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AMC_Matador ",
+   "property": " assembly ",
+   "subject": " Thames,_New_Zealand"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AMC_Matador ",
+     "property": " assembly ",
+     "subject": " Thames,_New_Zealand"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id69"
+      }
+},
+{
+   9: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AMC Matador has a Coupé style body.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AMC Matador is a Coupé.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AMC Matador's body style is Coupé.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AMC_Matador ",
+   "property": " bodyStyle ",
+   "subject": " Coupé"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AMC_Matador ",
+     "property": " bodyStyle ",
+     "subject": " Coupé"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id70"
+      }
+},
+{
+   10: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AMC Matador has a hardtop.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AMC_Matador ",
+   "property": " bodyStyle ",
+   "subject": " Hardtop"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AMC_Matador ",
+     "property": " bodyStyle ",
+     "subject": " Hardtop"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id71"
+      }
+},
+{
+   11: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The icebreaker Aleksey Chirikov has a Wartsila power type.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The powertype of the Aleksey Chirikow icebreaker is Wärtsilä.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksey Chirikov (icebreaker) is Wärtsilä powered.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksey_Chirikov_(icebreaker) ",
+   "property": " powerType ",
+   "subject": " Wärtsilä"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksey_Chirikov_(icebreaker) ",
+     "property": " powerType ",
+     "subject": " Wärtsilä"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id115"
+      }
+},
+{
+   12: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The American submarine NR-1 was launched in January 25th 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The American sub NR-1 was launched on January 25, 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The American submarine NR-1 was launched on The 25th of January 1969.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_submarine_NR-1 ",
+   "property": " shipLaunch ",
+   "subject": " 1969-01-25"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "American_submarine_NR-1 ",
+     "property": " shipLaunch ",
+     "subject": " "1969-01-25"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id160"
+      }
+},
+{
+   13: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The top speed of the American submarine NR-1 is 8.334.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The American submarine, NR-1, has a top speed of 8.334 km/h.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_submarine_NR-1 ",
+   "property": " topSpeed ",
+   "subject": " 8.334"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "American_submarine_NR-1 ",
+     "property": " topSpeed ",
+     "subject": " "8.334"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id161"
+      }
+},
+{
+   14: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The successor of the Aston Martin DBS is the Aston Martin Vantage.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aston Martin Vantage succeeded the Aston Martin DBS.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aston_Martin_DBS ",
+   "property": " successor ",
+   "subject": " Aston_Martin_Vantage"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aston_Martin_DBS ",
+     "property": " successor ",
+     "subject": " Aston_Martin_Vantage"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id193"
+      }
+},
+{
+   15: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 is built at Newport Pagnell, Buckinghamshire, England, United Kingdom.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aston_Martin_V8 ",
+   "property": " assembly ",
+   "subject": " "Newport Pagnell, Buckinghamshire, England, United Kingdom""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aston_Martin_V8 ",
+     "property": " assembly ",
+     "subject": " "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id194"
+      }
+},
+{
+   16: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlas II is 3.04m in diameter.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlas II has a diameter of 3.04m.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlas II is 3.04 m in diameter.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " diameter ",
+   "subject": " 3.04 m"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlas_II ",
+     "property": " diameter ",
+     "subject": " "3.04 m"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id203"
+      }
+},
+{
+   17: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlas II last flight was on December 5, 2002.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The final flight of the Atlas II was on 2002-12-05.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The final flight of Atlas II took place on the 5th December 2002.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " finalFlight ",
+   "subject": " 2002-12-05"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlas_II ",
+     "property": " finalFlight ",
+     "subject": " "2002-12-05"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id204"
+      }
+},
+{
+   18: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlas II's final flight was on the 31st August 2004.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlas II had its final flight on the 31st of August 2004.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlas II final flight was on 2004-08-31.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " finalFlight ",
+   "subject": " 2004-08-31"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlas_II ",
+     "property": " finalFlight ",
+     "subject": " "2004-08-31"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id205"
+      }
+},
+{
+   19: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Atlas II was launched from Cape Canaveral Air Force Station.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlas II was launched from the Cape Canaveral Air Force Station.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " launchSite ",
+   "subject": " Cape_Canaveral_Air_Force_Station"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlas_II ",
+       "property": " launchSite ",
+       "subject": " Cape_Canaveral_Air_Force_Station"
+       },
+       {
+       "object": "Atlas_II ",
+       "property": " sites ",
+       "subject": " Cape_Canaveral_Air_Force_Station"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id206"
+      }
+},
+{
+   20: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Atlas II was launched from the Spaceport Florida Launch Complex 36.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The launch site of Atlas II is Spaceport Florida Launch Complex 36.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlas II launch site was the Spaceport Florida Launch Complex 36.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " launchSite ",
+   "subject": " Spaceport_Florida_Launch_Complex_36"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlas_II ",
+       "property": " sites ",
+       "subject": " Spaceport_Florida_Launch_Complex_36"
+       },
+       {
+       "object": "Atlas_II ",
+       "property": " launchSite ",
+       "subject": " Spaceport_Florida_Launch_Complex_36"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id207"
+      }
+},
+{
+   21: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Atlas II rocket’s launch site is Vandenberg AFB Space Launch Complex 3.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlas II was launched at the Vandenberg AFB Space Launch Complex 3.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlas_II ",
+   "property": " launchSite ",
+   "subject": " Vandenberg_AFB_Space_Launch_Complex_3"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlas_II ",
+       "property": " sites ",
+       "subject": " Vandenberg_AFB_Space_Launch_Complex_3"
+       },
+       {
+       "object": "Atlas_II ",
+       "property": " launchSite ",
+       "subject": " Vandenberg_AFB_Space_Launch_Complex_3"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id208"
+      }
+},
+{
+   22: {
+   "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Carnival Corporation &amp; plc is the parent company of Costa Crociere.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The parent company of Costa Crociere is Carnival Corporation &amp; plc.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Costa_Crociere ",
+   "property": " parentCompany ",
+   "subject": " Carnival_Corporation_&amp;_plc"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Costa_Crociere ",
+       "property": " parent ",
+       "subject": " Carnival_Corporation_&amp;_plc"
+       },
+       {
+       "object": "Costa_Crociere ",
+       "property": " parentCompany ",
+       "subject": " Carnival_Corporation_&amp;_plc"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id226"
+      }
+}

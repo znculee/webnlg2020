@@ -1,0 +1,588 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alderney airport's first runway is made from Poaceae which is from the Monocotyledon class.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1st runway at Alderney Airport is made from Poaceae, which is in the Monocotyledon class.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1st runway at Alderney Airport is made from Poaceae, classed as a Monocotyledon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alderney_Airport ",
+     "property": " r1Surface ",
+     "subject": " Poaceae"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1st runway at Alderney airport has an asphalt surface and a length of 877.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The first runway at Alderney Airport is made of asphalt, and its length is 877.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " runwayLength ",
+   "subject": " 877.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alderney_Airport ",
+     "property": " runwayLength ",
+     "subject": " "877.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol is 3.3528 below sea level and its first runway is made of asphalt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam airport Schiphol is -3.3528 from sea level and the 1st runway is made from Asphalt.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol is -3.3528 metres above sea level and the first runway is made of asphalt.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam_Airport_Schiphol ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Asphalt"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amsterdam_Airport_Schiphol ",
+     "property": " r1Surface ",
+     "subject": " Asphalt"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport is operated by Infraero which is in Brasilia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport is operated by Infraero, Brasilia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The operating organization for Afonso Pena International Airport is Infraero in Brasilia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Infraero ",
+   "property": " location ",
+   "subject": " Brasília"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Infraero ",
+     "property": " location ",
+     "subject": " Brasília"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airportis 546 metres above sea level and has a 1st runway made of asphalt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The first runway at Abilene Regional Airport (elevation 546 metres above sea level) is made from asphalt.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport is located 546 metres above sea level and the 1st runway is made of asphalt.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Asphalt"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " r1Surface ",
+       "subject": " Asphalt"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " r1Surface ",
+       "subject": " Asphalt"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves Lake Placid and the city of Saranac Lake, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves both Lake Placid and Saranac Lake, New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake, New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adirondack_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Lake_Placid,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Lake_Placid,_New_York"
+       },
+       {
+       "object": "Adirondack_Regional_Airport ",
+       "property": " city ",
+       "subject": " Lake_Placid,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In Madrid, the Adolfo Suárez Madrid–Barajas Airport has a runway with the length of 3,500 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adolfo Suarez Madrid-Barajas airport is located in Madrid and has a runway length of 3500.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length at Adolfo Suarez Madrid-Barajas airport in Madrid is 3500.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+   "property": " runwayLength ",
+   "subject": " 3500.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolfo_Suárez_Madrid–Barajas_Airport ",
+     "property": " runwayLength ",
+     "subject": " "3499.71"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase in Iraq has a runway length of 3090.0.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " location ",
+   "subject": " Iraq"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " location ",
+     "subject": " Iraq"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id60"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alderney Airport has a runway with a length of 733.0 metres and its 1st runway is made from Poaceae.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alderney Airport has a runway length of 733 and its 1st runway surface is poaceae.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alderney Airport runway has a length of 733 and the surface of its 1st runway is poaceae.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alderney_Airport ",
+     "property": " r1Surface ",
+     "subject": " Poaceae"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id75"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International airport is located in Pakistan where the leader is Mamnoon Hussain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International airport is located in Pakistan, the leader of the country is Mamnoon Hussain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International airport is located in Pakistan where Mamnoon Hussain is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allama_Iqbal_International_Airport ",
+   "property": " location ",
+   "subject": " Pakistan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allama_Iqbal_International_Airport ",
+     "property": " location ",
+     "subject": " Pakistan"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id86"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The location identifier of Alpena County Regional airport is APN and is 210m a.s.l.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpena County Regional Airport (APN) is 210 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alpena County Regional Airport's location id is "APN", and it is elevated 210 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpena_County_Regional_Airport ",
+   "property": " locationIdentifier ",
+   "subject": " "APN""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " faa ",
+       "subject": " "APN"@en"
+       },
+       {
+       "object": "Alpena_County_Regional_Airport ",
+       "property": " faa ",
+       "subject": " "APN"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id100"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam airport Schiphol is -3.3528 above sea level and its first runway is known as Number 18.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol is -3.3528 metres above sea level and the first runway is known as Number 18.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of the 1st runway at Amsterdam Airport Schiphol is 18, the airport is -3.3528 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam_Airport_Schiphol ",
+   "property": " 1st_runway_Number ",
+   "subject": " 18"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amsterdam_Airport_Schiphol ",
+     "property": " r1Number ",
+     "subject": " 18"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id101"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol is 3.3528 below sea level and its fourth runway is made from asphalt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amsterdam Airport Schiphol is -3.3528 metres above sea level and the 4th runway is made of asphalt.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam_Airport_Schiphol ",
+   "property": " 4th_runway_SurfaceType ",
+   "subject": " "Asphalt""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amsterdam_Airport_Schiphol ",
+     "property": " r4Surface ",
+     "subject": " "Asphalt"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id102"
+      }
+},
+{
+   14: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is at an elevation of 280 metres above sea level and can be found in Greenville, Wisconsin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Appleton International Airport is in Greenville, Wisconsin and is 280 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Appleton International Airport in Greenville, Wisconsin is 280 metres above sea leve.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id143"
+      }
+}

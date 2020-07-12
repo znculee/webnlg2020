@@ -1,0 +1,919 @@
+{
+   1: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Footballer, Alan Martin, was born on 01/01/1989. He is a footballer for the clubs, Hamilton Academical FC and Clyde FC club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on 1 January 1989, Alan Martin currently plays for Hamilton Academical FC, having previously played with Clyde FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Footballer, Alan Martin, was born on 01/01/1989. He played football for Clyde F.C. and plays for Hamilton Academical FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Hamilton_Academical_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Hamilton_Academical_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   2: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in the Soviet Union and he died in Russia, where the leader is Vladimir Putin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in the Soviet Union and died there in Russia. The leader of Russia is Vladimir Putin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in the Soviet Union and died in Russia, where the leader is Vladimir Putin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Chumakov ",
+   "property": " deathPlace ",
+   "subject": " Russia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Chumakov ",
+     "property": " deathPlace ",
+     "subject": " Russia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id10"
+      }
+},
+{
+   3: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in Moscow, Russia and he died in Russia. The leader of Moscow is Sergey Sobyanin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in Moscow and died in Russia. Sergey Sobyanin is Moscow's leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sergey Sobyanin is the leader of Moscow, which is where Aleksandr Chumakov was born, he died in Russia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Moscow ",
+   "property": " leaderName ",
+   "subject": " Sergey_Sobyanin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Moscow ",
+     "property": " leaderName ",
+     "subject": " Sergey_Sobyanin"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id23"
+      }
+},
+{
+   4: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Footballer, Abner, played for the Brazilian national under 20 football team. He also for the football club Real Madrid Castilla, the manager of which, is Luis Miguel Ramis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner plays football for the Brazilian national under 20 football team and also for Real Madrid Castilla who are managed by Luis Miguel Ramis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer who has represented the Brazil national under 20 team and plays for Real Madrid Castilla under their manager Luis Miguel Ramis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Real_Madrid_Castilla ",
+   "property": " manager ",
+   "subject": " Luis_Miguel_Ramis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Real_Madrid_Castilla ",
+     "property": " manager ",
+     "subject": " Luis_Miguel_Ramis"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id24"
+      }
+},
+{
+   5: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, whose club is Penarol, plays for the club, U.S. Città di Palermo. Giuseppe Iachini is the manager of U.S. Città di Palermo.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez played for Penarol and currently plays for the club U.S. Città di Palermo, which is managed by Giuseppe Iachini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez's clubs are Penarol and US Citta di Palermo, which is managed by Giuseppe Iachini.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " club ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " clubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   6: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, whose club is US Citta di Palermo, was a member of the youth club Penarol and has also played for Central Espanol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández; who played for Central Español, is a member of Penarol's youth club and plays for the club, U.S. Città di Palermo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández was a member of youth club Peñarol but his current club is Central Español and he plays for the club U.S. Città di Palermo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id21"
+      }
+},
+{
+   7: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In his youth, Abel Hernández played for Peñarol and Central Español but he currently plays for the Uruguay national football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, was a member of Penarol's youth club and now belongs to the clubs, Central Español and the Uruguay National football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Uruguay international footballer Abel Hernández was a member of Peñarol's youth team and later played for Central Español.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id22"
+      }
+},
+{
+   8: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, who was a member of the youth club Penarol, plays for the Uruguay national football team and the US Citta di Palermo club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Formerly a member of the youth club Penarol, Abel Hernandez's clubs are the Uruguay National football team and US Citta di Palermo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Uruguay international footballer Abel Hernández played in the youth team of the club Peñarol and later represented US Citta di Palermo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id23"
+      }
+},
+{
+   9: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born on May 30th 1996, footballer, Abner, played for the Brazil national under-17 football team and plays for the Coritiba Football club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner was born on 30 May 1996 and plays for the Coritiba Fooball club and the Brazil national under 17 team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Brazil_national_under-17_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " team ",
+     "subject": " Brazil_national_under-17_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id24"
+      }
+},
+{
+   10: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The footballer Abner was born on 30 May 1996 and plays for both the Brazilian national under 17 football team and Real Madrid Castilla.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner was born 30th May 1996 and played for the Real Madrid Castilla and the Brazilian national under 17 football teams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner was born on 30 May 1996 and played for the Brazilian national under 17 football team as well as Real Madrid Castilla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Brazil_national_under-17_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " team ",
+     "subject": " Brazil_national_under-17_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id25"
+      }
+},
+{
+   11: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner the footballer, was born on May 30th 1996 and he has represented the Brazil national under 20 team as well as plays for the Coritiba Football Club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The footballer Abner was born on 30/05/1996 and plays for the Brazilian national under 20 football team and Coritiba Football Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer who was born on 30 May 1996 and plays for the Coritiba Football Club and the Brazilian national under 20 football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Brazil_national_under-20_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " team ",
+     "subject": " Brazil_national_under-20_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id26"
+      }
+},
+{
+   12: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer who was born on 30 May 1996 . He belongs to the CD FAS club and plays for Coritiba FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The footballer Abner was born on 30 May 1996 and plays for CD FAS and Coritiba Football Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner was born on 30 May 1996, belongs to the club CD FAS and plays for Coritiba Football club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Coritiba_Foot_Ball_Club"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " clubs ",
+     "subject": " Coritiba_Foot_Ball_Club"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id27"
+      }
+},
+{
+   13: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The footballer, Abner, was born on 30/05/1996. He played for the football club Real Madrid Castilla and is a footballer for the CD FAS club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner was born on 30 May 1995 and formerly played football for Real Madrid Castilla. He currently plays for CD FAS.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner, born on 30 May 1996, plays football for the CD FAS club and also Real Madrid Castilla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " clubs ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id28"
+      }
+},
+{
+   14: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The footballer Abner was born on 30/05/1996 and plays for Real Madrid Castilla and the Coritiba football club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner, who was born on 30 May 1996, formerly played for Real Madrid Castilla, and now for Coritiba FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born, 30th May 1996, the footballer, Abner, plays for Coritiba Football Club and for Real Madrid Castilla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " clubs ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id29"
+      }
+},
+{
+   15: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher, whose club is AZ Alkmaar, was born in the Netherlands and played for the country's national under 17 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Netherlands born Adam Maher played for their national under 17 football team and is connected to the AZ Alkmaar club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " club ",
+   "subject": " Netherlands_national_under-17_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Maher ",
+     "property": " team ",
+     "subject": " Netherlands_national_under-17_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id30"
+      }
+},
+{
+   16: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher's birthplace is Diemen and he belongs to the clubs PSV Eindhoven and AZ Alkmaar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher was born in Diemen and he is connected to the AZ Alkmaar club but his club is PSV Eindhoven.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " club ",
+   "subject": " PSV_Eindhoven"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Maher ",
+       "property": " placeOfBirth ",
+       "subject": " Diemen"
+       },
+       {
+       "object": "Adam_Maher ",
+       "property": " team ",
+       "subject": " PSV_Eindhoven"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id31"
+      }
+},
+{
+   17: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada in 1986 and his height is 1.9558m.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who is 1.9558m tall, was born in Canada in 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, whose height is 1.9558 metres, was born in 1986 in Canada.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id32"
+      }
+},
+{
+   18: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who weighs 94.8024 kg, was born in Canada in 1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who weighs 94.8024kg, was born in Canada in 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in 1986 in Canada and weighs 94.8024 kilograms.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id33"
+      }
+},
+{
+   19: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's height is 1.9558 and he was born in Charlottetown in 1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in 1986 in Charlottetown. He is 1.9558 m tall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Charlottetown in 1986. His height is 1.9558 meters.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Charlottetown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Charlottetown"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id34"
+      }
+},
+{
+   20: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Charlottetown was the birthplace of Adam McQuaid, who was born in 1986, and now weighs, 94.8024 kilograms.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who weighs 94.8024 kgs, was born in Charlottetown in 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who was born in 1986, Charlottetown, weighs, 94.8024 kilograms.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Charlottetown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Charlottetown"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id35"
+      }
+},
+{
+   21: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad was born on 1st July 1976 and his clubs are Steel Azin F.C. and Al-Naft.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad, whose birthdate is 1 July 1976, plays for Al-Naft and his club is Steel Azin FC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmad_Kadhim_Assad ",
+   "property": " club ",
+   "subject": " Steel_Azin_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " team ",
+       "subject": " Steel_Azin_F.C."
+       },
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " clubs ",
+       "subject": " Steel_Azin_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id48"
+      }
+},
+{
+   22: {
+   "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C which is managed by Adnan Hamad. He also plays for Steel Azin FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad played for Steel Azin FC and is part of Esteghlal Ahvaz FC where Adnan Hamad is the manager.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmad_Kadhim_Assad ",
+   "property": " club ",
+   "subject": " Steel_Azin_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " team ",
+       "subject": " Steel_Azin_F.C."
+       },
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " clubs ",
+       "subject": " Steel_Azin_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id49"
+      }
+}

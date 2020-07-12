@@ -1,0 +1,1720 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Secret Scripture is published by Faber and Faber.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Faber and Faber publish The Secret Scripture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Secret Scripture was published by Faber and Faber.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "The_Secret_Scripture ",
+   "property": " publisher ",
+   "subject": " Faber_and_Faber"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "The_Secret_Scripture ",
+     "property": " publisher ",
+     "subject": " Faber_and_Faber"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis has 448 pages.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " numberOfPages ",
+   "subject": " "448""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " numberOfPages ",
+     "subject": " "448"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "DeMarce short stories in the Grantville Gazettes preceded 1634: The Bavarian Crisis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was preceded by DeMarce short stories in the Grantville Gazettes.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " "DeMarce short stories in the The Grantville Gazettes""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " precededBy ",
+     "subject": " "DeMarce short stories in the"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was preceded by 1634: The Baltic War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis is preceded by 1634: The Baltic War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " 1634:_The_Baltic_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " previousWork ",
+     "subject": " 1634:_The_Baltic_War"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was preceded by Grantville Gazette II.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " Grantville_Gazette_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " previousWork ",
+     "subject": " Grantville_Gazette_II"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was preceded by Grantville Gazette III.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis is the sequel to Grantville Gazette III.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " Grantville_Gazette_III"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " previousWork ",
+     "subject": " Grantville_Gazette_III"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Galileo Affair was followed by 1634: The Ram Rebellion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Galileo Affair is followed by 1634: The Ram Rebellion.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Galileo_Affair ",
+   "property": " followedBy ",
+   "subject": " 1634:_The_Ram_Rebellion"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Galileo_Affair ",
+     "property": " subsequentWork ",
+     "subject": " 1634:_The_Ram_Rebellion"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "ACM Transactions on Information Systems has the abbreviation of ACM Trans. Inf. Syst.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The abbreviation "ACM Trans. Inf. Syst." is for ACM Transactions on Information Systems.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "ACM Transactions on Information Systems is abbreviated to ACM Trans. Inf. Syst.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "ACM_Transactions_on_Information_Systems ",
+   "property": " abbreviation ",
+   "subject": " "ACM Trans. Inf. Syst.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "ACM_Transactions_on_Information_Systems ",
+     "property": " abbreviation ",
+     "subject": " "ACM Trans. Inf. Syst."@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice has 672 pages.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " numberOfPages ",
+   "subject": " "672""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " numberOfPages ",
+     "subject": " "672"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is published by Tor Books.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tor Books publishes A Fortress of Grey Ice.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book "A Fortress of Grey Ice" was published by Tor Books.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " publisher ",
+   "subject": " Tor_Books"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " publisher ",
+     "subject": " Tor_Books"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book "A Long Long Way was published by Viking Press.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was published by Viking Press.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A long long way is published by Viking press.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " publisher ",
+   "subject": " Viking_Press"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Long_Long_Way ",
+     "property": " publisher ",
+     "subject": " Viking_Press"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id77"
+      }
+},
+{
+   12: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The OCLC number of A Loyal Character Dancer is 49805501.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " OCLC_number ",
+   "subject": " 49805501"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " oclc ",
+     "subject": " 49805501"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id78"
+      }
+},
+{
+   13: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was penned by Qiu Xiaolong.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Qiu Xiaolong is the author of A Loyal Character Dancer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was written by Qiu Xiaolong.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " author ",
+   "subject": " Qiu_Xiaolong"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " author ",
+     "subject": " Qiu_Xiaolong"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id79"
+      }
+},
+{
+   14: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id80"
+      }
+},
+{
+   15: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id81"
+      }
+},
+{
+   16: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is in print.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " mediaType ",
+   "subject": " "Print""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " mediaType ",
+     "subject": " "Print"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id82"
+      }
+},
+{
+   17: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer can be found in hardcover.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published in Hardcover.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id83"
+      }
+},
+{
+   18: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A loyal Character Dancer is 360 pages long.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer has 360 pages.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " numberOfPages ",
+   "subject": " "360""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " numberOfPages ",
+     "subject": " "360"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id84"
+      }
+},
+{
+   19: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published by Soho Press.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer was published by Soho Press.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " publisher ",
+   "subject": " Soho_Press"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " publisher ",
+     "subject": " Soho_Press"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id85"
+      }
+},
+{
+   20: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp has an ISBN number of "0-374-26131-8".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp has the ISBN number 0-374-26131-8.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " ISBN_number ",
+   "subject": " "0-374-26131-8""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " isbn ",
+     "subject": " "0-374-26131-8""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id86"
+      }
+},
+{
+   21: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "PS3523.E55 S4 1982 is the Library of Congress Classification of "A Severed Wasp".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Library of Congress Classification of A Severed Wasp is PS3523.E55 S4 1982.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " LibraryofCongressClassification ",
+   "subject": " "PS3523.E55 S4 1982""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " congress ",
+     "subject": " "PS3523.E55 S4 1982"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id87"
+      }
+},
+{
+   22: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Mathematica Hungarica is published by Springer Science and Business Media.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Springer Science+Business Media is the publisher of Acta Mathematica Hungarica.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Mathematica Hungarica are the publishers of Springer Science+Business Media.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Mathematica_Hungarica ",
+   "property": " publisher ",
+   "subject": " Springer_Science+Business_Media"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Mathematica_Hungarica ",
+     "property": " publisher ",
+     "subject": " Springer_Science+Business_Media"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id119"
+      }
+},
+{
+   23: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir was written by Garth Nix.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The author of Aenir is Garth Nix.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " author ",
+   "subject": " Garth_Nix"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " author ",
+     "subject": " Garth_Nix"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id141"
+      }
+},
+{
+   24: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book Aenir was written by Australians.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir is an Australian novel.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " country ",
+     "subject": " Australians"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id142"
+      }
+},
+{
+   25: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Aenir was followed by Above the Veil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Aenir was followed up by Above the Veil.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil followed the book Aenir.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " followedBy ",
+   "subject": " Above_the_Veil"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aenir ",
+       "property": " followedBy ",
+       "subject": " Above_the_Veil"
+       },
+       {
+       "object": "Aenir ",
+       "property": " subsequentWork ",
+       "subject": " Above_the_Veil"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id143"
+      }
+},
+{
+   26: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir is available in print.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir was produced in print.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " mediaType ",
+   "subject": " "Print""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " mediaType ",
+     "subject": " "Print"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id144"
+      }
+},
+{
+   27: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir is a paperback.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book titled Aenir is a paperback.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Aenir is available in paperback.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " mediaType ",
+   "subject": " Paperback"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " mediaType ",
+     "subject": " Paperback"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id145"
+      }
+},
+{
+   28: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aenir is a book that has 233 pages.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir is 233 pages long.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir has a total of 233 pages.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " numberOfPages ",
+   "subject": " "233""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aenir ",
+     "property": " numberOfPages ",
+     "subject": " "233"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id146"
+      }
+},
+{
+   29: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Aenir was preceded by the novel Castle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir was written after Castle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aenir was preceded by the novel Castle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aenir ",
+   "property": " precededBy ",
+   "subject": " Castle_(novel)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aenir ",
+       "property": " precededBy ",
+       "subject": " Castle_(novel)"
+       },
+       {
+       "object": "Aenir ",
+       "property": " previousWork ",
+       "subject": " Castle_(novel)"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id147"
+      }
+},
+{
+   30: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number of Alcatraz Versus the Evil Librarians is 0-439-92550-9.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " ISBN_number ",
+   "subject": " "0-439-92550-9""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " isbn ",
+     "subject": " "0-439-92550-9""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id148"
+      }
+},
+{
+   31: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians was written by Brandon Sanderson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The author of Alcatraz Versus the Evil Librarians is Brandon Sanderson.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " author ",
+   "subject": " Brandon_Sanderson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " author ",
+     "subject": " Brandon_Sanderson"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id149"
+      }
+},
+{
+   32: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is in the genre of Fantasy literature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is Fantasy literature.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is a fantasy novel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " genre ",
+   "subject": " Fantasy_literature"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " genre ",
+     "subject": " Fantasy_literature"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id150"
+      }
+},
+{
+   33: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is considered Fantasy literature.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " literaryGenre ",
+   "subject": " Fantasy_literature"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " literaryGenre ",
+     "subject": " Fantasy_literature"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id151"
+      }
+},
+{
+   34: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book "Alcatraz Versus the Evil Librarians is in print.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is produced in print.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " mediaType ",
+   "subject": " "Print""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " mediaType ",
+     "subject": " "Print"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id152"
+      }
+},
+{
+   35: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is published in Hardcover.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " mediaType ",
+     "subject": " Hardcover"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id153"
+      }
+},
+{
+   36: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English language is spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "English_language ",
+   "property": " spokenIn ",
+   "subject": " Great_Britain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "English_language ",
+     "property": " spokenIn ",
+     "subject": " Great_Britain"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id173"
+      }
+},
+{
+   37: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Into Battle is published by Australians.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Into_Battle_(novel) ",
+   "property": " country ",
+   "subject": " Australians"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Into_Battle_(novel) ",
+     "property": " country ",
+     "subject": " Australians"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id178"
+      }
+},
+{
+   38: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel Into Battle is followed by The Violet Keystone.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Violet Keystone followed the novel Into Battle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Into Battle was followed by The Violet Keystone.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Into_Battle_(novel) ",
+   "property": " followedBy ",
+   "subject": " The_Violet_Keystone"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Into_Battle_(novel) ",
+       "property": " subsequentWork ",
+       "subject": " The_Violet_Keystone"
+       },
+       {
+       "object": "Into_Battle_(novel) ",
+       "property": " followedBy ",
+       "subject": " The_Violet_Keystone"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id179"
+      }
+},
+{
+   39: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was written prior to "Ring of Fire II".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ring of Fire II was preceded by 1634: The Bavarian Crisis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ring_of_Fire_II ",
+   "property": " precededBy ",
+   "subject": " 1634:_The_Bavarian_Crisis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ring_of_Fire_II ",
+     "property": " previousWork ",
+     "subject": " 1634:_The_Bavarian_Crisis"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id196"
+      }
+},
+{
+   40: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of the United States is Washington, D.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Washington D. C. is the capital of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital city of the United States is Washington D.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id206"
+      }
+},
+{
+   41: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Viking Press is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Viking Press is located in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Viking_Press ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Viking_Press ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id213"
+      }
+},
+{
+   42: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Weymouth Sands' author was John Cowper Powys.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Cowper Powys is the author of Weymouth Sands.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Weymouth Sands was written by John Cowper Powys.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Weymouth_Sands ",
+   "property": " author ",
+   "subject": " John_Cowper_Powys"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Weymouth_Sands ",
+     "property": " author ",
+     "subject": " John_Cowper_Powys"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id215"
+      }
+},
+{
+   43: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Maiden Castle (novel) was preceded by Weymouth Sands.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The novel Maiden Castle followed the novel Weymouth Sands.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Maiden Castle is a sequel to Weymouth Sands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Weymouth_Sands ",
+   "property": " followedBy ",
+   "subject": " Maiden_Castle_(novel)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Weymouth_Sands ",
+       "property": " subsequentWork ",
+       "subject": " Maiden_Castle_(novel)"
+       },
+       {
+       "object": "Weymouth_Sands ",
+       "property": " followedBy ",
+       "subject": " Maiden_Castle_(novel)"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id216"
+      }
+},
+{
+   44: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wizards at War was published by Harcourt (publishers).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Wizards at War is published by Harcourt.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Wizards_at_War ",
+   "property": " publisher ",
+   "subject": " Harcourt_(publisher)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Wizards_at_War ",
+     "property": " publisher ",
+     "subject": " Harcourt_(publisher)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id218"
+      }
+},
+{
+   45: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wolf Solent was followed by A Glastonbury Romance.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance is the sequel to Wolf Solent.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Wolf_Solent ",
+   "property": " followedBy ",
+   "subject": " A_Glastonbury_Romance"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Wolf_Solent ",
+       "property": " subsequentWork ",
+       "subject": " A_Glastonbury_Romance"
+       },
+       {
+       "object": "Wolf_Solent ",
+       "property": " followedBy ",
+       "subject": " A_Glastonbury_Romance"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id219"
+      }
+}

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Bean, who was born in Wheeler Texas, performed as a test pilot.</lex>
+      <lex comment="good" lid="Id2">Alan Bean, born in Wheeler, Texas, performs as a test pilot.</lex>
+      <lex comment="good" lid="Id3">Alan Bean was a test pilot who was born in Wheeler, Texas.</lex>
+      <lex comment="good" lid="Id4">Alan Bean was born in Wheeler, Texas and pursued a career as a test pilot.</lex>
+      <lex comment="good" lid="Id5">Alan Bean (born in Wheeler Texas) served as a test pilot.</lex>
+      <lex comment="good" lid="Id6">Alan Bean (born in Wheeler Texas) served as test pilot.</lex>
+      <lex comment="good" lid="Id7">Alan Bean, a test pilot, was born in Wheeler, Texas.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+        <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Bean, hired by NASA in 1963, spent over 69 days in space.</lex>
+      <lex comment="good" lid="Id2">After being recruited by NASA in 1963, Alan Bean spent 100305 minutes in space.</lex>
+      <lex comment="good" lid="Id3">Alan Bean, who was picked by NASA in 1963 for the space program, was in space for a total of 100,305 minutes.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id45" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | was a crew member of | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Both William Anders and Frank Borman were crew members aboard Apollo 8.</lex>
+      <lex comment="good" lid="Id2">Both William Anders and Frank Borman served as crew members on Apollo 8.</lex>
+      <lex comment="good" lid="Id3">Among the crew of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex comment="good" lid="Id4">Among the crew members of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex comment="good" lid="Id5">William Anders and Frank Borman were Apollo 8 were crew members.</lex>
+    </entry>
+  </entries>
+</benchmark>

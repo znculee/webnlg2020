@@ -1,0 +1,2238 @@
+{
+   1: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Kharaitiyat SC play in the Qatar Stars League.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Kharaitiyat_SC ",
+   "property": " position ",
+   "subject": " Qatar_Stars_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Kharaitiyat_SC ",
+     "property": " position ",
+     "subject": " Qatar_Stars_League"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   2: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra's club is Sanat Mes Kerman F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Sanat Mes Kerman FC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Sanat_Mes_Kerman_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Sanat_Mes_Kerman_F.C."
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " team ",
+       "subject": " Sanat_Mes_Kerman_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   3: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Hamilton Academical F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a footballer for the Hamilton Academical FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The footballer Alan Martin plays for Hamilton Academical F.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Hamilton_Academical_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Martin_(footballer,_born_1989) ",
+       "property": " clubs ",
+       "subject": " Hamilton_Academical_F.C."
+       },
+       {
+       "object": "Alan_Martin_(footballer,_born_1989) ",
+       "property": " team ",
+       "subject": " Hamilton_Academical_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   4: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a footballer with the Scotland national under-19 football team club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for the Scotland national under 19 team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Scotland_national_under-19_football_team"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Martin_(footballer,_born_1989) ",
+       "property": " team ",
+       "subject": " Scotland_national_under-19_football_team"
+       },
+       {
+       "object": "Alan_Martin_(footballer,_born_1989) ",
+       "property": " nationalteam ",
+       "subject": " Scotland_national_under-19_football_team"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   5: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr's birthdate is 1995-09-02.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr. was born on the 2nd September 1995.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " birthDate ",
+   "subject": " 1995-09-02"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " dateOfBirth ",
+     "subject": " "1995-09-02"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   6: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr is 1.905m tall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov, Jr's height is 1.905 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The height of Aleksander Barkov Jr. is 1.905.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " height ",
+   "subject": " 1.905"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " height ",
+     "subject": " "1.905"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   7: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov's date of birth is 1989-02-24.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born on 24th February 1989.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born 1989-02-24.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " birthDate ",
+   "subject": " 1989-02-24"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " dateOfBirth ",
+     "subject": " "1989-02-24"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   8: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for FC Amkar Perm.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for the FC Amkar Perm football club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Amkar_Perm"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " team ",
+       "subject": " FC_Amkar_Perm"
+       },
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " clubs ",
+       "subject": " FC_Amkar_Perm"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   9: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is the Georgia national under 21 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli once played for the Georgia national under-21 football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for the Georgian national under 21 team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Georgia_national_under-21_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " Georgia_national_under-21_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   10: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for the A.S. Roma youth team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for A.S. Roma's youth team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli played in AS Roma's youth team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alessio_Romagnoli ",
+   "property": " youthclub ",
+   "subject": " A.S._Roma"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alessio_Romagnoli ",
+     "property": " youthclubs ",
+     "subject": " A.S._Roma"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   11: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer with the Real Madrid Castilla club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner currently plays football for Real Madrid Castilla.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner's current football club is Real Madrid Castilla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " currentclub ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " currentclub ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id38"
+      }
+},
+{
+   12: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher's club is AZ Alkmaar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher is connected to the AZ Alkmaar club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " club ",
+   "subject": " AZ_Alkmaar"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Maher ",
+       "property": " team ",
+       "subject": " AZ_Alkmaar"
+       },
+       {
+       "object": "Adam_Maher ",
+       "property": " clubs ",
+       "subject": " AZ_Alkmaar"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id40"
+      }
+},
+{
+   13: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The current club that Adam Maher plays for is PSV Eindhoven.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher currently plays for PSV Eindhoven.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The current club of Adam Maher is PSV Eindhoven.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " currentclub ",
+   "subject": " PSV_Eindhoven"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Maher ",
+     "property": " currentclub ",
+     "subject": " PSV_Eindhoven"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   14: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid weighs 94.8024 kilograms.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's weight is 94.8024 kilograms.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid weighs 94.8024kg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " weight ",
+   "subject": " 94.8024 (kilograms)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " Person/weight ",
+       "subject": " "94.8024"^^&lt;http://dbpedia.org/datatype/kilogram&gt;"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " weight ",
+       "subject": " "94802.4"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   15: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad was born on the 01-07-1976.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad was born on the 1st July 1976.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad was born on 1st July 1976.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmad_Kadhim_Assad ",
+   "property": " birthDate ",
+   "subject": " 1976-07-01"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ahmad_Kadhim_Assad ",
+     "property": " dateOfBirth ",
+     "subject": " "1976-07-01"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   16: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams' birthplace was Point Fortin, Trinidad and Tobago.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams was born in Point Fortin, Trinidad and Tobago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams was born in Point Fortin, in Trinidad and Tobago.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " birthPlace ",
+   "subject": " "Point Fortin, Trinidad and Tobago""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " placeOfBirth ",
+       "subject": " "Point Fortin, Trinidad and Tobago"@en"
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " birthPlace ",
+       "subject": " "Point Fortin, Trinidad and Tobago"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   17: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams' club is Central FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams' club is Central F.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Central F.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Central_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Central_F.C."
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " team ",
+       "subject": " Central_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   18: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams club is Ferencvarosi TC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Ferencvarosi TC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Ferencvárosi_TC"
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " team ",
+       "subject": " Ferencvárosi_TC"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id61"
+      }
+},
+{
+   19: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for T&amp;TEC Sports Club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for the T&amp;TEC Sports Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for the club T&amp;TEC Sports Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " T&amp;TEC_Sports_Club"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " T&amp;TEC_Sports_Club"
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " team ",
+       "subject": " T&amp;TEC_Sports_Club"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id62"
+      }
+},
+{
+   20: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for the Trinidad and Tobago national football team.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Trinidad_and_Tobago_national_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " team ",
+     "subject": " Trinidad_and_Tobago_national_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   21: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams's club is the Trinidad and Tobago national under 17 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for the Trinidad and Tobago national under-17 football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams once played for the Trinidad and Tobago national under-17 football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Trinidad_and_Tobago_national_under-17_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " team ",
+     "subject": " Trinidad_and_Tobago_national_under-17_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id64"
+      }
+},
+{
+   22: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played in the Trinidad and Tobago national under-20 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played football for the Trinidad and Tobago national under 20 team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for the Trinidad and Tobago national under-20 football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Trinidad_and_Tobago_national_under-20_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " team ",
+     "subject": " Trinidad_and_Tobago_national_under-20_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id65"
+      }
+},
+{
+   23: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for United Petrotrin F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams is a member of the United Petrotrin F.C. club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " United_Petrotrin_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " United_Petrotrin_F.C."
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " team ",
+       "subject": " United_Petrotrin_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id66"
+      }
+},
+{
+   24: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers' former team was the Los Angeles Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers former team is the Los Angeles Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers used to play for Los Angeles Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " Los_Angeles_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " Los_Angeles_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id77"
+      }
+},
+{
+   25: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers's former team is the New England Patriots.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The New England Patriots are a former team of the player Akeem Ayers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The former team of Akeem Ayers was New England Patriots.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " New_England_Patriots"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " New_England_Patriots"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id78"
+      }
+},
+{
+   26: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley's birth place was Kingston in Jamaica.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley was born in Kingston Jamaica.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley was born in Kingston, Jamaica.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Priestley ",
+   "property": " birthPlace ",
+   "subject": " Kingston,_Jamaica"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Priestley ",
+       "property": " placeOfBirth ",
+       "subject": " Kingston,_Jamaica"
+       },
+       {
+       "object": "Akeem_Priestley ",
+       "property": " birthPlace ",
+       "subject": " Kingston,_Jamaica"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id91"
+      }
+},
+{
+   27: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al-Khor Sports Club is located in Al-Khor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al-Khor sports club ground is in Al Khor.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al-Khor_Sports_Club ",
+   "property": " ground ",
+   "subject": " Al_Khor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al-Khor_Sports_Club ",
+     "property": " ground ",
+     "subject": " Al_Khor"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id102"
+      }
+},
+{
+   28: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra has played for Al Merrikh SC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra plays for Al-Merrikh SC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Al-Merrikh SC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al-Merrikh_SC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " team ",
+       "subject": " Al-Merrikh_SC"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al-Merrikh_SC"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id111"
+      }
+},
+{
+   29: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for the Iraq national under 20 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra plays for the Iraq national under-20 football team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Iraq_national_under-20_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alaa_Abdul-Zahra ",
+     "property": " team ",
+     "subject": " Iraq_national_under-20_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id117"
+      }
+},
+{
+   30: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra's club is Shabab Al-Ordon Club.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Shabab_Al-Ordon_Club"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Shabab_Al-Ordon_Club"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " team ",
+       "subject": " Shabab_Al-Ordon_Club"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id119"
+      }
+},
+{
+   31: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra's club is Tractor Sazi FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra played for the club Tractor Sazi F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Tractor_Sazi_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Tractor_Sazi_F.C."
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " team ",
+       "subject": " Tractor_Sazi_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id120"
+      }
+},
+{
+   32: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was born in the Soviet Union.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Chumakov ",
+   "property": " birthPlace ",
+   "subject": " Soviet_Union"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandr_Chumakov ",
+       "property": " placeOfBirth ",
+       "subject": " Soviet_Union"
+       },
+       {
+       "object": "Aleksandr_Chumakov ",
+       "property": " birthPlace ",
+       "subject": " Soviet_Union"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id139"
+      }
+},
+{
+   33: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for the club AS Lyon-Duchère.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for AS Lyon-Duchere.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for the club AS Lyon-Duchère.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli club is AS Lyon-Duchere.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for the AS Lyon-Duchere club.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " AS_Lyon-Duchère"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " clubs ",
+     "subject": " AS_Lyon-Duchère"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id161"
+      }
+},
+{
+   34: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for AZAL PFK.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for AZAL PFK.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " AZAL_PFK"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " AZAL_PFK"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " AZAL_PFK"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id162"
+      }
+},
+{
+   35: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is FC Dila Gori.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Dila Gori.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Dila_Gori"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " FC_Dila_Gori"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Dila_Gori"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id163"
+      }
+},
+{
+   36: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for FC Dinamo Batumi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Dinamo Batumi.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Dinamo_Batumi"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " FC_Dinamo_Batumi"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Dinamo_Batumi"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id164"
+      }
+},
+{
+   37: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for FC Karpaty Lviv.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is FC Karpaty Lviv.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Karpaty Lviv club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Karpaty_Lviv"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " FC_Karpaty_Lviv"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id165"
+      }
+},
+{
+   38: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli is in the FC Zestafoni club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Zestafoni.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for FC Zestafoni.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Zestafoni"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " FC_Zestafoni"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Zestafoni"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id166"
+      }
+},
+{
+   39: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for the Georgia national football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli is a member of the Georgia National Football team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Georgia_national_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " Georgia_national_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id167"
+      }
+},
+{
+   40: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is Olympique Lyonnais.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for the Olympique Lyonnais club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Olympique_Lyonnais"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " Olympique_Lyonnais"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " Olympique_Lyonnais"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id168"
+      }
+},
+{
+   41: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is US Boulogne.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for US Boulogne.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for US Boulogne.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " US_Boulogne"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " US_Boulogne"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " US_Boulogne"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id169"
+      }
+},
+{
+   42: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is US Lesquin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for US Lesquin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli is in the US Lesquin Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " US_Lesquin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " US_Lesquin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id170"
+      }
+},
+{
+   43: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Tyus plays for Anadolu Efes S.K.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Tyus played for the club Anadolu Efes S.K.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Tyus ",
+   "property": " club ",
+   "subject": " Anadolu_Efes_S.K."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Tyus ",
+     "property": " team ",
+     "subject": " Anadolu_Efes_S.K."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id189"
+      }
+},
+{
+   44: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Brandon Manitoba is Larry Maguire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Larry Maguire is the leader in Brandon, Manitoba.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Brandon,_Manitoba ",
+   "property": " leaderName ",
+   "subject": " Larry_Maguire"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Brandon,_Manitoba ",
+     "property": " leaderName ",
+     "subject": " Larry_Maguire"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id203"
+      }
+},
+{
+   45: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The home of the Houston Texans is the city of Houston.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Houston Texans are based in the city of Houston.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " city ",
+   "subject": " Houston"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Houston_Texans ",
+       "property": " locationCity ",
+       "subject": " Houston"
+       },
+       {
+       "object": "Houston_Texans ",
+       "property": " city ",
+       "subject": " Houston"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id234"
+      }
+},
+{
+   46: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessandro Dal Canto is the coach of the Italian national under-17 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessandro Dal Canto is the coach of the Italy national under-17 football team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Italy_national_under-17_football_team ",
+   "property": " coach ",
+   "subject": " Alessandro_Dal_Canto"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Italy_national_under-17_football_team ",
+     "property": " coach ",
+     "subject": " Alessandro_Dal_Canto"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id238"
+      }
+},
+{
+   47: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jacksonville Dolphins play in Jacksonville, Florida.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Jacksonville Dolphins are based in the city of Jacksonville, Florida.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Jacksonville_Dolphins ",
+   "property": " city ",
+   "subject": " Jacksonville,_Florida"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Jacksonville_Dolphins ",
+     "property": " city ",
+     "subject": " Jacksonville,_Florida"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id239"
+      }
+},
+{
+   48: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Jamaica is Patrick Allen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Patrick Allen is a political leader in Jamaica.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Jamaica ",
+   "property": " leaderName ",
+   "subject": " Patrick_Allen_(politician)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Jamaica ",
+       "property": " leaderName ",
+       "subject": " Patrick_Allen_(politician)"
+       },
+       {
+       "object": "Jamaica ",
+       "property": " leader ",
+       "subject": " Patrick_Allen_(politician)"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id243"
+      }
+},
+{
+   49: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Los Angeles Rams are based in LA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Los Angeles Rams play in Los Angeles.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Los_Angeles_Rams ",
+   "property": " city ",
+   "subject": " Los_Angeles"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Los_Angeles_Rams ",
+       "property": " locationCity ",
+       "subject": " Los_Angeles"
+       },
+       {
+       "object": "Los_Angeles_Rams ",
+       "property": " city ",
+       "subject": " Los_Angeles"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id244"
+      }
+},
+{
+   50: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Luis Miguel Ramis is the manager for Real Madrid Castilla.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Luis Miguel Ramis was a manager of Real Madrid Castilla.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Luis Miguel Ramis is the manager of Real Madrid Castilla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Real_Madrid_Castilla ",
+   "property": " manager ",
+   "subject": " Luis_Miguel_Ramis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Real_Madrid_Castilla ",
+     "property": " manager ",
+     "subject": " Luis_Miguel_Ramis"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id255"
+      }
+},
+{
+   51: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Legislative Assembly of Saskatchewan governs Regina, Saskatchewan.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Regina,_Saskatchewan ",
+   "property": " leaderTitle ",
+   "subject": " Legislative_Assembly_of_Saskatchewan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Regina,_Saskatchewan ",
+     "property": " leaderTitle ",
+     "subject": " Legislative_Assembly_of_Saskatchewan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id256"
+      }
+},
+{
+   52: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "St. Louis is part of the Kingdom of France.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis ",
+   "property": " isPartOf ",
+   "subject": " Kingdom_of_France"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "St._Louis ",
+       "property": " isPartOf ",
+       "subject": " Kingdom_of_France"
+       },
+       {
+       "object": "St._Louis ",
+       "property": " subdivisionName ",
+       "subject": " Kingdom_of_France"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id271"
+      }
+},
+{
+   53: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Francis G. Slay is the leader of St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Francis G Slay is the leader of St Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis ",
+   "property": " leaderName ",
+   "subject": " Francis_G._Slay"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "St._Louis ",
+     "property": " leaderName ",
+     "subject": " Francis_G._Slay"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id273"
+      }
+},
+{
+   54: {
+   "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joe Vitt is the coach for the St. Louis Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Vitt is the coach of the St. Louis Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Vitt is a coach of the St. Louis Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis_Rams ",
+   "property": " coach ",
+   "subject": " Joe_Vitt"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "History_of_the_St._Louis_Rams ",
+     "property": " coach ",
+     "subject": " Joe_Vitt"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id275"
+      }
+}

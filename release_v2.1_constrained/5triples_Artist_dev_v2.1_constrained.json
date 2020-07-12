@@ -1,0 +1,2198 @@
+{
+   1: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun is from Washington, D.C., United States and his music genre is Rhythm and Blues. Rhythm and blues originated from blues music, and Disco is a derivative of rhythm and blues.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun is from Washington D.C., United States. He plays rhythm and blues which originated from the blues and which has disco as a derivative.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and Blues artist Ahmet Ertegun is from Washington D.C., United States. R &amp; B is the origin of disco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmet_Ertegun ",
+   "property": " origin ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " origin ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id53"
+      }
+},
+{
+   2: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun, from the United States, plays rhythm and blues music which is derived from blues music. Disco comes from rhythm and blues music. One ethnic group in the U.S. are known as African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun plays rhythm and blues which is originated from blues and disco music is one of its derivative. Ahmet is coming from the United States, where African Americans are an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues artist Ahmet Ertegun was born in the United States. R &amp; B originates from the blues and is the origin of disco. African Americans are people of the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmet_Ertegun ",
+   "property": " origin ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " origin ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " origin ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id54"
+      }
+},
+{
+   3: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson, born on March 13, 1947 in Windsor, CT, began his career in 1966 and was a member of the NRBQ and The Wildweeds bands.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson, from the band NRBQ, (The Wildweeds) was born in Windsor Connecticut, 1947-03-13. He started his career in 1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on March 13th 1947 in Windsor, Connecticut, and beginning his career in 1966, Al Anderson (of the band NRBQ) once played with The Wildweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id55"
+      }
+},
+{
+   4: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Aderson first became active in country music in 1966. He plays with the band NRBQ and was a member of The Wildweeds. He was born in Windsor, Connecticut.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays country music with NRBQ band and started his career in 1966. He was born in Windsor, Connecticut and once played with The Wildweeds.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a country music star, from Windsor, Connecticut. His music career began in 1966. Al plays with NRBQ, and played once with The Wildweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id56"
+      }
+},
+{
+   5: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson used to be a member of The Wildweeds and is now a member of the NRBQ band playing country music. He was born in the United States and began his career in 1966 .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays country music with NRBQ and was a member of The Wildweeds. He was born in the United States and became active in 1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "NRBQ member, and country genre artist, Al Anderson, was born in the United States and began his career in 1966. He is a former member of The Wildweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id57"
+      }
+},
+{
+   6: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson was born in the United States and becane active in music in 1966; he plays with the rock band NRBQ and was a member of The Wildweeds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays for the rock band NRBQ and was also a former member of the Wildweeds band. Mr. Anderson, born in the U.S., began his career in 1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson was born in the United States and became active in 1966 with the NRBQ band while performing rock music and he also played with the Wildweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id58"
+      }
+},
+{
+   7: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays the guitar for the Rock band NRBQ. Rock music has its stylistic origins in the Blues and Bhangra comes from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock band NRBQ's guitarist is Al Anderson. Rock is the origin of bhangra and has is founding in the Blues.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "NRBQ's rock guitarist is Al Anderson. Rock originates from the Blues and lends itself to Bhangra fusion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Anderson_(NRBQ) ",
+     "property": " associatedMusicalArtist ",
+     "subject": " NRBQ"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id59"
+      }
+},
+{
+   8: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Singer Al Anderson plays with the band NRBQ. His genre is rock music which originated from blues music. A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a singer, who performs rock music (Bhangra is fusion genre) with NRBQ.The blues is a stylistic origin of rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "NRBQ rock musician Al Anderson is a singer. Rock originates from the Blues and is the basis of bhangra fusion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Anderson_(NRBQ) ",
+     "property": " associatedMusicalArtist ",
+     "subject": " NRBQ"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id60"
+      }
+},
+{
+   9: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a rock musician and singer for the band NRBQ. Rock music originated from country music, and A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson sings with rock band NRBQ. Rock music originated from country and Bhangra is a fusion genre partly from Rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "NRBQ's singer is rock musician Al Anderson. Rock originates from country and influences the fusion style of Bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Anderson_(NRBQ) ",
+     "property": " associatedMusicalArtist ",
+     "subject": " NRBQ"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id61"
+      }
+},
+{
+   10: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson, whose genre is rock music, plays with the band NRBQ. Rock music originated from country music, where the Banjo is closely associated and bhangra music is a musical fusion of rock.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays with the rock band NRBQ. Rock comes from country music which features the banjo as one of its instruments. A fusion of rock music is known as Bhangra music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays in a rock band called NRBQ, rock music originated from country music where the banjo is played. Bhangra is fusion music which partly came from Rock music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Anderson_(NRBQ) ",
+     "property": " associatedMusicalArtist ",
+     "subject": " NRBQ"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id62"
+      }
+},
+{
+   11: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo singer and performer of rock music. Rock music has origins in blues music and folk music, and the music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo rock music singer. Rock gets its origins from folk music and blues music gets its styles from rock music. Bhangra is a fusion genre rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo singer, who plays rock music which has its stylistic origins in blues. Rock has its origins in folk music and one of its musical fusion is bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Frew ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id63"
+      }
+},
+{
+   12: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo singer of rock music. Rock music has origins in country music and folk music, and A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo singer whose musical genre is rock music. Rock music stylistically originates from country music and folk music. A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a solo singer who performs rock music. Rock music originated from country and folk music and is an element of the fusion genre Bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Frew ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id64"
+      }
+},
+{
+   13: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a performer of rock music from Canada, where French is spoken. The Blues is a stylistic origin of rock music, and The music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Canadian Alan Frew is a rock musician. Rock is the influence on bhangra and finds its origins in the Blues. French is a language of Canada.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock musician Alan Frew is from French speaking Canada. Rock originates from the Blues and lends itself to bhangra fusion music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Frew ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id65"
+      }
+},
+{
+   14: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a Rock musician from Canada, where French is spoken. Rock music has origins in folk music, and A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew, a rock music player, comes from Canada where French is spoken. Rock music gets its origins in folk music and Bhangra music is a fusion of rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock musician Alan Frew comes from Canada, where the French language is spoken. Rock music has its origins in folk music and a musical fusion of rock is bhangra music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Frew ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id66"
+      }
+},
+{
+   15: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The music Bhangra is part of the fusion genre, partly coming from Rock music. Originating from country music, rock music is performed Alan Frew. He comes from Canada, where one of the main languages spoken is French.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a rock musician from Canada, a place where French is one of the main languages. Rock music originates from country music and is an element of the fusion genre bhangra.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Frew is a rock musician from Canada, a place where French is spoken. Rock music originated from country music and is an element of the fusion genre bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Frew ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       },
+       {
+       "object": "Alan_Frew ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id67"
+      }
+},
+{
+   16: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo funk singer who became active in 1990 and has associated with the musical artist Bebi Dol and Kornelije Kovač.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac, an exponent of Funk, is a solo singer, who became active in 1990. She is associated with the musical artists, Kornelije Kovač and Bebi Dol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac, who became active in 1990, was a solo singer. His musical genre is Funk and he is associated with the musical artist Bebi Dol and is in the same band as Kornelije Kovac.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandra_Kovač ",
+   "property": " genre ",
+   "subject": " Funk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandra_Kovač ",
+     "property": " genre ",
+     "subject": " Funk"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id88"
+      }
+},
+{
+   17: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo funk singer who became active in 1990, and has been associated with Kornelije Kovac and Kristina Kovač.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo singer who bEgan her career in 1990. She is an exponent of funk and is musically involved with Kristina Kovac and Kornelije Kovac.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac, a solo singer who began her career in funk in 1990, is associated with Kristina Kovac and in the same band as Kornelije Kovac.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandra_Kovač ",
+   "property": " genre ",
+   "subject": " Funk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandra_Kovač ",
+     "property": " genre ",
+     "subject": " Funk"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id89"
+      }
+},
+{
+   18: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo singer and started to perform in 1990 rhythm and blues. She is in the same band with Kornelije Kovac and associated with Bebi Dol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo rhythm and blues singer who became active in 1990. She is associated with Bebi Dol and Kornelije Kovac.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Aleksandra Kovač, began her active career in 1990 and is associated with artists Bebi Dol and Kornelije Kovač.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandra_Kovač ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandra_Kovač ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Aleksandra_Kovač ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id90"
+      }
+},
+{
+   19: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovač started out in music in 1990 as a solo singer of rhythm and blues music. Bebi Dol and Kristina Kovač are his musical associates.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo singer who plays rhythm and blues and became active in 1990. His musical associates are Bebi Dol and Kristina Kovac.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Aleksandra Kovač began her career in 1990 and is associated with artists Bebi Dol and Kristina Kovac.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandra_Kovač ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandra_Kovač ",
+     "property": " genre ",
+     "subject": " Rhythm_and_blues"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id91"
+      }
+},
+{
+   20: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues solo singer Aleksandra Kovac became active in 1990. He's associated with fellow musical artists Kristina Kovač and Kornelije Kovac.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandra Kovac is a solo singer who began her musical career in 1990. Her genre is rhythm and blues. She is in the same band as Kornelije Kovač and is also associated with fellow musical artist Kristina Kovač.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Aleksandra Kovač began her career in 1990 and is associated with artists Kornelije Kovač and Kristina Kovač.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandra_Kovač ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandra_Kovač ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Aleksandra_Kovač ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id92"
+      }
+},
+{
+   21: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acoustic music is the genre of Alex Day, who started performing in 2006. Born in the London Borough of Havering, he is associated with the musical artist, Charlie McDonnell and the band, Chameleon Circuit.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Day was born in the London Borough of Havering. He is an acoustic musician who plays with Chameleon Circuit and is associated with Charlie McDonnell. He began his career in 2006.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acoustic artist Alex Day, born in the London Borough of Havering. He began his career in 2006 and is associated with artists Charlie McDonnell and the Chameleon Circuit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Day ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Chameleon_Circuit_(band)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Day ",
+     "property": " associatedBand ",
+     "subject": " Chameleon_Circuit_(band)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id93"
+      }
+},
+{
+   22: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acoustic musician Alex Day was born in the U.K. and began performing in 2006. He plays with Chameleon Circuit and is associated with Charlie McDonnell.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Day was born in the United Kingdom and started performing in 2006. He is an acoustic musician associated with Charlie McDonnell and plays in Chameleon Circuit.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "U.K. born acoustic musician Alex Day is associated with the Chameleon Circuit and Charlie McDonnell. He began performing in 2006.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Day ",
+   "property": " birthPlace ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Day ",
+     "property": " birthPlace ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id94"
+      }
+},
+{
+   23: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The folk performer Alex Day, who became active in 2006, was born in the United Kingdom and plays with the band Chameleon Circuit and is associated with the musical artist Charlie McDonnell.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Day, born in the UK, was active in 2006 in Folk music. He played for Chameleon circuit band and is associated with Charlie McDonnell, musician.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Day plays folk music with Chameleon Circuit. He was born in the UK and became active in 2006. He is associated with Charlie McDonnell.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Day ",
+   "property": " birthPlace ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Day ",
+     "property": " birthPlace ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id95"
+      }
+},
+{
+   24: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays the bodhran and is a jazz musician. Jazz music originates from folk music, is derived into funk, and is an element of the fusion genre Afrobeat.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Funk music is derived from Jazz which has its stylistic origins in folk music. The musical genre Afrobeat is a fusion of other genres such as Jazz as played by Alison O'Donnell on the bodhran.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell is a Bodhrán player and jazz musician. Jazz derives from folk music and is the major influence on funk and Afrobeat.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Jazz"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id130"
+      }
+},
+{
+   25: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jazz music has its origins in folk music and Alison O'Donnell is a jazz musician. Both Funk and Afrobeat derive from jazz and the clarinet is a popular jazz instrument.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays jazz music which has its stylistic origins from folk music. The clarinet is associated with jazz. Funk and Afrobeat are derived from Jazz music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays jazz, of which funk is a derivative and which has origins in folk music. Afrobeat is a fusion genre with jazz where the clarinet is often featured.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Jazz"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id131"
+      }
+},
+{
+   26: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Shanachie Records. Bhangra is a musical fusion of rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to the Shanachie Records label. Bhangra is a fusion genre partly coming from rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock guitarist Anders Osborne is with Shanachie Records and an associate of musician Johnny Sansone. Bhangra is a fusion of Rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Johnny_Sansone"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anders_Osborne ",
+     "property": " associatedActs ",
+     "subject": " Johnny_Sansone"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id152"
+      }
+},
+{
+   27: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a professional singer and he is associated with Johnny Sansone. He performs rock music and he signed to the Rabadash Records. Bhangra music is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The music Bhangra is part of the fusion genre, partly coming from Rock music as played by Anders Osborne. His record label is Rabadash records and whilst earning a living as a singer is an associate of Johnny Sansone.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a rock music singer signed to Rabadash Records and associated with Johnny Sansone. Bhangra is a fusion of rock music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Johnny_Sansone"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anders_Osborne ",
+     "property": " associatedActs ",
+     "subject": " Johnny_Sansone"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id153"
+      }
+},
+{
+   28: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alligator Records, based in Chicago, is associated with the Blues and is the record label of Anders Osborne. Anders Osborne has worked with Tab Benoit and his record label is Rabadash Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne, who worked with Tab Benoit, plays blues music under the recording labels: Alligator Records and Rabadash Records. The former studio is in Chicago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne was signed to Alligator Records, a Chicago located record label that is associated with blues music. Osborne is now signed with Rabadash Records and is associated with Tab Benoit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anders_Osborne ",
+     "property": " recordLabel ",
+     "subject": " Alligator_Records"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id154"
+      }
+},
+{
+   29: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne's record labels are Okeh Records and Alligator Records in Chicago. His genre is rock music; the music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a rock musician signed to the record labels Alligator Records (in Chicago) and Okeh Records. The music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock musician Anders Osborne is signed with Okeh Records and Chicago's, Alligator Records. Bhangra is a fusion of Rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       },
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id155"
+      }
+},
+{
+   30: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne, a rock musician, is signed to the record label Alligator Records which is in Chicago. He also is signed to Rabadash Records. Bhangra is a fusion genre from rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "'Alligator Records,' Rabadash are the record labels rock musician that Anders Osborne signed onto, Chicago. These groups have the genre of bhangra music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne has been signed to Rabadash records and Chicago based Alligator Records. He is a performer of rock music, which has a musical fusion called Bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       },
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id156"
+      }
+},
+{
+   31: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne, an exponent of Rock music, is signed to Shanachie Records. He is also signed to the record label Alligator Records, which is located in Chicago. The music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhangra music is part of the rock music. Anders Osborne is a rock musician who signed records with Chicago based Alligator Records and the Shanachie Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhangra is part of the fusion genre, partly coming from Rock music as performed by Anders Osborne. He is located in Chicago and signed to the Alligator Records label and Shanachie Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       },
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id157"
+      }
+},
+{
+   32: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne was a dedicated guitarist ho signed to Alligator records along with Johnny Sansone. This rock music group produced a fusion genre called Bhangra.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock guitarist Anders Osborne is signed with Alligator Records and associated with Johnny Sansone. Bhangra derives from rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock guitarist Anders Osborne is on the Alligator records label and is associated with artist Johnny Sansone. Bhangra is a fusion of Rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anders_Osborne ",
+     "property": " recordLabel ",
+     "subject": " Alligator_Records"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id158"
+      }
+},
+{
+   33: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andra performs Dance-pop music and was born in Romania in 1986.She is a singer and Reality tv judge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra the Dance-pop solo singer was born in Romania in 1986 and is also a reality TV judge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Romanian dance-pop solo singer Andra, born in 1986, is a Reality tv judge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " background ",
+   "subject": " "solo_singer""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andra_(singer) ",
+     "property": " background ",
+     "subject": " "solo_singer""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id159"
+      }
+},
+{
+   34: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Solo singer, Andra, was born in 1986, in Campia Turzii. A singer for a living, Andra is a singer of Dance-pop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra, the musical pop dance, solo singer, was born in Campia Turzii in 1986. She started her career as solo singer. Later included dance pop as part of her musical genre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders was born in Campia Turzii in 1986.She is a professional solo singer and performs Dance-pop music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " background ",
+   "subject": " "solo_singer""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andra_(singer) ",
+     "property": " background ",
+     "subject": " "solo_singer""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id160"
+      }
+},
+{
+   35: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andra, the solo singer, was born in 1986 in Romania. During his singing career she performed from the dance-pop genre of music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra is a solo singer who was born in Romania in 1986. She has had a career singing the musical genre of dance pop.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The dance pop Andra was born in 1986 in Romania and began her career as a solo singer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " background ",
+   "subject": " "solo_singer""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andra_(singer) ",
+     "property": " background ",
+     "subject": " "solo_singer""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id161"
+      }
+},
+{
+   36: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andra, a solo singer and reality tv judge, was born in 1986 in Campia Turzii. She sings pop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pop music singer Andra was born in Campia Turzii in 1986. She began her career as a solo singer and has also worked as a reality TV judge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Solo pop singer Andra, who was born in 1986 in Campia Turzii, also works as a reality TV judge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Pop_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andra_(singer) ",
+     "property": " genre ",
+     "subject": " Pop_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id162"
+      }
+},
+{
+   37: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Andra began her singing career in 2000. Rhythm and blues originated from blues music and was derived into disco and funk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues musician Andra began her singing career is 2000. Rhythm and blues originated from blues and was derived into disco and funk.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra began her spirited musical career in 2000, playing rhythm and blues which derived from blues. Disco and funk were developed from rhythm and blues.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id163"
+      }
+},
+{
+   38: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Singer, Andra, is a rhythm and blues singer who is associated with Andreea Bălan. Funk and Disco are derivatives ofRhythm and blues, which originated from blues music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Disco and Funk are derivatives of rhythm and blues which originated from the blues. Andreea Balan is associated with the singer Andra, whose genre is Rhythm and blues.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra, associated with Andreea Bălan, plays rhythm and blues music. That music type and disco and funk came from blues music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id164"
+      }
+},
+{
+   39: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel was born in Chisinau, Moldova and began his musical career in 2009. He plays Trance music and is associated with musical artists Jwaydan Moyine and Armin van Buuren.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is a trance musician who was born in Chisinau, Moldova. He started his career in 2009 and is associated with Armin van Buuren and Jwaydan Moyine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel was born in chisinau, Moldova abd began his trance music career in 2009. He is associated with Jwaydan Moyine and Armin van Buuren.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id178"
+      }
+},
+{
+   40: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has been associated with musicians: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Mr. Rayel is a pianist. Christian Burns plays house music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The piano player Andrew Rayel is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (an exponent of house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is a pianist who is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns musical genre is house music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " genre ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id190"
+      }
+},
+{
+   41: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Burns, an exponent of House music, is associated with Andrew Rayel, who plays a string instrument. Andrew Rayel is also associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "String instrumentalist Andrew Rayel is associated with the artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and Christian Burns (House).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " genre ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id191"
+      }
+},
+{
+   42: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is a string instrument player who is associated with the musicians Jwaydan Moyine, John Digweed, and Christian Burns, an exponent of House music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel plays a string instrument and is associated with Christian Burns whose musical genre is house music, and also Jwaydan Moyine. Moyine is also associated with the musical artist John Digweed.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is string instrumentalist associated with Christian Burns, an exponent of House music, and Jwaydan Moyine in turn associated with John Digweed.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_Rayel ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Jwaydan_Moyine"
+       },
+       {
+       "object": "Christian_Burns ",
+       "property": " genre ",
+       "subject": " House_music"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id192"
+      }
+},
+{
+   43: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel, whose musical genre is Trance, is associated with guitarist Christian Burns and the musician Jwaydan Moyine. He is also associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is a trance musician who is associated with Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, guitar player Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel's musical genre is Trance. He has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, the guitar player Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " instrument ",
+   "subject": " Guitar"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " instrument ",
+     "subject": " Guitar"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id193"
+      }
+},
+{
+   44: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest became active in 2005 and performs hip hop music. Drum and bass is a derivative of Hip hop music which has its origins in Disco. Hip hop music has its stylistic origins in funk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest started his hip hop career in 2005 and hip hop originated from funk music and disco and drum and bass is a derivative of hip hop.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest started his career in 2005. He plays hip hop which has its origins in funk and disco. Drum and bass is a derivative of hip hop.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Hip_hop_music ",
+   "property": " stylisticOrigin ",
+   "subject": " Disco"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Hip_hop_music ",
+     "property": " stylisticOrigins ",
+     "subject": " Disco"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id194"
+      }
+},
+{
+   45: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner sings for a living and has played for the bands the Greymachine and Twilight. The musical genre of the band Twilight is black metal, of which death metal is a musical fusion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Singer Aaron Turner played with black metal band Twilight and the Greymachine band. Death metal is a fusion of blck metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Singer Aaron Turner was a member of black metal band Twilight and is associated with Greymachine. Death metal is a fusion of black metal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Twilight_(band) ",
+     "property": " genre ",
+     "subject": " Black_metal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id222"
+      }
+},
+{
+   46: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is an electric guitar player who played with the black metal band Twilight and the band Isis. Death metal is a musical fusion of black metal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner plays the electric guitar and was with the bands Isis and Twilight, the latter of which perform music described as black metal. Death metal is a fusion of black metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Death metal is a musical fusion of black metal, the genre performed by the band Twilight. Aaron Turner is an electric guitar player for the band as well as being an artist for the band Isis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Twilight_(band) ",
+     "property": " genre ",
+     "subject": " Black_metal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id223"
+      }
+},
+{
+   47: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is an electric guitar player and musician in the Lotus Eaters band and the band Twilight. Twilight performs black metal music, of which Death metal is a musical fusion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner plays the electric guitar and is a musician in the Lotus Eaters band. He played with the band Twilight, the musical genre of which, is Black metal. Death metal is a musical fusion of black metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Twilight performs black metal, whose musical fusion is the Death metal. Aaron Turner plays the electric guitar for Twilight and Lotus Eaters bands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Turner ",
+       "property": " associatedBand ",
+       "subject": " Twilight_(band)"
+       },
+       {
+       "object": "Twilight_(band) ",
+       "property": " genre ",
+       "subject": " Black_metal"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id224"
+      }
+},
+{
+   48: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Electric guitarist, Aaron Turner, performed with the band Sumac. He played with the band Twilight the musical genre of which, is black metal. Death metal is a musical fusion of black metal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Electric guitarist Aaron Turner has played with Black Metal band Twilight and performs with Sumac. Death metal is a fusion of black metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Electric guitarist Aaron Turner was a member of the black metal band, Twilight and also Sumac. Death metal is a black metal fusion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Twilight_(band) ",
+     "property": " genre ",
+     "subject": " Black_metal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id225"
+      }
+},
+{
+   49: {
+   "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo which is in Uruguay. The leaders of Uruguay are Tabare Vazquez and Raúl Fernando Sendic Rodríguez, and its currency is the peso.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Montevideo is found in Uruguay, whose leaders are Tabare Vazquez and Raul Fernando Sendic Rodriguez. Uruguayan peso is the currency used in Uruguay. Alfredo Zitarrosa passed away in Montevideo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Montevideo, Uruguay is led by Raul Fernando Sendic Rodriguez and Tabare Vazquez, its currency is the peso. The final resting place of Alfredo Zitarrosa is Montevideo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Tabaré_Vázquez"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Raúl_Fernando_Sendic_Rodríguez"
+       },
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Tabaré_Vázquez"
+       }
+     ]
+     },
+   "shape": "(X (X (X (X) (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id233"
+      }
+}

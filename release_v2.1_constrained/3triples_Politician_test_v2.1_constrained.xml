@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id48" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
+        <otriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</otriple>
+        <otriple>Abel_Caballero | birthPlace | Galicia_(Spain)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
+        <mtriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Caballero was born in Galicia in Spain and was in office while Juan Carlos I of Spain was king. Juan Carlos I of Spain preceded Alfonso XIII of Spain.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was born in Galicia in Spain and served in office during Juan Carlos I of Spain's reign. Juan Carlos's predeccessor was Alfonso XIII of Spain.</lex>
+    </entry>
+    <entry category="Politician" eid="Id49" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
+        <otriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</otriple>
+        <otriple>Abel_Caballero | birthPlace | Ponteareas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
+        <mtriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Caballero of Ponteareas was in office during the reign of Juan Carlos I, who preceded Alfonso XIII in Spain.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero, who was born in Ponteareas, was in office whilst Juan Carlos I of Spain was Monarch whose predecessor was Alfonso XIII of Spain.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero, who was born in Ponteareas, was in office during the reign of Monarch, Juan Carlos I of Spain who succeeded Alfonso XIII of Spain.</lex>
+    </entry>
+    <entry category="Politician" eid="Id194" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | successor | Albert_E._Austin</otriple>
+        <otriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</otriple>
+        <otriple>Alfred_N._Phillips | office | Mayor_of_Stamford,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | office | "Mayor of Stamford, Connecticut"</otriple>
+        <otriple>Alfred_N._Phillips | successor | Albert_E._Austin</otriple>
+        <otriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | Mayor_of_Stamford,_Connecticut</mtriple>
+        <mtriple>Alfred_N._Phillips | successor | Albert_E._Austin</mtriple>
+        <mtriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred N. Phillips who was born in Darien, Connecticut, was the Mayor of Stamford Connecticut and was succeded by Albert E. Austin.</lex>
+      <lex comment="good" lid="Id2">Stamford Mayor Alfred N. Phillips, born in Darien, Connecticut, was succeeded by Albert E. Austin.</lex>
+      <lex comment="good" lid="Id3">Alfred N Phillips was born in Darien, Connecticut and became Mayor of Stamford Connecticut before being succeeded by Albert E Austin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id203" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
+        <otriple>Alvah_Sabin | office | Secretary_of_State_of_Vermont</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | office | "Secretary of State of Vermont"</otriple>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | office (workedAt, workedAs) | Secretary_of_State_of_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</mtriple>
+        <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alvah Sabin; was born in Georgia, Vermont, represented Vermont's 3rd Congressional District, and worked as the Secretary of State of Vermont.</lex>
+      <lex comment="good" lid="Id2">Secretary of State of Vermont and a representative of Vermont's 3rd Congressional District, Alvah Sabin was born in Georgia, Vermont.</lex>
+      <lex comment="good" lid="Id3">Alvah Sabin; was born in Georgia, Vermont, worked as the secretary of the State of Vermont, and represented Vermont's 3rd Congressional District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id215" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>American_Civil_War | commander | Abraham_Lincoln</otriple>
+        <otriple>Battle_of_Antietam | isPartOfMilitaryConflict | American_Civil_War</otriple>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_Antietam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Civil_War | commander | Abraham_Lincoln</mtriple>
+        <mtriple>Battle_of_Antietam | isPartOfMilitaryConflict | American_Civil_War</mtriple>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_Antietam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett fought in the Battle of Antietam during the American Civil War which had Abraham Lincoln as one of its commanders.</lex>
+      <lex comment="good" lid="Id2">Aaron S Daggett fought in the Battle of Antietam, which was part of the American Civil War. Abraham Lincoln was a commander in the American Civil War.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggett fought in the Battle of Antietam which took place during the American Civil War, during which, Abraham Lincoln was a commander.</lex>
+    </entry>
+    <entry category="Politician" eid="Id235" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War</otriple>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_Gettysburg</otriple>
+        <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_Gettysburg</mtriple>
+        <mtriple>American_Civil_War | commander | Jefferson_Davis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett fought at the Battle of Gettysburg during the American Civil War which had Jefferson Davis as one of its commanders.</lex>
+      <lex comment="good" lid="Id2">Jefferson Davis was a commander in the American Civil War which included the Battle of Gettysburg in which Aaron S Daggett fought.</lex>
+      <lex comment="good" lid="Id3">Aaron S Daggett fought at the Battle of Gettysburg which took place during the American Civil War. Jefferson Davis was a commander in that war.</lex>
+    </entry>
+  </entries>
+</benchmark>

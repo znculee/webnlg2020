@@ -1,0 +1,2688 @@
+{
+   1: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Kent, Adam Holloway now lives in Gravesend.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Kent and lives in Gravesend.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Kent and lived in Gravesend.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " residence ",
+   "subject": " Gravesend"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " residence ",
+     "subject": " Gravesend"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id9"
+      }
+},
+{
+   2: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave served in the Royal Artillery Unit and was awarded the Military Cross.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave received the Military Cross and served in the Royal Artillery.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave's unit was the Royal Artillery and he was awarded the Military Cross.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " award ",
+   "subject": " Military_Cross"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " award ",
+     "subject": " Military_Cross"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id13"
+      }
+},
+{
+   3: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink is from the Netherlands where Mark Rutte is the leader.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " nationality ",
+   "subject": " Netherlands"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " nationality ",
+     "subject": " Netherlands"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   4: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in the Netherlands, Ab Klink, belongs to the Christian Democratic Appeal party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink, who was born in the Netherlands, belongs to the Christian Democratic Appeal Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink waas born in the Netherlands and belongs to the Christian Democratic Appeal party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " party ",
+   "subject": " Christian_Democratic_Appeal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " party ",
+     "subject": " Christian_Democratic_Appeal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   5: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in Stellendam and belongs to the Christian Democratic Appeal party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Stellendam, Ab Klink, belongs to the Christian Democratic Appeal party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink, born in Stellendam, belongs to the Christian Democratic Appeal party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " party ",
+   "subject": " Christian_Democratic_Appeal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " party ",
+     "subject": " Christian_Democratic_Appeal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   6: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Rahman Ya'kub, the successor of Abdul Taib Mahmud, was in office whilst Tuanku Bujang Tuanku Othman was Vice President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Rahman Ya'kub, succeeded Abdul Taib Mahmud, and was in office while Tuanku Bujang Tuanku Othman was Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Rahman Ya'kub (who was succeeded Abdul Taib Mahmud), was in office whilst Tuanku Bujang Tuanku Othman was Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Rahman_Ya'kub ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Tuanku_Bujang_Tuanku_Othman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Rahman_Ya'kub ",
+     "property": " governor ",
+     "subject": " Tuanku_Bujang_Tuanku_Othman"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   7: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud who is a member of Barisan Ra'ayat Jati Sarawak party, was born in the Kingdom of Sarawak.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, who was born in Sarawak, is a member of Barisan Ra'ayat Jati Sarawak Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, was born in the Kingdom of Sarawak, and is a member of the "Barisan Ra'ayat Jati Sarawak" party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Kingdom_of_Sarawak"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Kingdom_of_Sarawak"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   8: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and is a member of the Parti Bumiputera Sarawak Party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in the Kingdom of Sarawak, Abdul Taib Mahmud, is a member of the Parti Bumiputera Sarawak Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and belongs to the party of Parti Bumiputera Sarawak.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Kingdom_of_Sarawak"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Kingdom_of_Sarawak"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   9: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud's birthplace was Kingdom of Sarawak and he resided in Demak Jaya, Jalan Bako, Kuching, Sarawak.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Kingdom_of_Sarawak"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Kingdom_of_Sarawak"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   10: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Kingdom of Sarawak, Abdul Taib Mahmud's successor was, Abdul Rahman Ya'kub.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, who was succeeded by Abdul Rahman Ya'Kub, was born in the Kingdom of Sarawak.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and he was succeeded by Abdul Rahman Ya'kub.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Kingdom_of_Sarawak"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Kingdom_of_Sarawak"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   11: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, born in the Kingdom of Sarawak, was succeeded by, Sulaiman Abdul Rahman Taib.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and his successor was Sulaiman Abdul Rahman Taib.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in the Kingdom of Sarawak and was succeded by Sulaiman Abdul Rahman Taib.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Kingdom_of_Sarawak"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Kingdom_of_Sarawak"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id24"
+      }
+},
+{
+   12: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Miri, Malaysia, Abdul Taib Mahmud, is a member of Barisan Ra'ayat Jati Sarawak party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, who is a member of Barisan Ra'ayat Jati Sarawak party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in Miri, Malaysia and is part of the Barisan Ra'ayat Jati Sarawak party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Miri,_Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Miri,_Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id25"
+      }
+},
+{
+   13: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, who was born in Miri, Malaysia, is a member of the Parti Bumiputera Sarawak Party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in Miri, Malaysia, and is a member of the Parti Bumiputera Sarawak Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, who was born in Miri, Malaysia, belongs to the Party of Parti Bumiputera Sarawak.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Miri,_Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Miri,_Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id26"
+      }
+},
+{
+   14: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in Miri, Malaysia, and he was succeeded by Abdul Rahman Ya'kub.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Miri, Malaysia, is the birthplace of Abdul Taib Mahmud who was the successor to, Abdul Rahman Ya'kub.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Rahman Ya'kub was the successor of Abdul Taib Mahmud who was born in Miri, Malaysia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Miri,_Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Miri,_Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   15: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, born in Miri, Malaysia, was succeeded by, Sulaiman Abdul Rahman Taib.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Miri, Malaysia, Abdul Taib Mahmud, was succeded by Sulaiman Abdul Rahman Taib.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " birthPlace ",
+   "subject": " Miri,_Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " birthPlace ",
+     "subject": " Miri,_Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   16: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Miri, Malaysia, Abdul Taib Mahmud lives in Kuching.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, was born in Miri, Malaysia, and lives in Kuching.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, who resides in Kuching.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " residence ",
+   "subject": " Kuching"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " residence ",
+     "subject": " Kuching"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   17: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Galicia, Spain is the birthplace of Abel Caballero.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Galicia, Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Galicia, in Spain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " birthPlace ",
+   "subject": " Galicia_(Spain)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abel_Caballero ",
+       "property": " birthPlace ",
+       "subject": " Galicia_(Spain)"
+       },
+       {
+       "object": "Abel_Caballero ",
+       "property": " birthPlace ",
+       "subject": " Spain"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id44"
+      }
+},
+{
+   18: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Galicia, Spain and belongs to the Spanish Socialist Workers' Party.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " birthPlace ",
+   "subject": " Galicia_(Spain)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " birthPlace ",
+     "subject": " Galicia_(Spain)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id45"
+      }
+},
+{
+   19: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Ponteareas, in Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Ponteareas Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero came to be in Ponteareas in Spain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " birthPlace ",
+   "subject": " Ponteareas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abel_Caballero ",
+       "property": " birthPlace ",
+       "subject": " Ponteareas"
+       },
+       {
+       "object": "Abel_Caballero ",
+       "property": " birthPlace ",
+       "subject": " Spain"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id46"
+      }
+},
+{
+   20: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, who is a member of the Spanish Socialist Workers' Party was born in Ponteareas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Ponteareas, Abel Caballero, is a member of the Spanish Socialist Workers' Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero (b Ponteareas) is a member of the Spanish Socialist Workers' Party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " birthPlace ",
+   "subject": " Ponteareas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " birthPlace ",
+     "subject": " Ponteareas"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id47"
+      }
+},
+{
+   21: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero is a member of the Spanish Socialist Workers' Party and was born in Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero belonged to the Spanish Socialist Workers' Party. Mr. Caballero was born in Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, who was born in Spain, is a member of the Spanish Socialist Workers' Party.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, who was born in Spain, belongs to the Spanish Socialist Workers' Party.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Spain and was part of the Spanish Socialist Workers' Party.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " birthPlace ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " birthPlace ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id48"
+      }
+},
+{
+   22: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero (b Galicia, Spain) served during the reign of King Juan Carlos I of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, born in Galicia, Spain, was in office during the reign of King Juan Carlos I of Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, who was born in Galicia in Spain, was in office whilst Juan Carlos I of Spain was Monarch.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id49"
+      }
+},
+{
+   23: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, who was born in Ponteareas, was in office during the reign of Monarch, Juan Carlos I of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Ponteareas and was in office whilst Juan Carlos I of Spain was Monarch.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero, born in Ponteareas, was in office while Juan Carlos I of Spain was Monarch.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id50"
+      }
+},
+{
+   24: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero (b Spain) served during the reign of King Juan Carlos 1 of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish born Abel Caballero was in office during the reign of Juan Carlos I of Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish born Abel Caballero was in office during the reign of Monarch, Juan Carlos I.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id51"
+      }
+},
+{
+   25: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office whilst Juan Carlos I of Spain was Monarch, who was born in Rome.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id52"
+      }
+},
+{
+   26: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office whilst Juan Carlos I of Spain, who preceded Alfonso XIII of Spain, was Monarch.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, who preceded Alfonso XIII of Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, the predecessor of which, was Alfonso XIII of Spain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id53"
+      }
+},
+{
+   27: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office while Juan Carlos 1 of Spain was Monarch he was preceded by Francisco Franco.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The predecessor of Juan Carlos I of Spain, who reigned whilst Abel Caballero was in office, was Francisco Franco.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain whose predecessor was Francisco Franco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id54"
+      }
+},
+{
+   28: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office whilst Juan Carlos I of Spain was Monarch, the wife of which, is Queen Sofia of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, whose wife is Queen Sofia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhileMonarch ",
+   "subject": " Juan_Carlos_I_of_Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " monarch ",
+     "subject": " Juan_Carlos_I_of_Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id55"
+      }
+},
+{
+   29: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office while Felipe Gonzalez was Prime Minister, whose predecessor was Rodolfo Llopis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rodolfo Llopis preceded Felipe Gonzalez, who was Prime Minister, when Abel Caballero was in office.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office while Felipe Gonzalez was Prime Minister whose predecessor was Rodolfo Llopis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Felipe_González"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " primeminister ",
+     "subject": " Felipe_González"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id56"
+      }
+},
+{
+   30: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal was in WWII and one commander in that war was Chiang Kai-shek.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal fought in World War II, where one of the commanders was, Chiang Kai-shek.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Chiang Kai-shek was a commander in the Second World War, in which Abner W Sibal fought.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_W._Sibal ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id57"
+      }
+},
+{
+   31: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal fought during WWII and Franklin D. Roosevelt was a commander in that war.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal fought in World War II which saw Franklin D. Roosevelt as a commander.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal fought during WWII, the war in which Franklin D. Roosevelt was a commander.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_W._Sibal ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id58"
+      }
+},
+{
+   32: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal served in the United States Army which fought in the American Civil War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W Sibal served in the US Army, which fought in the American Civil War.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W Sibal served in the US Army, who battled in the American Civil War.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_W._Sibal ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id59"
+      }
+},
+{
+   33: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal served in the United States Army which was involved in battles in the Spanish-American War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Army, which was involved in battles in the Spanish-American War, is the army, Abner W. Sibal served in.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal was in the United States Army. That army fought in the battle of the Spanish-American War.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_W._Sibal ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id60"
+      }
+},
+{
+   34: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W Sibal (11-04-1921) was a member of the Connecticut Senate from the 26th District.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal, who was born on 4 November 1921, was a member of the Connecticut Senate from the 26th District.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal was born on the 11th April 1921 and worked as a member of the Connecticut Senate from the 26th District.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the Connecticut Senate from the 26th District""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " birthDate ",
+       "subject": " "1921-04-11"^^xsd:date"
+       },
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " office ",
+       "subject": " "Member of theConnecticut Senatefrom the26th District""
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id61"
+      }
+},
+{
+   35: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ridgewood, Queens is the birthplace of Abner W. Sibal who worked as a member of the Connecticut Senate from the 26th District.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Ridgewood, Queens, Abner W. Sibal, was a member of the Connecticut Senate from the 26th District.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal was born in Ridgewood, Queens and was a member of the Connecticut Senate from the 26th district.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the Connecticut Senate from the 26th District""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " office ",
+       "subject": " "Member of theConnecticut Senatefrom the26th District""
+       },
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " birthPlace ",
+       "subject": " Ridgewood,_Queens"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id62"
+      }
+},
+{
+   36: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abraham A Ribicoff was born in New Britain, Connecticut and died in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff was born in New Britain, Connecticut and died in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff was born in New Britain, Connecticut and died in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abraham_A._Ribicoff ",
+   "property": " deathPlace ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abraham_A._Ribicoff ",
+       "property": " deathPlace ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Abraham_A._Ribicoff ",
+       "property": " deathPlace ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id74"
+      }
+},
+{
+   37: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "During the Gulf war, both Adam Holloway and John Major took part.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway fought in the Gulf War, a war where John Major was one of the commanders.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway fought in the Gulf War where John Major was a commander.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " battles ",
+   "subject": " Gulf_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " battles ",
+     "subject": " Gulf_War"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id83"
+      }
+},
+{
+   38: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales lives in the United States, where one of the ethnic groups, is African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group in the United States, the country Alfred Moore Scales came from.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales resides in the United States, where African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id191"
+      }
+},
+{
+   39: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales lives in the United States, where Native Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales came from the US where Native Americans make up an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "U.S. native Alfred Moore Scales is Native American.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id192"
+      }
+},
+{
+   40: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle suceeded Alfred Moore Scales, whose alma mater was the University of North Carolina at Chapel Hill.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle succeeded Alfred Moore Scales . Mr. Scales alma mater was the University of North Carolina at Chapel Hill.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle is the successor to Alfred Moore Scales, the alma mater of whom, was the University of North Carolina at Chapel Hill.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " Daniel_Gould_Fowle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " successor ",
+     "subject": " Daniel_Gould_Fowle"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id193"
+      }
+},
+{
+   41: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle is the successor to Alfred Moore Scales, the Governor of North Carolina.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle suceeded Alfred Moore Scales, who was the Governor of North Carolina.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was Governor of North Carolina and was succeeded by Daniel Gould Fowle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " Daniel_Gould_Fowle"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Moore_Scales ",
+       "property": " successor ",
+       "subject": " Daniel_Gould_Fowle"
+       },
+       {
+       "object": "Alfred_Moore_Scales ",
+       "property": " successor ",
+       "subject": " Daniel_Gould_Fowle"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id194"
+      }
+},
+{
+   42: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was Governor of North Carolina, and was succeeded by James Madison Leach.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Governor Alfred Moore Scales of North Carolina was succeeded by James Madison Leach.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was Governor of North Carolina and he was succeeded by James Madison Leach.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " James_Madison_Leach"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Moore_Scales ",
+       "property": " office ",
+       "subject": " "Governor of North Carolina""
+       },
+       {
+       "object": "Alfred_Moore_Scales ",
+       "property": " successor ",
+       "subject": " James_Madison_Leach"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id195"
+      }
+},
+{
+   43: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was born in Connecticut and was a Member of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips, born in Connecticut, worked as Member of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips (born in Connecticut) was a member of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " birthPlace ",
+   "subject": " Connecticut"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " birthPlace ",
+       "subject": " Connecticut"
+       },
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " birthPlace ",
+       "subject": " Connecticut"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id196"
+      }
+},
+{
+   44: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was born in Connecticut and later became the Mayor of Stamford Connecticut.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Connecticut was the birthplace of Alfred N Phillips, who was Mayor of Stamford, Connecticut.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N.Phillips was born in and became Mayor of Stamford in the state of Connecticut.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " birthPlace ",
+   "subject": " Connecticut"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " birthPlace ",
+       "subject": " Connecticut"
+       },
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " office ",
+       "subject": " "Mayor of Stamford, Connecticut""
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id197"
+      }
+},
+{
+   45: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips, born in Darien, Connecticut, was a Member of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips birthplace was Darien Connecticut. He was also part of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Darien, Connecticut is the birthplace of Alfred N. Phillips, who worked as Member of the U.S. House of Representatives from Connecticut's 4th district.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " birthPlace ",
+   "subject": " Darien,_Connecticut"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " birthPlace ",
+       "subject": " Darien,_Connecticut"
+       },
+       {
+       "object": "Alfred_N._Phillips ",
+       "property": " birthPlace ",
+       "subject": " Darien,_Connecticut"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id198"
+      }
+},
+{
+   46: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips, who was born in Darien Connecticut, worked at the United States House of Representatives.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Darien, Connecticut is the birthplace of Alfred N. Phillips who worked at the United States House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N Phillips, who was born in Darien Connecticut, worked at the United States House of Representatives.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " birthPlace ",
+   "subject": " Darien,_Connecticut"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " birthPlace ",
+     "subject": " Darien,_Connecticut"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id199"
+      }
+},
+{
+   47: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was a member of the US Army which fought in the American Revolutionary War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was a member of the US Army who was a participant in the Revolutionary War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id200"
+      }
+},
+{
+   48: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Army, whose members have included Alfred N. Phillips, took part in the Invasion of Grenada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips served in the United States Army which has battled in the Invasion of Grenada.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The U.S. Army fought in the Invasion of Grenada. Alfred N. Phillips was part of the U.S. Army.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id201"
+      }
+},
+{
+   49: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was in the U.S. Army. That army fought in the Korean War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Army fought in the Korean War and one of its members was Alfred N. Phillips.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id202"
+      }
+},
+{
+   50: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Army was involved in the Spanish-American War and one of is members was Alfred N. Phillips.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips served in the United States, Army, the army which was involved in battles in the Spanish-American War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id203"
+      }
+},
+{
+   51: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was a member of the US Army, which fought in the Whiskey Rebellion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N Phillips was a member of the US Army. The army fought in the Whiskey Rebellion Battle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips served in the United States, Army which took part in the Whiskey Rebellion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id204"
+      }
+},
+{
+   52: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin was a member of the United States Whig Party and its leader was Daniel Webster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin was a member of the United States Whig Party who was led by Daniel Webster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Webster was a leader of the Whig Party (in the United States), one of the members is Alvah Sabin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " party ",
+   "subject": " Whig_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " party ",
+     "subject": " Whig_Party_(United_States)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id218"
+      }
+},
+{
+   53: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin belongs to the Whig Party (United States) which is led by Henry Clay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin was a member of the United States Whig Party, the leader of which, was Henry Clay.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " party ",
+   "subject": " Whig_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " party ",
+     "subject": " Whig_Party_(United_States)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id219"
+      }
+},
+{
+   54: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who represented Vermont, ended his career on 1857-03-03.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who represented Vermont, ended his career on 3rd of March, 1857.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented Vermont and ended his political career are March 3rd, 1857.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " region ",
+   "subject": " Vermont"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " region ",
+     "subject": " Vermont"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id223"
+      }
+},
+{
+   55: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who died in Sycamore, Illinois, represented Vermont.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who represented Vermont, passed away in Sycamore, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who represented Vermont, died in Sycamore, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " region ",
+   "subject": " Vermont"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " region ",
+     "subject": " Vermont"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id224"
+      }
+},
+{
+   56: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented Vermont where he worked as Secretary of State.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, represented Vermon, and worked as the Secretary of State of Vermont.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented the State of Vermont where he worked as the secretary of the State.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " region ",
+   "subject": " Vermont"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " region ",
+     "subject": " Vermont"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id225"
+      }
+},
+{
+   57: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented Vermont, whose largest city is Burlington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented Vermont, the largest city of which, is Burlington, Vermont.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " region ",
+   "subject": " Vermont"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alvah_Sabin ",
+       "property": " region ",
+       "subject": " Vermont"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " region ",
+       "subject": " Vermont"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id226"
+      }
+},
+{
+   58: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain battled in the American Civil War in which Abraham Lincoln was a commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham Lincoln was a commander in the American Civil War, which Albert Jennings Fountain fought in.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain battled in the American Civil War, the war in which Abraham Lincoln was a commander.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_Civil_War ",
+   "property": " commander ",
+   "subject": " Abraham_Lincoln"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "American_Civil_War ",
+     "property": " commander ",
+     "subject": " Abraham_Lincoln"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id227"
+      }
+},
+{
+   59: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach died in Austria, the country led by, Doris Bures.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach's place of death was in Austria, a country which is led by Doris Bures.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach died in Austria, the leader of which, is Doris Bures.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austria ",
+   "property": " leaderName ",
+   "subject": " Doris_Bures"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austria ",
+     "property": " leaderName ",
+     "subject": " Doris_Bures"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id230"
+      }
+},
+{
+   60: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Both Aaron S. Daggett and Robert .E. Lee (commander) were at the Battle of Antietam.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S Daggett fought in the Battle of Antietam, where Robert E Lee was a commander.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert E Lee was commander in the Battle of Antietam in which Aaron S. Daggett also fought.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Antietam ",
+   "property": " commander ",
+   "subject": " Robert_E._Lee"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Antietam ",
+     "property": " commander ",
+     "subject": " Robert_E._Lee"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id231"
+      }
+},
+{
+   61: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales took part in the Battle of Chancellorsville, which was part of the American Civil War conflict.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Battle of Chancellorsville was part of the American Civil War and one of the men who fought in that battle was Alfred Moore Scales.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Battle of Chancellorsville was part of the American Civil War and one of its participants was Alfred Moore Scales.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Chancellorsville ",
+   "property": " isPartOfMilitaryConflict ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Chancellorsville ",
+     "property": " isPartOfMilitaryConflict ",
+     "subject": " American_Civil_War"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id232"
+      }
+},
+{
+   62: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Battle of France, where Gerd Von Rundstedt was a commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gerd von Rundstedt was a commander in the Battle of France and one of the people involved in that battle was Airey Neave.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Battle of France whose commander was Gerd Von Rundstedt.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_France ",
+   "property": " commander ",
+   "subject": " Gerd_von_Rundstedt"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_France ",
+     "property": " commander ",
+     "subject": " Gerd_von_Rundstedt"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id233"
+      }
+},
+{
+   63: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Robert E Lee was a commander in the Battle of Salem Church where Aaron S Daggett also fought.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert E. Lee was a commander at the Battle of Salem Church, a battle Aaron S Daggett fought in.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert E. Lee was one commander at the Battle of Salem Church and Aaron S. Daggett fought in this same battle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Salem_Church ",
+   "property": " commander ",
+   "subject": " Robert_E._Lee"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Salem_Church ",
+     "property": " commander ",
+     "subject": " Robert_E._Lee"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id234"
+      }
+},
+{
+   64: {
+   "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Juan Peron was a member of the Argentinian Labour Party. Juan Peron was President whilst Alberto Teisaire was in office.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Juan Peron belongs to the Labour Party in Argentina and while he was President Alberto Teisaire was in office.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was in office while Juan Peron (a member of the Labour Party in Argentina) was President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Juan_Perón ",
+   "property": " party ",
+   "subject": " Labour_Party_(Argentina)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Juan_Perón ",
+     "property": " party ",
+     "subject": " Labour_Party_(Argentina)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id235"
+      }
+}

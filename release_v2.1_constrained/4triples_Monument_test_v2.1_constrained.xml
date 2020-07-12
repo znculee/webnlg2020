@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Turkish martyrs memorial is located in Baku, the capital of Azerbaijan, where the leader (Prime Minister of Azerbaijan) is called Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2">Prime Minister of Azerbaijan is the official title of the leader of Azerbaijan and his name is Artur Rasizade. The Baku Turkish Martyrs' Memorial can be found in Baku, the capital of Azerbaijan.</lex>
+      <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, which is led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+    </entry>
+  </entries>
+</benchmark>

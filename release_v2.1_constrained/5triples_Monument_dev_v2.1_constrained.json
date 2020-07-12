@@ -1,0 +1,121 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ankara is the capital of Turkey where the official title of the leader is the President of Turkey who is Ahmet Davutoglu. The Ataturk monument (Izmir) was inaugurated in the country on 27 July 1932.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Turkey's leader and President is Ahmet Davutoglu. The Atatürk Monument of Turkey (capital Ankara) was inaugurated on July 27th, 1932.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Davutoğlu is Turkey's leader and his title is The President. Atatürk Monument is located in İzmir, Turkey (capital Ankara) and was inaugurated on 27th of July, 1932.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Turkey ",
+   "property": " leaderTitle ",
+   "subject": " President_of_Turkey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Turkey ",
+     "property": " leaderTitle ",
+     "subject": " President_of_Turkey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id44"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ankara is the capital of Turkey, where the Atatürk Monument (İzmir) can be found. Turkey's currency is the Turkish lira and the President and leader is Ahmet Davutoglu.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Turkey's leader and therefore President is Ahmet Davutoğlu. The capital of Turkey is Ankara and the currency used in the country is the Turkish Lira. The Atatürk Monument (İzmir) can be found in Turkey.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Turkey ",
+   "property": " leaderTitle ",
+   "subject": " President_of_Turkey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Turkey ",
+     "property": " leaderTitle ",
+     "subject": " President_of_Turkey"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id45"
+      }
+},
+{
+   3: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry monument is located in the municipality of Gettysburg, Adams County, Pennsylvania. Adams County is east of Franklin County and south of Cumberland County. Maryland's Carroll county is located to the southeast.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg, Adams County, Pennsylvania. To the west of Adams County lies Franklin County and to the north, Cumberland County, both of these are in Pennsylvania. Carroll County Maryland is southeast of Adams County.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry monument is located in Gettysburg, Adams County, Pennsylvania. Adams County is located east of Franklin County and south of Cumberland County. Maryland's Carroll County is located to the southeast.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+}

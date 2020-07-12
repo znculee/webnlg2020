@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in the state of Alba.</lex>
+    </entry>
+  </entries>
+</benchmark>

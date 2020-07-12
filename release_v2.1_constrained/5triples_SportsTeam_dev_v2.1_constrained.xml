@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id34" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">St Vincent-St Mary High School in Akron, Summit County, Ohio, USA is the location for the home ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id2">The ground of Akron Summit Assault is located at St. Vincent–St. Mary High School in the city of Akron, Summit County, Ohio, US.</lex>
+      <lex comment="good" lid="Id3">Akron Summit Assault have their ground at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, USA.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id35" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Ohio, U.S.A. Dan Horrigan is the leader of that city.</lex>
+      <lex comment="good" lid="Id2">Akron Summit Assault's ground is St. Vincent-St. Mary High School which is located in the city of Akron, Ohio (USA). This state is currently led by Dan Horrigan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id36" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">St. Vincent-St. Mary High School is in Akron, Ohio U.S and is the home ground for Akron Summit Assault. Dan Horrigan is the leader of Akron, Ohio.</lex>
+      <lex comment="good" lid="Id2">The Akron Summit Assault's ground is St. Vincent-St. Mary High School. The School is located in Akron, Ohio, United States which currently has Dan Horrigan as a leader.</lex>
+      <lex comment="good" lid="Id3">Dan Horrigan is the leader of Akron where Akron Summit Assault have their ground at St Vincent St Mary High School in Ohio, United States.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id37" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">St. Vincent St. Mary High School is located in Summit County, Ohio in the United States. The Akron Summit Assault ground is at this high school.</lex>
+      <lex comment="good" lid="Id2">Akron Summit Assault have their home ground at St Vincent St Mary High School which is located in the city of Akron, Summit County, Ohio, United States.</lex>
+      <lex comment="good" lid="Id3">St. Vincent–St. Mary High School is located in the city of Akron, Summit County, Ohio, United States and is the location for the home ground of Akron Summit Assault.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id38" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.</lex>
+      <lex comment="good" lid="Id2">Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id39" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where there are leaders called Pietro Grasso and Sergio Mattarella. Italy's capital is Rome and the language spoken in the country is Italian.</lex>
+      <lex comment="good" lid="Id2">Rome is the capital of Italy, where leaders include, Pietro Grasso and Sergio Mattarella. Italian is spoken there and it is also where the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex comment="good" lid="Id3">Pietro Grasso and Sergio Mattarella are two leaders in Italy. Italy's capital is Rome and the language spoken there is Italian. A.S. Gubbio 1910 play in that country.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id40" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live. The capital is Rome and two of the leaders are Pietro Grasso, and Sergio Mattarella.</lex>
+      <lex comment="good" lid="Id2">Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italians and the capital city is Rome.</lex>
+      <lex comment="good" lid="Id3">Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Italians are the people who live in Italy, where Italian is the language. Two of the leaders there are Pietro Grasso and Sergio Mattarella. Also in Italy, is the ground of A.S. Gubbio 1910.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live and where the language spoken is Italian. Pietro Grasso and Sergio Mattarella are leaders in Italy.</lex>
+      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso and Sergio Mattarella are leaders and the Italian language is spoken. The inhabitants of Italy are knows as Italians.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Rome is the capital, Italian is the official language and where there are leaders called Pietro Grasso and Sergio Mattarella.</lex>
+      <lex comment="good" lid="Id2">Pietro Grasso and Sergio Mattarella are both leaders of Italy where Rome is the capital city and the language spoken is Italian. In this country the ground of A.S. Gubbio 1910 is also located.</lex>
+      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, where Pietro Grasso and Sergio Mattarella are leaders. Italy's capital is Rome, and Italian is the official language.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id43" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, the country which is inhabited by Italians. The capital of Italy is Rome, the official language is Italian and the leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians. The official language is Italian, the capital is Rome and the country's leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id3">Italians inhabit Italy, where the capital is Rome. It is also where Italian is the official language and Pietro Grasso is the leader. The ground of A.S. Gubbio 1910 is located in Italy.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id45" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>Gus_Poyet | clubs | Real_Zaragoza</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+        <otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+        <mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Olympic Stadium (Athens) is the home ground of AEK Athens FC who have been managed by Gus Poyet. His own club is Real Zaragoza and he has played for Chelsea FC.</lex>
+      <lex comment="good" lid="Id2">Located in Athens, the Olympic Stadium is the ground for AEK Athens FC. The manager of which is Gus Poyet, whose club is Real Zaragoza, and who has played for Chelsea F.C.</lex>
+      <lex comment="good" lid="Id3">The Olympic Stadium (in Athens) is the home ground of AEK Athens FC. That football team is managed by Gus Poyet who played for Chelsea F.C. Gus Poyet is also associated with the Real Zaragoza football club.</lex>
+    </entry>
+  </entries>
+</benchmark>

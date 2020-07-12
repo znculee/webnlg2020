@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</otriple>
+        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | "80002709"</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | added | "1980-04-23"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+        <otriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</otriple>
+        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | "80002709"</otriple>
+        <otriple>Asser_Levy_Public_Baths | added | "1980-04-23"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | "80002709"</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in Avenue A in Manhatten, Asser Levy Public Baths was built in 1904 and was added to the National Register of Historic Places on 1980/04/23 with the reference number of 80002709.</lex>
+      <lex comment="good" lid="Id2">Built in 1904 and located in Avenue A, Manhattan, Asser Levy Public Baths was added to the National Register of the Historic places on 1980/04/23 (reference number 80002709).</lex>
+    </entry>
+    <entry category="Building" eid="Id25" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Parliament of the United Kingdom is the leader of London, the capital city. Elizabeth II is also a leader and 20 Fenchurch Street is located in the country .</lex>
+      <lex comment="good" lid="Id2">London is the capital of the United Kingdom, which is governed by Parliament and has Elizabeth II as its leader. 20 Fenchurch Street is located in the UK.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, which has London is its capital, and is ruled by the Parliament of the United Kingdom and Queen Elizabeth II.</lex>
+    </entry>
+    <entry category="Building" eid="Id38" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+        <otriple>200_Public_Square | floorArea | "111484.0"^^xsd:double</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+        <otriple>200_Public_Square | floorArea | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+        <otriple>200_Public_Square | Building/floorArea | "111483.648"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
+        <otriple>200_Public_Square | floorArea | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
+        <otriple>200_Public_Square | floorCount | "45"^^xsd:positiveInteger</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | Public_Square,_Cleveland</mtriple>
+        <mtriple>200_Public_Square | floorArea | 111484 (square metres)</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
+        <mtriple>200_Public_Square | completionDate | 1985</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">200 Public Square has a floor area of 111484 square metres and a floor count of 45. The building is located in Public Square, Cleveland and was completed in 1985.</lex>
+      <lex comment="good" lid="Id2">Completed in 1985 with 45 floors and 111484 square meters floor area, 200 Public Square can be found in Public Square, Cleveland.</lex>
+      <lex comment="good" lid="Id3">The 200 Public Square was completed in 1984. It is located at Public Square, Cleveland; it has a floor count of 45 and a floor area of 111,484 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | "34"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | Building/floorArea | "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | "34"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
+        <otriple>20_Fenchurch_Street | Building/floorArea | "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | completionDate | "April 2014"</mtriple>
+        <mtriple>20_Fenchurch_Street | floorCount | 34</mtriple>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
+        <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The building at 20 Fenchurch Street was started in January 2009 and completed in April 2014. It has 34 floors, and a floor area of 62145.3 square metres.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch St. was started in Jan. 2009 and completed in April, 2014. It has 34 floors and is 62145.3 square meters.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres; its construction began in January 2009 and was completed in April 2014.</lex>
+    </entry>
+    <entry category="Building" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | London</otriple>
+        <otriple>20_Fenchurch_Street | architect | Rafael_Viñoly</otriple>
+        <otriple>London | leaderTitle | European_Parliament</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | London</mtriple>
+        <mtriple>20_Fenchurch_Street | architect | Rafael_Viñoly</mtriple>
+        <mtriple>London | leaderTitle | European_Parliament</mtriple>
+        <mtriple>London | leaderName | Boris_Johnson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">20 Fenchurch Street, a Rafael Vinoly building, is in London, a city linked to the European Parliament and headed by Boris Johnson as Mayor.</lex>
+      <lex comment="good" lid="Id2">Boris Johnson is the leader of London, which is led by the European Parliament. Rafael Vinoly designed 20 Fenchurch Street, which is located in London.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street, London was designed by the architect Rafael Vinoly. Boris Johnson is a leader of London which is led by the European Parliament.</lex>
+    </entry>
+    <entry category="Building" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Built between 1931 and 1927, Adisham Halls is located in Haputale and has the Architectural style of Tudor and Jacabian.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall was constructed between 1927 and 1931 in Haputale in the Tudor and Jacabian style.</lex>
+    </entry>
+    <entry category="Building" eid="Id93" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Halls, constructed from 1927 to 1931, is located in Haputale, Sri Lanka and has architectural style "Tudor and Jacabian".</lex>
+      <lex comment="good" lid="Id2">The architecture style of Adisham Hall, located in Haputale, Sri Lanka, is Tudor and Jacabian. building of it began in 1927 and was completed in 1931.</lex>
+      <lex comment="good" lid="Id3">The architecture style of Adisham Hall, located in Haputale, Sri Lanka and constructed between 1927 and 1931 is Tudor and Jacobean.</lex>
+    </entry>
+    <entry category="Building" eid="Id94" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Construction of Adisham Hall, Haputale, designed in the "Tudor Revival" style, began in 1927 and was finished in 1931.</lex>
+      <lex comment="good" lid="Id2">Construction of Adisham Hall, Haputale (designed in Tudor Revival style) began in 1927 and ended in 1931.</lex>
+      <lex comment="good" lid="Id3">Construction of Adisham Hall, Haputale (which has the Tudor Revival architectural style) began in 1927 and was completed in 1931.</lex>
+    </entry>
+    <entry category="Building" eid="Id95" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital of Sri Lanka is Sri Jayawardenepura Kotte and the leader is Ranil Wickremesinghe. The country is the location of Adisham Hall in Haputale.</lex>
+      <lex comment="good" lid="Id2">Sri Lanka's leader is called Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte. Adisham Hall is located in Haputale.</lex>
+    </entry>
+    <entry category="Building" eid="Id96" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka, a country where Tamil is the language and one of the leaders is Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka, whose leader is Ranil Wickremesinghe, and main speech in use around the area is the Tamil language.</lex>
+    </entry>
+    <entry category="Building" eid="Id97" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputalethe, Sri Lanka, where Sri Jayawardenepura Kotte is the capital and the Tamil language is spoken.</lex>
+      <lex comment="good" lid="Id2">Tamil is the language spoken in Sri Lanka, whose capital is Sri Jayawardenepura Kotte, Also in Sri Lanka is Adisham hall which is located in Haputale.</lex>
+      <lex comment="good" lid="Id3">Haputale, Sri Lanka is the location of Adisham Hall. The country's capital is Sri Jayawardenepura Kotte and the language is Tamil.</lex>
+    </entry>
+    <entry category="Building" eid="Id98" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka where the capital is Sri Jayawardenepura Kotte and the leader is Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka, where Ranil Wickremesinghe is one of the countries leaders and Sri Jayawardenepura Kotte is the capital city.</lex>
+    </entry>
+    <entry category="Building" eid="Id99" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of the country is Ranil Wickremesinghe and the language is Tamil.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the language of the country is Tamil.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is situated in Haputale in Sri Lanka. Sri Lanka's leader is Ranil Wickremesinghe and the language spoken is Tamil.</lex>
+    </entry>
+    <entry category="Building" eid="Id146" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan, born in San Francisco, designed significant buildings in Chinatown, San Francisco, including the Asilomar State Beach and Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">San Francisco born Julia Morgan was the architect of Asilomar Conference Grounds, Chinatown, San Francisco, and the significant building of Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">San Francisco born Julia Morgan has designed many significant buildings including the Asilomar Conference Grounds, Asilomar State Beach and many buildings in Chinatown, San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id147" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in San Francisco and she designed the Asilomar Conference Grounds and the Los Angeles Herald examiner building, a landmark in California. The Riverside Art Museum is also one of her significant buildings.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was born in San Francisco and she has designed many significant buildings including the Los Angeles Herald Examiner Building, the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+    </entry>
+    <entry category="Building" eid="Id148" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">San Francisco born architect Julia Morgan designed the grounds of Asilomar Conference as well as the significant buildings of Riverside Art Museum and Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco, designed several significant buildings, such as the Asilomar Conference Grounds, the Riverside Art Museum, and the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id149" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in San Francisco, Julia Morgan designed the Asilomar Conference Grounds, The Riverside Art Museum and buildings of significance in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco designed Asilomar Conference grounds, The Riverside Art Museum and other significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds was designed by Julia Morgan, who was born in San Francisco and also is the architect behind Chinatown in San Francisco and the Riverside Art Museum.</lex>
+    </entry>
+    <entry category="Building" eid="Id150" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Californian born Julia Morgan designed the significant buildings of Asilomar State Beach, Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, born in California, who also designed Chinatown in San Francisco and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">Californian born architect Julia Morgan designed the Asilomar Conference Grounds, along with the significant building of Asilomar State Beach and Chinatown in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id151" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Californian born architect Julia Morgan designed the grounds of Asilomar Conference as well as the significant buildings of Asilomar State Beach and the Los Angeles Herald Examiner building.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, born in California, who has designed many significant buildings, including the Los Angeles Herald Examiner building and the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id182" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+    </entry>
+    <entry category="Building" eid="Id183" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Leaders in Ethiopia are Mulatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+    </entry>
+  </entries>
+</benchmark>

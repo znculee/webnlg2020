@@ -1,0 +1,1350 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Port Authority of New York and New Jersey is headquartered in the Four World Trade Center and serves New Jersey. It operates the Atlantic City International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport is operated by the Port Authority of New York and New Jersey located at Four World Trade Centre and serves the New Jersey region.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey, which operates the Atlantic City International Airport and serves New Jersey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Port_Authority_of_New_York_and_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City_International_Airport ",
+     "property": " operator ",
+     "subject": " Port_Authority_of_New_York_and_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id18"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Texas, Andrews County Airport is 973.0 above sea level and has a runway length of 8.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport, Texas is 973 metres above sea level and has a runway length of 8.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport in Texas has a runway length of only 8.0 and is 973 above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id101"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway length of Andrews County airport (located in Texas and 973 meters above sea level), is 929.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport, Texas is 973.0 above sea level and its runway length is 929.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Andrews_County_Airport ",
+       "property": " location ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id102"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Texas is located in the United States, and its state capital is Austin. The Andrews County Airport is located in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, United States, and Texas' capital is Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is in Texas, U.S. Austin is the capital of Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id103"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, where Austin is the capital and a Tejano is a demonym term used in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas where the capital city is Austin and the inhabitants have the demonym of Tejano.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Texas, or Tejano, is the location of Andrews County Airport, with the capital in Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id104"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "With its capital of Austin, Andrews County Airport is located in Texas where there are Texans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "In Texas, people are called Texans and the capital of Texas is Austin. Andrews County Airport is located in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport can be found in Texas where the residents are known as Texans and the state's capital is Austin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id105"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas (whose indigenes are called Texans), United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas (United States) where the inhabitants have the demonym Texan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, United States where the people are called Texans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id106"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The main airport in Texas, USA, is Andrews County. English is the primary language here.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in English speaking Texas, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, United States where the language spoken is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id107"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County airport is located in Texas (which speaks English) but uses Tejano as their demonym.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id108"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Spanish is the language spoken in Austin, Texas (in which the Andrews County Airport is located).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas whose capital is Austin. Spanish is one language spoken there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas state, whose capital city is Austin and Spanish is one of the spoken language there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id109"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, in the United States, where Spanish is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas, United States, where the Spanish language is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrews County Airport is located in Texas in the United States. Spanish is spoken in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrews_County_Airport ",
+   "property": " location ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrews_County_Airport ",
+     "property": " location ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id110"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located at Ícolo e Bengo, Angola International Airport is 159 metres above the sea level and has a runway length of 3,800 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located at Ícolo e Bengo, Angola International Airport is 159 meters above sea level and has a runway length of 3800 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo and is 159 metres above the sea level. Its runway is 3800 feet in length.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id111"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Ícolo e Bengo, Angola International Airport is 159 meters above sea level and has a runway length of 4000ft.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Angola International Airport is located in Ícolo e Bengo and is 159 m above sea level. Its runway is 4000 feet long.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is in Icolo e Bengo and is 159 metres above sea level with a runway that's 4,000 feet long.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id112"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Antwerp International Airport, Antwerp is operated by the Flemish Government and is 12.0 metres above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is operated by the Flemish government and serves Antwerp city. It is 12 m above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp international airport, serving Antwerp, with an elevation of 12 meters is operated by the Flemish government.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Flemish_Government"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       },
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id123"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves Antwerp. It is owned by the Flemish Region and operated by the Flemish Government.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Antwerp International Airport is operated by the Flemish Government and owned by the Flemish Region. It serves the city of Antwerp.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Flemish_Government"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " operator ",
+     "subject": " Flemish_Government"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id124"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport which has a runway length of 600.0 is owned by the Flemish Region and operated by the Flemish government.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The operating organisation of Antwerp International airport is the Flemish government, has a runway length of 600m and is owned by the Flemish region.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is operated by the Flemish government and owned by the Flemish region. It has a runway length of 600.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Flemish_Government"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       },
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " operator ",
+       "subject": " Flemish_Government"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id125"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Flemish Department of Mobility and Public Works operates the Antwerp International Airport, which is 12m a.s.l. and is run by the Flemish Region.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is operated by the Flemish department of mobility and public works and owned by the Flemish Region. It is 12.0 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is owned by the Flemish Region, operated by the Flemish department of Mobility and public works, and has an elevation of 12 meters.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " owner ",
+   "subject": " Flemish_Region"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " owner ",
+       "subject": " Flemish_Region"
+       },
+       {
+       "object": "Antwerp_International_Airport ",
+       "property": " owner ",
+       "subject": " Flemish_Region"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id126"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is located in Appleton Wisconsin which is a part of Kimberly and Grand Chute.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appletone International Airport city serves Appleton, Wisconsin, which is part of Kimberly and Grand Chute.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin, part of Kimberly Wisconsin, is served by Appleton International Airport and part of the Grand Chute Wisconsin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton,_Wisconsin ",
+   "property": " isPartOf ",
+   "subject": " Kimberly,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Kimberly,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id127"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin is part of Grand and Little Chute, Wisconsin; it is served by Appleton International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Little Chute is part of Appleton which is served by Appleton International Airport. Appleton is part of Grand Chute, Wisconsin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton,_Wisconsin ",
+   "property": " isPartOf ",
+   "subject": " Little_Chute,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Little_Chute,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Little_Chute,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Little_Chute,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id128"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International airport, which is located in Greenville, Wisconsin is located at 280 metres above sea level and a runway length of 1982.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International airport is located in Greenville, Wisconsin, 280 metres above sea level and its runway is 1.982 km long.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id129"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport located in Greenville, Wisconsin, has an elevation of 280 meters above sea level as well as a runway length of 2,439.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International airport is located in Greenville, Wisconsin. The runway length is 2439 and the elevation is 280 metres above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       },
+       {
+       "object": "Appleton_International_Airport ",
+       "property": " location ",
+       "subject": " Greenville,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id130"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport can be found in Greenville, Wisconsin which is part of Ellington, Wisconsin, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport can be found in Greenville, Ellington, Wisconsin, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport can be found in Greenville, Wisconsin, US which is part of Ellington in the state.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id131"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Greenville, Wisconsin is part of Dale, Wisconsin which is in the United States. It is served by the Appleton International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International airport is located in Greenville, Wisconsin, which is part of Dale, Wisconsin, located in the U.S.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport can be found in Greenville, Dale, Wisconsin, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id132"
+      }
+},
+{
+   24: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International airport is located in Greenville, Wisconsin which is part of Grand Chute, Wisconsin, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is located in Greenville, Grand Chute, Wisconsin, USA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id133"
+      }
+},
+{
+   25: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Appleton International Airport is in Greenville, which is part of Menasha, Wisconsin, USA.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is found in Greenville, Wisconsin which is part of Menasha in the U.S.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport in Greenville Wisconsin, is part of the Menasha town in Wisconsin, USA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " location ",
+   "subject": " Greenville,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " location ",
+     "subject": " Greenville,_Wisconsin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id134"
+      }
+},
+{
+   26: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is elevated 280 metres above sea level and has a runway length of 1982.0. It is operated by an organisation in Outagamie County, Wisconsin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The operators of Appleton International Airport, which has a runway length of 1,982 and is 280 metres above sea level, are in Outagamie County, Wisconsin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport, which is 280 metres above sea level and has a runway that's 1,982 long, is operated by Outagamie County in Wisconsin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 1982.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " runwayLength ",
+     "subject": " "1982.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id135"
+      }
+},
+{
+   27: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is 280 metres above sea level and has a runway length of 2439.0. It is operated from Outagamie County, Wisconsin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Outagamie County, Wisconsin is the operating organisation of Appleton International Airport which has a runway length of 2439.0 and has an elevation of 280 metres above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2439.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2439.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id136"
+      }
+},
+{
+   28: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3rd runway at Ardmore Airport in New Zealand (which is 34 meters above sea level) is made of Poaceae and has a length of 518.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand) is 34 metres above sea level, a runway length of 518, and a 3rd runway surfaced with poaceae.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae. It is 34 m above sea level and its length is 518 feet.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " 3rd_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " r3Surface ",
+       "subject": " Poaceae"
+       },
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " r3Surface ",
+       "subject": " Poaceae"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id137"
+      }
+},
+{
+   29: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "At the Ardmore airport in New Zealand, the 3rd runway is made from Poaceae which belongs to the flowering plants division and is in the class of Monocotyledon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which is in the class Monocotyledon and belongs to the division of flowering plants.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which belongs to the division of flowering plants in the class Monocotyledon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " 3rd_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " r3Surface ",
+       "subject": " Poaceae"
+       },
+       {
+       "object": "Ardmore_Airport_(New_Zealand) ",
+       "property": " r3Surface ",
+       "subject": " Poaceae"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id138"
+      }
+},
+{
+   30: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. Its runway name is 4/22 and the length is 1873.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlantic City International Airport is 1873 m and is operated by the Port Authority of New York and New Jersey. Its runway name is 4/22.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 1873.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1873.0"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1873.0"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "1872.69"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id161"
+      }
+}

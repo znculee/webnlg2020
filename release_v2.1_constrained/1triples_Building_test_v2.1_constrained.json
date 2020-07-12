@@ -1,0 +1,1550 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is in Johannesburg.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in Johannesburg.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " Johannesburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " Johannesburg"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square has a floor area of 111484 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is 111484 square metres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorArea ",
+   "subject": " 111484 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " Building/floorArea ",
+       "subject": " "111483.648"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorArea ",
+       "subject": " "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 45 floors at 200 Public Square.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square has a floor count of 45.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " floorCount ",
+     "subject": " 45"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio 44114.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland Ohio 44114.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " "Cleveland, Ohio 44114""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " "Cleveland, Ohio 44114"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was designed by the architect Rafael Viñoly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rafael Viñoly designed 20 Fenchurch Street.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " architect ",
+   "subject": " Rafael_Viñoly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " architect ",
+     "subject": " Rafael_Viñoly"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street has a floor area of 62145.3 square metres.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " floorArea ",
+   "subject": " 62145.3 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " floorArea ",
+       "subject": " "62145.3"^^xsd:double"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " Building/floorArea ",
+       "subject": " "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 34 floors at 20 Fenchurch Street.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street has a floor count of 34.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " floorCount ",
+   "subject": " 34"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " floorCount ",
+     "subject": " 34"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in London.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The construction of 250 Delaware Avenue began in January 2014.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The start date of building 250 Delaware Avenue was January 2014.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "January 2014 is the building start date of 250 Delaware Avenue.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " buildingStartDate ",
+   "subject": " "January, 2014""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " buildingStartDate ",
+     "subject": " "January, 2014""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue cost 110 million dollars.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The cost to build 250 Delaware Avenue is "110 million (dollars)".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " cost ",
+   "subject": " "110 million (dollars)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " cost ",
+     "subject": " "1.1E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "320 South Boston Building was formerly called the Exchange National Bank Building.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The previous name of 320 South Boston Building was the Exchange National Bank Building.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " formerName ",
+   "subject": " "Exchange National Bank Building""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "320_South_Boston_Building ",
+     "property": " formerName ",
+     "subject": " "Exchange National Bank Building"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id43"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 3Arena was the company Populous.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The company Populous were the architects who designed the 3Arena.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " Populous_(company)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " architect ",
+     "subject": " Populous_(company)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id45"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is a concerts and events venue type building.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena hosts concerts and events.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " buildingType ",
+   "subject": " "Concert and events venue""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " buildingType ",
+     "subject": " "Concert and events venue"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id46"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The completion date of 3Arena is December 2008.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena was completed in December 2008.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " completionDate ",
+   "subject": " "December 2008""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "3Arena ",
+       "property": " buildingEndDate ",
+       "subject": " "December 2008""
+       },
+       {
+       "object": "3Arena ",
+       "property": " completionDate ",
+       "subject": " "December 2008"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The height of 3Arena is 28 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The height of 3Arena is 28.0 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is 28.0 metres high.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " height ",
+   "subject": " 28.0 (metres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " height ",
+     "subject": " "28.0"^^&lt;http://dbpedia.org/datatype/metre&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at the North Wall Quay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located on North Wall Quay.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at "North Wall Quay".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "North Wall Quay""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "North Wall Quay"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located in Dublin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is located in Dublin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is situated in Dublin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " Dublin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " Dublin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3Arena is located at North Wall, Dublin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at North Wall, Dublin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " North_Wall,_Dublin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " North_Wall,_Dublin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is situated in Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " location ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id87"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmedabad is in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmedabad is located in India.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmedabad ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ahmedabad ",
+     "property": " country ",
+     "subject": " India"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id88"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita Prefecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita Prefecture.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " location ",
+   "subject": " Akita_Prefecture"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " location ",
+       "subject": " Akita_Prefecture"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationTown ",
+       "subject": " Akita_Prefecture"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id96"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Prefecture is located in Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Prefecture is part of the country of Japan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Prefecture is located in Japan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Prefecture ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Prefecture ",
+     "property": " country ",
+     "subject": " Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id97"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The location of Amdavad ni Gufa is Ahmedabad.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Ahmedabad.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Ahmedabad"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Ahmedabad"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Ahmedabad"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id112"
+      }
+},
+{
+   24: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The bed count of Ampara Hospital is 476.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital has 476 beds.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " bedCount ",
+   "subject": " 476"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " bedCount ",
+       "subject": " "476"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " beds ",
+       "subject": " 476"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id114"
+      }
+},
+{
+   25: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " "Asser Levy Place and East 23rd Street""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " "Asser Levy Place and East 23rd Street"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id135"
+      }
+},
+{
+   26: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birth place of Julia Morgan is California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was born in California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " birthPlace ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Julia_Morgan ",
+     "property": " birthPlace ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id192"
+      }
+},
+{
+   27: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was born in San Francisco.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " birthPlace ",
+   "subject": " San_Francisco"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Julia_Morgan ",
+     "property": " birthPlace ",
+     "subject": " San_Francisco"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id193"
+      }
+},
+{
+   28: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " significantBuilding ",
+   "subject": " Asilomar_State_Beach"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Julia_Morgan ",
+       "property": " significantBuilding ",
+       "subject": " Asilomar_State_Beach"
+       },
+       {
+       "object": "Julia_Morgan ",
+       "property": " significantBuildings ",
+       "subject": " Asilomar_State_Beach"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id194"
+      }
+},
+{
+   29: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Riverside Art Museum is one of Julia Morgan's significant buildings.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " significantBuilding ",
+   "subject": " Riverside_Art_Museum"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Julia_Morgan ",
+       "property": " significantBuilding ",
+       "subject": " Riverside_Art_Museum"
+       },
+       {
+       "object": "Julia_Morgan ",
+       "property": " significantBuildings ",
+       "subject": " Riverside_Art_Museum"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id196"
+      }
+},
+{
+   30: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Parliament of the United Kingdom is the leader of London.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " leaderTitle ",
+   "subject": " Parliament_of_the_United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " leaderTitle ",
+     "subject": " Parliament_of_the_United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id200"
+      }
+},
+{
+   31: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Manhattan is Gale Brewer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gale Brewer is the leader of Manhattan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Manhattan ",
+   "property": " leaderName ",
+   "subject": " Gale_Brewer"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Manhattan ",
+     "property": " leaderName ",
+     "subject": " Gale_Brewer"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id202"
+      }
+},
+{
+   32: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International was founded in Washington, D.C.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " foundationPlace ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " foundation ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " foundationPlace ",
+       "subject": " Washington,_D.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id203"
+      }
+},
+{
+   33: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International is based in Bethesda, Maryland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Marriott International is located in Bethesda Maryland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Marriott International is located in Bethesda, Maryland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " location ",
+   "subject": " Bethesda,_Maryland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Marriott_International ",
+     "property": " location ",
+     "subject": " Bethesda,_Maryland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id204"
+      }
+},
+{
+   34: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "New York city is located in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York_City ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_York_City ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id206"
+      }
+},
+{
+   35: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pacific Grove, California is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pacific Grove, California is located in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pacific_Grove,_California ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pacific_Grove,_California ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id210"
+      }
+},
+{
+   36: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "South Africa's leader is called Jacob Zuma.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of South Africa is Jacob Zuma.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jacob Zuma is a leader in South Africa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " leaderName ",
+   "subject": " Jacob_Zuma"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "South_Africa ",
+       "property": " leader ",
+       "subject": " Jacob_Zuma"
+       },
+       {
+       "object": "South_Africa ",
+       "property": " leaderName ",
+       "subject": " Jacob_Zuma"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id220"
+      }
+},
+{
+   37: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Sri Lanka is Sri Jayawardenepura Kotte.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sri Jayawardenepura Kotte is the capital of Sri Lanka.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Sri_Lanka ",
+   "property": " capital ",
+   "subject": " Sri_Jayawardenepura_Kotte"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Sri_Lanka ",
+     "property": " capital ",
+     "subject": " Sri_Jayawardenepura_Kotte"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id221"
+      }
+},
+{
+   38: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ski Lanka's currency is the Sri Lankan rupee.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The currency of Sri Lanka is the Sri Lankan rupee.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Sri_Lanka ",
+   "property": " currency ",
+   "subject": " Sri_Lankan_rupee"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Sri_Lanka ",
+     "property": " currency ",
+     "subject": " Sri_Lankan_rupee"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id222"
+      }
+},
+{
+   39: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ranil Wickremesinghe is a leader of Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sri Lanka's leader is called Ranil Wickremesinghe.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Sri Lanka is Ranil Wickremesinghe.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Sri_Lanka ",
+   "property": " leaderName ",
+   "subject": " Ranil_Wickremesinghe"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Sri_Lanka ",
+       "property": " leader ",
+       "subject": " Ranil_Wickremesinghe"
+       },
+       {
+       "object": "Sri_Lanka ",
+       "property": " leaderName ",
+       "subject": " Ranil_Wickremesinghe"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id224"
+      }
+},
+{
+   40: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups of the United States are the African Americans.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id228"
+      }
+}

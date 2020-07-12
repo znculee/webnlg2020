@@ -1,0 +1,655 @@
+{
+   1: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "With a top speed of 24.0, the ship A-Rosa Luna is 125800.00 millimetres long and weighs 1850 tonnes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24 km/h. Its length is 125.8 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The A-Rosa Luna which is 125.8 metres long has a top speed of 24.0 and weighs 1850 tonnes.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A-Rosa_Luna ",
+   "property": " shipDisplacement ",
+   "subject": " 1850.0 (tonnes)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A-Rosa_Luna ",
+       "property": " shipDisplacement ",
+       "subject": " 1.85e+09"
+       },
+       {
+       "object": "A-Rosa_Luna ",
+       "property": " topSpeed ",
+       "subject": " "24.0"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AIDAstella, 253260.0 millimetres long, was christened on March 16, 2013 and put into service the next day.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDAstella was christened on the 16th of March, 2013, put in service on March 17, 2013, and is 253260.0 millimetres in length.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDAstella was named on 16th March 2013 and launched on 17th. It is 253.26m long.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AIDAstella ",
+   "property": " christeningDate ",
+   "subject": " 2013-03-16"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AIDAstella ",
+     "property": " shipChristened ",
+     "subject": " "--03-16"^^xsd:gMonthDay"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ALV X-1, with 2 rocket stages and one launch, has a 1.524 m diameter.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ALV X-1 rocket which has a diameter of 1.524 meters and has 2 stages was launched one.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The ALV X-1 has a diameter of 1.524 m and has 2 rocket stages. It's been launched 1 times.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "ALV_X-1 ",
+   "property": " diameter ",
+   "subject": " 1.524 (metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "ALV_X-1 ",
+       "property": " diameter ",
+       "subject": " "5.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+       },
+       {
+       "object": "ALV_X-1 ",
+       "property": " MeanOfTransportation/diameter ",
+       "subject": " "1.524"^^&lt;http://dbpedia.org/datatype/metre&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id7"
+      }
+},
+{
+   4: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The icebreaker Aleksey Chirikov ship, built in Helsinki at the Arctech Helsinki Shipyard, has a 21.2 ship beam.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The icebreaker Aleksey Chirikov which has a ship beam of 21.2, was built at the Arctech Helsinki Shipyard, in Helsinki.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov with a 21.2 m long ship beam in Helsinki.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksey_Chirikov_(icebreaker) ",
+   "property": " shipBeam ",
+   "subject": " 21.2"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksey_Chirikov_(icebreaker) ",
+       "property": " shipBeam ",
+       "subject": " "21.2"^^xsd:double"
+       },
+       {
+       "object": "Aleksey_Chirikov_(icebreaker) ",
+       "property": " shipBeam ",
+       "subject": " "21.2"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id10"
+      }
+},
+{
+   5: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 is assembled in the United Kingdom and has an engine volume of 5.3 litres. The Aston Martin V8 and Aston Martin DBS are a related means of transport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 and the Aston Martin DBS are related means of transport. The V8 model is assembled in the United kingdom with a 5.3 litre engine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aston Martin V8 was assembled in the United Kingdom and has an engine volume of, 5.3 litres. The Aston Martin V8 and Aston Martin DBS are a related means of transport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aston_Martin_V8 ",
+   "property": " relatedMeanOfTransportation ",
+   "subject": " Aston_Martin_DBS"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aston_Martin_V8 ",
+       "property": " related ",
+       "subject": " Aston_Martin_DBS"
+       },
+       {
+       "object": "Aston_Martin_V8 ",
+       "property": " related ",
+       "subject": " Aston_Martin_DBS"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   6: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, also known as Alfa Romeo 168, is considered a mid-size luxury executive car and has a 2.5 litre engine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, which has the alternative name of Alfa Romeo 168, is considered a mid-size luxury executive car and has a 2.5 litre engine.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " alternativeName ",
+   "subject": " "Alfa Romeo 168""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfa_Romeo_164 ",
+     "property": " aka ",
+     "subject": " "Alfa Romeo 168"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id111"
+      }
+},
+{
+   7: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, assembled in Italy, is a related mode of transport to the Saab 9000 and Lancia Thema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, assembled in Italy, is related to the Saab 9000 and the Lancia Thema.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164 is assembled in Italy. It is a similar means of transport as the Saab 9000 and Lancia Thema.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " assembly ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfa_Romeo_164 ",
+     "property": " assembly ",
+     "subject": " Italy"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id112"
+      }
+},
+{
+   8: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164's assembly line is in Italy, where the capital is Rome. The Alfa Romeo 164 and the Saab 9000 are related means of transport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, similar to the Saab 9000, was assembled in Italy, whose capital is Rome.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rome is the capital of Italy, the country where the Alfa Romeo 164 is assembled. The Alfa Romeo 164 and the Saab 9000 are related means of transport in that they are both cars.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " assembly ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " assembly ",
+       "subject": " Italy"
+       },
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " assembly ",
+       "subject": " Italy"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id113"
+      }
+},
+{
+   9: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164 is assembled in Milan and is a related means of transportation to the Saab 9000 and the Lancia Thema as they are all cars.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Milan is the location of the plant that makes the Alfa Romeo which is similar to the Alfa Romeo 164 and the Lancia Thema. The Alfa Romeo 164 is also related to the Saab 9000 car.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " assembly ",
+   "subject": " Milan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfa_Romeo_164 ",
+     "property": " assembly ",
+     "subject": " Milan"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id114"
+      }
+},
+{
+   10: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Milan's saint is Ambrose and the city is the assembly point for the Alfa Romeo 164 - a related type of transport to the Lancia Thema.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164 and the Lancia Thema are related means of transport. The Alfa Romeo 164 is assembled in Milan, a city whose patron saint is Ambrose.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " assembly ",
+   "subject": " Milan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " assembly ",
+       "subject": " Milan"
+       },
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " assembly ",
+       "subject": " Milan"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id115"
+      }
+},
+{
+   11: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, or "Alfa Romeo 168". is an executive car with a straight-four engine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, also known as the Alfa Romeo 168, is an executive class car which has a straight-four engine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alfa Romeo 164, or Alfa Romeo 168, a straight-four engine, is in the executive class.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfa_Romeo_164 ",
+   "property": " class ",
+   "subject": " Executive_car"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " class ",
+       "subject": " Executive_car"
+       },
+       {
+       "object": "Alfa_Romeo_164 ",
+       "property": " class ",
+       "subject": " Executive_car"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id116"
+      }
+},
+{
+   12: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Quattro Gmbh is a subsidiary of Audi who were founded by August Horch and made the Audi A1.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Quattro Gmbh is a subsidiary of Audi, which was founded by August Horch and is the manufacturer of the Audi A1.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Audi A1 is made by Audi and Quattro Gmbh is a subsidiary. August Horch founded Audi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Audi_A1 ",
+   "property": " manufacturer ",
+   "subject": " Audi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Audi_A1 ",
+     "property": " manufacturer ",
+     "subject": " Audi"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id190"
+      }
+},
+{
+   13: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Illinois with a key person called Douglas R. Oberhelman is the Caterpillar Co. AIDAluna is powered by Caterpillar Inc.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDAluna is powered by Caterpillar Inc located in Illinois where Douglas R Oberhelman is a key person.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDAluna is powered by Illinois based Caterpillar Inc where the key person is Douglas R. Oberhelman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Caterpillar_Inc. ",
+   "property": " keyPerson ",
+   "subject": " Douglas_R._Oberhelman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Caterpillar_Inc. ",
+     "property": " keyPerson ",
+     "subject": " Douglas_R._Oberhelman"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id193"
+      }
+},
+{
+   14: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Caterpillar Inc. of Peoria, Illinois includes key figure Douglas R Oberhelman and powers AIDAluna.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The engine that powers the AIDAluna is from Caterpillar Inc who are located in Peoria, Illinois and have Douglas R Oberhelman among their key staff.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDAluna is powered by Caterpillar Inc, based in Peoria, Illinois. The key person of Caterpillar Inc. is Douglas R. Oberhelman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Caterpillar_Inc. ",
+   "property": " keyPerson ",
+   "subject": " Douglas_R._Oberhelman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Caterpillar_Inc. ",
+     "property": " keyPerson ",
+     "subject": " Douglas_R._Oberhelman"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id194"
+      }
+},
+{
+   15: {
+   "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The DeSoto is related to the Dodge Coronet and 1955 Dodge, and is made by the DeSoto co.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The DeSoto Custom was manufactured at DeSoto and is a similar means of transportation as the Dodge Coronet and the 1955 Dodge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The DeSoto Custom (made by DeSoto Custom) and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "DeSoto_Custom ",
+   "property": " relatedMeanOfTransportation ",
+   "subject": " Dodge_Coronet"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "DeSoto_Custom ",
+       "property": " related ",
+       "subject": " Dodge_Coronet"
+       },
+       {
+       "object": "1955_Dodge ",
+       "property": " related ",
+       "subject": " DeSoto_Custom"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id197"
+      }
+}

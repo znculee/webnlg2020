@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | party | "Parti Bumiputera Sarawak"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | party | "Parti Bumiputera Sarawak"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdul Taib Mahmud belongs to the party of Parti Bumiputera Sarawak.</lex>
+      <lex comment="good" lid="Id2">Abdul Taib Mahmud is a member of the Parti Bumiputera Sarawak Party.</lex>
+    </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | primeminister | Antonis_Samaras</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | primeMinister | Antonis_Samaras</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis was in office while Antonis Samaras was Prime Minister.</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis was in office under Antonis Samaras, Prime Minister.</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis served in office while Antonis Samaras was Prime Minister.</lex>
+    </entry>
+    <entry category="Politician" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Agnes Kant was born in Hessisch Oldendorf.</lex>
+    </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agnes_Ward_White | placeOfBirth | Marietta,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Marietta, Ohio was the birthplace of Agnes Ward White.</lex>
+      <lex comment="good" lid="Id2">Agnes Ward White was born in Marietta, Ohio.</lex>
+      <lex comment="good" lid="Id3">The birthplace of Agnes Ward White is Marietta, Ohio.</lex>
+    </entry>
+    <entry category="Politician" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The spouse of Albert B. White was Agnes Ward White.</lex>
+      <lex comment="good" lid="Id2">Albert B. White is married to Agnes Ward White.</lex>
+      <lex comment="good" lid="Id3">Agnes Ward White was the wife of Albert B. White.</lex>
+    </entry>
+    <entry category="Politician" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | profession | "Rear Admiral in the Argentine Navy"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | profession | "Rear Admiral in the Argentine Navy"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alberto Teisaire was a Rear Admiral in the Argentine Navy.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire was Rear Admiral in the Argentine Navy.</lex>
+    </entry>
+    <entry category="Politician" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | activeYearsStartDate | "1875-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | activeYearsStartDate | 1875-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales started his career on 1875-03-04.</lex>
+    </entry>
+    <entry category="Politician" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | American_Civil_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | American_Civil_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | American_Civil_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett fought in battles in the American Civil War.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the American Civil War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | Battle_of_Salem_Church</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_Salem_Church</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_Salem_Church</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett fought in the Battle of Salem Church.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of Salem Church.</lex>
+    </entry>
+    <entry category="Politician" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | birthPlace | Greene,_Maine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | birthPlace | Greene,_Maine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett was born in Greene, Maine.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett was born in Greene Maine.</lex>
+      <lex comment="good" lid="Id3">The birth place of Aaron S. Daggett is Greene, Maine.</lex>
+    </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett was born in Maine.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett was born in Maine.</lex>
+      <lex comment="good" lid="Id3">Maine is the birth place of Aaron S. Daggett.</lex>
+    </entry>
+    <entry category="Politician" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | deathPlace | Massachusetts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | deathPlace | Massachusetts</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett's place of death was Massachusetts.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett died in Massachusetts.</lex>
+    </entry>
+    <entry category="Politician" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | deathPlace | West_Roxbury</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | deathPlace | West_Roxbury</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett died in West Roxbury.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett died in West Roxbury.</lex>
+    </entry>
+    <entry category="Politician" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ab Klink's Alma mater is Erasmus University Rotterdam.</lex>
+      <lex comment="good" lid="Id2">The alma mater of Ab Klink is Erasmus University in Rotterdam.</lex>
+      <lex comment="good" lid="Id3">Ab Klink attended Erasmus University Rotterdam.</lex>
+    </entry>
+    <entry category="Politician" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | birthPlace | Stellendam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Stellendam was the birthplace of Ab Klink.</lex>
+      <lex comment="good" lid="Id2">Ab Klink was born in Stellendam.</lex>
+    </entry>
+    <entry category="Politician" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ab_Klink | nationality | Netherlands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ab Klink is a national of the Netherlands.</lex>
+      <lex comment="good" lid="Id2">Ab Klink is from the Netherlands.</lex>
+    </entry>
+    <entry category="Politician" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | office (workedAt, workedAs) | "Member of the House of Representatives"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ab Klink worked as a Member of the House of Representatives.</lex>
+    </entry>
+    <entry category="Politician" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ab_Klink | office | "Member of the Senate"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | office (workedAt, workedAs) | "Member of the Senate"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ab Klink worked as a member of the senate.</lex>
+    </entry>
+    <entry category="Politician" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdul Taib Mahmud is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
+      <lex comment="good" lid="Id2">Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party.</lex>
+    </entry>
+    <entry category="Politician" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | vicePresident | Mike_Akhigbe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar was in office while Mike Akhigbe was the Vice President.</lex>
+      <lex comment="good" lid="Id3">Abdulsalami Abubakar was in office whilst Mike Akhigbe was Vice President.</lex>
+    </entry>
+    <entry category="Politician" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Caballero | primeminister | Felipe_González</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Caballero was in office while Felipe González was Prime Minister.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was in office while Felipe Gonzalez was Prime Minister.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero was in office when Felipe Gonzalez was Prime Minister.</lex>
+    </entry>
+    <entry category="Politician" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal's date of birth is 11 - 04 - 1921.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born on the 11th April 1921.</lex>
+    </entry>
+    <entry category="Politician" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal represented Connecticut's 4th Congressional District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | birthPlace | Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | birthPlace | Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff's place of birth was Connecticut.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in Connecticut.</lex>
+    </entry>
+    <entry category="Politician" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | nationality | "American"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff's nationality is American.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was a national of the United States.</lex>
+      <lex comment="good" lid="Id3">The nationality of Abraham A. Ribicoff was American.</lex>
+    </entry>
+    <entry category="Politician" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | office | "Governor of Connecticut"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | office (workedAt, workedAs) | "Governor of Connecticut"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abraham A Ribicoff worked as Governor of Connecticut.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was the Governor of Connecticut.</lex>
+    </entry>
+    <entry category="Politician" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John N Dempsey was preceded by Abraham A Ribicoff.</lex>
+      <lex comment="good" lid="Id2">The successor of Abraham A. Ribicoff was John N. Dempsey.</lex>
+    </entry>
+    <entry category="Politician" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | battles | Gulf_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Holloway | battle | Gulf_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | battles | Gulf_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway was involved in Gulf War battles.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway fought in the Gulf War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | birthPlace | "Faversham, Kent, England"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | birthPlace | "Faversham, Kent, England"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway was born in Faversham Kent, England.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham, Kent, England.</lex>
+    </entry>
+    <entry category="Politician" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | birthPlace | Faversham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | birthPlace | Faversham</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Faversham was the birthplace of Adam Holloway.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham.</lex>
+    </entry>
+    <entry category="Politician" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | militaryBranch | Grenadier_Guards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Holloway | branch | Grenadier_Guards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | militaryBranch | Grenadier_Guards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway was in the Grenadier Guards in the military.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway served in the Grenadier Guards.</lex>
+    </entry>
+    <entry category="Politician" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | nationality | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | nationality | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway is from the United Kingdom.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway is a national of the United Kingdom.</lex>
+    </entry>
+    <entry category="Politician" eid="Id99" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | battles | World_War_I</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | battle | World_War_I</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | battles | World_War_I</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc fought in World War I.</lex>
+      <lex comment="good" lid="Id2">Adam Koc fought in WWI.</lex>
+    </entry>
+    <entry category="Politician" eid="Id100" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | birthPlace | Congress_Poland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | birthPlace | Congress_Poland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc was born in Congress in Poland.</lex>
+      <lex comment="good" lid="Id2">Adam Koc was born in Congress Poland.</lex>
+    </entry>
+    <entry category="Politician" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | birthPlace | Suwałki</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | birthPlace | Suwałki</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The birth place of Adam Koc was Suwalki.</lex>
+      <lex comment="good" lid="Id2">Adam Koc was born in Suwałki.</lex>
+      <lex comment="good" lid="Id3">The birth place of Adam Koc is Suwalki.</lex>
+    </entry>
+    <entry category="Politician" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | nationality | Poland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | nationality | Poland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc's nationality is Poland.</lex>
+      <lex comment="good" lid="Id2">Adam Koc is of Polish nationality.</lex>
+      <lex comment="good" lid="Id3">Adam Koc nationality is Polish.</lex>
+    </entry>
+    <entry category="Politician" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Japanese Occupation of British Borneo is the birth place of Adenan Satem.</lex>
+      <lex comment="good" lid="Id2">Japanese occupation Of British Borneo was the birthplace of Adenan Satem.</lex>
+    </entry>
+    <entry category="Politician" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adenan_Satem | governor | Abdul_Taib_Mahmud</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adenan_Satem | inOfficeWhileVicePresident | Abdul_Taib_Mahmud</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adenan Satem was in office during the time Abdul Taib Mahmud was Vice President.</lex>
+      <lex comment="good" lid="Id2">Adenan Satem was in office while Abdul Taib Mahmud was Vice President.</lex>
+      <lex comment="good" lid="Id3">Adenan Satem was in office at the same time as Abdul Taib Mahmud was President.</lex>
+    </entry>
+    <entry category="Politician" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolf_Schärf | birthPlace | Austria-Hungary</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolf_Schärf | birthPlace | Austria-Hungary</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adolf Schärf was born in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id2">Adolf Scharf was born in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id3">Austria-Hungary is the birthplace of Adolf Scharf.</lex>
+    </entry>
+    <entry category="Politician" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | placeOfBirth | Athens</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | birthPlace | Athens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | birthPlace | Athens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis was born in Athens.</lex>
+    </entry>
+    <entry category="Politician" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | office | "Minister for Health"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | office (workedAt, workedAs) | "Minister for Health"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis worked as Minister for Health.</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis held office as the Minister for Health.</lex>
+    </entry>
+    <entry category="Politician" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | office | "Spokesman ofPopular Orthodox Rally"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | office (workedAt, workedAs) | "Spokesman of Popular Orthodox Rally"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis worked for the office of the Spokesman of Popular Orthodox Rally.</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis held office as "Spokesman of Popular Orthodox Rally".</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis worked as the Spokesman of Popular Orthodox Rally.</lex>
+    </entry>
+    <entry category="Politician" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | office | "Vice-President of New Democracy"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | office (workedAt, workedAs) | "Vice-President of New Democracy"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis works at office as "Vice-President of New Democracy".</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis held the office "Vice-President of New Democracy".</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis was the Vice President of New Democracy.</lex>
+    </entry>
+    <entry category="Politician" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | office | Ministry_of_Health_(Greece)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | office (workedAt, workedAs) | Ministry_of_Health_(Greece)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adonis Georgiadis worked at the Ministry of Health in Greece.</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis worked at the Greek Ministry of Health.</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis worked in the Ministry of Health in Greece.</lex>
+    </entry>
+    <entry category="Politician" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | battle | Battle_of_France</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airey_Neave | battles | Battle_of_France</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | battles | Battle_of_France</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Airey Neave was involved in the Battle of France.</lex>
+      <lex comment="good" lid="Id2">Airey Neave fought in the Battle of France.</lex>
+    </entry>
+    <entry category="Politician" eid="Id134" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | birthPlace | Knightsbridge</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Airey Neave was born in Knightsbridge.</lex>
+      <lex comment="good" lid="Id2">Knightsbridge is the birthplace of Airey Neave.</lex>
+    </entry>
+    <entry category="Politician" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | unit | Royal_Artillery</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | unit | Royal_Artillery</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Airey Neave's unit was the Royal Artillery.</lex>
+      <lex comment="good" lid="Id2">Airey Neave served in the Royal Artillery Unit.</lex>
+    </entry>
+    <entry category="Politician" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albert_B._White | activeYearsEndDate | "1905-03-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | activeYearsEndDate | 1905-03-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albert B. White finished his career on March 4th 1905.</lex>
+    </entry>
+    <entry category="Politician" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albert_B._White | dateOfBirth | "1856-09-22"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | birthDate | 1856-09-22</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albert B White was born on 22nd September 1856.</lex>
+      <lex comment="good" lid="Id2">Albert B White was born 1856-09-22.</lex>
+      <lex comment="good" lid="Id3">Albert B. White was born 22nd September 1856.</lex>
+    </entry>
+    <entry category="Politician" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfons Gorbach was born in the County of Tyrol.</lex>
+      <lex comment="good" lid="Id2">The birth place of Alfons Gorbach is County of Tyrol.</lex>
+    </entry>
+    <entry category="Politician" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales came from the U.S.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales lives in the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id190" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was Governor of North Carolina.</lex>
+    </entry>
+    <entry category="Politician" eid="Id191" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales is a member of the Democratic Party in the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Daniel Gould Fowle suceeded Alfred Moore Scales.</lex>
+      <lex comment="good" lid="Id2">Daniel Gould Fowle is the successor to Alfred Moore Scales.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales was succeeded by Daniel Gould Fowle.</lex>
+    </entry>
+    <entry category="Politician" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | James_Madison_Leach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The successor of Alfred Moore Scales was James Madison Leach.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was succeeded by James Madison Leach.</lex>
+      <lex comment="good" lid="Id3">The successor to Alfred Moore Scales was James Madison Leach.</lex>
+    </entry>
+    <entry category="Politician" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales's successor was the politician, James W. Reid.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was succeeded by the politician James W Reid.</lex>
+    </entry>
+    <entry category="Politician" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | activeYearsEndDate | "1939-01-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | activeYearsEndDate | 1939-01-03</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred N Phillips retired on the date 1939-01-03.</lex>
+    </entry>
+    <entry category="Politician" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | birthPlace | Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | birthPlace | Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred N. Phillips was born in Connecticut.</lex>
+      <lex comment="good" lid="Id2">Connecticut was the birthplace of Alfred N Phillips.</lex>
+    </entry>
+    <entry category="Politician" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was Governor of Texas.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers worked as the Governor of Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Battle of Gettysburg was part of the American Civil War conflict.</lex>
+      <lex comment="good" lid="Id2">The Battle of Gettysburg took place during the American Civil War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id284" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Army | battle | American_Revolutionary_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Army | battles | American_Revolutionary_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Army | battles | American_Revolutionary_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States Army was involved in battles of the American Revolutionary War.</lex>
+      <lex comment="good" lid="Id2">The U.S. Army battled in the American Revolutionary War.</lex>
+      <lex comment="good" lid="Id3">The United States Army battled in the American Revolutionary War.</lex>
+    </entry>
+  </entries>
+</benchmark>

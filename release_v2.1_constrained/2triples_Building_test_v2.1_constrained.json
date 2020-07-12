@@ -1,0 +1,863 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace cost 120 million Australian dollars and has 50 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace has 50 floors and cost 120 million Australian dollars.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " cost ",
+   "subject": " "120 million (Australian dollars)""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " floorCount ",
+       "subject": " 50"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "A$120 million"@en"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "A$120 million"@en"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " cost ",
+       "subject": " "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id10"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St. Georges Terrace is located in Perth, Australia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 108 St. Georges Terrace is located in Perth, Australia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " location ",
+   "subject": " Perth"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "108_St_Georges_Terrace ",
+     "property": " location ",
+     "subject": " Perth"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 11 Diagonal Street, completed in 1983, was Helmut Jahn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Completed in 1983, the architect of 11 Diagonal Street was Helmut Jahn.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was designed by Helmut Jahn and completed in 1983.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " completionDate ",
+   "subject": " 1983"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " architect ",
+       "subject": " Helmut_Jahn"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " buildingEndDate ",
+       "subject": " "1983""
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, where there is an ethnic group of Asian South Africans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is found in South Africa where one of the ethnic groups is Asian South Africans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There is an ethnic group of Asian South Africans and the address 11 Diagonal Street is also located in South Africa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa where white South Africans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa where White South Africans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, which has Cyril Ramaphosa as a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, a country led by Cyril Ramaphosa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa, the country that has Cyril Ramaphosa as one of its leaders.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, where the leader is called Jacob Zuma.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jacob Zuma is the leader of South Africa which is also the location of 11 Diagonal Street.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa, which is led by Jacob Zuma.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " location ",
+       "subject": " South_Africa"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id20"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square, completed in 1985, has a floor count of 45.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square finished in 1985 has 45 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square was completed in 1985 and has 45 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " "45"^^xsd:positiveInteger"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id21"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square, which has 45 floors, is located in Cleveland, Ohio 44114.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 45 floors of 200 Public Square in Cleveland, Ohio, 44114.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square, which has a floor count of 45, is located in Cleveland, Ohio 44114.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " "Cleveland, Ohio 44114"@en"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street has a floor area of 62145.3 square metres and was begun in January 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Construction of 20 Fenchurch Street began in January 2009 and the building has a floor area of 62145.3 square metres.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " buildingStartDate ",
+   "subject": " "January 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square meters.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street, with a floor area of 62145.3 square metres, was completed in April of 2014.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " completionDate ",
+   "subject": " "April 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " floorArea ",
+       "subject": " "Offices:"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building is 121.92 metres tall and has 22 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building has a height of 121.92 metres and has 22 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building is 121.92 metres and has 22 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " height ",
+   "subject": " 121.92 (metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " floorCount ",
+       "subject": " "22"^^xsd:positiveInteger"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " height ",
+       "subject": " "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " height ",
+       "subject": " "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id59"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in Asser Levy Place on East 23rd Street and were built in 1904.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths, built in 1904, are located on Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths (constructed in 1904) is in Asser Levy Place and East 23rd Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " "Asser Levy Place and East 23rd Street""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " "Asser Levy Place and East 23rd Street"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id149"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "T S Thakur is the leader of India; also the location of Amdavad ni Gufa.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " T._S._Thakur"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id163"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " foundationPlace ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " foundation ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " foundationPlace ",
+       "subject": " Washington,_D.C."
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " foundationPlace ",
+       "subject": " Washington,_D.C."
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id164"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethesda, Maryland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " location ",
+   "subject": " Bethesda,_Maryland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " location ",
+       "subject": " Bethesda,_Maryland"
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " location ",
+       "subject": " Bethesda,_Maryland"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id165"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in Alan B Miller Hall in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mason_School_of_Business ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mason_School_of_Business ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id166"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, in which English is the main language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language of the United States, where 250 Delaware Avenue is located.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States where they speak the English language.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id167"
+      }
+},
+{
+   19: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States, which is led by Joe Biden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in the United States where Joe Biden is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderName ",
+     "subject": " Joe_Biden"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id168"
+      }
+}

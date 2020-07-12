@@ -1,0 +1,291 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States 11th Mississippi Infantry Monument's location is Adams County, Pennsylvania, northwest of Carroll County Maryland.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11th_Mississippi_Infantry_Monument ",
+   "property": " country ",
+   "subject": " "United States""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11th_Mississippi_Infantry_Monument ",
+     "property": " country ",
+     "subject": " "United States"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania, in Adams County, which has Carroll County, Maryland to its southeast.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg, Adams County, Pennsylvania, northwest of Carroll County Maryland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its southeast ",
+   "subject": " Carroll_County,_Maryland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " southeast ",
+     "subject": " Carroll_County,_Maryland"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ataturk Monument (Izmir) can be found in Turkey, where the capital is Ankara and leader is Ahmet Davutoglu.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Davutoglu is a leader from Turkey whose capital is Ankara and where the Ataturk Monument can be found in Izmir.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument (İzmir) is found in Turkey, where the capital is Ankara and the leader is Ahmet Davutoğlu.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Turkey ",
+   "property": " leaderName ",
+   "subject": " Ahmet_Davutoğlu"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Turkey ",
+     "property": " leaderName ",
+     "subject": " Ahmet_Davutoğlu"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id5"
+      }
+},
+{
+   4: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Franklin County Pennsylvania is to the west and Frederick County to the south west.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Adams County Pennsylvania, between Franklin County to the west and Frederick County to the southwest.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   5: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan. At present Artur Rasizade is the leader of the country.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " leader ",
+   "subject": " Artur_Rasizade"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " leader ",
+     "subject": " Artur_Rasizade"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   6: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to Ottoman Army soldiers killed in the Battle of Baku.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial in Azerbaijan, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " dedicatedTo ",
+   "subject": " "Ottoman Army soldiers killed in the Battle of Baku""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " dedicatedTo ",
+     "subject": " "Ottoman Army soldiers killed in the Battle of Baku"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id3"
+      }
+},
+{
+   7: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Azerbaijan, where the leader is Artur Rasizade, is the location of the Baku Turkish Martyrs Memorial. The memorial was designed by Huseyin Butuner and Hilmi Guner.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the leader is Artur Rasizade.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " location ",
+   "subject": " Azerbaijan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " location ",
+     "subject": " Azerbaijan"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id4"
+      }
+},
+{
+   8: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner, and is located in Azerbaijan, where it is called Turk Sehitleri Aniti.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baku_Turkish_Martyrs'_Memorial ",
+   "property": " location ",
+   "subject": " Azerbaijan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baku_Turkish_Martyrs'_Memorial ",
+     "property": " location ",
+     "subject": " Azerbaijan"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id5"
+      }
+}

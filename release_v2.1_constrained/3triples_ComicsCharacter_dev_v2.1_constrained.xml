@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Walt Disney Studios Motion Pictures distributed Big Hero 6, a film starring Scott Adsit in which Baymax first appeared.</lex>
+      <lex comment="good" lid="Id2">The first appearance in a film for the character Baymax was Big Hero 6, distributed by Walt Disney Studios Motion Pictures, the film starred Scott Adsit.</lex>
+      <lex comment="good" lid="Id3">Walt Disney Studios Motion Pictures is the distributor of the film, Big Hero 6 starring Scott Adsit and in which Baymax made his first film appearance.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The film, Big hero 6 which includes the character of Baymax, stars Scott Adsit and is distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex comment="good" lid="Id2">The film, Big Hero 6 stars Scott Adsit and includes the character Baymax. It was distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex comment="good" lid="Id3">Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and starts Scott Adsit and has a character called Baymax.</lex>
+    </entry>
+  </entries>
+</benchmark>

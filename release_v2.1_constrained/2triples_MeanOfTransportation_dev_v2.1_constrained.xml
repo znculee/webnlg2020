@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alvis Speed 25 was made by the Alvis Car and Engineering Company of Coventry.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company, which is located in Coventry.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__6</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "and all-syncromesh, centre change lever, open tubular propellor shaft"</otriple>
+        <otriple>Alvis_Speed_25 | engine | 137</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a straight-six engine and an impressive transmission, possessing a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id2">Alvis Speed 25 has a straight-six engine and has a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">Alvis Speed 25 has a straight-six engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors, who made the AMC Matador, was succeeded by Eagle.</lex>
+      <lex comment="good" lid="Id2">The AMC Matador is made by American Motors who were succeeded by Eagle.</lex>
+      <lex comment="good" lid="Id3">AMC Matador was manufactured by American Motors who were succeeded by Eagle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Argentina | leader | Gabriela_Michetti</otriple>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Argentina | leaderName | Gabriela_Michetti</mtriple>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ARA Veinticinco de Mayo (V-2) comes from Argentina where Gabriela Michetti is the leader.</lex>
+      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) comes from Argentina which is led by Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo (V-2) is from Argentina whose leader is Gabriela Michetti.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 - assembled in the United Kingdom - and Aston Martin RHAM/1 are related means of transportation.</lex>
+      <lex comment="good" lid="Id2">Aston Martin V8 was made in the UK. The Aston Martin V8 is connected to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is similar to the RHAM/1 and is assembled in the UK.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aston Martin DBS is a related means of transport to the Aston Martin V8, which was succeeded by the Aston Martin Virage.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 (which was succeeded by the Aston Martin Virage) and the Aston Martin DBS are a related means of transport.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is connected to the Aston Martin DBS and was succeded by the Aston Martin Virage.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+        <otriple>Aston_Martin_Virage | manufacturer | Aston_Martin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+        <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 was succeeded by the Aston Martin Virage which is made by the company Aston Martin.</lex>
+      <lex comment="good" lid="Id2">Aston Martin Virage succeeded the Aston Martin V8 and is manufactured by Aston Martin.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin Virage which was manufactured by Aston Martin, was succeeded the Aston Martin V8.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 230</otriple>
+        <otriple>1955_Dodge | bodyStyle | Convertible</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | 230 (cubic inches)</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Convertible</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge is a convertible with a 230 cubic inch engine.</lex>
+      <lex comment="good" lid="Id2">The 1955 Dodge convertible's engine size is 230 cubic inches.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge is a convertible and has a 230 cubic inch engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 230</otriple>
+        <otriple>1955_Dodge | bodyStyle | Hardtop</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | 230 (cubic inches)</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Hardtop</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge has a hardtop and it engine is 230 cubic inches.</lex>
+      <lex comment="good" lid="Id2">The 1955 Dodge, has an engine size of 230 cubic inches and a hardtop.</lex>
+      <lex comment="good" lid="Id3">The engine size in the 1955 Dodge is 230 cubic inches and the vehicle has a hardtop.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 230</otriple>
+        <otriple>1955_Dodge | bodyStyle | Station_wagon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | 230 (cubic inches)</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Station_wagon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge, has a station wagon style body and an engine that is, 230 cubic inches.</lex>
+      <lex comment="good" lid="Id2">The 1955 Dodge station wagon has an engine that is 230 cubic inches.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge has an engine size of 230 cubic inches and a station wagon style body.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | "V8"@en</otriple>
+        <otriple>1955_Dodge | bodyStyle | Station_wagon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | AMC_V8_engine</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Station_wagon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge is station wagon with an AMC V8 engine.</lex>
+      <lex comment="good" lid="Id2">The 1955 Dodge has an AMC V8 engine and a station wagon style body.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge has an AMC V8 engine and is a station wagon.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__1</otriple>
+        <otriple>1955_Dodge | bodyStyle | Station_wagon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | Straight-six_engine</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Station_wagon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge has a straight six engine and a station wagon style body.</lex>
+      <lex comment="good" lid="Id2">The Dodge 1955 has a straight-six engine and a station wagon style body.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge has a station wagon style body and a straight-six engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
+        <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length and is powered by a MTU Friedrichshafen engine.</lex>
+      <lex comment="good" lid="Id2">The A-Rosa Luna is 125.8m long and is powered by MTU Friedrichshafen engines.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine and is 125.8 metres in length.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | topSpeed | "24.0"^^xsd:double</otriple>
+        <otriple>A-Rosa_Luna | shipDisplacement | "1850.0"^^&lt;http://dbpedia.org/datatype/tonne&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | shipDisplacement | 1.85e+09</otriple>
+        <otriple>A-Rosa_Luna | topSpeed | "24.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)</mtriple>
+        <mtriple>A-Rosa_Luna | topSpeed | 24.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24.0.</lex>
+      <lex comment="good" lid="Id2">The A-Rosa Luna weighs 1850 tonnes and has a top speed of 24.0.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AIDAluna | owner | AIDA_Cruises</otriple>
+        <otriple>AIDA_Cruises | location | Germany</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Germany</otriple>
+        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDA_Cruises | location | Germany</mtriple>
+        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDA Cruises, located in Germany, is the owner of the AIDAluna.</lex>
+      <lex comment="good" lid="Id2">AIDAluna are owned by AIDA Cruises who are located in Germany.</lex>
+      <lex comment="good" lid="Id3">AIDA Cruises is located in Germany who also own AIDAluna.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AIDAluna | owner | AIDA_Cruises</otriple>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDA_Cruises | location | Rostock</mtriple>
+        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDA Cruises are located at Rostock and are the owners of the AIDAluna.</lex>
+      <lex comment="good" lid="Id2">AIDA Cruises, who own AIDAluna, are found at Rostock.</lex>
+      <lex comment="good" lid="Id3">The owner of AIDAluna is AIDA Cruise which is located in Rostock.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDAstella | operator | AIDA_Cruises</otriple>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDA_Cruises | location | Rostock</mtriple>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The operator of AIDAstella is AIDA Cruises, they are located at Rostock.</lex>
+      <lex comment="good" lid="Id2">The ship AIDAstella is operated by AIDA Cruises, who are located at Rostock.</lex>
+      <lex comment="good" lid="Id3">AIDA Cruises is in Rostock and operates the ship AIDAstella.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id69" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors makes the AMC Matador where Roy D. Chapin Jr. is a key person.</lex>
+      <lex comment="good" lid="Id2">AMC Matador is manufactured by American Motors, where Roy D. Chapin Jr. is a key person.</lex>
+      <lex comment="good" lid="Id3">Roy D Chapin Jr is a key person at American Motors, which manufactures the AMC Matador.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | builder | Cammell_Laird</otriple>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | builder | Cammell_Laird</mtriple>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) comes from Argentina and is built by Cammell Laird.</lex>
+      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) was built by Cammell Laird and comes from Argentina.</lex>
+      <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo (V-2) is from Argentina and was built by Cammell Laird.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id71" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | length | "192.0"^^xsd:double</otriple>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | "24.4"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | length | 192000.0 (millimetres)</mtriple>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | 24.4</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long and has a ship beam which measures 24.4.</lex>
+      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) has a ship beam length of 24.4 and is 192000 mms long.</lex>
+      <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo V-2, at a length of 192000.0 millimetres, has ship's beam which measures 24.4.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id74" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abarth 1000 GT Coupé, a two door coupé, has a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupé has a straight-four engine and has a two door coupe body style.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé is a 2 door coupe with a straight-four engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With a Coupe bodystyle, the last Abarth 1000 GT Coupé rolled off the production line in 1958.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has a Coupe body style and the last one rolled off the production line in 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id83" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionStartYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Production of the two door coupe Abarth 1000 GT Coupe began in 1958.</lex>
+      <lex comment="good" lid="Id2">Two door coupe is the body style of the Abarth 1000 GT Coupé, whose production started in 1958.</lex>
+      <lex comment="good" lid="Id3">The production of the Abarth 1000 GT Coupe, a two door model, began in 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id84" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionStartYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT has a Coupé body style and its production began in 1958.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT has a coupe bodystyle and production began in 1958.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a Coupe body style and its production started in the Year, 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id85" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The wheelbase of the Abarth 1000 GT Coupe is 2160 millimetres and is a two door coupé.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe is a two door model and the wheelbase is 2160 mms.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe, has a wheelbase of 2160 millimetres and a two door coupe body style.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id86" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe has a Coupe body style and a 2160 millimetre wheelbase.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe is a coupe with a wheelbase measuring 2160mm.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT has a Coupé body style, and its wheelbase is 2160.0 millimetres.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id87" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe has a wheelbase of 2160 millimetres and a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has the straight four engine and a wheelbase of 2160 mms.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has the straight four engine and a wheelbase that measures, 2160 millimetres.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acura_TLX | assembly | Marysville,_Ohio</otriple>
+        <otriple>Acura_TLX | engine | Honda_K_engine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acura_TLX | assembly | Marysville,_Ohio</mtriple>
+        <mtriple>Acura_TLX | engine | Honda_K_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acura TLX is assembled in Marysville, Ohio has a Honda K engine.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX has a Honda K engine and was assembled in Marysville, Ohio.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id89" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acura_TLX | assembly | Marysville,_Ohio</otriple>
+        <otriple>Acura_TLX | engine | Acura_TLX__5</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acura_TLX | assembly | Marysville,_Ohio</mtriple>
+        <mtriple>Acura_TLX | engine | Inline-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acura TLX has an Inline-four engine and is assembled in Marysville, Ohio.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX is assembled in Marysville, Ohio and has an Inline-four engine.</lex>
+      <lex comment="good" lid="Id3">The Acura TLX has an Inline-four engine and was assembled in Marysville, Ohio.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id106" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Arese</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Arese</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfa Romeo 164 was made in Arese and is related to Lancia Thema.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, which was assembled in Arese, is a related transport of the Lancia Thema.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164 was made in Arese and is connectd to the Lancia Thema.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id107" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Arese</otriple>
+        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Arese</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, assembled inArese, and the Saab 9000 are related means of transport in that they are both cars.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, assembled in Arese, and the Saab 9000 are similar means of transport.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, assembled in Arese, and the Saab 9000 are similar vehicles.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id108" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 was assembled in Italy, both this vehicle and the Saab 9000 are cars.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, assembled in Italy, and the Saab 9000 are similar means of transport.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, which is assembled in Italy, and the Saab 9000 are related means of transport in that they are both cars.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id109" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfa Romeo 164, which is assembled in Milan, and Lancia Thema are related types of transportation.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 which is assembled in Milan is the related transport to the. Lancia Thema.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, which was assembled in Milan, and Lancia Thema are related types of transportation.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)</otriple>
+        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__2</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)</mtriple>
+        <mtriple>Alfa_Romeo_164 | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 is a sedan with a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 is a sedan and has a straight-four engine.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164 is a sedan with a straight four engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | assembly | Arese</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | assembly | Arese</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Arese assembled Alfa Romeo 164 and the Fiat Croma are related means of transportation.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, which was assembled in Arese, and the Fiat Croma are related means of transportation.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, made in Arese, and the Fiat Croma are very similar vehicles.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id112" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 is related to the Lancia Thema as well as the Fiat Croma are therefore all a related means of transportation.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, Lancia Thema and the Fiat Croma are both related and similar means of transport.</lex>
+      <lex comment="good" lid="Id3">The Lancia Thema is a realted transport to the Alfa Romeo 164 which in turn, is a similar means of transport to the Fiat Croma.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id113" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 and the Saab 9000 and the Fiat Croma are related means of transport in that they are all cars.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, the Fiat Croma and the Saab 9000 are all similar means of transport.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, Fiat Croma and the Saab 9000 are the same kind of means of transportation.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id114" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfa Romeo 164, Saab 9000 and Lancia Thema are all cars.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 is similar to the Saab 9000 and the Lancia Thema.</lex>
+      <lex comment="good" lid="Id3">Alfa Romeo 164 and the Saab 9000 are means of transportation that are similar. Lancia Thema and the Alfa Romeo 164 are related transport systems.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id125" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 is a full size luxury vehicle with a specialised transmission system, which comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full size luxury car with a specialised transmission system, which consists of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id126" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alvis Speed 25 is a full size car with a transmission system made of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id127" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "and all-syncromesh, centre change lever, open tubular propellor shaft"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | 31.48 tax horsepower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a 31.48 tax horsepower engine and an impressive transmission which possesses a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id2">With a 31.48 tax horsepower engine, the Alvis Speed 25, has a transmission system which comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 has an engine capable of producing 31.48 tax horsepower and the transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id128" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AMC Matador is made by American Motors and has The Wheel Horse Co. as its subsidiary.</lex>
+      <lex comment="good" lid="Id2">The Wheel Horse is a subsidiary of American Motors which makes the AMC Matador.</lex>
+      <lex comment="good" lid="Id3">Wheel Horse is a subsidiary of American Motors which makes the AMC Matador.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id129" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics Electric Boat. located in Groton, Connecticut, is the builder of the American submarine NR-1.</lex>
+      <lex comment="good" lid="Id2">General Dynamics Electric Boat in Groton, Connecticut built the American submarine NR-1.</lex>
+      <lex comment="good" lid="Id3">General Dynamics Electric Boat (located in Groton, CT), is the company that built the American submarine NR-1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id130" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a draft of 4.6m and a beam of 3.8m.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1 has a ship draft of 4.6m and a beam of 3.8 metres.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 has a ship draft of 4.6m and a beam of 3.8m.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id131" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m and was launched on January 25, 1969.</lex>
+      <lex comment="good" lid="Id2">The American sub NR-1 has a beam of 3.8m and was launched January 25th 1969.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 was launched on The 25th of January 1969 and it has a ship beam of 3.8 m.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id132" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a beam of 3.8m and a top speed of 8334 km/h.</lex>
+      <lex comment="good" lid="Id2">The American submarine, NR-1, has a top speed of 8.334 km/h and a ship beam of 3.8 m.</lex>
+      <lex comment="good" lid="Id3">The American sub NR-1 has a beam of 3.8m and a top speed of 8.334.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id133" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Antares rocket is similar with the Delta II from the U.S.</lex>
+      <lex comment="good" lid="Id2">The Antares rocket is similar to the Delta II rocket, the latter originates from the United States.</lex>
+      <lex comment="good" lid="Id3">The rocket Antares, is comparable to Delta II which originates from the United States.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id151" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+        <otriple>ELA-3 | operator | Arianespace</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
+        <mtriple>ELA-3 | operator | Arianespace</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Ariane 5 was launched at the ELA-3, operated by Arianespace.</lex>
+      <lex comment="good" lid="Id2">The launch site of the Ariane 5 was ELA-3 launchpad which is operated by Arianespace.</lex>
+      <lex comment="good" lid="Id3">The Ariane 5 was launched from ELA-3, operated by Arianespace.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id152" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ariane_5 | sites | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | manufacturer | "Airbus Defence and Space for"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
+        <otriple>Ariane_5 | sites | Guiana_Space_Centre</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
+        <mtriple>Ariane_5 | launchSite | Guiana_Space_Centre</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Ariane 5 which was manufactured by Airbus Defence and Space was launched from the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was manufactured by the Airbus Defence and Space and launched from the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id3">The Ariane 5 was manufactured by The Airbus Defence and Space and launched in Guiana Space Centre.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id157" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"</mtriple>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8, which is a related means of transport to the Aston Martin RHAM/1, was assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and is a related means of transport to the Aston Martin RHAM/1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id158" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | bodyStyle | Convertible</otriple>
+        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | bodyStyle | Convertible</otriple>
+        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | bodyStyle | Convertible</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is a convertible with a 5.3l engine.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 is a convertible with a 5.3 litre engine.</lex>
+      <lex comment="good" lid="Id3">5.3 litres is the engine volume of the Aston MArtin V8 which is a convertible.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id159" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | bodyStyle | Coupé</otriple>
+        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | bodyStyle | Coupé</otriple>
+        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | bodyStyle | Coupé</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is a Coupe with a 5.3 litre engine.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 has a 5.3 litre engine and its body style is the coupe.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8's body style is the Coupé and it has an engine volume of 5.3 litres.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id160" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | manufacturer | Aston_Martin</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | manufacturer | Aston_Martin</mtriple>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 was manufactured by Aston Martin and is a related means of transport to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 was manufactured by Aston Martin and is related to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id3">Aston Martin makes the Aston Martin V8 which is connected to the Aston Martin RHAM/1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_DBS | manufacturer | Aston_Martin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 and Aston Martin DBS (manufactured by Aston Martin) are a related means of transport.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 and DBS are similar and made by Aston Martin.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 and the Aston Martin DBS, manufactured by Aston Martin, are related means of transport.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id162" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_DBS | successor | Aston_Martin_Vantage</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_DBS | successor | Aston_Martin_Vantage</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 and Aston Martin DBS (later succeeded by the Aston Martin Vantage) are a related means of transport.</lex>
+      <lex comment="good" lid="Id2">Related means of transportation are the Aston Martin V8 and Aston Martin DBS, the latter is succeeded by the, Aston Martin Vantage.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 and the Aston Martin DBS are connected to each other, the Aston Martin Vantage succeeded by the Aston Martin DBS.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id163" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and is a related means of transport to the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8, which was assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and is a related means of transport to the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 and the Aston Martin DBS are similar vehicles. The former was built in Newport Pagnell, in Buckinghamshire, England, UK.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id167" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+        <otriple>Aston_Martin_V8 | assembly | Newport_Pagnell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | Newport_Pagnell</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin RHAM/1 is related to the Aston Martin V8, the assembly of which, is located in Newport Pagnell.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8, which is assembled at Newport Pagnell, is related to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8, which was assembled at Newport Pagnell, is related to the Aston Martin RHAM/1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_Virage | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin Virage which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 was succeeded by the Aston Martin Virage which is a related vehicle to the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 was succeeded by the Aston Martin Virage which is related to the Aston Martin DBS.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id173" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlas_II | countryOrigin | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Atlas II originates from the United States where the Native Americans are an ethnic group of the country.</lex>
+      <lex comment="good" lid="Id2">The Atlas II comes from the U.S. which have an ethnic group called Native Americans.</lex>
+      <lex comment="good" lid="Id3">The Atlas II is from the US which has an ethnic group called Native Americans.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id191" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDAluna, which is powered by Caterpillar Inc. is located in Peoria, Illinois.</lex>
+      <lex comment="good" lid="Id2">Caterpillar Inc. is located in Peoria, Illinois and their engine powers the AIDAluna.</lex>
+      <lex comment="good" lid="Id3">The power type of the AIDAluna is the Caterpillar Inc. engine, who are located in Peoria, Illinois.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id192" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | location | United_States</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | location | United_States</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Caterpillar Inc is in the US. The power type of the AIDAluna is the Caterpillar Inc. engine.</lex>
+      <lex comment="good" lid="Id2">The power type of the AIDAluna is the Caterpillar Inc. engine, who are located in the U.S.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id195" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>1955_Dodge | related | DeSoto_Custom</otriple>
+        <otriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>DeSoto_Custom | related | Dodge_Coronet</otriple>
+        <otriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</mtriple>
+        <mtriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 1955 Dodge, the DeSoto Custom, and the Dodge Coronet are similar and therefore related means of transport.</lex>
+      <lex comment="good" lid="Id2">The DeSoto is related to the Dodge Coronet, and the 1955 Dodge and the DeSoto Custom are related means of transportation.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge, DeSoto Custom and Dodge Coronet are all related.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id197" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
+        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Ariane 5 was launched from the ELA-3 launchpad which is found at the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id2">Ariane 5 was launched at ELA-3 at the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id3">The launch site of the Ariane 5 was ELA-3 launchpad at the Guiana Space Centre.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id198" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Fiat_Croma | related | Opel_Vectra</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, Opel Vectra and the Fiat Croma are related means of transportation.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 and the Fiat Croma (which is related to the Opel Vectra) are similar means of transport.</lex>
+      <lex comment="good" lid="Id3">Fiat Croma and Opel Vectra are connected. The Alfa Romeo 164 and the Fiat Croma are connected.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id199" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Fiat_Croma | related | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Saab_9000</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 and the Fiat Croma are similar means of transport and the latter is also related to the Saab 9000.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, Saab 9000 and the Fiat Croma are all cars and as such, are related means of transport.</lex>
+      <lex comment="good" lid="Id3">The Fiat Croma, which is a similar means of transport to the Alfa Romeo 164, is also a related means of transport to the Saab 9000.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id200" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Lancia_Thema | related | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+        <otriple>Lancia_Thema | relatedMeanOfTransportation | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lancia_Thema | relatedMeanOfTransportation | Saab_9000</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfa Romeo 164, Lancia Thema and the Saab 9000 are related types of transportation.</lex>
+      <lex comment="good" lid="Id2">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164.</lex>
+      <lex comment="good" lid="Id3">The Saab 9000 and the Lancia Thema are related vehicles. The Alfa Romeo 164 and Lancia Thema are also related means of transport.</lex>
+    </entry>
+  </entries>
+</benchmark>

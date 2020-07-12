@@ -1,0 +1,652 @@
+{
+   1: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vermicelli is an ingredient of the dish Bakso which comes from Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermicelli is included in the Indonesian dish of bakso.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermicelli is an ingredient in Bakso which is from Indonesia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " country ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " country ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   2: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Celery is a member of the Apiaceae family and is an ingredient of Bakso.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Celery, which is part of the Apiaceae family, is an ingredient of Bakso.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Celery is an ingredient of Bakso and is a member of the family Apiaceae.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " ingredient ",
+   "subject": " Celery"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " ingredient ",
+     "subject": " Celery"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id18"
+      }
+},
+{
+   3: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ingredient found in Bandeja paisa (typical Colombian cuisine) is Chicharrón.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicharrón is one of the ingredients in Colombian cuisine's Bandeja paisa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Traditional Colombian cuisine, Bandeja paisa, includes the ingredient, chicharron.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bandeja_paisa ",
+   "property": " ingredient ",
+   "subject": " Chicharrón"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bandeja_paisa ",
+     "property": " ingredient ",
+     "subject": " Chicharrón"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   4: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The main ingredients of binignit are sweet potatoes and banana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the main ingredients of Binignit is the sweet potato, and it also contains banana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of binignit are sweet potatoes and bananas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " mainIngredients ",
+   "subject": " Sweet_potato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " mainIngredient ",
+     "subject": " Sweet_potato"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   5: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mexico (led by Enrique Pena Nieto) boasts the dish Bionico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Enrique Pena Nieto is the leader of Mexico, where the food bionico is found.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico is a food found in Mexico where Enrique Pena Nieto is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " country ",
+   "subject": " Mexico"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bionico ",
+       "property": " country ",
+       "subject": " Mexico"
+       },
+       {
+       "object": "Bionico ",
+       "property": " country ",
+       "subject": " Mexico"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   6: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bionico requires granola as one of its ingredients and can be found in Guadalajara.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Granola is a required ingredient of the Guadalajara regional dish, Bionico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico, which contains granola, can be found in Guadalajara.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " region ",
+   "subject": " Guadalajara"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bionico ",
+     "property": " region ",
+     "subject": " Guadalajara"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   7: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bionico is served at the dessert course, as would cake be as a variation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bionico is a dish served for dessert as is cake.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A variation of cake is dessert and Bionico is one example of this.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dessert ",
+   "property": " dishVariation ",
+   "subject": " Cake"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dessert ",
+     "property": " hasVariant ",
+     "subject": " Cake"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   8: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tapioca is an ingredient in bakso which is made in China.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bakso is from the chinese cuisine and contains tapioca.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " ingredient ",
+   "subject": " Tapioca"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " ingredient ",
+     "subject": " Tapioca"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id149"
+      }
+},
+{
+   9: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tapioca is an ingredient in Bakso which comes from Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tapioca is an ingredient in bakso, a dish from the country of Indonesia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakso ",
+   "property": " ingredient ",
+   "subject": " Tapioca"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakso ",
+     "property": " ingredient ",
+     "subject": " Tapioca"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id150"
+      }
+},
+{
+   10: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bhajji comes from the Karnataka region and its leader is Vajubhai Vala.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji is from the Karnataka region where the leader is Vajubhai Vala.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Vajubhai Vala is the leader of Karnataka, where Bhajji originates from.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " region ",
+   "subject": " Karnataka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bhajji ",
+     "property": " region ",
+     "subject": " Karnataka"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id212"
+      }
+},
+{
+   11: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A variation of pakora can be achieved by adding paneer, pakora is related to bhajji.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pakora can be varied by using paneer, and is similar to the snacks Bhajjis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The dish bhajji is related to pakora which can be varied by using paneer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " related ",
+   "subject": " Pakora"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bhajji ",
+     "property": " related ",
+     "subject": " Pakora"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id213"
+      }
+},
+{
+   12: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bhajji resembles pakora and other fritters made from wheat or corn flour and includes vegetables.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji is like pakora and other fritters made from wheat or corn flour. The dish also includes vegetables.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pakora and other fritters made from wheat or corn flour are similar to bhajji which uses vegetables as one of the ingredients.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " similarDish ",
+   "subject": " "Pakora and other fritters made from wheat or corn flour""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bhajji ",
+     "property": " similarDish ",
+     "subject": " "Pakora and other fritters made from wheat or corn flour"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id214"
+      }
+},
+{
+   13: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Philippine dish of Binignit contains banana as an ingredient.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A dish found in the Philippines is binignit which contains bananas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id215"
+      }
+},
+{
+   14: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Binignit is a dish from the Philippines that contains coconut milk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The binignit dish, which has coconut milk as an ingredient, can be found in the Philippines.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id216"
+      }
+},
+{
+   15: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sago is one of the ingredients used to make Binignit, which can be found in the Philippines.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sago is an ingredient of Binignit which is a Philippine dish.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id217"
+      }
+},
+{
+   16: {
+   "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Binignit is a dish from the Philippines, whose ingredients include taro.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Taro is an ingredient of Binignit which comes from the Philippines.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Binignit is an ingredient found in taro and originates from the Philippines.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Binignit ",
+   "property": " country ",
+   "subject": " Philippines"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Binignit ",
+     "property": " country ",
+     "subject": " Philippines"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id218"
+      }
+}

@@ -1,0 +1,1508 @@
+{
+   1: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues artist Albennie Jones was born in the U.S., home to African Americans. R &amp; B has its roots in blues.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues artist Albennie Jones was born in the United States. R and B originated from the blues and among the ethnic groups in the U.S. are African Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group in the United States, where Albennie Jones was born. Albennie Jones performs in the rhythm and blues genre which originated from blues music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " ethnicGroup ",
+       "subject": " African_Americans"
+       },
+       {
+       "object": "United_States ",
+       "property": " ethnicGroup ",
+       "subject": " African_Americans"
+       },
+       {
+       "object": "United_States ",
+       "property": " ethnicGroup ",
+       "subject": " African_Americans"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id30"
+      }
+},
+{
+   2: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun is from the United States, where African Americans are one of the ethnic groups. His music genre are Rhythm and Blues in which Disco is a derivative.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues artist Ahmet Ertegun is from the U.S., home to African Americans. R &amp; B is the origin of disco.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Disco is a derivative of rhythm and blues, the musical genre of Ahmet Ertegun, who is from the United States; where African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmet_Ertegun ",
+   "property": " origin ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " origin ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id63"
+      }
+},
+{
+   3: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun from the U.S., plays rhythm and blues which originated from blues music. African Americans are one ethnic group from the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun, a rhythm and blues performer, is from the U.S. That type of music originates from blues. One ethnic group in the U.S. are African Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmet Ertegun, from the U.S. plays rhythm and blues music. That type of music came from blues. One ethnic group in the U.S. are African Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmet_Ertegun ",
+   "property": " origin ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Ahmet_Ertegun ",
+       "property": " origin ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id64"
+      }
+},
+{
+   4: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "USA born Al Anderson began his musical career in 1966. He plays with the band NRBQ and once performed with the Wildweeds.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in the United States, Al Anderson started his career in 1966. He was a member of The Wildweeds and now plays with the band, NRBQ.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson, born in the U.S. started playing in 1966 for the NRBQ band. He also once played with The Wildweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id65"
+      }
+},
+{
+   5: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays country music for the NRBQ band and he also played with The Wildweeds band. He started with the NRQB band in 1966.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson from NRBQ band started his career in 1966 and performs country music. Al Anderson (of the band NRBQ) played once with The Wildweeds.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Country musician Al Anderson has been performing country music since 1966, with such bands as NRBQ and The WIldweeds.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Anderson_(NRBQ band) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " NRBQ"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedBand ",
+       "subject": " NRBQ"
+       },
+       {
+       "object": "Al_Anderson_(NRBQ) ",
+       "property": " associatedMusicalArtist ",
+       "subject": " NRBQ"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id66"
+      }
+},
+{
+   6: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Solo singer Alfredo Zitarrosa records for RCA Records. He plays Candombe music and was born in Montevideo.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Candombe singer soloist, Alfredo Zitarrosa, is signed with RCA Records and was born in Montevideo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Montevideo born Alfredo Zitarrosa, a solo singer, is signed to RCA Records and performs the genre Candombe.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfredo_Zitarrosa ",
+   "property": " recordLabel ",
+   "subject": " RCA_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfredo_Zitarrosa ",
+       "property": " recordLabel ",
+       "subject": " RCA_Records"
+       },
+       {
+       "object": "Alfredo_Zitarrosa ",
+       "property": " recordLabel ",
+       "subject": " RCA_Records"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id127"
+      }
+},
+{
+   7: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa, born in Uruguay, is a musical artist in the genre Taquirari, whose background includes solo singing, and who is signed to the RCA Records label.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Singer Alfredo Zitarrosa is associated with Taquirari and was born in Uruguay. He is signed with RCA Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa, born in Uruguay, plays Taquirari music for RCA Records. He is a solo singer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfredo_Zitarrosa ",
+   "property": " recordLabel ",
+   "subject": " RCA_Records"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfredo_Zitarrosa ",
+     "property": " recordLabel ",
+     "subject": " RCA_Records"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id128"
+      }
+},
+{
+   8: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Montevideo, Alfredo Zitarrosa was signed to the RCA Records label. His background includes solo singing and his music genre is Milonga.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Montevideo and has a background as a solo singer. He played Milonga and was signed to the RCA Records label.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa, born in Montevideo, is a solo singer that plays Milonga music for RCA Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfredo_Zitarrosa ",
+   "property": " recordLabel ",
+   "subject": " RCA_Records"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfredo_Zitarrosa ",
+     "property": " recordLabel ",
+     "subject": " RCA_Records"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id129"
+      }
+},
+{
+   9: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell's career began in 1963 and her genre is folk music of Ireland. She is is an artist for the band Mellow Candle and was a member of the Flibbertigibbet band.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Former Flibbertigibbet band member Alison O'Donnell began performing in 1963 and is with Mellow Candle. O'Donnell is an Ireland Folk musician.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was a member of the Flibbertigibbet band and the Mellow Candle. Her genre is the folk music of Ireland and started performing in 1963.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Flibbertigibbet"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Flibbertigibbet"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Mellow_Candle"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id130"
+      }
+},
+{
+   10: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1963 was the beginning of folk musicain, Alison O'Donnell's active years. Alison O'Donnell is associated with the band Head South By Weaving and was a member of the Flibbertigibbet band.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was a member of the Flibbertigibbet band and is musically associated with the band Head South By Weaving. 1963 was the beginning of folk music performer Alison O'Donnell's active years.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Former Flibbertigibbet band folk musician Alison O'Donnell began in 1963 and is associated with Head South By Weaving.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Head_South_By_Weaving"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " associatedBand ",
+     "subject": " Head_South_By_Weaving"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id131"
+      }
+},
+{
+   11: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell began performing folk music in 1963. She played with Mellow Candle and Bajik bands.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, a folk singer, began her musical career in 1963 and played for the Mellow Candle band. She is associated with Bajik.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell started performing in 1963 and plays folk music. She was with the Mellow Candle and the Bajik bands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Mellow_Candle"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Bajik"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Mellow_Candle"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id132"
+      }
+},
+{
+   12: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Folk musician Alison O'Donnell began in 1963 and was a member of Mellow Candle and the Flibbertigibbet band.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell is a performer of folk music who began her career in 1963. She has been a member of the bands Mellow Candle and Flibbertigibbet.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Folk singer, Alison O'Donnell started performing in 1963 and is an artist for the band Mellow Candle after she was a member of the Flibbertigibbet band.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Mellow_Candle"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Mellow_Candle"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " associatedBand ",
+       "subject": " Flibbertigibbet"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id133"
+      }
+},
+{
+   13: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Folk rock artist Alison O'Donnell is signed with Floating World Records and Deram Record. London is the home of Deram Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays folk rock and is signed to Deram Records and Floating World Records. Deram Records is in London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays folk rock music and signed with Deram Record label and also Floating World Records. Deram Records is in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Folk_rock"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Folk_rock"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id134"
+      }
+},
+{
+   14: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Folk musician Alison O'Donnell is signed with the record label Deram Records, which is based in London. She is also signed to the record label Static Caravan Recordings.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, a folk rock musician, is signed with Deram Records and Static Caravan Recordings. Deram Records is in London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, whose musical genre is folk rock, was once signed to London based, Deram Records. Alison O'Donnell's record label is Static Caravan Recordings.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Folk_rock"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Folk_rock"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Folk_rock"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id135"
+      }
+},
+{
+   15: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jazz performer Alison O'Donnell has been signed to the record labels Kissing Spell Records and Deram Records, which is located in London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was once signed to Deram Records located in London. She is now signed to the record label Kissing Spell Records and performs jazz music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, who performs jazz music, has been signed to Kissing Spell Records and also to London based Deram Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Jazz"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id136"
+      }
+},
+{
+   16: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, who performs jazz music, has been signed to the record labels Osmosys Records and London based Deram Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jazz musician Alison O'Donnell is signed with Deram Records and Osmosys Records. London is the home of Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell performs jazz music and recorded under Osmosys Records. She also recorded with Deram Records which is based in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Jazz"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id137"
+      }
+},
+{
+   17: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jazz musician, Alison O'Donnell is signed with the recording labels Stanyan Records and Deram Records, in London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jazz musician Alison O'Donnell is with Stanyan Records and formerly with London bases, Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, who was once signed to London based, Deram Records, performs jazz music and is signed with the record label Stanyan Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Jazz"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Jazz"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id138"
+      }
+},
+{
+   18: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was once signed to Deram Records, which can be found in London. She plays jazz music and recorded with the Static Caravan Recordings.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell is a jazz musician who is signed to Deram Records which is based in London. Her record label is called Static Caravan Recordings.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, who plays jazz music, signed for record label Deram Records based in London, as well as Static Caravan Recordings.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Jazz"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Jazz"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Jazz"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id139"
+      }
+},
+{
+   19: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk musician Alison O'Donnell belongs to London label Deram Records and was formerly signed with Fruits de Mer Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk musician Alison O'Donnell has been signed to Fruits de Mer Records and also to London based Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was once signed to the record label Fruits de Mer Records and the London based Deram Records. Her genre is Psychedelic folk.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Psychedelic_folk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Psychedelic_folk"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id140"
+      }
+},
+{
+   20: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk singer Alison O'Donnell was signed with Stanyan Records and London based Deram Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk musician Alison O'Donnell is signed with London's Deram Records. O'Donnell was formerly signed with Stanyan Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk performer Alison O'Donnell records for London-based Deram Records and Stanyan Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Psychedelic_folk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " genre ",
+     "subject": " Psychedelic_folk"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id141"
+      }
+},
+{
+   21: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Musician Andrew White, is signed to London located, Polydor Records. Andrew White's genre is alternative rock which has its stylistic origin is punk rock.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in London, Polydor Records is the record label of musician Andrew White. His genre is alternative rock which has stylistic origins in Punk rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "London based Polydor Records are the record label Andrew White is with. His genre is alternative rock, which has its stylistic origins in Punk rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Polydor_Records ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Polydor_Records ",
+     "property": " location ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id214"
+      }
+},
+{
+   22: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alternative rock player Andrew White records for London-based Polydor Records. New Wave helped give rise to Alternative Rock.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White is a musician signed to Polydor Records which is in London. His musical genre is alternative rock which has origins in New wave music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White is a musician signed to Polydor Records which is located in London. Andrew White's genre is alternative rock which originated from new wave music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Polydor_Records ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Polydor_Records ",
+       "property": " location ",
+       "subject": " London"
+       },
+       {
+       "object": "Polydor_Records ",
+       "property": " location ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id215"
+      }
+},
+{
+   23: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner's musical genre is post-metal, which uses the cello. He has been a member of the bands Twilight and Greymachine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A member of the band Twilight, Aaron Turner is also associated with the group Greymachine. His genre is post-metal and one of the instruments used in this music is the cello.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The post metal instrument is a Cello, which is Aaron Turner's genre. He played with Twilight and Greymachine bands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id216"
+      }
+},
+{
+   24: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner played with the band Twilight and is now an artist for the band Isis. His genre is post-metal, which uses the cello.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Isis cellist Aaron Turner, previously played with the band Twilight. He can be described as a post metal performer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner plays post metal music for Twilight band and also played for Isis band. Cello is a post metal instrument.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id217"
+      }
+},
+{
+   25: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Post metal (which uses the Cello) musician Aaron Turner, formerly of Twilight, is with the Lotus Eaters.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner played with the band Twilight and the Lotus Eaters band and Post metal, which uses the cello, is his genre.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is a musician in the Lotus Eaters band and performed in Twilight in the past. He plays post-metal where cello is used as an instrument.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id218"
+      }
+},
+{
+   26: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Singer Al Anderson is a member of rock band NRBQ. Rock is derived from Blues and a fusion of rock is Bhangra.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Singer Al Anderson, is in the band NRBQ which plays Rock music. Having its origin in blues, rock music when musically fused is bhangra music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson, a singer for the band NRBQ, performs rock music. The Blues is a stylistic origin of rock music and partly coming form rock music is Bhangra, part of the fusion genre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id226"
+      }
+},
+{
+   27: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a singer in the band NRBQ and is a performer of rock music, which originated from country music. Bhangra music is part of the fusion genre, partly coming from rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a singer for the band NRBQ and they perform rock music. A musical fusion of rock music is bhangra music. Rock music came from country music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a singer for the rock band NRBQ. Rock originated in country music and also forms part of the fusion genre that is Bhangra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id227"
+      }
+},
+{
+   28: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson's genre is rock music. The genre originated from country music, a genre in which the banjo is an instrument. Bhangra is a musical fusion of rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is in NRBQ band, the genre of which, is Rock music. Rock music originated from country music which has the banjo as one of the instruments. The music Bhangra is part of the fusion genre, partly coming from Rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The genre of Al Anderson is rock music, which originated from country music, which itself is famous for using the banjo. Bhangra music is of the fusion genre and party comes from rock music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id228"
+      }
+},
+{
+   29: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram played for Kids Imagine Nation and currently for Suburban Legends. Brian Robertson is a member of Suburban Legends and they perform rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram is a member of rock band Suburban Legends (Trombonist Brian Robertson) and the Kids Imagine Nation band.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for Kids imagine nation band and also Suburban Legends whose musical genre is rock music and has Brian Robertson as trombonist.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Suburban_Legends ",
+   "property": " genre ",
+   "subject": " Rock_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Suburban_Legends ",
+       "property": " genre ",
+       "subject": " Rock_music"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id229"
+      }
+},
+{
+   30: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Trance musician Andrew Rayel is associated with artists Christian Burns and Bobina. Trance originates from House music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel whose musical genre is trance music, which originated in House music, is associated with the musical artists Bobina and Christian Burns.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel plays trance music which originated from house. He is associated with Bobina and Christian Burns.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Trance_music ",
+   "property": " stylisticOrigin ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Trance_music ",
+     "property": " stylisticOrigin ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id230"
+      }
+},
+{
+   31: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Singer Aaron Turner, has played with the band Twilight, the musical genre of which is black metal. Death metal is a musical fusion of black metal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner, who sings for a living, played with the band Twilight which plays black metal. Death metal is a musical fusion of black metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is a singer who played with the Twilight band. Death metal is a musical fusion of black metal which is their musical genre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Twilight_(band) ",
+     "property": " genre ",
+     "subject": " Black_metal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id231"
+      }
+},
+{
+   32: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, U.K. The leader in that country is Elizabeth II and the leader of Manchester is the Labour Party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, U.K., led by Elizabeth II and with the majority in the Labour Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, in the United Kingdom. The kingdom where the leaders are, Elizabeth II and the Labour Party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " Elizabeth_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " leader ",
+     "subject": " Elizabeth_II"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id232"
+      }
+},
+{
+   33: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albennie Jones was born in the United States where African Americans are an ethnic group. He performs rhythm and blues (disco is one of its derivative).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American-born Albennie Jones is a rhythm and blues performer which many decades later gave rise to disco. Among the ethnic groups in the country are African Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group in the United States, the country that Albennie Jones was born in. Jones performs rhythm and blues music, a style that contributed to the creation of disco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " ethnicGroup ",
+       "subject": " African_Americans"
+       },
+       {
+       "object": "United_States ",
+       "property": " ethnicGroup ",
+       "subject": " African_Americans"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id233"
+      }
+},
+{
+   34: {
+   "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo, the leader of which, is the politician Daniel Martínez. Montevideo is in Uruguay which is led by Raúl Fernando Sendic Rodríguez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo, the leader of which, is politician, Daniel Martínez. Montevideo is in the country of Uruguay which is led by Raul Fernando Sendic Rodriguez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo which is led by politician, Daniel Martínez. Montevideo is in Uruguay, the leader of which, is Raúl Fernando Sendic Rodríguez.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Raúl_Fernando_Sendic_Rodríguez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Uruguay ",
+     "property": " leader ",
+     "subject": " Raúl_Fernando_Sendic_Rodríguez"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id234"
+      }
+}

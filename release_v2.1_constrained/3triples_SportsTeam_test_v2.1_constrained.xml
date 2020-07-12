@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>Gus_Poyet | clubs | Real_Zaragoza</otriple>
+        <otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>Gus_Poyet | team | Real_Zaragoza</otriple>
+        <otriple>Gus_Poyet | clubs | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+        <mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gus Poyet played for Chelsea F.C. and was the manager for AEK Athens FC but he is now in the Real Zaragoza club.</lex>
+      <lex comment="good" lid="Id2">AEK Athens F.C. manager is Gus Poyet whose club is Real Zaragoza, having previously played for Chelsea F.C.</lex>
+      <lex comment="good" lid="Id3">AEK Athens are managed by Gus Poyet who is associated with the Real Zaragoza, a football club and played for Chelsea F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The manager of A.S. Roma is Luciano Spalletti who used to play for Udinese Calcio but now plays for Empoli FC.</lex>
+      <lex comment="good" lid="Id2">Luciano Spalletti played for Udinese Calcio and now manages A.S. Roma and plays for Empoli F.C.</lex>
+      <lex comment="good" lid="Id3">Luciano Spalletti plays for Udinese Calcio and Empoli F.C. as well as managing A.S. Roma.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
+        <otriple>Amarillo,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
+        <mtriple>Amarillo,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amarillo, Potter County, Texas is in the U.S.</lex>
+      <lex comment="good" lid="Id2">Amarillo is located in Potter County, Texas, United States.</lex>
+      <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas, in the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id47" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</otriple>
+        <otriple>Amarillo,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
+        <mtriple>Amarillo,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amarillo, Texas is part of Randall County, Texas, in the United States.</lex>
+      <lex comment="good" lid="Id2">Amarillo, Texas is part of Randall County in the U.S.</lex>
+      <lex comment="good" lid="Id3">Amarillo is part of Randall County, Texas, United States.</lex>
+    </entry>
+    <entry category="City" eid="Id48" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</otriple>
+        <otriple>Randall_County,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
+        <mtriple>Randall_County,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amarillo is part of Randall County, Texas, United States.</lex>
+    </entry>
+    <entry category="City" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
+        <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington is part of Tarrant County, in the state of Texas.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas.</lex>
+      <lex comment="good" lid="Id3">Arlington is part of Tarrant County in Texas, U.S.</lex>
+    </entry>
+    <entry category="City" eid="Id83" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</otriple>
+        <otriple>Tarrant_County,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
+        <mtriple>Tarrant_County,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington is part of Tarrant County, Texas, United States.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Tarrant County in Texas U.S.</lex>
+      <lex comment="good" lid="Id3">Arlington is part of Tarrant County in Texas, in the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id164" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany is in Georgia in the United States where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">The United States includes the Asian Americans among its ethnic groups and is the location of Albany, Georgia.</lex>
+    </entry>
+    <entry category="City" eid="Id167" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico is in the United States, where one of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id2">The United States is the location of Albuquerque, New Mexico and includes the Asian Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id3">The United States is the location of Albuquerque, New Mexico, and includes the Asian Americans among its ethnic groups.</lex>
+    </entry>
+    <entry category="City" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Auburn,_Washington | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn, Washington is located in the U.S. where one ethnic group is the Asian Americans.</lex>
+      <lex comment="good" lid="Id2">Auburn, Washington is located within the U.S. and Asian Americans are an ethnic group in that country.</lex>
+      <lex comment="good" lid="Id3">Auburn, Washington is located in the United States, where Asian Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="City" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Austin,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Austin,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States include the ethnic group of Asian Americans and is the location of Austin, Texas.</lex>
+      <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the United States and Austin Texas is also in the same country.</lex>
+      <lex comment="good" lid="Id3">Austin, Texas is in the United States, where one of the ethnic groups are Asian Americans.</lex>
+    </entry>
+    <entry category="City" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron, Ohio is located within the United States, home to a number of ethnic groups, including, Native Americans.</lex>
+      <lex comment="good" lid="Id2">The Native Americans are an ethnic group within the United States, the country where Akron, Ohio is located.</lex>
+      <lex comment="good" lid="Id3">Akron, Ohio is located in the United States, where Native Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="City" eid="Id171" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States includes the ethnic group of Native Americans and is the location of Albuquerque, New Mexico.</lex>
+      <lex comment="good" lid="Id2">Albuquerque is in New Mexico, United States, the country where you will find an ethnic group called Native Americans.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico is in the United States, where Native Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="City" eid="Id173" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Attica,_Indiana | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Attica,_Indiana | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the United States, where Attica, Indiana is located.</lex>
+      <lex comment="good" lid="Id2">Native Americans are one of the ethnic groups in the United States of America which is the location of Attica, Indiana.</lex>
+      <lex comment="good" lid="Id3">Attica, Indiana, is located in the United States, where Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="City" eid="Id174" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Auburn,_Washington | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn, Washington is located within the United States, in which Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups in the United States are the Native Americans and the country is the location of Auburn, Washington.</lex>
+    </entry>
+  </entries>
+</benchmark>

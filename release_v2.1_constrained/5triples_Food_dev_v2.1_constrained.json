@@ -1,0 +1,679 @@
+{
+   1: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arros negre comes from the region of the Valencian Community (leader Ximo Puig), Spain (leader Felipe VI). Spaniards are the population name there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arros negre comes from the Valencia Province of Spain, where Ximo Puig is the region's leader. The country's main ethnic group is the Spaniards and it is led by King Felipe VI.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " region ",
+   "subject": " Valencian_Community"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " region ",
+     "subject": " Valencian_Community"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id27"
+      }
+},
+{
+   2: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ximo Puig is a leader in the Valencian Community where Arros negre comes from. It is a traditional dish from Spain, where the currency is the euro and the leader is Felipe VI of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Spanish dish Arros negre comes from the region of the Valencian Community, where the leader is Ximo Puig. The leader of Spain is Felipe VI and the currency used in the country is the euro.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " region ",
+   "subject": " Valencian_Community"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " region ",
+     "subject": " Valencian_Community"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id28"
+      }
+},
+{
+   3: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The traditional Spanish dish Arros negre comes from the region of the Valencian Community, where Ximo Puig is the leader. The language in Spain is Spanish and the leader of the country is Felipe VI.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The traditional Spanish dish Arros negre comes from the region of the Valencian Community, where the leader is Ximo Puig. The Spanish language is spoken in Spain, where the leader is Felipe VI.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Arros Negre comes from Spain, where the leader is Felipe VI and they speak spanish, but it's more specific to the Valencian Community, where the leader is Ximo Puig.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arròs_negre ",
+   "property": " region ",
+   "subject": " Valencian_Community"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arròs_negre ",
+     "property": " region ",
+     "subject": " Valencian_Community"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id29"
+      }
+},
+{
+   4: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joko Widodo is the leader of Indonesia which is where Asam pedas comes from. Asam pedas also comes from Sumatra where the ethnic groups Malays and Acehnese live.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish from Sumatra in Indonesia, a country led by Joko Widodo. The Acehnese and Malays are both ethnic groups in Sumatra.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a popular dish in Indonesia, but it's from Sumatra, where the Acehnese and Malays are both ethnic groups. Joko Widodo is an Indonesian leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id30"
+      }
+},
+{
+   5: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Malaysia is Kuala Lumpur, and two ethnic groups include Malaysian Chinese and Malay. Asam pedas is a dish from the Malay Peninsula.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Malay Peninsula region of Malaysia offer Asam pedas. Malaysia is also home to the Malay and ethnic Malaysian Chinese. Malaysia's capital is Kuala Lumpur.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id31"
+      }
+},
+{
+   6: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a Malaysian dish found in Sumatra. The capital of Malaysia is Kuala Lumpur and the Malaysian Chinese and the Malay are ethnic groups in the country.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of Malaysia is Kuala Lumpur. The Malaysian chinese and Malaysian Malay are both ethnic groups in this country. Asam pedas, a dish from Sumatra, may also be found in Malaysia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish from Sumatra. It can also be found in Malaysia (capital city: Kuala Lumpur) where Malaysian chinese and Malay are ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id32"
+      }
+},
+{
+   7: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a food found in the region of Sumatra and Malay peninsula in Malaysia, the capital of which is Putrajaya, and whose ethnic groups include the Malay and the Malaysian Chinese.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a food found in Malaysia, where the capital is Putrajaya and ethnic groups include Malay and Malaysian chinese. The dish is also found in the regions of Sumatra and the Malay Peninsula.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is from the Sumatra and Malay Peninsula regions. The food can be found in Malaysia whose capital city is Putrajaya and Malay and Malaysian Chinese people are among the country's ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Malaysia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Malaysia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id33"
+      }
+},
+{
+   8: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Washington, D.C. is the capital of the United States and the leader of the United States has a title called the president. Paul Ryan is a leader of the United States. Asian Americans are one of many ethnic groups in the United States which is where Bacon Explosion comes from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon Explosion comes from the United States, where Paul Ryan is a leader and Asian Americans are one of the ethnic groups. The leader of the United States is called the President and the capital city is Washington DC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bacon Explosion hails from the United States, where Paul Ryan is a leader and the capital is Washington DC. Asian Americans are an ethnic group there and the leader of the country has the title President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bacon_Explosion ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bacon_Explosion ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id74"
+      }
+},
+{
+   9: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bakewell tart, which includes the ingredient fruit preserves, is a variant of Bakewell Pudding which comes from the Derbyshire Dales. The leader of the Derbyshire Dales, which is in the county of Derbyshire, is Patrick McLoughlin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The bakewell tart includes fruit preserves. The variant is Bakewell pudding, originating from Patrick McLoughlin led Derbyshire Dales in the County of Derbyshire.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " region ",
+   "subject": " Derbyshire_Dales"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_pudding ",
+     "property": " region ",
+     "subject": " Derbyshire_Dales"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id99"
+      }
+},
+{
+   10: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Barny cakes were created by Chicago based Mondelez International. Barny cakes are also from France, whose leader is Gerard Larcher. Manuel Valls is a former leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barney cakes is created by Mondelez International, which was founded in Chicago. Barney cakes are now produced in France, a nation led by Manuel Valls and Gerard Larcher.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Created by Mondelez International (founded in Chicago), Barny Cakes come from France where Gerard Larcher and Manuel Valls are leaders.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " country ",
+   "subject": " France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " country ",
+     "subject": " France"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id120"
+      }
+},
+{
+   11: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mondelez International, founded in Chicago, is the creator of Barny cakes which come from France. François Hollande and Claude Bartolone are French leaders.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Francois Hollande and Claude Bartolone are leaders of France. A national dessert is called Barny cakes, which were crated by Mondelez International in Chicago.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " country ",
+   "subject": " France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " country ",
+     "subject": " France"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id121"
+      }
+},
+{
+   12: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Created by Mondelez International (founded in Chicago), Barny Cakes come from France where François Hollande and Manuel Valls are leaders.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barny Cakes originates from France where the country's leaders are Francois Hollande and Manuel Valls. Mondelez International is the creator of the dessert and the company was founded in Chicago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barney cakes were founded by Chicago's Mondelez International in France (led by Manuel Valls and Francois Hollande).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Barny_Cakes ",
+   "property": " country ",
+   "subject": " France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Barny_Cakes ",
+     "property": " country ",
+     "subject": " France"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id122"
+      }
+},
+{
+   13: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Batagor is found in Indonesia, where the leader is Joko Widodo. The dish is a variation of siomay and shumai (which contains shiitake).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Batagor, Shumai and Siomay are variations of the same dish. Batagor is found in the country of Indonesia, which leader is Joko Widodo. Shiitake is an ingredient of Shumai.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Batagor ",
+   "property": " country ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Batagor ",
+       "property": " country ",
+       "subject": " Indonesia"
+       },
+       {
+       "object": "Batagor ",
+       "property": " country ",
+       "subject": " Indonesia"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id129"
+      }
+},
+{
+   14: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English speaking Singapore, led by Tony Tan and Halimah Yacob, offers the dish Beef kway teow, also found in Indonesia.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Beef_kway_teow ",
+   "property": " region ",
+   "subject": " Singapore"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Beef_kway_teow ",
+       "property": " region ",
+       "subject": " Singapore"
+       },
+       {
+       "object": "Beef_kway_teow ",
+       "property": " region ",
+       "subject": " Singapore"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id133"
+      }
+},
+{
+   15: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leaders of Singapore are Tony Tan and Halimah Yacob. They speak English there and eat beef kway teow. That dish is also popular in Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tony Tan and Halimah Yacob are leaders in Singapore, a country where English is spoken. Beef kway teow comes from Singapore. It is also a popular food in Indonesia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Beef_kway_teow ",
+   "property": " region ",
+   "subject": " Singapore"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Beef_kway_teow ",
+       "property": " region ",
+       "subject": " Singapore"
+       },
+       {
+       "object": "Beef_kway_teow ",
+       "property": " region ",
+       "subject": " Singapore"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id134"
+      }
+},
+{
+   16: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Bhajji originates from the Karnataka region of India. The country's leaders include T. S. Thakur and Narendra Modi and the currency is the rupee.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji come from the Karnataka region, India, which leaders are T. S. Thakur and Narendra Modi and the currency is the Indian rupee.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bhajji ",
+       "property": " country ",
+       "subject": " India"
+       },
+       {
+       "object": "Bhajji ",
+       "property": " country ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id140"
+      }
+},
+{
+   17: {
+   "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Bhajji originates from the Karnataka region of India. The country's leader is T. S. Thakur and Vajubhai Vala is the leader of Karnataka. People living in India are called Indians.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bhajji, from the region of Karnataka, originates from india where people are referred to as indians, the leaders are T.S. Thakur and Vajubhai Vala.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bhajji ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bhajji ",
+     "property": " country ",
+     "subject": " India"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id147"
+      }
+}

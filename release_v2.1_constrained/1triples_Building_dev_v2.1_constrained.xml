@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Cleveland | governingBody | Cleveland_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cleveland's governing body is Cleveland City Council.</lex>
+      <lex comment="good" lid="Id2">The Cleveland City Council is the governing body of Cleveland.</lex>
+      <lex comment="good" lid="Id3">The governing body of Cleveland is Cleveland City Council.</lex>
+    </entry>
+    <entry category="Building" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cleveland is part of Cuyahoga County, Ohio.</lex>
+      <lex comment="good" lid="Id2">Cleveland is part of the Cuyahoga County in Ohio.</lex>
+    </entry>
+    <entry category="Building" eid="Id157" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Cleveland | isPartOf | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cleveland is located within Ohio.</lex>
+      <lex comment="good" lid="Id2">Cleveland is part of Ohio.</lex>
+    </entry>
+    <entry category="Building" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Cleveland | leaderName | Frank_G._Jackson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | leaderName | Frank_G._Jackson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Frank G Jackson is a leader in Cleveland.</lex>
+      <lex comment="good" lid="Id2">The leader in Cleveland is Frank G Jackson.</lex>
+    </entry>
+    <entry category="Building" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Robert Gates is the chancellor of the College of William &amp; Mary.</lex>
+      <lex comment="good" lid="Id2">The Chancellor of the College of William and Mary is Robert Gates.</lex>
+      <lex comment="good" lid="Id3">Robert Gates served as chancellor of the College of William and Mary.</lex>
+    </entry>
+    <entry category="Building" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>County_Limerick | governmentType | Limerick_City_and_County_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>County_Limerick | governmentType | Limerick_City_and_County_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">County Limerick is governed by the Limerick City and County Council.</lex>
+      <lex comment="good" lid="Id2">Limerick City and County Council governs County Limerick.</lex>
+    </entry>
+    <entry category="Building" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | capital | Copenhagen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | capital | Copenhagen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Copenhagen is the capital of Denmark.</lex>
+      <lex comment="good" lid="Id2">The capital of Denmark is Copenhagen.</lex>
+    </entry>
+    <entry category="Building" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | language | Faroese_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | language | Faroese_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Faroese Language is spoken in Denmark.</lex>
+      <lex comment="good" lid="Id2">The language Faroese is spoken in Denmark.</lex>
+    </entry>
+    <entry category="Building" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gujarat's leader is known as the Gujarat Legislative Assembly.</lex>
+    </entry>
+    <entry category="Building" eid="Id178" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Illinois | capital | Springfield,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | capital | Springfield,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital of Illinois is Springfield, Illinois.</lex>
+      <lex comment="good" lid="Id2">The capital of Illinois is Springfield.</lex>
+    </entry>
+    <entry category="Building" eid="Id179" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Illinois | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Illinois is in the United States.</lex>
+      <lex comment="good" lid="Id2">Illinois state is in the United States.</lex>
+      <lex comment="good" lid="Id3">Illinois is situated in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="Id180" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Illinois | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The English language is spoken in Illinois.</lex>
+      <lex comment="good" lid="Id2">The language of Illinois is the English language.</lex>
+    </entry>
+    <entry category="Building" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leaderName | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Narendra Modi leads India.</lex>
+      <lex comment="good" lid="Id2">The leader of India is Narendra Modi.</lex>
+      <lex comment="good" lid="Id3">Narendra Modi is the prime minister of India.</lex>
+    </entry>
+    <entry category="Building" eid="Id182" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">T S Thakur is a leader in India.</lex>
+      <lex comment="good" lid="Id2">The leader of India is called T S Thakur.</lex>
+      <lex comment="good" lid="Id3">T. S. Thakur was an Indian leader.</lex>
+    </entry>
+    <entry category="Building" eid="Id183" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Chinese_people_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There is an ethnic group of Chinese people in Japan.</lex>
+      <lex comment="good" lid="Id2">In Japan there is an ethnic group of Chinese people.</lex>
+    </entry>
+    <entry category="Building" eid="Id184" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the ethnic groups in Japan is the Filipinos.</lex>
+    </entry>
+    <entry category="Building" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Japanese_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">The main ethnic group in Japan is the Japanese.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,336 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument was established in 2000 and it is located in Adams County, Pa. The Monument is categorised as a contributing property. To the north of Adams County is Cumberland County (Pa), to its west is Franklin County (Pa) and to its southeast is Carroll County (Maryland).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adams County Pennsylvania is East of Franklin County, Pennsylvania and has Carroll County, Maryland to its southeast and Cumberland County, Pennsylvania to its north. The 11th Mississippi Infantry Monument is located in Adams County and falls under the category of Contributing property. The 11th Mississippi Infantry Monument was established in 2000.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cumberland County in Pennsylvania is situated north of Adams County which is the location of the 11th Mississippi Infantry Monument which was erected in 2000 and categorised as a contributing property. Franklin County can be found to the west and Carroll County Maryland is to the southeast.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id13"
+      }
+},
+{
+   2: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Carroll County Maryland is southeast of Adams County, Pennsylvania. With Franklin County to the west, Cumberland County to the north and Frederick County to the southwest, Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania and has been established since the year 2000. To the west of Adams County lies Franklin County and to the north is Cumberland County - both also of Pennsylvania. To the southeast of Adams County lies Carroll County and to the southwest lies Frederick County, both of Maryland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adams County, PA is located to the south of Cumberland County and east of Franklin County. Carroll County, Maryland lies to the south east and Frederick County to the southwest. The 11th Mississippi Infantry monument was established in the County in 2000.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id14"
+      }
+},
+{
+   3: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Adams County, Pennsylvania has Cumberland County (Pa) to its south; Carroll County (Maryland) to its southeast and Franklin County (Pa) to its west.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Cumberland County, Pa is located in the north of Adams County, Pa and Franklin County is found to the west of Adams County. Adams County has Carroll County, Maryland to its Southeast.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry monument is located in Gettysburg, Adams County, Pennsylvania and is categorised as a contributing property. Adams County is situated to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the northwest.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id15"
+      }
+},
+{
+   4: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Franklin County in the state is found to the west, and Cumberland County to the north. Carroll County in Maryland lies to the southeast of Adams County, and Frederick County lies to the southwest.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Adams County (Pa) has Fredericks County (Maryland) to its north east; Cumberland County to its north; Carroll County, Maryland to its southeast and Franklin County (Pa) to its west.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pennsylvania's Franklin County is west of Adams County which has Carroll County Maryland to its southeast. To the North of Adams County is Cumberland County with Frederick County to the southeast. The municipality for the 11th Mississippi Infantry Monument is Gettysburg which is located in Adams County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adams_County,_Pennsylvania ",
+   "property": " has to its west ",
+   "subject": " Franklin_County,_Pennsylvania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adams_County,_Pennsylvania ",
+     "property": " west ",
+     "subject": " Franklin_County,_Pennsylvania"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id16"
+      }
+},
+{
+   5: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "July 27, 1932 is an important date for Turkey, where the largest city is Istanbul and currency is the Turkish lira; because on this date the Ataturk Monument, made of bronze and designed by Pietro Canonica was inaugurated.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ataturk Monument, made of bronze, was designed by Pietro Canonica and is located in Izmir, Turkey where the currency is the Turkish Lira and the largest City is Istanbul; the monument was inaugurated on July 27, 1932.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pietro Canonica designed the Ataturk Monument (Izmir) in bronze and it was inaugurated on 27 July 1932 in Turkey. The country's largest city is Istanbul and the local currency is the Turkish lira.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atatürk_Monument_(İzmir) ",
+   "property": " designer ",
+   "subject": " Pietro_Canonica"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atatürk_Monument_(İzmir) ",
+     "property": " designer ",
+     "subject": " Pietro_Canonica"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id17"
+      }
+},
+{
+   6: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It is located in Azerbaijan. The capital of Azeribaijan is Baku and its leader is Prime Minister Artur Rasizade. Azerbaijan has legislature of National Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku is the capital city of Azerbaijan which is led by Prime Minister Artur Rasizade with a National Assembly dictating the legislature. The country is the location of the Baku Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of Azerbaijan is Baku and its Prime Minister - or official leader - is called Artur Rasizade. The legislature of Azerbaijan is known as the National Assembly. The country is the location for the Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id18"
+      }
+},
+{
+   7: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Huseyin Butuner and Hilmi Guner were the designers of the Baku Turkish Martyrs Memorial in Azerbaijan, dedicated to the soldiers of the Ottoman army who died in the Battle of Baku. The Prime Minister, Artur Rasizade is the leader of Azerbaijan where Baku is the capital city.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It was designed by Huseyin Butuner and Hilmi Guner and it is located in Azerbaijan. The capital of Azerbaijan is Baku and its leader is Prime Minister Artur Rasizade.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Artur Rasizade is the leader of Azerbaijan where the Baku Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner is located. The memorial is dedicated to the soldiers of the Ottoman army who were killed at the Battle of Baku, the capital city. Azerbaijan is governed by a prime minister.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id19"
+      }
+},
+{
+   8: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Baku Turkish Martyrs' Memorial is located in Azerbaijan whose capital is Baku. The memorial is dedicated to Ottoman Army soldiers killed in the Battle of Baku and is called Turk Sehitleri Aniti. It was designed by Hüseyin Bütüner and Hilmi Güner. Azerbaijan is led by the Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial, also known as the Turk Sehitleri Aniti. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku. It is located in Azerbaijan where the Prime Minister leads the country and the capital city is Baku.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Azerbaijan, where the leader is the Prime Minister and the capital if Baku, is the location of the Baku Turkish Martyrs Memorial which is dedicated to the soldiers of the Ottoman army who were killed in the battle of Baku. The local name for the memorial is Turk Sehitleri Aniti and it was designed by Huseyin Butuner and Hilmi Guner.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id20"
+      }
+}

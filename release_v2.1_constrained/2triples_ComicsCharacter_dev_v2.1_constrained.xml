@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id48" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Ben Urich (Benjamin Urich) was created by Gene Colan.</lex>
+      <lex comment="good" lid="Id2">Ben Urich's full name is actually Benjamin Urich, the character was created by Gene Colan.</lex>
+      <lex comment="good" lid="Id3">Ben Urich, full name Benjamin Urich, was created by Gene Colan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id49" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Comic book character Ben Urich was created by Roger McKenzie and Gene Colan.</lex>
+      <lex comment="good" lid="Id2">Comic book writer, Roger McKenzie, along with Gene Colan, created Ben Urich.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bo Bibbowski (full name Bibbo Bibbowski) was created by Jerry Ordway.</lex>
+      <lex comment="good" lid="Id2">Bo Bibbowski, otherwise known as Bibbo, was created by Jerry Ordway.</lex>
+      <lex comment="good" lid="Id3">Bo Bibbowski is often called Bibbo and was created by Jerry Ordway.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id52" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6, which starred Ryan Potter.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 in which Ryan Potter stars.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id58" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Blockbuster was created by Tom Lyle and Carmine Infantino.</lex>
+      <lex comment="good" lid="Id2">The creators of the comics character Blockbuster are Carmine Infantino and Tom Lyle.</lex>
+      <lex comment="good" lid="Id3">The comic character Blockbuster was created by both Tom Lyle and Carmine Infantino.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id59" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Bolt was created by Dan Mishkin and Gary Cohn.</lex>
+      <lex comment="good" lid="Id2">The comic character Bolt was created by Gary Cohn and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id3">Dan Mishkin created the comic book character Bolt while Gary Cohn is the creator of Bolf.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id60" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The character Bolt was created by Ernie Colon and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2">Ernie Colón and Dan Mishkin are among the creators of the comic character Bolt.</lex>
+      <lex comment="good" lid="Id3">The comic book character Bolt was created by both Dan Mishkin and Ernie Colon.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id61" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ernie Colon and Gary Cohn created the comic character Bolt.</lex>
+      <lex comment="good" lid="Id2">Ernie Colón and comic book writer Gary Cohn were the creators of the comic character Bolt.</lex>
+      <lex comment="good" lid="Id3">Ernie Colón and Gary Cohn are some of the creators of the comic character Bolt.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id62" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ernie Colon, one of the creators of the character Bolt is a Puerto Rican national.</lex>
+      <lex comment="good" lid="Id2">Ernie Colon, a Puerto Rican national, created Bolt.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id63" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The creators of the comic character, Bolt, were Paris Cullins and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2">The character Bolt was created by Paris Cullins and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id3">Dan Mishkin and Paris Cullins are creators of the comic character known as Bolt.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id64" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Bolt, was created by Paris Cullins and Ernie Colon.</lex>
+      <lex comment="good" lid="Id2">The creators of the comic character, Bolt, are Paris Cullins and Ernie Colon.</lex>
+    </entry>
+  </entries>
+</benchmark>

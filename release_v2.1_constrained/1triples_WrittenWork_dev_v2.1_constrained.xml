@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis is written in English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis is available in print form.</lex>
+      <lex comment="good" lid="Id2">The 1634 The Bavarian Crisis was put in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Bavarian Crisis comes in hardcover.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis is a hardcover publication.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is available in hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Ram_Rebellion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was preceded by 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is preceded by 1634: The Ram Rebellion.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIP_Advances | impact | "1.524"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIP_Advances | impactFactor | "1.524"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIP_Advances | impactFactor | "1.524"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIP Advances has the impact factor 1.524.</lex>
+      <lex comment="good" lid="Id2">The impact factor of AIP Advances is 1.524.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIP_Advances | publisher | American_Institute_of_Physics</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American Institute of Physics publishes AIP Advances.</lex>
+      <lex comment="good" lid="Id2">AIP Advances was published by American Institute of Physics.</lex>
+      <lex comment="good" lid="Id3">AIP Advances publisher is American Institute of Physics.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ISBN number of the book A Fortress of Grey Ice is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id2">The ISBN number of A Fortress of Grey Ice is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice's ISBN number is 0-7653-0633-6.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | OCLC_number | 51969173</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of A Fortress of Grey Ice is 51969173.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">J.V. Jones authored A Fortress of Grey Ice.</lex>
+      <lex comment="good" lid="Id2">The author of A Fortress of Grey Ice is J.V. Jones.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice was written by J. V. Jones.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is written in the English language.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was originally published in English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book "A Fortress of Grey Ice" can be found in print.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was made in "Print".</lex>
+      <lex comment="good" lid="Id3">A fortress of Grey Ice is available in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has the ISBN number 0-7156-3648-0.</lex>
+      <lex comment="good" lid="Id2">The ISBN number of A Glastonbury Romance is 0-7156-3648-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | congress | "PR6031.O867"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Library of Congress Classification of "A Glastonbury Romance" is PR6031.O867.</lex>
+      <lex comment="good" lid="Id2">The Library of Congress Classification of A Glastonbury Romance is PR6031O867.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | author | John_Cowper_Powys</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | author | John_Cowper_Powys</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The author of A Glastonbury Romance is John Cowper Powys.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance was written by John Cowper Powys.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | subsequentWork | Weymouth_Sands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book "A Glastonbury Romance" was followed by "Weymouth Sands".</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance was followed by Weymouth Sands.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has 1174 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | precededBy | Wolf_Solent</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | previousWork | Wolf_Solent</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | precededBy | Wolf_Solent</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance was preceded By Wolf Solent.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance is the sequel to Wolf Solent.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | publisher | Simon_&amp;_Schuster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | publisher | Simon_&amp;_Schuster</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is published by Simon &amp; Schuster.</lex>
+      <lex comment="good" lid="Id2">Simon &amp; Schuster is the publisher of A Glastonbury Romance.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | publisher | The_Bodley_Head</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | publisher | The_Bodley_Head</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is published by The Bodley Head.</lex>
+      <lex comment="good" lid="Id2">The Bodley Head published A Glastonbury Romance.</lex>
+      <lex comment="good" lid="Id3">A Glastonbury Romance was published by The Bodley Head.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of A Long Long Way is 57392246.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way comes from Ireland.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way was written in Ireland.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel A Long Long Way was followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2">The book A Long Long Way was followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3">The book The Secret Scripture followed the book "A Long Long Way".</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id73" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way was published in Print &amp; Paperback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | notableWork | Owen_Glendower_(novel)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | notableWork | Owen_Glendower_(novel)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of John Cowper Powys notable works is Owen Glendower.</lex>
+      <lex comment="good" lid="Id2">The novel Owen Glendower is a notable work by the author John Cowper Powys.</lex>
+      <lex comment="good" lid="Id3">The novel Owen Glendower is a notable work by John Cowper Powys.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | notableWork | Porius:_A_Romance_of_the_Dark_Ages</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | notableWork | Porius:_A_Romance_of_the_Dark_Ages</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A notable work of John Cowper Powys is Porius: A Romance of the Dark Ages.</lex>
+      <lex comment="good" lid="Id2">John Cowper Powys's notable work was Porius A Romance of the Dark Ages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id188" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Johns_Hopkins_University_Press | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Johns_Hopkins_University_Press | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Johns Hopkins University Press is located in the United States.</lex>
+      <lex comment="good" lid="Id2">Johns Hopkins University Press is based in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Johns_Hopkins_University_Press | parent | Johns_Hopkins_University</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Johns Hopkins University is the parent company of the Johns Hopkins University Press.</lex>
+      <lex comment="good" lid="Id2">Johns Hopkins University is the parent company of Johns Hopkins University Press.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id190" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lippincott_Williams_&amp;_Wilkins | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States is the country of origin of Lippincott, Williams &amp; Wilkins.</lex>
+      <lex comment="good" lid="Id2">Lippincott, Williams, and Wilkins is located in the United States.</lex>
+      <lex comment="good" lid="Id3">Lippincott Williams &amp; Wilkins are from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>The_Bodley_Head | founder | Charles_Elkin_Mathews</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Bodley_Head | founder | Charles_Elkin_Mathews</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Bodley Head was founded by Charles Elkin Mathews.</lex>
+      <lex comment="good" lid="Id2">The founder of The Bodley Head is Charles Elkin Mathews.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>The_Secret_Scripture | previousWork | A_Long_Long_Way</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Secret_Scripture | precededBy | A_Long_Long_Way</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way came before the book "The Secret Scripture".</lex>
+      <lex comment="good" lid="Id2">The Secret Scripture is preceded by A Long, Long Way.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id211" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of the United States is Barack Obama.</lex>
+      <lex comment="good" lid="Id2">Barack Obama is the leader of the United States.</lex>
+      <lex comment="good" lid="Id3">Barack Obama is the president of the US.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians OCLC number is 78771100.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians has the OCLC number of 7877110.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians has an OCLC number of 78771100.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener's Bones.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the Scrivener's Bones.</lex>
+      <lex comment="good" lid="Id3">Alcatraz versus the Evil Librarians is followed by Alcatraz Versus the Scrivener's Bones.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | impact | "1.337"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | impactFactor | "1.337"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | impactFactor | "1.337"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The impact factor of the American Journal of Mathematics is 1.337.</lex>
+      <lex comment="good" lid="Id2">The American Journal of Mathematics has an impact Factor of 1.337.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Castle_(novel) | subsequentWork | Aenir</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Castle_(novel) | followedBy | Aenir</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Castle_(novel) | followedBy | Aenir</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel Castle is followed by Aenir.</lex>
+      <lex comment="good" lid="Id2">Aenir followed the novel Castle.</lex>
+      <lex comment="good" lid="Id3">Castle is followed by Aenir.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Cornell_University | nickname | Cornell_Big_Red</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cornell_University | nickname | Cornell_Big_Red</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornwell University is nicknamed Cornell Big Red.</lex>
+      <lex comment="good" lid="Id2">Cornell Big Red is the nickname of Cornell University.</lex>
+      <lex comment="good" lid="Id3">Cornell Big Red is the nickname for Cornell University.</lex>
+    </entry>
+  </entries>
+</benchmark>

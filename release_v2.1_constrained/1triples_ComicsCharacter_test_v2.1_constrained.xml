@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bo Bibbowski is the full name of Bibbo Bibbowski.</lex>
+      <lex comment="good" lid="Id2">Bo Bibbowski is often called Bibbo.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character, Blockbuster, was created by Gardner Fox.</lex>
+      <lex comment="good" lid="Id2">The creator of Blockbuster (comics character) is Gardner Fox.</lex>
+      <lex comment="good" lid="Id3">The comic book character Blockbuster was created by Gardner Fox.</lex>
+    </entry>
+  </entries>
+</benchmark>

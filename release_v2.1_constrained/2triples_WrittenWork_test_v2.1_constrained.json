@@ -1,0 +1,919 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice has 672 pages, and has the ISBN number 0-7653-0633-6.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice with ISBM 0-7653-0633-6 has 672 pages.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " numberOfPages ",
+   "subject": " "672""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Fortress_of_Grey_Ice ",
+     "property": " numberOfPages ",
+     "subject": " "672"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way was published in Print &amp; Paperback and has the OCLC number 57392246.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Long Long Way which has the OCLC number 57392246, was published in Print &amp; Paperback.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Long_Long_Way ",
+   "property": " OCLC_number ",
+   "subject": " 57392246"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " oclc ",
+       "subject": " "57392246""
+       },
+       {
+       "object": "A_Long_Long_Way ",
+       "property": " mediaType ",
+       "subject": " "Print  &amp; Paperback"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The hardcover A Severed Wasp was assigned the OCLC number 8805735.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp, OCLC number 8805735, is a hardcover book.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The OCLC number of the hardback book, "A Severed Wasp" is 8805735.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " OCLC_number ",
+   "subject": " 8805735"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Severed_Wasp ",
+       "property": " oclc ",
+       "subject": " 8805735"
+       },
+       {
+       "object": "A_Severed_Wasp ",
+       "property": " oclc ",
+       "subject": " "8805735""
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id12"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was preceded by Grantville Gazette II, and was written by Virginia DeMarce and Eric Flint.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Virginia DeMarce and Eric Flint are the authors of 1634: The Bavarian Crisis which was preceded by Grantville Gazette II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " precededBy ",
+   "subject": " Grantville_Gazette_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " previousWork ",
+     "subject": " Grantville_Gazette_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id17"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where one of the ethnic groups is African American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, which counts African Americans among its ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp originates from the United States, where the African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id103"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the Native Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "'A Severed Wasp' is from the United States, a country where Native Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp originates from the United States, a country where one of the ethnic groups is Native Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Severed_Wasp ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id104"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "'Above the Veil' authored by Garth Nix has a OCLC number of 46451790.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Above the Veil has the OCLC number 46451790 and was written by Garth Nix.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "'Above the Veil' which was written by Garth Nix, has the OCLC number 46451790.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Above_the_Veil ",
+   "property": " OCLC_number ",
+   "subject": " 46451790"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Above_the_Veil ",
+       "property": " oclc ",
+       "subject": " "46451790""
+       },
+       {
+       "object": "Above_the_Veil ",
+       "property": " author ",
+       "subject": " Garth_Nix"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id121"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Am. J. Math is the abbreviation for the American Journal of Mathematics which has the EISSN number 1080.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Am. J. Math is the abbreviation for the American Journal of Mathematics whose EISSN number is 1080.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Am. J. Math is the abbreviation for the American Journal of Mathematics, 1080 is the EISSN number.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_Journal_of_Mathematics ",
+   "property": " abbreviation ",
+   "subject": " "Am. J. Math.""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "American_Journal_of_Mathematics ",
+       "property": " abbreviation ",
+       "subject": " "Am. J. Math."@en"
+       },
+       {
+       "object": "American_Journal_of_Mathematics ",
+       "property": " eissn ",
+       "subject": " 1080"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id168"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, where Asian Americans form one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where there are many Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id185"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp originates from the United States, which counts Asian Americans among its ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States has an ethnic group called Asian Americans and is the home of a severed wasp.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id186"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In almost unrelated facts both Asian Americans and the book Alcatraz Versus the Evil Librarians come from the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians comes from the U.S where there are many Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id187"
+      }
+},
+{
+   12: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians is an example of American Literature. White people are a part of the U.S's ethnic make-up.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "'Alcatraz Versus the Evil Librarians' is from The United States, the country where White Americans live.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " White_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " White_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id188"
+      }
+},
+{
+   13: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is the main language spoken in the United States. This country is home to the Severed Wasp.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where English is the language.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A severed Wasp originates from the United States where the language is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id189"
+      }
+},
+{
+   14: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "" A Wizard of Mars was Published in the United States, of which English is the language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": ""A Wizard of Mars" was published in the United States, where the official language is English.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States, where the official language is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id190"
+      }
+},
+{
+   15: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is the language of the United States the country where the book Alcatraz Versus the Evil Librarians was written.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians comes from the United States where the English language is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alcatraz Versus the Evil Librarians is from The United States therefore is written in english.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id191"
+      }
+},
+{
+   16: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the U.S where Barack Obama is the leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion comes from the United States where Barack Obama is the president.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the U.S where Barack Obama is President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " Barack_Obama"
+       },
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " Barack_Obama"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id192"
+      }
+},
+{
+   17: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, led by President Barack Obama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where Barack Obama is President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, where the leader is Barack Obama.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id193"
+      }
+},
+{
+   18: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where Barack Obama is president.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp originates from the United States where Barack Obama is President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the leader is Barack Obama.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id194"
+      }
+},
+{
+   19: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was Published in the United States where Barack Obama is president.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "' A Wizard of Mars' was published in the United States, the country where Barack Obama is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States where Barack Obama is the leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leader ",
+     "subject": " Barack_Obama"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id195"
+      }
+},
+{
+   20: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the United States where the leader is known as the President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion comes from the United States, where the President is the head of state.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1634 The Ram Rebellion was written in the U.S where the title of the leader is President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id196"
+      }
+},
+{
+   21: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where the leader is known as the President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where the title of the leader is President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, whose leader is called the President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id197"
+      }
+},
+{
+   22: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance has the ISBN number 0-7156-3648-0 and is in print.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance with ISBN 0-7156-3648-0 is available in print.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The ISBN number of the currently in print book, "A Glastonbury Romance," is 0-7156-3648-0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Glastonbury_Romance ",
+   "property": " mediaType ",
+   "subject": " "Print""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Glastonbury_Romance ",
+     "property": " mediaType ",
+     "subject": " "Print"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+}

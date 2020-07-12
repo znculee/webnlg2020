@@ -1,0 +1,647 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are in New York City in the U.S. New York City has a leader called Cyrus Vance Jr. and it is part of Manhattan and New Netherland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are in New York City (part of Manhattan) in the U.S. New York City is part of New Netherland and a leader there is Cyrus Vance Jr.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City (former part of New Netherland), is located in the United States, is a part of Manhattan (led by Cyrus Vance Jr.), is the loction of Asser Levy Public Baths.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id17"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Madin, the architect who designed 103 Colmore Row, was born in Birmingham. The postal code of that area is B. and the governing body is the Birmingham City Council. Labour politician, John Clancy is the leader the area.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, with the postcode area 'B'. Labour politician, John Clancy is the city's leader, and the local governing body is Birmingham City Council.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The City Council, led by labour politician John Clancy, is the governing body for Birmingham. The city (which uses the B Postcode) is the birthplace of the architect John Madin who designed 103 Colmore Row.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " postalCode ",
+   "subject": " B_postcode_area"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " postalCode ",
+     "subject": " B_postcode_area"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id18"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is in South Africa whose capital is Cape Town and Cyril Ramaphosa is one of its leaders. Ethnic groups in South Africa are Coloured people and Asian South Africans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa, where ethnic groups include the Asian South Africans and the Coloured. Cyril Ramaphosa is the leader of South Africa, and its capital is Cape Town.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Two of the ethnic groups in South Africa, led by Cyril Ramaphosa, are the Asian South Africans and the coloured people. The country is the location of 11 Diagonal Street and has the capital city of Cape Town.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland in Ohio, United States is governed by the City Council and Frank G Jackson. It is the location of 200 Public Square.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, Ohio, United States. The leader in Cleveland is Frank G Jackson, and its governing body is Cleveland City Council.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id17"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom, which has London as its capital. Queen Elizabeth II is a leader of the UK, as is Boris Johnson, and the European Parliament also has some control.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom, the country of which London is the capital and of which Elizabeth II is a leader. Boris Johnson is the leader of London, though the city is led via the European Parliament.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the UK where the capital city is London. Boris Johnson is a leader in London which is led by the European Parliament. Elizabeth II is the leader of the United Kingdom.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id18"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is the leader of United Kingdom where the currency is Pound sterling and 20 Fenchurch Street is located. The capital is London which is led via the European Parliament.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "London, the capital of the UK is led via the European Parliament. 20 Fenchurch Street is located within the country which is led by Elizabeth II and has the currency of the pound sterling.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id19"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Boris Johnson led London is the capital of the United Kingdom (led by Elizabeth II), which is home to the British people and 20 Fenchurch Street.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id20"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of the United Kingdom is London which is led by the European Parliament along with Boris Johnson. The country is the location of 20 Fenchurch Street and the native people are known as British.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom. The capital of this country is London and is led via the European Parliament. The leader is called Boris Johnson. The natives of the United kingdom are British people.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id21"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "London is the capital of the UK which is led by Elizabeth II via the European Parliament. The native people are known as British and 20 Fenchurch Street is located within the country.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom, the capital city of which is London (which is led via the European Parliament). British people inhabit the UK and the leader is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United Kingdom is led by Elizabeth II and also the European Parliament. The native people are known as British and the capital of the country is London. The UK is also the location of 20 Fenchurch Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id22"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Construction of 250 Delaware Avenue, United States, began in January 2014. The building has 12 floors, a floor area of 30843.8 (square metres) and cost 110 million dollars.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Construction of 250 Delaware Avenue in the United States began in January 2014. The building has 12 floors, a floor area of 30843.8 square metres and cost 110 million dollars to build.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "In January 2014 building began on the construction of 250 Delaware Avenue in the US. The building has 12 floors with a total floor area of 30843.8 (square metres) and cost 110 million dollars.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " United_States"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id23"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle, with 60 floors, is located in Chicago, Illinois, United States. The leader of Chicago is Susana Mendoza.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle has 60 floors and is located in Chicago, Illinois, United States. The leader of the city is Susana Mendoza.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Susana Mendoza is a leader in Chicago, Illinois, United States. Chicago is the location of 300 North LaSalle, which has 60 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id24"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Chicago, Illinois which is part of the United States. It has 60 floors and the leader of Chicago is Susana Mendoza.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 300 North LaSalle is located in Chicago, Illinois, US and has 60 floors. Susana Mendoza is the leader of Chicago.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, Illinois, United States, which is led by Susana Mendoza, and has 60 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id25"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, Illinois, United States. The capital of Illinois is Springfield and the leader of Chicago is Susana Mendoza.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id26"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is led by Susana Mendoza and can be found in Illinois, United States. The language of Illinois is English and one of Chicago's landmarks is 300 North LaSalle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Chicago, Illinois in the U.S. Susana Mendoza leads Chicago. English is spoken in Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Susana Mendoza is the leader of Chicago in Illinois, United States where the English language is spoken. The city is the location of 300 North LaSalle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id27"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Springfield is the capital of English language speaking Illinois, in The United States, and is home to Chicago, Illinois' 300 North LaSalle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago, Illinois (the capital of which is Springfield), United States. The English language is spoken in Illinois.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id28"
+      }
+},
+{
+   16: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, which is part of Munster. The architect of the manor is Augustus Pugin, whose birthplace was Bloomsbury. One of the significant buildings designed by Augustus Pugin is the Palace of Westminster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Augustus Pugin (born in Bloomsbury) was the architect of Adare Manor (located in Adare, part of Munster) and The Palace of Westminster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect Augustus Pugin was born in Bloomsbury and designed the significant building of the Palace of Westminster. He also designed Adare Manor in Adare, Munster.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare ",
+   "property": " isPartOf ",
+   "subject": " Munster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare ",
+       "property": " isPartOf ",
+       "subject": " Munster"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id61"
+      }
+}

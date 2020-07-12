@@ -1,0 +1,353 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on January 20th, 1930. He was a crew member on NASA's Apollo 11. The backup pilot for Apollo 11 was William Anders. Aldrin has now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on the 20th October 1930. He was a crew member of Apollo 11, but is now retired. William Anders was a backup pilot on the Apollo 11 mission, which was operated by NASA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire (United States) and died in California. He was awarded the Distinguished Service Medal by the United States Navy, which is higher than the Department of Commerce Gold Medal.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was born in Wheeler, Texas. He was a test pilot and a crew member of Apollo 12. He spent 100305.0 minutes in space.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was an American born in Wheeler, Texas. He served as a test pilot and a Apollo 12 crew member. He spent at total of 100305.0 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a US national born in Wheeler, Texas. He was a test pilot and crew member of theApollo 12, and he spent a total of 100305 minutes in space.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id6"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a US national who was born in Wheeler, Texas. He was selected by NASA in 1963 and became a member of the Apollo 12 crew. He is retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean who was originally from Wheeler, Texas, USA joined NASA in 1963 and became a member of Apollo 12 before he retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is a US national who was born in Wheeler, Texas. He is now retired but was a crew member hired by NASA in 1963 for the Apollo 12 mission.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Retired NASA test pilot Alan Bean was a student at UT Austin. He received his B.S. in 1955. Alan Bean was born in Wheeler, Texas and was chosen by NASA in 1963.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who was born in Wheeler, Texas, graduated from UT Austin in 1955 with a Bachelor of Science degree. He became a test pilot before joining NASA in 1963. He is now retired.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas and graduated in 1955 from UT Austin with a B.S. He performed as a test pilot and was chosen by NASA in 1963 to be the crew of Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (whose Alma Mater is UT Austin, B.S. 1955) was born in Wheeler, Texas. He served as a test pilot before joining NASA in 1963 and ultimately becoming part of the crew for the Apollo 12 mission.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, born in Wheeler, Texas, graduated from UT Austin in 1955 with a Bachelor of Science degree. He then went onto be selected as a test pilot and crew member of Apollo 12 in 1963.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on Mar 15, 1932 in Wheeler, Texas where he performed as a test pilot and was on the crew of Apollo 12. He is retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas on the 15th of March, 1932. He served as a test pilot and crew member on the Apollo 12. Alan Bean is retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas on March 15th, 1932. He worked as a test pilot and became crew member of Apollo 12 before he retired.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on the 15th March 1932 in Wheeler, Texas. He was a test pilot and he was chosen by NASA in 1963. He served as a crew member on Apollo 12.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas on March 15th 1932. He then went on to become a test pilot and joined NASA in 1963 where he became a part of the Apollo 12 crew.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " occupation ",
+   "subject": " Test_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " occupation ",
+     "subject": " Test_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   9: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "As a member of the Apollo 12 crew, Alan Bean (birth name Alan LaVern Bean) spent 100305 minutes in space. Nasa's Apollo 12 was commanded by David Scott.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (born Alan LaVern Bean) was a crew member on the NASA-operates Apollo 12 flight mission under commander David Scott. In total, Bean spent 100305 minutes in space.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (born Alan LaVern Bean) was a crew member on the NASA operated Apollo 12 mission under Commander David Scott. In total he spent 100305 minutes in space.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id12"
+      }
+}

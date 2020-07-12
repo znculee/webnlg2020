@@ -1,0 +1,42 @@
+{
+   1: {
+      "category": "MeanOfTransportation",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 originated from the UK, led by Queen Elizabeth II and is related to the Aston Martin DBS which is succeeded by the Aston Martin Vantage.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The successor of the Aston Martin DBS, is the Aston Martin Vantage. Aston Martin DBS is a related means of transport to the Aston Martin V8 which was assembled in the United Kingdom. The ruler of the United Kingdom is Queen Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aston Martin V8 is assembled in the United Kingdom, where Elizabeth II is the leader. The Aston Martin Vantage succeeded the Aston Martin DBS, which is related to The Aston Martin V8.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aston_Martin_V8 ",
+   "property": " relatedMeanOfTransportation ",
+   "subject": " Aston_Martin_DBS"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aston_Martin_V8 ",
+     "property": " related ",
+     "subject": " Aston_Martin_DBS"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id162"
+      }
+}

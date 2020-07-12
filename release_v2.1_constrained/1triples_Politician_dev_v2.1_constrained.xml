@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | birthPlace | Niger_State</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | birthPlace | Niger_State</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar's birthplace was Niger State.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar was born in Niger State.</lex>
+    </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | activeYearsEndDate | "1965-01-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | activeYearsEndDate | 1965-01-03</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal ended his military career January 3, 1965.</lex>
+    </entry>
+    <entry category="Politician" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Darien, Connecticut is the birthplace of Alfred N. Phillips.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips place of birth was Darien Connecticut.</lex>
+      <lex comment="good" lid="Id3">Alfred N. Phillips was born in Darien, Connecticut.</lex>
+    </entry>
+    <entry category="Politician" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | office | Mayor_of_Stamford,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | Mayor_of_Stamford,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred N Phillips was Mayor of Stamford, Connecticut.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips was the Mayor of Stamford Connecticut.</lex>
+      <lex comment="good" lid="Id3">Alfred N. Phillips was Mayor of Stamford, Connecticut.</lex>
+    </entry>
+    <entry category="Politician" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | activeYearsStartDate | "1947-01-21"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | activeYearsStartDate | 1947-01-21</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers started his career from January 21, 1947.</lex>
+    </entry>
+    <entry category="Politician" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Battle_of_Cold_Harbor | isPartOfMilitaryConflict | American_Civil_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Battle_of_Cold_Harbor | isPartOfMilitaryConflict | American_Civil_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Battle of Cold Harbor took place during the American Civil War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buenos_Aires | leaderName | Gabriela_Michetti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buenos_Aires | leaderName | Gabriela_Michetti</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gabriela Michetti is a leader in Buenos Aires.</lex>
+      <lex comment="good" lid="Id2">The leader of Buenos Aires is called Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id3">The leader of Buenos Aires is Gabriela Michetti.</lex>
+    </entry>
+    <entry category="Politician" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Gulf_War | commander | Colin_Powell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gulf_War | commander | Colin_Powell</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Colin Powell was a commander in the Gulf War.</lex>
+      <lex comment="good" lid="Id2">Colin Powell was the commander in the Gulf War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dwight D. Eisenhower was the predecessor to John F. Kennedy.</lex>
+      <lex comment="good" lid="Id2">Dwight D. Eisenhower preceded John F. Kennedy as President.</lex>
+      <lex comment="good" lid="Id3">John F. Kennedy's predecessor was Dwight D. Eisenhower.</lex>
+    </entry>
+    <entry category="Politician" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | country | Nigeria</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | country | Nigeria</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar's country is Nigeria.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar is from Nigeria.</lex>
+      <lex comment="good" lid="Id3">Abdulsalami Abubakar lives in Nigeria.</lex>
+    </entry>
+    <entry category="Politician" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Air_Force</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Air_Force</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar was a member of the Nigerian Air Force.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar served in the Nigerian Air Force.</lex>
+    </entry>
+    <entry category="Politician" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | office | "Chief of Defence Staff"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | office (workedAt, workedAs) | Chief_of_the_Defence_Staff_(Nigeria)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar worked as the Nigerian Chief of the Defence Staff.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar was the Chief of the Defence Staff in Nigeria.</lex>
+    </entry>
+    <entry category="Politician" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | successor | Al-Amin_Daggash</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | successor | Al-Amin_Daggash</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar's successor was Al-Amin Daggash.</lex>
+      <lex comment="good" lid="Id2">Al-Amin Daggash was succeeded by Abdulsalami Abubakar.</lex>
+      <lex comment="good" lid="Id3">Al-Amin Daggash was Abdulsalami Abubakar's successor.</lex>
+    </entry>
+    <entry category="Politician" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Olusegun Obasanjo succeeded Abdulsalami Abubakar.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar's successor was Olusegun Obasanjo.</lex>
+    </entry>
+    <entry category="Politician" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Caballero | almaMater | University_of_Santiago_de_Compostela</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | almaMater | University_of_Santiago_de_Compostela</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Caballero's alma mater is the University of Santiago de Compostela.</lex>
+      <lex comment="good" lid="Id2">The alma mater for Abel Caballero is the University of Santiago de Compostela.</lex>
+    </entry>
+    <entry category="Politician" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Caballero | placeOfBirth | Galicia_(Spain)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abel_Caballero | birthPlace | Galicia_(Spain)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Caballero was born in Galicia, Spain.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was born in Galicia in Spain.</lex>
+    </entry>
+    <entry category="Politician" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal's birth place was Ridgewood, Queens.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens.</lex>
+    </entry>
+    <entry category="Politician" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | militaryBranch | United_States_Army</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | branch | United_States_Army</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | militaryBranch | United_States_Army</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal served in the United States Army.</lex>
+    </entry>
+    <entry category="Politician" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was a member of the Connecticut Senate from the 26th District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal was a member of the Republican party of the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | majority | 9312</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Holloway | electionMajority | "9312"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | numberOfVotesAttained | 9312</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway obtained 9312 votes in his election.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway won 9312 votes.</lex>
+      <lex comment="good" lid="Id3">9312 people voted for Adam Holloway.</lex>
+    </entry>
+    <entry category="Politician" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | office | "for Gravesham"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | office (workedAt, workedAs) | Member_of_Parliament_for_Gravesham</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway worked as a member of Parliament for Gravesham.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was the Member of Parliament for Gravesham.</lex>
+    </entry>
+    <entry category="Politician" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | office | Member_of_parliament</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | office (workedAt, workedAs) | Member_of_parliament</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway worked as a Member of parliament.</lex>
+    </entry>
+    <entry category="Politician" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Holloway | party | Conservative_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | party | Conservative_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Holloway is in the Conservative Party (UK).</lex>
+      <lex comment="good" lid="Id2">Adam Holloway is a member of the Conservative Party in the UK.</lex>
+      <lex comment="good" lid="Id3">Adam Holloway is a member of the Tories.</lex>
+    </entry>
+    <entry category="Politician" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Cross_of_Independence</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | awards | Cross_of_Independence</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Cross_of_Independence</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc was awarded the Cross of Independence.</lex>
+      <lex comment="good" lid="Id2">Adam Koc has won the Cross of Independence award.</lex>
+    </entry>
+    <entry category="Politician" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Legion_of_Honour</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | awards | Legion_of_Honour</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Legion_of_Honour</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc was awarded the Legion of Honour.</lex>
+      <lex comment="good" lid="Id2">Adam Koc received the Legion of Honour award.</lex>
+      <lex comment="good" lid="Id3">Adam Koc has won the Legion of Honour award.</lex>
+    </entry>
+    <entry category="Politician" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Officer's_Star_%22Parasol%22</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Officer's_Star_"Parasol"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc received the award Officer's Star Parasol.</lex>
+      <lex comment="good" lid="Id2">Adam Koc was awarded the Officer's Star Parasol.</lex>
+      <lex comment="good" lid="Id3">Adam Koc was awarded the Officer's Star, Parasol.</lex>
+    </entry>
+    <entry category="Politician" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Order_of_Polonia_Restituta</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | awards | Order_of_Polonia_Restituta</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Order_of_Polonia_Restituta</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc was awarded the Order of Polonia Restituta.</lex>
+    </entry>
+    <entry category="Politician" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Virtuti_Militari</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | awards | Virtuti_Militari</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Virtuti_Militari</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Koc was awarded the Virtuti Militari.</lex>
+      <lex comment="good" lid="Id2">Adam Koc has won the Virtuti Militari award.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>European_University_Association | headquarters | Brussels</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University was established in 1928. It is affiliated with the European University Association in Brussels.</lex>
+      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University was established 1928 and is affiliated with the European University Association (which has its headquarters in Brussels).</lex>
+    </entry>
+  </entries>
+</benchmark>

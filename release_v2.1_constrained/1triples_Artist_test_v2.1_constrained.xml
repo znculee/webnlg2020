@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | genre | Rock_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Frew is a performer of rock music.</lex>
+      <lex comment="good" lid="Id2">Alan Frews' musical genre is rock music.</lex>
+      <lex comment="good" lid="Id3">Alan Frew's genre is Rock music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albennie_Jones | associatedBand | Sammy_Price</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | associatedMusicalArtist | Sammy_Price</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | associatedBand/associatedMusicalArtist | Sammy_Price</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albennie Jones has worked with the musical artist Sammy Price.</lex>
+    </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Rhythm_and_blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | genre | Rhythm_and_blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The musical genre of Aleksandra Kovac is rhythm and blues.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac's genre is rhythm and blues.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac is an exponent of Rhythm and blues.</lex>
+    </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | genre | Synthpop</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The musical genre of Alex Day is Synthpop.</lex>
+      <lex comment="good" lid="Id2">Alex Day performs Synthpop music.</lex>
+      <lex comment="good" lid="Id3">Alex Day uses the Synthpop genre.</lex>
+    </entry>
+    <entry category="Artist" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | associatedBand | Héctor_Numa_Moraes</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | associatedMusicalArtist | Héctor_Numa_Moraes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfredo Zitarrosa is associated with fellow musician Héctor Numa Moraes.</lex>
+      <lex comment="good" lid="Id2">Alfredo Zitarrosa is associated with Hector Numa Moraes.</lex>
+      <lex comment="good" lid="Id3">Alfredo Zitarrosa is associated with the artist Hector Numa Moraes.</lex>
+    </entry>
+    <entry category="Artist" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | birthPlace | Montevideo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | birthPlace | Montevideo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Montevideo is the birth place of Alfredo Zitarrosa.</lex>
+      <lex comment="good" lid="Id2">The birth place of Alfredo Zitarrosa is Montevideo.</lex>
+      <lex comment="good" lid="Id3">Alfredo Zitarrosa was born in Montevideo.</lex>
+    </entry>
+    <entry category="Artist" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfredo Zitarrosa was signed to the RCA Records label.</lex>
+      <lex comment="good" lid="Id2">Alfredo Zitarrosa's record label is RCA Records.</lex>
+      <lex comment="good" lid="Id3">Alfredo Zitarrosa has a recording label in RCA Records.</lex>
+    </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell plays jazz music.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Anders_Osborne | genre | Rhythm_and_blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | genre | Rhythm_and_blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Anders Osborne performs rhythm and blues music.</lex>
+      <lex comment="good" lid="Id2">Rhythm and blues is the musical genre of Anders Osborne.</lex>
+      <lex comment="good" lid="Id3">Anders Osborne's genre is Rhythm and blues.</lex>
+    </entry>
+    <entry category="Artist" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | activeYearsStartYear | "2009"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andrew Rayel began his musical career in 2009.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel started his career in 2009.</lex>
+    </entry>
+    <entry category="Artist" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedBand | Christian_Burns</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andrew Rayel is associated with Christian Burns.</lex>
+      <lex comment="good" lid="Id2">The musicians Andrew Rayel and Christian Burns are associates.</lex>
+    </entry>
+    <entry category="Artist" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Indie_rock | stylisticOrigin | New_wave_music</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Indie_rock | stylisticOrigins | New_wave_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indie_rock | stylisticOrigin | New_wave_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The stylistic origin of indie rock is new wave music.</lex>
+      <lex comment="good" lid="Id2">Indie Rock has its origins in New wave music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Bertram is an artist with the band Kids Imagine Nation.</lex>
+      <lex comment="good" lid="Id2">Aaron Bertram plays for the Kids Imagine Nation band.</lex>
+    </entry>
+    <entry category="Artist" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Bertram plays for the Suburban Legends band.</lex>
+    </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Deer | hometown | Indianapolis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Deer | origin | Indianapolis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | origin | Indianapolis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Deer is from Indianapolis.</lex>
+      <lex comment="good" lid="Id2">Aaron Deer origin's Indianapolis.</lex>
+    </entry>
+    <entry category="Artist" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner played with the band Twilight.</lex>
+    </entry>
+    <entry category="Artist" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Ambient_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Ambient_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner performs ambient music.</lex>
+      <lex comment="good" lid="Id2">Musician, Aaron Turner plays Ambient music.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner's genre is Ambient music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Doom_metal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Doom_metal</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner is an exponent of Doom metal.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner performs doom metal music.</lex>
+      <lex comment="good" lid="Id3">The musical genre of Aaron Turner is Doom metal.</lex>
+    </entry>
+    <entry category="Artist" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Drone_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Drone_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Drone music is a genre of Aaron Turner.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner is part of the drone music genre.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner plays drone music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Electroacoustic_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Electroacoustic_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner plays electroacoustic music.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner performs electroacoustic music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Post-metal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Post-metal</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner's genre is post-metal.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner's music is Post-metal.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner is a performer of the musical genre Post metal.</lex>
+    </entry>
+    <entry category="Artist" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Sludge_metal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Sludge_metal</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner is closely associated with the genre sludge metal.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner's musical genre is Sludge metal.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner is an exponent of Sludge metal.</lex>
+    </entry>
+    <entry category="Artist" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner plays the electric guitar.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner plays electric guitar.</lex>
+    </entry>
+    <entry category="Artist" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | instrument | Singing</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | instrument | Singing</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner sings for a living.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner is a singer.</lex>
+    </entry>
+    <entry category="Artist" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | hometown | Massachusetts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | origin | Massachusetts</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner is from Massachusetts.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner was born in Massachusetts.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner is originally from Massachusetts.</lex>
+    </entry>
+    <entry category="Artist" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | hometown | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | origin | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Turner was born in the United States.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner came from the U.S.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner's origin is the United States.</lex>
+    </entry>
+    <entry category="Artist" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abradab | activeYearsStartYear | "1994"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | activeYearsStartYear | 1994</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abradab started performing in 1994.</lex>
+    </entry>
+    <entry category="Artist" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Kaliber_44</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | associatedMusicalArtist | Kaliber_44</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Kaliber_44</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abradab is an artist for the band Kaliber 44.</lex>
+      <lex comment="good" lid="Id2">Abradab played with the band Kaliber 44.</lex>
+    </entry>
+    <entry category="Artist" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | genre | Rock_and_roll</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmet_Ertegun | genre | Rock_and_roll</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmet Ertegun performs rock and roll music.</lex>
+      <lex comment="good" lid="Id2">Ahmet Ertegun's genre is Rock and roll.</lex>
+      <lex comment="good" lid="Id3">Ahmet Ertegun plays rock and roll music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | origin | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmet Ertegun is from the United States.</lex>
+    </entry>
+    <entry category="Artist" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | hometown | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmet Ertegun originates from Washington D.C.</lex>
+      <lex comment="good" lid="Id2">Ahmet Ertegun is originally from Washington, D.C.</lex>
+      <lex comment="good" lid="Id3">Washington D.C. is the origin of Ahmet Ertegun.</lex>
+    </entry>
+    <entry category="Artist" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Al_Anderson_(NRBQ) | activeYearsStartYear | "1966"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Al Anderson from NRBQ band started his career in 1966.</lex>
+      <lex comment="good" lid="Id2">1966 is the year when Al Aderson, from the band NRQB, became active.</lex>
+    </entry>
+    <entry category="Artist" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedMusicalArtist | K2_(Kovač_sisters_duo)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedBand | K2_(Kovač_sisters_duo)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovač is an artist for the band K2.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovač is part of the K2 (Kovač sisters duo).</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovač is part of the band K2 (Kovac sisters duo).</lex>
+    </entry>
+    <entry category="Artist" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedBand | Kristina_Kovač</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kristina_Kovač</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovac is musically involved with Kristina Kovac.</lex>
+      <lex comment="good" lid="Id2">Musical Artist, Aleksandra Kovač is associated with fellow musical artist Kristina Kovač.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovač is associated with the musician Kristina Kovač.</lex>
+    </entry>
+    <entry category="Artist" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | birthPlace | Belgrade</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovac was born in Belgrade.</lex>
+      <lex comment="good" lid="Id2">The birthplace of Aleksandra Kovac is Belgrade.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovač was born in Belgrade.</lex>
+    </entry>
+    <entry category="Artist" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovač's place of birth was the Socialist Republic of Serbia.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac’s birth place is the Socialist Republic of Serbia.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovač was born in the Socialist Republic of Serbia.</lex>
+    </entry>
+    <entry category="Artist" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovac was born in 1972.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovač was born in 1972.</lex>
+    </entry>
+    <entry category="Artist" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Funk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | genre | Funk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandra Kovač performs funk music.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac is an exponent of Funk.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovač genre of music is Funk.</lex>
+    </entry>
+    <entry category="Artist" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Mellow_Candle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Mellow_Candle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is an artist for the band Mellow Candle.</lex>
+      <lex comment="good" lid="Id2">Alison O’Donnell was in the band Mellow Candle.</lex>
+    </entry>
+    <entry category="Artist" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Plastik_Mak</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Plastik_Mak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Plastik_Mak</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is associated with Plastik Mak.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell is a musician associated with the Plastik Mak.</lex>
+    </entry>
+    <entry category="Artist" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | label | Kissing_Spell_Records</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | recordLabel | Kissing_Spell_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | recordLabel | Kissing_Spell_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is signed to Kissing Spell Records.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell is signed to the record label Kissing Spell Records.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell record label is Kissing Spell Records.</lex>
+    </entry>
+    <entry category="Artist" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | label | Osmosys_Records</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | recordLabel | Osmosys_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | recordLabel | Osmosys_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is signed with Osmosys Records.</lex>
+      <lex comment="good" lid="Id2">Osmosys Records is the recording label of Alison O'Donnell.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell is signed to the Osmosys Records label.</lex>
+    </entry>
+    <entry category="Artist" eid="Id154" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | label | Stanyan_Records</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | recordLabel | Stanyan_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | recordLabel | Stanyan_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is signed with the record label Stanyan Records.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell has been signed to the Stanyan Records label.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell's recording label is Stanyan Records.</lex>
+    </entry>
+    <entry category="Artist" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | label | Static_Caravan_Recordings</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell's record label is Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell recorded on the record label, Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell is signed to the record label Static Caravan Recordings.</lex>
+    </entry>
+    <entry category="Artist" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allen_Forrest | activeYearsStartYear | "2005"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | activeYearsStartYear | 2005</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allen Forrest started his career in 2005.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest became active in 2005.</lex>
+    </entry>
+    <entry category="Artist" eid="Id157" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allen_Forrest | alternativeNames | "Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allen_Forrest | alias | "Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | alternativeName | "Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allen Forrest has various alternative names such as Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest has several alternative names such as Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest.</lex>
+      <lex comment="good" lid="Id3">Allen Forrest is also known by Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix and Allen Forrest.</lex>
+    </entry>
+    <entry category="Artist" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allen_Forrest | associatedBand | The_Black_Eyed_Peas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allen_Forrest | associatedMusicalArtist | The_Black_Eyed_Peas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | associatedBand/associatedMusicalArtist | The_Black_Eyed_Peas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allen Forrest is associated with the band The Black Eyed Peas.</lex>
+    </entry>
+    <entry category="Artist" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allen_Forrest | background | "solo_singer"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allen Forrest is a solo singer.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest was originally a solo singer.</lex>
+      <lex comment="good" lid="Id3">Allen Forrest has a background as a solo singer.</lex>
+    </entry>
+    <entry category="Artist" eid="Id214" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Death metal is a musical fusion of black metal.</lex>
+    </entry>
+    <entry category="Artist" eid="Id254" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Rock music originated from blues music.</lex>
+      <lex comment="good" lid="Id2">Rock music has its stylistic origins in the Blues.</lex>
+      <lex comment="good" lid="Id3">The Blues is a stylistic origin of rock music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Suburban_Legends | genre | Rock_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Suburban_Legends | genre | Rock_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The band Suburban Legends' genre is Rock music.</lex>
+      <lex comment="good" lid="Id2">Suburban Legends performs rock music.</lex>
+      <lex comment="good" lid="Id3">The band Suburban Legends play rock music.</lex>
+    </entry>
+  </entries>
+</benchmark>

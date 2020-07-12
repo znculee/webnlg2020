@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id31" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | dateOfRet | "1974-08-01"^^xsd:date</otriple>
+        <otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | was a crew member of | Apollo_14</mtriple>
+        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
+        <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+        <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Shepard was born in November 18th 1923 in New Hampshire. He was awarded the Distinguished Service Medal in the United States Navy which is higher than the Department of Commerce Gold Medal. Alan was on the crew of Apollo 14 before he died in California.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was born on the 18th November 1923 in New Hampshire. He was a member of the crew of Apollo 14. He was awarded the Distinguished Service Medal by the US Navy, which ranks higher than the Department of Commerce Gold Medal. He retired on the 1st August 1974 and died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard has died in California. He was born on 18 November 1923 in New Hampshire and served as crew on the Apollo 14 mission. Prior to his retirement on 1 August 1974 he had been awarded the Distinguished Service Medal by the US Navy, an award higher than the Department of Commerce gold medal.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id32" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backup pilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | was a crew member of | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+        <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas. He was selected by NASA in 1963 and he performed as a test pilot. He was a crew member on the NASA operated Apollo 12, which was commanded by David Scott. Alfred Worden was the backup pilot of Apollo 12.</lex>
+      <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas. He was a test pilot and was chosen by NASA in 1963. He was a crew member of NASA operated Apollo 12. Other crew members included Alfred Worden, who was a backup pilot, and a commander David Scott.</lex>
+      <lex comment="good" lid="Id3">Alan Bean was born in Wheeler, Texas and was hired by NASA in 1963 to perform as a test pilot. He served as a crew member of Apollo 12, that is operated by NASA. David Scott was the commander of Apollo 12 and Alfred Worden was a backup pilot.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id33" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+        <otriple>Alan_Bean | status | "Retired"@en</otriple>
+        <otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backup pilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | was a crew member of | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+        <mtriple>Alan_Bean | status | "Retired"</mtriple>
+        <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Bean (born on the 15th of March 1932) was a member of the Apollo 12 crew as a test pilot. David Scott commanded the NASA-operated Apollo 12 mission where Alfred Worden was the backup pilot. Alan bean is now retired.</lex>
+      <lex comment="good" lid="Id2">Alfred Worden was a backup pilot of Apollo 12 (commanded by David Scott) with Alan Bean as a test pilot and crew member. Alan Bean who was born on March 15, 1932 is now retired from Apollo 12 which was operated by NASA.</lex>
+      <lex comment="good" lid="Id3">Alan Bean was born on Mar 15, 1932. He was on the crew of Apollo 12, which was operated by NASA. He performed as a test, but is now retired. David Scott was the Commander of Apollo 12, and Alfred Worden was the backup pilot.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id34" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+        <otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backup pilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | was a crew member of | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+        <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
+        <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree. He was hired by NASA in 1963 and served as a test pilot. Apollo 12's backup pilot was Alfred Worden and was commanded by David Scott.</lex>
+      <lex comment="good" lid="Id2">Alan Bean graduated in 1955 from UT Austin with a B.S. He was selected by NASA in 1963 and became a test pilot on the NASA operated Apollo 12 mission. Alfred Worden was the backup pilot of Apollo 12 and David Scott was its commander.</lex>
+      <lex comment="good" lid="Id3">The Alma Mater of Alan Bean is UT Austin, B.S. 1955. He performed as a test pilot., was hired by NASA in 1963 as the crew of Apollo 12. The Apollo 12 mission was operated by NASA, backup piloted by Alfred Worden with David Scott as the commander.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDAluna | operator | AIDA_Cruises</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAluna | operator | AIDA_Cruises</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDA Cruises is the operator of the AIDAluna.</lex>
+      <lex comment="good" lid="Id2">The AIDAluna is operated by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id3">AIDA Cruises are the operator of the ship AIDAluna.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDAstella | completionDate | "2013-03-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDAstella | shipCompleted | "2013-03-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | completionDate | 2013-03-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDAstella was completed on March 11th 2013.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella was completed on the 11th March 2013.</lex>
+      <lex comment="good" lid="Id3">AIDAstella was completed on March 11th 2013.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDAstella | shipMaidenVoyage | "2013-03-17"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDAstella | maidenVoyage | "2013-03-17"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | maidenVoyage | 2013-03-17</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDAstella had its maiden voyage on March 17, 2013.</lex>
+      <lex comment="good" lid="Id2">The ship AIDAstella had her maiden voyage on March 17th 2013.</lex>
+      <lex comment="good" lid="Id3">The AIDAstella had its maiden voyage on the 17th of March 2013.</lex>
+      <lex comment="good" lid="Id4">The AIDAstella ship's first journey took place on 17/03/2013.</lex>
+      <lex comment="good" lid="Id5">The ship AIDAstella had her maiden voyage on March 17th 2003.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | transmission | "4-speedautomatic(ZF 4HP18QE)"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | transmission | "4-speed automatic (ZF 4HP18QE)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBuilder | "Samuda Brothers Cubitt Town, London"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra was built by the Samuda Brothers.</lex>
+      <lex comment="good" lid="Id2">The Samuda Brothers built the Alhambra.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Argentina | leader | Gabriela_Michetti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Argentina | leaderName | Gabriela_Michetti</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gabriela Michetti is the leader of Argentina.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>DeSoto_Custom | related | Chrysler_Newport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The DeSoto Custom and Chrysler Newport are related types of transport.</lex>
+      <lex comment="good" lid="Id2">DeSoto Custom is a related means of transport to Chrysler Newport.</lex>
+      <lex comment="good" lid="Id3">The DeSoto Custom is related to the Chrysler Newport.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Fiat_Croma | related | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Fiat Croma is related to the Alfa Romeo 164.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | anthem | The_Star-Spangled_Banner</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Star Spangled Banner is the national anthem of the united States.</lex>
+      <lex comment="good" lid="Id2">The anthem of the United States is the Star Spangled Banner.</lex>
+      <lex comment="good" lid="Id3">The Star Spangled Banner is the U.S. anthem.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | fate | Eagle_(automobile)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | fate | Eagle_(automobile)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors Co was succeeded by Eagle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | assembly | Newport_Pagnell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | assembly | Newport_Pagnell</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 assembly is located in Newport Pagnell.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 was assembled at Newport Pagnell.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is assembled at Newport Pagnell.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the United Kingdom.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is assembled in the U.K.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id286" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Elizabeth II is the leader of the United Kingdom.</lex>
+      <lex comment="good" lid="Id2">The ruler of the United Kingdom is Queen Elizabeth II.</lex>
+    </entry>
+  </entries>
+</benchmark>

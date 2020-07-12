@@ -1,0 +1,583 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is a leader of the United Kingdom which uses the pound sterling as currency. The UK is also the location of 20 Fenchurch Street.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " location ",
+       "subject": " United_Kingdom"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " location ",
+       "subject": " United_Kingdom"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id42"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Construction of 250 Delaware Avenue began in January 2014 and has 12 floors with an area of 30843.8 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue, which has 12 floors and a floor area of 30843.8 square meters, began construction in January of 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " buildingStartDate ",
+   "subject": " "January, 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " buildingStartDate ",
+       "subject": " "January, 2014""
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " buildingStartDate ",
+       "subject": " "January, 2014""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id43"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "110 million dollars is the cost to build 250 Delaware Avenue, with its 12 floors and 30843.8 square metres.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " cost ",
+   "subject": " "110 million (dollars)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " cost ",
+     "subject": " "1.1E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id44"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has 12 floors, its construction began in January 2014 is located in Buffalo, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "January 2014 was the start date of building 250 Delaware Avenue which has 12 floors in Buffalo, New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 12 floor construction project of 250 Delaware Avenue in Buffalo, New York, is set to began in January 2014.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id45"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 12 floors at 250 Delaware Avenue, Buffalo, New York, with a total floor area of 30843.8 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is a location in Buffalo, New York, it has a floor area of 30843.8 square metres and 12 floors.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue, Buffalo, New York, has 12 floors and a floor area of 30843.8 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id46"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York which is a part of Erie County and the leader is Byron Brown.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is a location in Buffalo, Erie County, New York, where the leader is Byron Brown.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       },
+       {
+       "object": "250_Delaware_Avenue ",
+       "property": " location ",
+       "subject": " Buffalo,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id47"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York where the leader is Byron Brown.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in Buffalo, New York; which is led by Byron Brown.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York where Byron Brown is the leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id48"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky (designed by architect 3XN) in Copenhagen is the Marriott International Hotel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Marriott International is the tenant of AC Hotel Bella Sky in Copenhagen and the architect was 3XN.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of the AC Hotel Bella Sky in Copenhagen was 3XN and the tenant of the hotel is the Marriott International Hotel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " tenant ",
+   "subject": " Marriott_International"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " operator ",
+     "subject": " Marriott_International"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id82"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lewis Nockalls Cottingham is the architect of Adare Manor, which was completed in 1862, and is owned by JP McManus.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The JP McManus owned Adare Manor was designed by the architect Lewis Nockalls Cottingham and was completed in 1862.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Lewis_Nockalls_Cottingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " Lewis_Nockalls_Cottingham"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id87"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale was finished in 1931 and is in the Tudor Revival architectural style.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall in Haputale was finished in 1931 and is of the Tudor Revival architectural style.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Haputale's Adisham Hall has the Tudor Revival architectural style but it was completed in 1931.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " Tudor_Revival_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " Tudor_Revival_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id102"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall, completed in 1931 in the architectural Tudor Revival style, is located in Haputale, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall completed in 1931 with a Tudor Revival style is located at Haputale, Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall, Haputale, Sri Lanka was built in Tudor Revival style and finished in 1931.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " "Haputale, Sri Lanka""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " completionDate ",
+       "subject": " 1931"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " location ",
+       "subject": " "Haputale, Sri Lanka"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id110"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mason School of Business, located in the United States, is a tenant of the Alan B. Miller Hall, that is situated in Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in Virginia, United States and is a tenant of the Alan B. Miller Hall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall is located in Virginia United States. The current tenant of the Alan B. Miller Hall is the Mason School of Business.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id126"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall, located in The United States in Virginia, includes current tenant The Mason School of Business.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is a tenant of The Alan B Miller Hall, which is located in Virginia which is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall is in Virginia, U.S. and Mason School of Business are tenants there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id127"
+      }
+},
+{
+   14: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall is situated in Virginia, United States, and has the Mason School of Business as a tenant.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is a tenant of the Alan B. Miller Hall in Virginia, U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Mason School of Business is a tenant of the Alan B. Miller Hall, which is situated in Virginia in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id128"
+      }
+}

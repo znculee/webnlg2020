@@ -1,0 +1,2063 @@
+{
+   1: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ajoblanco originates from the country of Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajoblanco is from Spain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " country ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " country ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ajoblanco has almond as one of its ingredients.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Almond is an ingredient in ajoblanco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Almond"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Almond"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bread is an ingredient of Ajoblanco.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Bread"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Bread"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ingredient of Ajoblanco is garlic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Garlic is an ingredient used in Ajoblanco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Garlic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Garlic"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Olive oil is an ingredient in Ajoblanco.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Olive_oil"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Olive_oil"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ajoblanco contains water.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Water is an ingredient in Ajoblanco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " ingredient ",
+   "subject": " Water"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " ingredient ",
+     "subject": " Water"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ajoblanco is a food found in Andalusia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajoblanco is from the Andalusia region.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ajoblanco is from Andalusia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ajoblanco ",
+   "property": " region ",
+   "subject": " Andalusia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ajoblanco ",
+     "property": " region ",
+     "subject": " Andalusia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Almond is classed as a flowering plant.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Almonds are in the division of flowering plants.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Almond ",
+   "property": " division ",
+   "subject": " Flowering_plant"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Almond ",
+       "property": " division ",
+       "subject": " Flowering_plant"
+       },
+       {
+       "object": "Almond ",
+       "property": " unrankedDivisio ",
+       "subject": " Flowering_plant"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Almond is part of the Rosaceae family.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Almonds are from the Rosaceae family.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Almond ",
+   "property": " family ",
+   "subject": " Rosaceae"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Almond ",
+       "property": " familia ",
+       "subject": " Rosaceae"
+       },
+       {
+       "object": "Almond ",
+       "property": " family ",
+       "subject": " Rosaceae"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Almond is one of the members of the Rosales order.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Almond ",
+   "property": " order ",
+   "subject": " Rosales"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Almond ",
+       "property": " ordo ",
+       "subject": " Rosales"
+       },
+       {
+       "object": "Almond ",
+       "property": " order ",
+       "subject": " Rosales"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Almond is part of the order of Rosids.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Almonds are from the order Rosids.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Almond ",
+   "property": " order ",
+   "subject": " Rosids"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Almond ",
+     "property": " order ",
+     "subject": " Rosids"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Italy is the country Amatriciana sauce comes from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce is a traditional Italian sauce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce can be found in Italy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " country ",
+   "subject": " Italy"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " country ",
+     "subject": " Italy"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce can be found in an Italian meal.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " course ",
+   "subject": " Italian_meal_structure"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " course ",
+     "subject": " Italian_meal_structure"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A variation of Amatriciana sauce includes onion, garlic, black pepper, and chili.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A variation of Amatriciana sauce contains onion, garlic, black pepper, chili.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " dishVariation ",
+   "subject": " "Onion, garlic, black pepper, chili""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " variations ",
+     "subject": " "Onion, garlic, black pepper, chili"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce can be varied by adding garlic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One variation of Amatriciana sauce uses garlic as part of its dish.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " dishVariation ",
+   "subject": " Garlic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " hasVariant ",
+     "subject": " Garlic"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Onion is one variation of ingredients in Amatriciana sauce.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " dishVariation ",
+   "subject": " Onion"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " hasVariant ",
+     "subject": " Onion"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Guanciale is an ingredient of Amatriciana sauce.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Guanciale is an ingredient used in the preparation of Amatriciana sauce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Guanciale is an ingredient in Amatriciana sauce.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " ingredient ",
+   "subject": " Guanciale"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " ingredient ",
+     "subject": " Guanciale"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Olive oil is one ingredient in Amatriciana sauce.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Olive oil is an ingredient of Amatriciana sauce.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " ingredient ",
+   "subject": " Olive_oil"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " ingredient ",
+     "subject": " Olive_oil"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce has tomato as one of its ingredients.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tomato is an ingredient in Amatriciana sauce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tomato is an ingredient of Amatriciana sauce.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " ingredient ",
+   "subject": " Tomato"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " ingredient ",
+     "subject": " Tomato"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tomatoes, guanciale, cheese, olive oil are the main ingredients of Amatriciana sauce.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " mainIngredients ",
+   "subject": " "Tomatoes, guanciale, cheese, olive oil""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amatriciana_sauce ",
+       "property": " mainIngredient ",
+       "subject": " "Tomatoes, guanciale, cheese , olive oil"@en"
+       },
+       {
+       "object": "Amatriciana_sauce ",
+       "property": " ingredientName ",
+       "subject": " "Tomatoes,guanciale, cheese (Pecorino Romano),olive oil""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce comes from the region of Lazio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amatriciana is a sauce from Lazio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amatriciana sauce is from the Lazio region.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amatriciana_sauce ",
+   "property": " region ",
+   "subject": " Lazio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amatriciana_sauce ",
+     "property": " region ",
+     "subject": " Lazio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Susana Diaz is a leader of Andalusia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Susana Diaz is the leader of Andalusia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andalusia ",
+   "property": " leaderName ",
+   "subject": " Susana_Díaz"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andalusia ",
+     "property": " leaderName ",
+     "subject": " Susana_Díaz"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Antioquia Department is found in Colombia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Antioquia Department can be found in the country of Colombia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antioquia_Department ",
+   "property": " country ",
+   "subject": " Colombia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antioquia_Department ",
+     "property": " country ",
+     "subject": " Colombia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arem-arem is a food found in Indonesia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arem arem originates from the country of Indonesia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The country of Indonesia commonly serves Arem-arem.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arem-arem ",
+   "property": " country ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arem-arem ",
+     "property": " country ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arem-arem can be served as a main course.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arem arem is a main course.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Arem-arem ",
+   "property": " course ",
+   "subject": " "Main course""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Arem-arem ",
+     "property": " course ",
+     "subject": " "Main course"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The alternative name for asam pedas is asam padeh.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam padeh is also known as Asam pedas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "An alternative name for Asam pedas is Asam padeh.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " alternativeName ",
+   "subject": " "Asam padeh""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " alternateName ",
+     "subject": " "Asam padeh"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   27: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas comes from the countries of Indonesia and Malaysia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is from Indonesia and Malaysia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " "Indonesia and Malaysia""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " "Indonesia and Malaysia"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   28: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Indonesia is the country Asam pedas comes from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish that is popular in Indonesia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asam pedas is popular in Indonesia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " country ",
+   "subject": " Indonesia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " country ",
+     "subject": " Indonesia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id43"
+      }
+},
+{
+   29: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish that was created within Malay cuisine.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " creatorOfDish ",
+   "subject": " Malay_cuisine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " creatorOfDish ",
+     "subject": " Malay_cuisine"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id44"
+      }
+},
+{
+   30: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Padang cuisine has resulted in the creation of the dish Asam pedas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " creatorOfDish ",
+   "subject": " Padang_cuisine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " creatorOfDish ",
+     "subject": " Padang_cuisine"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id45"
+      }
+},
+{
+   31: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The main ingredients of Asam pedas are fish cooked in sour and hot sauce.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of asam pedas consist of fish cooked in a sour and hot sauce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish of fish cooked in a sour and hot sauce.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " mainIngredients ",
+   "subject": " "Fish cooked in sour and hot sauce""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asam_pedas ",
+       "property": " ingredientName ",
+       "subject": " "Fish cooked in sour and hot sauce""
+       },
+       {
+       "object": "Asam_pedas ",
+       "property": " mainIngredient ",
+       "subject": " "Fish cooked in sour and hot sauce"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id46"
+      }
+},
+{
+   32: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is found in the region of Sumatra and Malay peninsula.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is from the Sumatra and Malay Peninsula regions.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " region ",
+   "subject": " "Sumatra and Malay Peninsula""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " region ",
+     "subject": " "Sumatra and Malay Peninsula"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   33: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a food found in the Malay Peninsula.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas is from the Malay Peninsula region.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asam pedas hails from the Malay Peninsula.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " region ",
+   "subject": " Malay_Peninsula"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " region ",
+     "subject": " Malay_Peninsula"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   34: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asam pedas is a dish from Sumatra.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asam_pedas ",
+   "property": " region ",
+   "subject": " Sumatra"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asam_pedas ",
+     "property": " region ",
+     "subject": " Sumatra"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   35: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christmas pudding is an ingredient in Baked Alaska.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " ingredient ",
+   "subject": " Christmas_pudding"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " ingredient ",
+     "subject": " Christmas_pudding"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id81"
+      }
+},
+{
+   36: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ice cream is an ingredient of Baked Alaska.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ice cream is an ingredient in Baked Alaska.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " ingredient ",
+   "subject": " Ice_cream"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " ingredient ",
+     "subject": " Ice_cream"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id82"
+      }
+},
+{
+   37: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sponge cake is an ingredient of Baked Alaska.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the ingredients of Baked Alaska is Sponge Cake.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Sponge cake is an ingredient in baked alaska.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " ingredient ",
+   "subject": " Sponge_cake"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " ingredient ",
+     "subject": " Sponge_cake"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id84"
+      }
+},
+{
+   38: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Meringue, ice cream, sponge cake or Christmas pudding are the main ingredients of Baked Alaska.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of a Baked Alaska are meringue, ice cream and sponge cake (or Christmas pudding).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Meringue, ice cream, sponge cake or Christmas pudding are main ingredients in baked Alaska.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " mainIngredients ",
+   "subject": " "Meringue, ice cream, sponge cake or Christmas pudding""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " ingredientName ",
+     "subject": " "Meringue, ice cream,sponge cakeorChristmas pudding""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id85"
+      }
+},
+{
+   39: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Hong Kong or New York or Paris are the regions where Baked Alaska is found.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baked Alaska comes from either Paris, New York or Hong Kong.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baked Alaska is popular in Paris, New York and Hong Kong.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " region ",
+   "subject": " "Paris, New York or Hong Kong""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " region ",
+     "subject": " "Paris, New York or Hong Kong"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id86"
+      }
+},
+{
+   40: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baked Alaska comes from the region of New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baked Alaska is from the New York region.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Baked_Alaska ",
+   "property": " region ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Baked_Alaska ",
+     "property": " region ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id87"
+      }
+},
+{
+   41: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding is a dessert.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding is classed as a Dessert.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " course ",
+   "subject": " "Dessert""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_pudding ",
+     "property": " course ",
+     "subject": " "Dessert"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id88"
+      }
+},
+{
+   42: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding was created in 1820 at the Rutland Arms, Bakewell.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding was created in Rutland Arms, Bakewell, in 1820.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " creator ",
+   "subject": " "Rutland Arms, Bakewell, in 1820""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_pudding ",
+     "property": " creator ",
+     "subject": " "Rutland Arms, Bakewell, in 1820"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id89"
+      }
+},
+{
+   43: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A variant of bakewell pudding is bakewell tart.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bakewell tart is a variation of Bakewell pudding.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " dishVariation ",
+   "subject": " Bakewell_tart"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bakewell_pudding ",
+     "property": " hasVariant ",
+     "subject": " Bakewell_tart"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id90"
+      }
+},
+{
+   44: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Some main ingredients in Bakewell pudding are ground almonds, jam, butter and eggs.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bakewell pudding has ground almond, jam, butter and eggs as main ingredients.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The main ingredients of Bakewell pudding are ground almond, jam, butter, eggs.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bakewell_pudding ",
+   "property": " mainIngredients ",
+   "subject": " "Ground almond, jam, butter, eggs""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Bakewell_pudding ",
+       "property": " ingredientName ",
+       "subject": " "Ground almond, jam, butter, eggs""
+       },
+       {
+       "object": "Bakewell_pudding ",
+       "property": " mainIngredient ",
+       "subject": " "Ground almond, jam, butter, eggs"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id91"
+      }
+},
+{
+   45: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bionico is a food found in Mexico.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " country ",
+   "subject": " Mexico"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bionico ",
+     "property": " country ",
+     "subject": " Mexico"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id165"
+      }
+},
+{
+   46: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Condensed milk is an ingredient of Bionico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Condensed milk is an ingredient in Bionico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Condensed milk is used in bionico.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bionico ",
+   "property": " ingredient ",
+   "subject": " Condensed_milk"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bionico ",
+     "property": " ingredient ",
+     "subject": " Condensed_milk"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id168"
+      }
+},
+{
+   47: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Jalisco is Jesús Casillas Romero.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jesús Casillas Romero is the name of Jalisco's leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The name of the leader in Jalisco is Jesus Casillas Romero.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Jalisco ",
+   "property": " leaderName ",
+   "subject": " Jesús_Casillas_Romero"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Jalisco ",
+     "property": " leaderName ",
+     "subject": " Jesús_Casillas_Romero"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id207"
+      }
+},
+{
+   48: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Javanese people are an ethnic group of Java.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Javanese people are an ethnic group in Java.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Java ",
+   "property": " ethnicGroup ",
+   "subject": " Javanese_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Java ",
+     "property": " ethnicGroup ",
+     "subject": " Javanese_people"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id208"
+      }
+},
+{
+   49: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The lemon belongs to the rutaceae family.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lemon is a member of the family Rutaceae.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lemon ",
+   "property": " family ",
+   "subject": " Rutaceae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lemon ",
+     "property": " family ",
+     "subject": " Rutaceae"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id210"
+      }
+},
+{
+   50: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lemon is part of genus Citrus.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lemon is from the genus citrus.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Lemon ",
+   "property": " genus ",
+   "subject": " Citrus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Lemon ",
+     "property": " genus ",
+     "subject": " Citrus"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id211"
+      }
+},
+{
+   51: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Mexico is Enrique Peña Nieto.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Enrique Pena Nieto is a leader in Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Enrique Pena Nieto is the leader of Mexico.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mexico ",
+   "property": " leaderName ",
+   "subject": " Enrique_Peña_Nieto"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Mexico ",
+       "property": " leader ",
+       "subject": " Enrique_Peña_Nieto"
+       },
+       {
+       "object": "Mexico ",
+       "property": " leaderName ",
+       "subject": " Enrique_Peña_Nieto"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id223"
+      }
+},
+{
+   52: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mondelez International was founded in Chicago.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mondelez_International ",
+   "property": " foundationPlace ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mondelez_International ",
+     "property": " foundationPlace ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id224"
+      }
+},
+{
+   53: {
+      "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Arabic is one of the languages that is spoken in New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arabic is one language spoken in New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York ",
+   "property": " language ",
+   "subject": " Arabic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_York ",
+     "property": " language ",
+     "subject": " Arabic"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id225"
+      }
+},
+{
+   54: {
+   "category": "Food",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The French Language can be heard in New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "French is a language in New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York ",
+   "property": " language ",
+   "subject": " French_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_York ",
+     "property": " language ",
+     "subject": " French_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id226"
+      }
+}

@@ -1,0 +1,2362 @@
+{
+   1: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud belongs to the party of Parti Bumiputera Sarawak.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud is a member of the Parti Bumiputera Sarawak Party.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " party ",
+   "subject": " "Parti Bumiputera Sarawak""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " party ",
+     "subject": " "Parti Bumiputera Sarawak"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   2: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was in office under Antonis Samaras, Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis served in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeminister ",
+       "subject": " Antonis_Samaras"
+       },
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeMinister ",
+       "subject": " Antonis_Samaras"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   3: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in Hessisch Oldendorf.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " birthPlace ",
+   "subject": " Hessisch_Oldendorf"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " birthPlace ",
+     "subject": " Hessisch_Oldendorf"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   4: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marietta, Ohio was the birthplace of Agnes Ward White.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Ward White was born in Marietta, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The birthplace of Agnes Ward White is Marietta, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Ward_White ",
+   "property": " birthPlace ",
+   "subject": " Marietta,_Ohio"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agnes_Ward_White ",
+       "property": " placeOfBirth ",
+       "subject": " Marietta,_Ohio"
+       },
+       {
+       "object": "Agnes_Ward_White ",
+       "property": " birthPlace ",
+       "subject": " Marietta,_Ohio"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   5: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The spouse of Albert B. White was Agnes Ward White.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White is married to Agnes Ward White.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Ward White was the wife of Albert B. White.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " spouse ",
+   "subject": " Agnes_Ward_White"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " spouse ",
+     "subject": " Agnes_Ward_White"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   6: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was a Rear Admiral in the Argentine Navy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was Rear Admiral in the Argentine Navy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alberto_Teisaire ",
+   "property": " profession ",
+   "subject": " "Rear Admiral in the Argentine Navy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alberto_Teisaire ",
+     "property": " profession ",
+     "subject": " "Rear Admiral in the Argentine Navy"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   7: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales started his career on 1875-03-04.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " activeYearsStartDate ",
+   "subject": " 1875-03-04"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " activeYearsStartDate ",
+     "subject": " "1875-03-04"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   8: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett fought in battles in the American Civil War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett fought in the American Civil War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " battles ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_S._Daggett ",
+       "property": " battle ",
+       "subject": " American_Civil_War"
+       },
+       {
+       "object": "Aaron_S._Daggett ",
+       "property": " battles ",
+       "subject": " American_Civil_War"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   9: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S Daggett fought in the Battle of Salem Church.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett fought in the Battle of Salem Church.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " battles ",
+   "subject": " Battle_of_Salem_Church"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_S._Daggett ",
+       "property": " battle ",
+       "subject": " Battle_of_Salem_Church"
+       },
+       {
+       "object": "Aaron_S._Daggett ",
+       "property": " battles ",
+       "subject": " Battle_of_Salem_Church"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   10: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett was born in Greene, Maine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett was born in Greene Maine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The birth place of Aaron S. Daggett is Greene, Maine.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " birthPlace ",
+   "subject": " Greene,_Maine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_S._Daggett ",
+     "property": " birthPlace ",
+     "subject": " Greene,_Maine"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   11: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S Daggett was born in Maine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett was born in Maine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Maine is the birth place of Aaron S. Daggett.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " birthPlace ",
+   "subject": " Maine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_S._Daggett ",
+     "property": " birthPlace ",
+     "subject": " Maine"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   12: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett's place of death was Massachusetts.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett died in Massachusetts.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " deathPlace ",
+   "subject": " Massachusetts"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_S._Daggett ",
+     "property": " deathPlace ",
+     "subject": " Massachusetts"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   13: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S Daggett died in West Roxbury.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett died in West Roxbury.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " deathPlace ",
+   "subject": " West_Roxbury"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_S._Daggett ",
+     "property": " deathPlace ",
+     "subject": " West_Roxbury"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   14: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink's Alma mater is Erasmus University Rotterdam.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The alma mater of Ab Klink is Erasmus University in Rotterdam.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink attended Erasmus University Rotterdam.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " almaMater ",
+   "subject": " Erasmus_University_Rotterdam"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " almaMater ",
+     "subject": " Erasmus_University_Rotterdam"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   15: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Stellendam was the birthplace of Ab Klink.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in Stellendam.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " birthPlace ",
+   "subject": " Stellendam"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " birthPlace ",
+     "subject": " Stellendam"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   16: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink is a national of the Netherlands.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink is from the Netherlands.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " nationality ",
+   "subject": " Netherlands"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " nationality ",
+     "subject": " Netherlands"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   17: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink worked as a Member of the House of Representatives.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the House of Representatives""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " office ",
+     "subject": " "Member of the House of Representatives""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   18: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink worked as a member of the senate.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ab_Klink ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the Senate""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ab_Klink ",
+     "property": " office ",
+     "subject": " "Member of the Senate""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   19: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud is a member of the "Barisan Ra'ayat Jati Sarawak" party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " party ",
+   "subject": " "Barisan Ra'ayat Jati Sarawak""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " party ",
+     "subject": " "Barisan Ra'ayat Jati Sarawak"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   20: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office while Mike Akhigbe was the Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office whilst Mike Akhigbe was Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   21: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office while Felipe González was Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office while Felipe Gonzalez was Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was in office when Felipe Gonzalez was Prime Minister.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Felipe_González"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " primeminister ",
+     "subject": " Felipe_González"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   22: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W Sibal's date of birth is 11 - 04 - 1921.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner W. Sibal was born on the 11th April 1921.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " birthDate ",
+   "subject": " 1921-04-11"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " birthDate ",
+       "subject": " "1921-04-11"^^xsd:date"
+       },
+       {
+       "object": "Abner_W._Sibal ",
+       "property": " dateOfBirth ",
+       "subject": " "1921-04-11"^^xsd:date"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   23: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner W Sibal represented Connecticut's 4th Congressional District.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_W._Sibal ",
+   "property": " region ",
+   "subject": " Connecticut's_4th_congressional_district"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_W._Sibal ",
+     "property": " region ",
+     "subject": " Connecticut's_4th_congressional_district"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   24: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff's place of birth was Connecticut.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff was born in Connecticut.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abraham_A._Ribicoff ",
+   "property": " birthPlace ",
+   "subject": " Connecticut"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abraham_A._Ribicoff ",
+     "property": " birthPlace ",
+     "subject": " Connecticut"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id66"
+      }
+},
+{
+   25: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff's nationality is American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff was a national of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The nationality of Abraham A. Ribicoff was American.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abraham_A._Ribicoff ",
+   "property": " nationality ",
+   "subject": " American"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abraham_A._Ribicoff ",
+     "property": " nationality ",
+     "subject": " "American"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id74"
+      }
+},
+{
+   26: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abraham A Ribicoff worked as Governor of Connecticut.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abraham A. Ribicoff was the Governor of Connecticut.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abraham_A._Ribicoff ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Governor of Connecticut""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abraham_A._Ribicoff ",
+     "property": " office ",
+     "subject": " "Governor of Connecticut""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id76"
+      }
+},
+{
+   27: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John N Dempsey was preceded by Abraham A Ribicoff.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The successor of Abraham A. Ribicoff was John N. Dempsey.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abraham_A._Ribicoff ",
+   "property": " successor ",
+   "subject": " John_N._Dempsey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abraham_A._Ribicoff ",
+     "property": " successor ",
+     "subject": " John_N._Dempsey"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id81"
+      }
+},
+{
+   28: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was involved in Gulf War battles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway fought in the Gulf War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " battles ",
+   "subject": " Gulf_War"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Holloway ",
+       "property": " battles ",
+       "subject": " Gulf_War"
+       },
+       {
+       "object": "Adam_Holloway ",
+       "property": " battle ",
+       "subject": " Gulf_War"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id84"
+      }
+},
+{
+   29: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham, Kent, England.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " "Faversham, Kent, England""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " "Faversham, Kent, England"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id85"
+      }
+},
+{
+   30: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Faversham was the birthplace of Adam Holloway.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " Faversham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " Faversham"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id86"
+      }
+},
+{
+   31: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was in the Grenadier Guards in the military.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway served in the Grenadier Guards.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " militaryBranch ",
+   "subject": " Grenadier_Guards"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Holloway ",
+       "property": " militaryBranch ",
+       "subject": " Grenadier_Guards"
+       },
+       {
+       "object": "Adam_Holloway ",
+       "property": " branch ",
+       "subject": " Grenadier_Guards"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id87"
+      }
+},
+{
+   32: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway is from the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway is a national of the United Kingdom.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " nationality ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " nationality ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id88"
+      }
+},
+{
+   33: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Koc fought in World War I.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc fought in WWI.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " battles ",
+   "subject": " World_War_I"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Koc ",
+       "property": " battles ",
+       "subject": " World_War_I"
+       },
+       {
+       "object": "Adam_Koc ",
+       "property": " battle ",
+       "subject": " World_War_I"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id99"
+      }
+},
+{
+   34: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Koc was born in Congress in Poland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc was born in Congress Poland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " birthPlace ",
+   "subject": " Congress_Poland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " birthPlace ",
+     "subject": " Congress_Poland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id100"
+      }
+},
+{
+   35: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birth place of Adam Koc was Suwalki.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc was born in Suwałki.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The birth place of Adam Koc is Suwalki.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " birthPlace ",
+   "subject": " Suwałki"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " birthPlace ",
+     "subject": " Suwałki"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id101"
+      }
+},
+{
+   36: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Koc's nationality is Poland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc is of Polish nationality.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc nationality is Polish.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " nationality ",
+   "subject": " Poland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " nationality ",
+     "subject": " Poland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id102"
+      }
+},
+{
+   37: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Japanese Occupation of British Borneo is the birth place of Adenan Satem.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Japanese occupation Of British Borneo was the birthplace of Adenan Satem.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adenan_Satem ",
+   "property": " birthPlace ",
+   "subject": " Japanese_occupation_of_British_Borneo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adenan_Satem ",
+     "property": " birthPlace ",
+     "subject": " Japanese_occupation_of_British_Borneo"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id103"
+      }
+},
+{
+   38: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adenan Satem was in office during the time Abdul Taib Mahmud was Vice President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem was in office while Abdul Taib Mahmud was Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem was in office at the same time as Abdul Taib Mahmud was President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adenan_Satem ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Abdul_Taib_Mahmud"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adenan_Satem ",
+     "property": " governor ",
+     "subject": " Abdul_Taib_Mahmud"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id104"
+      }
+},
+{
+   39: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adolf Schärf was born in Austria-Hungary.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adolf Scharf was born in Austria-Hungary.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austria-Hungary is the birthplace of Adolf Scharf.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolf_Schärf ",
+   "property": " birthPlace ",
+   "subject": " Austria-Hungary"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolf_Schärf ",
+     "property": " birthPlace ",
+     "subject": " Austria-Hungary"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id105"
+      }
+},
+{
+   40: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Athens.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " placeOfBirth ",
+       "subject": " Athens"
+       },
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " birthPlace ",
+       "subject": " Athens"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id107"
+      }
+},
+{
+   41: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked as Minister for Health.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis held office as the Minister for Health.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Minister for Health""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " office ",
+     "subject": " "Minister for Health""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id110"
+      }
+},
+{
+   42: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked for the office of the Spokesman of Popular Orthodox Rally.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis held office as "Spokesman of Popular Orthodox Rally".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked as the Spokesman of Popular Orthodox Rally.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Spokesman of Popular Orthodox Rally""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " office ",
+     "subject": " "Spokesman ofPopular Orthodox Rally""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id111"
+      }
+},
+{
+   43: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis works at office as "Vice-President of New Democracy".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis held the office "Vice-President of New Democracy".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was the Vice President of New Democracy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Vice-President of New Democracy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " office ",
+     "subject": " "Vice-President of New Democracy"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id112"
+      }
+},
+{
+   44: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked at the Ministry of Health in Greece.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked at the Greek Ministry of Health.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis worked in the Ministry of Health in Greece.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " Ministry_of_Health_(Greece)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " office ",
+     "subject": " Ministry_of_Health_(Greece)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id115"
+      }
+},
+{
+   45: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave was involved in the Battle of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Battle of France.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " Battle_of_France"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Airey_Neave ",
+       "property": " battle ",
+       "subject": " Battle_of_France"
+       },
+       {
+       "object": "Airey_Neave ",
+       "property": " battles ",
+       "subject": " Battle_of_France"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id132"
+      }
+},
+{
+   46: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave was born in Knightsbridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Knightsbridge is the birthplace of Airey Neave.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " birthPlace ",
+   "subject": " Knightsbridge"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " birthPlace ",
+     "subject": " Knightsbridge"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id134"
+      }
+},
+{
+   47: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave's unit was the Royal Artillery.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave served in the Royal Artillery Unit.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " unit ",
+   "subject": " Royal_Artillery"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " unit ",
+     "subject": " Royal_Artillery"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id136"
+      }
+},
+{
+   48: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White finished his career on March 4th 1905.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " activeYearsEndDate ",
+   "subject": " 1905-03-04"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " activeYearsEndDate ",
+     "subject": " "1905-03-04"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id137"
+      }
+},
+{
+   49: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White was born on 22nd September 1856.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was born 1856-09-22.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born 22nd September 1856.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " birthDate ",
+   "subject": " 1856-09-22"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " dateOfBirth ",
+     "subject": " "1856-09-22"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id139"
+      }
+},
+{
+   50: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach was born in the County of Tyrol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The birth place of Alfons Gorbach is County of Tyrol.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfons_Gorbach ",
+   "property": " birthPlace ",
+   "subject": " County_of_Tyrol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfons_Gorbach ",
+     "property": " birthPlace ",
+     "subject": " County_of_Tyrol"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id172"
+      }
+},
+{
+   51: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales came from the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales lives in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id189"
+      }
+},
+{
+   52: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was Governor of North Carolina.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Governor of North Carolina""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " office ",
+     "subject": " "Governor of North Carolina"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id190"
+      }
+},
+{
+   53: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales is a member of the Democratic Party in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " party ",
+   "subject": " Democratic_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " party ",
+     "subject": " Democratic_Party_(United_States)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id191"
+      }
+},
+{
+   54: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle suceeded Alfred Moore Scales.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Gould Fowle is the successor to Alfred Moore Scales.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was succeeded by Daniel Gould Fowle.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " Daniel_Gould_Fowle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " successor ",
+     "subject": " Daniel_Gould_Fowle"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id192"
+      }
+},
+{
+   55: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The successor of Alfred Moore Scales was James Madison Leach.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was succeeded by James Madison Leach.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The successor to Alfred Moore Scales was James Madison Leach.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " James_Madison_Leach"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " successor ",
+     "subject": " James_Madison_Leach"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id193"
+      }
+},
+{
+   56: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales's successor was the politician, James W. Reid.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales was succeeded by the politician James W Reid.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Moore_Scales ",
+   "property": " successor ",
+   "subject": " James_W._Reid_(politician)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Moore_Scales ",
+     "property": " successor ",
+     "subject": " James_W._Reid_(politician)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id194"
+      }
+},
+{
+   57: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N Phillips retired on the date 1939-01-03.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " activeYearsEndDate ",
+   "subject": " 1939-01-03"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " activeYearsEndDate ",
+     "subject": " "1939-01-03"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id195"
+      }
+},
+{
+   58: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred N. Phillips was born in Connecticut.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Connecticut was the birthplace of Alfred N Phillips.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_N._Phillips ",
+   "property": " birthPlace ",
+   "subject": " Connecticut"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_N._Phillips ",
+     "property": " birthPlace ",
+     "subject": " Connecticut"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id196"
+      }
+},
+{
+   59: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was Governor of Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers worked as the Governor of Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Governor of Texas""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " office ",
+     "subject": " "Governor of Texas"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id204"
+      }
+},
+{
+   60: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Battle of Gettysburg was part of the American Civil War conflict.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Battle of Gettysburg took place during the American Civil War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Gettysburg ",
+   "property": " isPartOfMilitaryConflict ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Gettysburg ",
+     "property": " isPartOfMilitaryConflict ",
+     "subject": " American_Civil_War"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id232"
+      }
+},
+{
+   61: {
+   "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Army was involved in battles of the American Revolutionary War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The U.S. Army battled in the American Revolutionary War.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Army battled in the American Revolutionary War.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States_Army ",
+   "property": " battles ",
+   "subject": " American_Revolutionary_War"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States_Army ",
+       "property": " battle ",
+       "subject": " American_Revolutionary_War"
+       },
+       {
+       "object": "United_States_Army ",
+       "property": " battles ",
+       "subject": " American_Revolutionary_War"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id284"
+      }
+}

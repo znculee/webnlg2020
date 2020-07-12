@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | team | A.C._Milan</otriple>
+        <otriple>A.C._Milan | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Milan | league | Serie_A</otriple>
+        <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Milan | league | Serie_A</mtriple>
+        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays in Serie A for AC Milan.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli plays for the club A.C. Milan which is in the Serie A league.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli is a member of the A.C. Milan club which plays in the Serie A league.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+        <otriple>Alessio_Romagnoli | clubs | A.S._Roma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+        <otriple>Alessio_Romagnoli | team | A.S._Roma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+        <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alessio Romagnoli is a member of A.S. Roma who play in the Serie A league.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli plays for A.S. Roma, which is playing in the Serie A.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli is part of the A.S. Roma Serie A team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.S._Roma | position | Serie_A</otriple>
+        <otriple>Alessio_Romagnoli | clubs | A.S._Roma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | position | Serie_A</mtriple>
+        <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays for AS Roma in Serie A.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli plays for AS Roma in the Serie A.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli plays for A.S. Roma in Serie A.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | ground | AFAS_Stadion</otriple>
+        <otriple>Adam_Maher | team | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | ground | AFAS_Stadion</mtriple>
+        <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher's club is AZ Alkmaar whose ground is AFAS Stadion.</lex>
+      <lex comment="good" lid="Id2">Adam Maher is connected to the AZ Alkmaar club whose ground is AFAS Stadion.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
+        <otriple>Canada | language | Inuktitut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
+        <mtriple>Canada | language | Inuktitut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Inuktitut is a spoken language in Canada, the birthplace of Aaron Boogaard.</lex>
+      <lex comment="good" lid="Id2">Inuktitut is a language spoken in Canada where Aaron Boogaard was born.</lex>
+      <lex comment="good" lid="Id3">Aaron Boogaard's birthplace was Canada, where one of the languages spoken is Inuktitut.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | placeOfBirth | Regina,_Saskatchewan</otriple>
+        <otriple>Aaron_Boogaard | team | Wichita_Thunder</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | birthPlace | Regina,_Saskatchewan</mtriple>
+        <mtriple>Aaron_Boogaard | club | Wichita_Thunder</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Boogaard's birthplace is Regina, Saskatchewan and he plays for Wichita Thunder.</lex>
+      <lex comment="good" lid="Id2">Aaron Boogaard plays for the Wichita Thunder and was born in Regina, Saskatchewan.</lex>
+      <lex comment="good" lid="Id3">Aaron Boogaard was born in Regina, Saskatchewan and his club is Wichita Thunder.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | birthYear | 1986</mtriple>
+        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Boogaard was born in 1986 in Canada.</lex>
+      <lex comment="good" lid="Id2">Aaron Boogaard was born in Canada in 1986.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Aaron_Boogaard | placeOfBirth | Regina,_Saskatchewan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | birthYear | 1986</mtriple>
+        <mtriple>Aaron_Boogaard | birthPlace | Regina,_Saskatchewan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Boogaard was born in 1986 in Regina, Saskatchewan.</lex>
+      <lex comment="good" lid="Id2">Aaron Boogaard was born in Regina, Saskatchewan in 1986.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team is the Columbus Blue Jackets, whose general manager is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus Blue Jackets which is managed by Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid's draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekalainen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | weight | "94802.4"^^xsd:double</otriple>
+        <otriple>Adam_McQuaid | placeOfBirth | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
+        <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born in Canada and he weighs 94.8024 kg.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was born in Canada and his weight is 94.8024 kgs.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was born in Canada and weighs 94.8024 kilograms.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id39" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | weight | "94802.4"^^xsd:double</otriple>
+        <otriple>Adam_McQuaid | placeOfBirth | Charlottetown</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
+        <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid, who was born in Charlottetown, weighs 94.8024kg.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's weight is 94.8024 kilograms and he was born in Charlottetown.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was born in Charlottetown and weighs 94.8024 kgs.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | weight | "94802.4"^^xsd:double</otriple>
+        <otriple>Adam_McQuaid | placeOfBirth | Prince_Edward_Island</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
+        <mtriple>Adam_McQuaid | birthPlace | Prince_Edward_Island</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born on Prince Edward Island and weighs 94.8024 kg.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was born on Prince Edward Island and weighs 94.8024 kilograms.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid weighs 94.8024 kilograms and was born on Prince Edward Island.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Zawra'a_SC</otriple>
+        <otriple>Al-Zawra'a_SC | manager | Basim_Qasim</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Zawra'a_SC</mtriple>
+        <mtriple>Al-Zawra'a_SC | manager | Basim_Qasim</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Zawra'a SC, whose manager is Basim Qasim.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Zawra'a SC managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al-Zawra'a SC which is managed by Basim Qasim.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Al_Shorta_SC</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Quwa_Al-Jawiya</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Quwa_Al-Jawiya</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and his club is Al Shorta SC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for the clubs Al Shorta SC and Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al Shorta SC and he played for the club Al-Quwa Al-Jawiya.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad has played for both Al-Naft and Esteghlal Ahvaz FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad used to play for Esteghlal Ahvaz F.C. and now palys for Al-Naft.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad, whose club is Esteghlal Ahvaz F C. plays for Al-Naft.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id77" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | FK_Mughan</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | FK_Mughan</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley played for FK Mughan and Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for FK Mughan and formerly for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley has played for the clubs FK Mughan and Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id78" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Harbour_View_F.C.</otriple>
+        <otriple>Akeem_Priestley | clubs | Antigua_GFC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+        <mtriple>Akeem_Priestley | club | Antigua_GFC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley played for Antigua GFC and now plays for Harbour View FC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Harbour View Fc and Antigua GFC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays football for Harbour View FC and Antigua GFC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id79" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Jacksonville Dolphins and the Harbour View F.C.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Jacksonville Dolphins and his club is Harbour View F.C.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley's former clubs include Harbour View FC and Jacksonville Dolphins.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id80" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley is in the Jacksonville Dolphins club and previously played for the club Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Jacksonville Dolphins Club and for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays for Jacksonville Dolphins Club and used to play for Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id81" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | RoPS</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | RoPS</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's clubs are Harbour View F.C. and RoPS.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley, a member of club RoPS, is a player for the Harbour View F.C.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley's former clubs include Harbour View FC and RoPS.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Sheikh_Russel_KC</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's club is Harbour View F.C and he plays for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley, whose club is Harbour View FC, plays for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley, whose club is Harbour View F.C. played for the club Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id83" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al-Khor_Sports_Club | league | Qatar_Stars_League</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al-Khor_Sports_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Khor_Sports_Club | league | Qatar_Stars_League</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Khor_Sports_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra is in the Al-Khor Sports Club which is in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra has played for the Al-Khor Sports Club in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al-Khor Sports Club which plays in the Qatar Stars League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id84" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al-Wakrah_Sport_Club | league | Qatar_Stars_League</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al-Wakrah_Sport_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Wakrah_Sport_Club | league | Qatar_Stars_League</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Wakrah_Sport_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Al-Wakrah Sports Club which is part of the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club which is in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul-Zahra plays for the Al-Wakrah Sports Club in the Qatar Stars League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id85" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al-Wakrah_Sport_Club | position | Qatar_Stars_League</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al-Wakrah_Sport_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Wakrah_Sport_Club | position | Qatar_Stars_League</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Wakrah_Sport_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club in the Qatar Stars league.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club positioned in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club in the Qatar Stars league.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id86" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al-Khor_Sports_Club</otriple>
+        <otriple>Al-Khor_Sports_Club | position | Qatar_Stars_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Khor_Sports_Club</mtriple>
+        <mtriple>Al-Khor_Sports_Club | position | Qatar_Stars_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra is in the Al-Khor Sports Club which is in the Qatar Stars league.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al Khor Sports Club in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al-Khor Sports Club within the Qatar Stars League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id89" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
+        <otriple>Al_Kharaitiyat_SC | position | Qatar_Stars_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
+        <mtriple>Al_Kharaitiyat_SC | position | Qatar_Stars_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul Zahra plays for Al Kharaitiyat SC who are in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al Kharaitiyat SC which is part of the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra's club is AL Kharaitiyat SC which plays in the Qatar Stars League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id111" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in Moscow and plays for the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was born in Moscow and has represented the Soviet Union national football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id116" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Amkar_Perm</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "→ Tom Tomsk"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov plays for FC Amkar Perm and FC Tom Tomsk.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Prudnikov played for FC Amkar Perm and his club is Tom Tomsk.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov plays for FC Tom Tomsk and FC Amkar Perm football club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id118" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Kuban_Krasnodar</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "→ Tom Tomsk"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov's club is FC Tom Tomsk and he also plays for FC Kuban Krasnodar.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov plays for FC Tom Tomsk and FC Kuban Krasnodar club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id123" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | FC_Alania_Vladikavkaz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Alania_Vladikavkaz</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for FC Terek Grozny however he now plays for FC Alania Vladikavkaz.</lex>
+      <lex comment="good" lid="Id2">Former clubs of Aleksandr Prudnikov include FC Terek Grozny and FC Alania Vladikavkaz.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov is in the FC Terek Grozny club and he plays for FC Alania Vladikavkaz.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id124" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
+        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
+        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for FC Terek Grozny managed by Rashid Rakhimov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for FC Terek Grozny which is managed by Rashid Rakhimov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov played for FC Terek Grozny which is managed by Rashid Rakhimov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Hunt | team | VfL_Wolfsburg</otriple>
+        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Hunt | club | VfL_Wolfsburg</mtriple>
+        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Hunt plays for Vfl Wolfsburg and used to play for SV Werder Bremen II.</lex>
+      <lex comment="good" lid="Id2">Aaron Hunt's club is VfL Wolfsburg and he plays for SV Werder Bremen II.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen II.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abel_Hernández | team | U.S._Città_di_Palermo</otriple>
+        <otriple>Abel_Hernández | clubs | Peñarol</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+        <mtriple>Abel_Hernández | club | Peñarol</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernandez plays for the US Citta di Palermo club and also played for Penarol.</lex>
+      <lex comment="good" lid="Id2">Abel Hernandez's club is US Citta di Palermo and Penarol.</lex>
+      <lex comment="good" lid="Id3">Abel Hernández has played for the clubs US Città di Palermo and Penarol.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_Maher | clubs | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | team | Netherlands_national_under-17_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
+        <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher's club is PSV Eindhoven and he played for the Netherlands national under-17 football team.</lex>
+      <lex comment="good" lid="Id2">Adam Maher played for PSV Eindhoven and represented the Netherlands under 17 football team.</lex>
+      <lex comment="good" lid="Id3">Adam Maher, whose club is PSV Eindhoven, plays for Netherlands National under 17 club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Naft</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad in the Al-Naft club, plays for Steel Azin F.C.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Naft and formerly for Steel Azin FC.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad of Al-Naft plays for Steel Azin F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id3">Ferencvarosi TC is managed by Thomas Doll and is the club of Akeem Adams.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
+        <otriple>Akeem_Dent | dateOfBirth | "1987-09-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
+        <mtriple>Akeem_Dent | birthDate | 1987-09-27</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Dent was born September 27, 1987.</lex>
+      <lex comment="good" lid="Id2">Akeem Dent date of birth is the 27th September 1987.</lex>
+      <lex comment="good" lid="Id3">Akeem Dent was born on 27 September 1987.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
+        <otriple>Akeem_Dent | placeOfBirth | "Atlanta, Georgia"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
+        <mtriple>Akeem_Dent | birthPlace | "Atlanta, Georgia"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Dent was born in Atlanta, Georgia in 1987.</lex>
+      <lex comment="good" lid="Id2">Akeem Dent was born in Atlanta Georgia in 1987.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
+        <otriple>Atlanta_Falcons | owner | Arthur_Blank</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
+        <mtriple>Atlanta_Falcons | owner | Arthur_Blank</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Dent started with the Atlanta Falcons which is owned by Arthur Blank.</lex>
+      <lex comment="good" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons who are owned by Arthur Blank.</lex>
+      <lex comment="good" lid="Id3">Akeem Dent's first team were the Atlanta Falcons owned by Arthur Blank.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leaderName | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+        <mtriple>Jamaica | leaderName | Patrick_Allen_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Patrick Allen is a political leader in Jamaica which is the birthplace of Akeem Priestley.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley was born in Jamaica where the leader is Patrick Allen.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley was born in Jamaica whose political leader is Patrick Allen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Al-Zawra'a_SC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Zawra'a_SC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra's clubs are the Shabab Al-Ordon Club and the Al-Zawra'a SC.</lex>
+      <lex comment="good" lid="Id2">Former clubs of Alaa Abdul-Zahra include Shabab Al-Ordon and Al-Zawra'a SC.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he formerly played for the club Al-Zawra'a SC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Hamilton_Academical_F.C.</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Barrow"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Barrow_A.F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Martin plays for Barrow AFC and Hamilton Academical FC.</lex>
+      <lex comment="good" lid="Id2">Alan Martin plays for Hamilton Academical F.C. and Barrow A.F.C.</lex>
+      <lex comment="good" lid="Id3">The footballer Alan Martin plays for Barrow AFC and also played for Hamilton Academical FC.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | shipDisplacement | 1.85e+09</otriple>
+        <otriple>A-Rosa_Luna | topSpeed | "24.0"^^xsd:double</otriple>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | topSpeed | "24.0"^^xsd:double</otriple>
+        <otriple>A-Rosa_Luna | shipDisplacement | "1850.0"^^&lt;http://dbpedia.org/datatype/tonne&gt;</otriple>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)</mtriple>
+        <mtriple>A-Rosa_Luna | topSpeed | 24.0</mtriple>
+        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With a top speed of 24.0, the ship A-Rosa Luna is 125800.00 millimetres long and weighs 1850 tonnes.</lex>
+      <lex comment="good" lid="Id2">A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24 km/h. Its length is 125.8 metres.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna which is 125.8 metres long has a top speed of 24.0 and weighs 1850 tonnes.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
+        <otriple>AIDAstella | shipInService | "2013-03-17"^^xsd:date</otriple>
+        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | christeningDate | 2013-03-16</mtriple>
+        <mtriple>AIDAstella | shipInService | 2013-03-17</mtriple>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDAstella, 253260.0 millimetres long, was christened on March 16, 2013 and put into service the next day.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella was christened on the 16th of March, 2013, put in service on March 17, 2013, and is 253260.0 millimetres in length.</lex>
+      <lex comment="good" lid="Id3">The AIDAstella was named on 16th March 2013 and launched on 17th. It is 253.26m long.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>ALV_X-1 | diameter | "5.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>ALV_X-1 | rocketStages | "2"^^xsd:nonNegativeInteger</otriple>
+        <otriple>ALV_X-1 | totalLaunches | "1"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ALV_X-1 | MeanOfTransportation/diameter | "1.524"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+        <otriple>ALV_X-1 | rocketStages | "2"^^xsd:nonNegativeInteger</otriple>
+        <otriple>ALV_X-1 | totalLaunches | "1"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALV_X-1 | diameter | 1.524 (metres)</mtriple>
+        <mtriple>ALV_X-1 | rocketStages | 2</mtriple>
+        <mtriple>ALV_X-1 | totalLaunches | 1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ALV X-1, with 2 rocket stages and one launch, has a 1.524 m diameter.</lex>
+      <lex comment="good" lid="Id2">The ALV X-1 rocket which has a diameter of 1.524 meters and has 2 stages was launched one.</lex>
+      <lex comment="good" lid="Id3">The ALV X-1 has a diameter of 1.524 m and has 2 rocket stages. It's been launched 1 times.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Helsinki</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov ship, built in Helsinki at the Arctech Helsinki Shipyard, has a 21.2 ship beam.</lex>
+      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov which has a ship beam of 21.2, was built at the Arctech Helsinki Shipyard, in Helsinki.</lex>
+      <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov with a 21.2 m long ship beam in Helsinki.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom and has an engine volume of 5.3 litres. The Aston Martin V8 and Aston Martin DBS are a related means of transport.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 and the Aston Martin DBS are related means of transport. The V8 model is assembled in the United kingdom with a 5.3 litre engine.</lex>
+      <lex comment="good" lid="Id3">Aston Martin V8 was assembled in the United Kingdom and has an engine volume of, 5.3 litres. The Aston Martin V8 and Aston Martin DBS are a related means of transport.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | aka | "Alfa Romeo 168"@en</otriple>
+        <otriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"@en</otriple>
+        <otriple>Alfa_Romeo_164 | engine | "2.5"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | alternativeName | "Alfa Romeo 168"</mtriple>
+        <mtriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"</mtriple>
+        <mtriple>Alfa_Romeo_164 | engine | 2.5 (litres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, also known as Alfa Romeo 168, is considered a mid-size luxury executive car and has a 2.5 litre engine.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, which has the alternative name of Alfa Romeo 168, is considered a mid-size luxury executive car and has a 2.5 litre engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id112" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, assembled in Italy, is a related mode of transport to the Saab 9000 and Lancia Thema.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, assembled in Italy, is related to the Saab 9000 and the Lancia Thema.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164 is assembled in Italy. It is a similar means of transport as the Saab 9000 and Lancia Thema.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164's assembly line is in Italy, where the capital is Rome. The Alfa Romeo 164 and the Saab 9000 are related means of transport.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, similar to the Saab 9000, was assembled in Italy, whose capital is Rome.</lex>
+      <lex comment="good" lid="Id3">Rome is the capital of Italy, the country where the Alfa Romeo 164 is assembled. The Alfa Romeo 164 and the Saab 9000 are related means of transport in that they are both cars.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id114" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 is assembled in Milan and is a related means of transportation to the Saab 9000 and the Lancia Thema as they are all cars.</lex>
+      <lex comment="good" lid="Id2">Milan is the location of the plant that makes the Alfa Romeo which is similar to the Alfa Romeo 164 and the Lancia Thema. The Alfa Romeo 164 is also related to the Saab 9000 car.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id115" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
+        <otriple>Milan | saint | Ambrose</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
+        <otriple>Milan | saint | Ambrose</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
+        <mtriple>Milan | saint | Ambrose</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Milan's saint is Ambrose and the city is the assembly point for the Alfa Romeo 164 - a related type of transport to the Lancia Thema.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 and the Lancia Thema are related means of transport. The Alfa Romeo 164 is assembled in Milan, a city whose patron saint is Ambrose.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id116" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | class | Executive_car</otriple>
+        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__1</otriple>
+        <otriple>Alfa_Romeo_164 | aka | "Alfa Romeo 168"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | class | Executive_car</otriple>
+        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__5</otriple>
+        <otriple>Alfa_Romeo_164 | aka | "Alfa Romeo 168"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | class | Executive_car</mtriple>
+        <mtriple>Alfa_Romeo_164 | engine | Straight-four_engine</mtriple>
+        <mtriple>Alfa_Romeo_164 | alternativeName | "Alfa Romeo 168"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, or "Alfa Romeo 168". is an executive car with a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164, also known as the Alfa Romeo 168, is an executive class car which has a straight-four engine.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, or Alfa Romeo 168, a straight-four engine, is in the executive class.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id190" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Quattro Gmbh is a subsidiary of Audi who were founded by August Horch and made the Audi A1.</lex>
+      <lex comment="good" lid="Id2">The Quattro Gmbh is a subsidiary of Audi, which was founded by August Horch and is the manufacturer of the Audi A1.</lex>
+      <lex comment="good" lid="Id3">Audi A1 is made by Audi and Quattro Gmbh is a subsidiary. August Horch founded Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id193" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>Caterpillar_Inc. | location | Illinois</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>Caterpillar_Inc. | location | Illinois</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in Illinois with a key person called Douglas R. Oberhelman is the Caterpillar Co. AIDAluna is powered by Caterpillar Inc.</lex>
+      <lex comment="good" lid="Id2">AIDAluna is powered by Caterpillar Inc located in Illinois where Douglas R Oberhelman is a key person.</lex>
+      <lex comment="good" lid="Id3">AIDAluna is powered by Illinois based Caterpillar Inc where the key person is Douglas R. Oberhelman.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id194" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Caterpillar Inc. of Peoria, Illinois includes key figure Douglas R Oberhelman and powers AIDAluna.</lex>
+      <lex comment="good" lid="Id2">The engine that powers the AIDAluna is from Caterpillar Inc who are located in Peoria, Illinois and have Douglas R Oberhelman among their key staff.</lex>
+      <lex comment="good" lid="Id3">AIDAluna is powered by Caterpillar Inc, based in Peoria, Illinois. The key person of Caterpillar Inc. is Douglas R. Oberhelman.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id197" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>DeSoto_Custom | related | Dodge_Coronet</otriple>
+        <otriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</otriple>
+        <otriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1955_Dodge | related | DeSoto_Custom</otriple>
+        <otriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</otriple>
+        <otriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</mtriple>
+        <mtriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</mtriple>
+        <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The DeSoto is related to the Dodge Coronet and 1955 Dodge, and is made by the DeSoto co.</lex>
+      <lex comment="good" lid="Id2">The DeSoto Custom was manufactured at DeSoto and is a similar means of transportation as the Dodge Coronet and the 1955 Dodge.</lex>
+      <lex comment="good" lid="Id3">The DeSoto Custom (made by DeSoto Custom) and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.</lex>
+    </entry>
+  </entries>
+</benchmark>

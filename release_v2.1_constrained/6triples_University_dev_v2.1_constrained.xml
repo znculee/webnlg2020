@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id8" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996. It has 100 academic staff and 600 students. Its dean is Mario Botta. The leader of Switzerland in Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2">There are 600 students an 100 academic staff at the Accademia di Architettura di Mendrisio which was established in 1996 in Switzerland. The Dean of the Accademia is Mario Botta but it is Johann Schneider-Ammann who leads the country.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and currently has 100 staff and 600 students. The dean of the academy is Mario Botta. The country's leader is Johann Schneider-Ammann.</lex>
+    </entry>
+    <entry category="University" eid="Id9" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | "100"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio in Mendrisio, Switzerland has 100 employees, 600 students and was established in 1996. The country is led by Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland was established in 1996 and currently has 100 staff and 600 students. The country's leader is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio located in the city of Mendrisio, Switzerland was established in 1996 and has 600 students and an academic staff of 100. Switzerland's leader is Johann Schneider-Ammann.</lex>
+    </entry>
+    <entry category="University" eid="Id10" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Switzerland | anthem | Swiss_Psalm</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</otriple>
+        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Switzerland | anthem | Swiss_Psalm</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
+        <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura in Mendrisio, Switzerland was established in 1996. Switzerland's anthem is the Swiss Psalm, and its leader is Federal Chancellor Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2">The city of Mendrisio in Switzerland, which is led by Federal Chancellor Johann Schneider-Ammann, is the location of the Accademia di Architettura di Mendrisio which was established in 1996. The national anthem of the country is the Swiss Psalm.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio was established in 1996 and is located in Mendrisio, Switzerland. Switzerland is led by its Federal Chancellor Johann Schneider-Ammann. Its anthem is the Swiss Psalm.</lex>
+    </entry>
+    <entry category="University" eid="Id11" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Switzerland | anthem | Swiss_Psalm</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Switzerland | anthem | Swiss_Psalm</mtriple>
+        <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and it has 600 students. The leader of Switzerland is Federal Chancellor Johann Schneider-Ammann. The anthem of Switzerland is the Swiss Psalm.</lex>
+      <lex comment="good" lid="Id2">The Swiss Psalm is the national anthem of Switzerland which is led by Federal Chancellor Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio which was established in 1996 and has 600 students.</lex>
+      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio was established in 1996, has 600 students and is in Switzerland. Switzerland's Federal Chancellor is Johann Schneider-Ammann and the country's anthem is Swiss Psalm.</lex>
+    </entry>
+    <entry category="University" eid="Id12" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino, Mendrisio, Switzerland. It has 100 academic staff and 600 students. It was established in 1996.</lex>
+      <lex comment="good" lid="Id2">The city of Mendrisio in Ticino, Switzerland is the location of the Accademia di Architettura di Mendrisio which was established in the year 1996 and has 600 students and an academic staff of 100.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is located in Ticino, Mendrisio, Switzerland. It was established in 1996, has 600 students, and an academic staff of 100.</lex>
+    </entry>
+  </entries>
+</benchmark>

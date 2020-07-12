@@ -1,0 +1,486 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was an American born in Glen Ridge, Essex County, New Jersey. He was a member of Apollo 11's crew. William Anders was an Apollo 11 backup pilot. Joe Biden is a US leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot. B. Aldrin was a US national, where one of the leaders is Joe Biden.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Glen Ridge, New Jersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders. Joe Biden was the American leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id46"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin was born January 20th, 1930 in Glen Ridge, New Jersey. Now retired, he served as a member of the Apollo 11 crew, which was operated by NASA.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id47"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from MIT in 1963. He performed as a fighter pilot and was a member of the Apollo 11 crew, operated by NASA. He is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey, graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, his occupation was a fighter pilot and is now retired. Buzz Aldrin was a crew member of Apollo 11 which was operated by NASA.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id48"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey. He joined NASA in 1963, where he would go on to serve as a crew member aboard the Apollo 11 mission. That mission also included backup pilot William Anders.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey. In 1963, he was selected to be part of NASA's Apollo 11 crew. William Anders was an Apollo 11 backup pilot.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id49"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born Jan 20, 1930. He was a member of Apollo 11 operated by NASA, where William Anders was a backup pilot. Aldren served as a fighter pilot and is now retired.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id50"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire in 1923. He was awarded the Distinguished Service medal by the USnavy, which ranks higher than the Department of Commerce gold medal. He retired in 1974 and died in California .",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id51"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The University of Texas at Austin is an affiliate of the University of Texas system. Its mascot is Hook'em, and the school will compete in the Big 12 Conference. A notable former student is Elliot See, who passed away in St Louis. St Louis is led by Francis G. Slay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See attended UT at Austin. UT at Austin is affiliated to the University of Texas system and is competing in the Big 12 Conference. Its mascot is the Hook'em. See died in St Louis where Francis G Slay is the mayor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St Louis, whose Mayor is Francis G Slay, and graduated from the University of Texas at Austin. It is affiliated to the University Of Texas system, will compete in the Big 12 Conference and its mascot is the Hook 'em.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id70"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was a student of the University of Texas in Austin, the same school that has Gregory L. Fenves as its president, is affiliated with the University of Texas system and competes in the Big 12 Conference. See died in St. Louis which was once part of the Kingdom of France.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id71"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The University of Texas, Austin, in Dallas, Collin County, is an affiliate of the University of Texas system. Its sporting teams compete in the Big 12 Conference and their mascot is Hook'em. A notable alumni of the university is Dallas-born Elliot See.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, born in Dallas, which is in Collin County, Texas, graduated from the University of Texas in Austin. The Austin University with its mascot Hook'em is affiliated to the Texas University system and is competing in the Big 12 Conference.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas, Collin County, Texas. He was a student at the University of Texas at Austin, which is affiliated to the University Of Texas system. The University of Texas at Austin is competing in the Big 12 Conference and their mascot is called Hook'em.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id72"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The university of texas at Austin is affiliated to the university of texas system. It will compete in the Big 12 Conference. The Hook 'em is their mascot. Gregory L. Fenves is the President and Elliot See, born in Dallas, is a notable student.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gregory L. Fenves is the appointed president of the University of Texas at Austin which Elliot See (born in Dallas) attended as a student. The University of Texas is affiliated to the University of Texas System and competes in the Big 12 Conference. The Hook `em is the mascot of University of Texas at Austin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id73"
+      }
+},
+{
+   11: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot see was born July 23, 1927. He joined NASA in 1962 and was a test pilot. He died in St Louis on 28 February, 1966.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Test pilot Elliot See, who worked for NASA beginning 1962, was born July 23rd 1927 and died 1966-02-28 in St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See served as a test pilot, joining NASA in 1962. Born on 07/23/1927, he lived only until 02/28/1966, when he died in St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "6",
+   "xml_id": "Id74"
+      }
+},
+{
+   12: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Test pilot Elliot See was an American who was picked by NASA as part of the space mission in 1962. See was born in Dallas and died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See is originally from Dallas, USA, and joined NASA in 1962 where he flew as a test pilot. Elliot See died in St. Louis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "6",
+   "xml_id": "Id75"
+      }
+},
+{
+   13: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born in 1933 and joined NASA in 1963. He served as a crew member of Apollo 8, operated by NASA. The backup pilot was Buzz Aldrin and Frank Borman was also a crew member.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17th, 1933. In 1963, he was chosen by NASA to serve as a member of the Apollo 8 crew, with Frank Borman and backup pilot, Buzz Aldrin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on the 17th of October 1933 William Anders started working for NASA in 1963 .He was a crew member on the NASA operated Apollo 8 mission along with backup pilot Buzz Aldrin and Frank Borman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "6",
+   "xml_id": "Id76"
+      }
+}

@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Arròs_negre | ingredient | Cuttlefish</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Arròs_negre | ingredient | Cuttlefish</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arròs negre is from Catalonia Spain and its ingredients are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
+      <lex comment="good" lid="Id2">Arròs negre is a traditional dish from Catalonia, Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
+      <lex comment="good" lid="Id3">Arros negre is from the region of Catalonia in Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers.</lex>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Arròs_negre | ingredient | White_rice</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Arròs_negre | ingredient | White_rice</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A traditional dish from the Catalonia region in Spain is Arròs negre . The main ingredients in it are, white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers.</lex>
+      <lex comment="good" lid="Id2">Arròs negre is a traditional dish from Catalonia, Spain. The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
+      <lex comment="good" lid="Id3">Arròs negre is from Catalonia, Spain. The main ingredients of Arròs negre are white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers.</lex>
+    </entry>
+    <entry category="Food" eid="Id7" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Sumatra | ethnicGroups | Minangkabau_people</otriple>
+        <otriple>Asam_pedas | region | Sumatra</otriple>
+        <otriple>Sumatra | ethnicGroup | Malays_(ethnic_group)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Sumatra | ethnicGroup | Minangkabau_people</mtriple>
+        <mtriple>Asam_pedas | region | Sumatra</mtriple>
+        <mtriple>Sumatra | ethnicGroup | Malays_(ethnic_group)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a dish from Sumatra, Malaysia where there are ethnic groups like the Malays and the Minangkabau people.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia and Sumatra. Malays are the Minangkabau people are ethnic groups in Sumatra.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a dish found in Malaysia and Sumatra. The Malays and Minangkabau people are ethnic groups of Sumatra.</lex>
+    </entry>
+    <entry category="Food" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | John_Roberts</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States is the country of the Bacon Explosion and Asian Americans are one of the ethnic groups found there. John Roberts is the leader and the capital is Washington, D.C.</lex>
+      <lex comment="good" lid="Id2">Bacon Explosion comes from the United States where John Roberts is a leader. The country's capital city is Washington D.C. and Asian Americans are one of the ethnic groups of the USA.</lex>
+      <lex comment="good" lid="Id3">John Roberts is a leader in the US where the Bacon Explosion comes from. The capital of the country is Washington DC and one of the ethnic groups are the Asian Americans.</lex>
+    </entry>
+    <entry category="Food" eid="Id10" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bacon_sandwich | ingredient | Ketchup</otriple>
+        <otriple>BLT | variations | Club_sandwich</otriple>
+        <otriple>Bacon_sandwich | hasVariant | BLT</otriple>
+        <otriple>Bacon_sandwich | country | United_Kingdom</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bacon_sandwich | variations | BLT</otriple>
+        <otriple>Bacon_sandwich | ingredient | Ketchup</otriple>
+        <otriple>BLT | hasVariant | Club_sandwich</otriple>
+        <otriple>Bacon_sandwich | country | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_sandwich | ingredient | Ketchup</mtriple>
+        <mtriple>BLT | dishVariation | Club_sandwich</mtriple>
+        <mtriple>Bacon_sandwich | dishVariation | BLT</mtriple>
+        <mtriple>Bacon_sandwich | country | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bacon sandwiches are popular in the UK. Ketchup can be added to them and a variation is the BLT which is similar to a club sandwich.</lex>
+      <lex comment="good" lid="Id2">Bacon sandwich is a dish from the UK that ketchup is often added to. A variant of this sandwich is a BLT, which itself is a variation of the club sandwich.</lex>
+      <lex comment="good" lid="Id3">The BLT is a variation of both the bacon sandwich and the club sandwich. Bacon sandwiches are popular in the UK and can have the added ingredient of ketchup.</lex>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Baked_Alaska | region | Hong_Kong</otriple>
+        <otriple>Baked_Alaska | ingredientName | "Meringue, ice cream,sponge cakeorChristmas pudding"</otriple>
+        <otriple>Baked_Alaska | country | "France, United States or China"@en</otriple>
+        <otriple>Baked_Alaska | ingredient | Meringue</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | region | Hong_Kong</mtriple>
+        <mtriple>Baked_Alaska | mainIngredients | "Meringue, ice cream, sponge cake or Christmas pudding"</mtriple>
+        <mtriple>Baked_Alaska | country | "France, United States or China"</mtriple>
+        <mtriple>Baked_Alaska | ingredient | Meringue</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baked Alaska comes from Hong Kong, France, the United States or China and contains Meringue, ice cream, sponge cake or Christmas pudding .</lex>
+      <lex comment="good" lid="Id2">Baked Alaska hails from Hong Kong but France, the US and China all claim to have invented the dish. The main ingredients are Meringue, ice cream, sponge cake or Christmas pudding.</lex>
+    </entry>
+    <entry category="Food" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"@en</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | ingredient | Olive_oil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Ajoblanco | mainIngredients | "Bread, almonds, garlic, water, olive oil"</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | ingredient | Olive_oil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco originates from the Andalusia region of Spain. Its main ingredients are:bread, almonds, garlic, water, and olive oil.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is a Spanish dish found in Andalusia and bread, almonds, garlic, water and olive oil are among its ingredients.</lex>
+      <lex comment="good" lid="Id3">Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco which is a food from Andalusia in Spain.</lex>
+    </entry>
+    <entry category="Food" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"@en</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | ingredient | Water</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Ajoblanco | mainIngredients | "Bread, almonds, garlic, water, olive oil"</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | ingredient | Water</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco, which is from Andalusia, in Spain.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originates from the country of Spain and from Andalusia. Its main ingredients are bread, almonds, garlic, water and olive oil.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco, a dish from Andalusia and Spain. contains: water, bread, almonds, garlic and olive oil.</lex>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | alias | "Ajo blanco"@en</otriple>
+        <otriple>Ajoblanco | ingredient | Bread</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | alternativeName | "Ajo blanco"</mtriple>
+        <mtriple>Ajoblanco | ingredient | Bread</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bread is an ingredient in Ajoblanco (Ajo blanco), which is from Andalusia, Spain.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco (also called Ajo blanco) originates from Andalusia, Spain. Bread is a main ingredient.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco originates from the Andalusian region of Spain and contains bread among its ingredients. Ajo blanco is an alternative written name of the food.</lex>
+    </entry>
+    <entry category="Food" eid="Id83" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>Bacon_Explosion | ingredientName | "Bacon,sausage"</otriple>
+        <otriple>Bacon_Explosion | ingredient | Sausage</otriple>
+        <otriple>Bacon_Explosion | mainIngredient | Bacon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>Bacon_Explosion | mainIngredients | "Bacon,sausage"</mtriple>
+        <mtriple>Bacon_Explosion | ingredient | Sausage</mtriple>
+        <mtriple>Bacon_Explosion | mainIngredients | Bacon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The main ingredient in a Bacon Explosion is bacon and sausage, it hails from the USA.</lex>
+      <lex comment="good" lid="Id2">The country Bacon Explosion comes from is the United States, its main ingredients are bacon and sausage.</lex>
+      <lex comment="good" lid="Id3">Bacon Explosion comes from the United States and includes the main ingredients of bacon and sausage.</lex>
+    </entry>
+    <entry category="Food" eid="Id84" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>Bacon_Explosion | ingredientName | "Bacon,sausage"</otriple>
+        <otriple>Bacon_Explosion | ingredient | Sausage</otriple>
+        <otriple>Bacon_Explosion | region | Kansas_City_metropolitan_area</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>Bacon_Explosion | mainIngredients | "Bacon,sausage"</mtriple>
+        <mtriple>Bacon_Explosion | ingredient | Sausage</mtriple>
+        <mtriple>Bacon_Explosion | region | Kansas_City_metropolitan_area</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The main ingredients of the Bacon Explosion are bacon and sausage, and comes from the Kansas City metropolitan area in the United States.</lex>
+      <lex comment="good" lid="Id2">Bacon Explosion is a dish that originated from the Kansas City metropolitan area in the United States and includes the ingredients bacon and sausage.</lex>
+      <lex comment="good" lid="Id3">The bacon explosion is from the Kansas city metropolitan area of the United States. The main ingredients are bacon and sausage.</lex>
+    </entry>
+    <entry category="Food" eid="Id85" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paul Ryan is a leader in the US, and the capital of the US is Washington D.C. White Americans are one of the ethnic groups in the US. The US is also the country of the Bacon Explosion.</lex>
+      <lex comment="good" lid="Id2">The country Bacon Explosion comes from is the United States. A political leader there is Paul Ryan, the capital is Washington D.C. and White Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="Food" eid="Id183" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
+        <otriple>Batagor | country | "Indonesia"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+        <otriple>Batagor | country | "Indonesia"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Batagor | country | Indonesia</mtriple>
+        <mtriple>Batagor | ingredient | Peanut_sauce</mtriple>
+        <mtriple>Batagor | dishVariation | Shumai</mtriple>
+        <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batagor, a variation of Shumai, comes from the country of Indonesia, it consists of a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
+      <lex comment="good" lid="Id2">Batagor comes from Indonesia and is a variation of Shumai. It contains a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
+      <lex comment="good" lid="Id3">Batagor, which is a variation of Shumai, is found in Indonesia. The main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id184" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
+        <otriple>Batagor | servingTemperature | "hot"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
+        <otriple>Batagor | servingTemperature | "hot"</otriple>
+        <otriple>Batagor | country | "Indonesia"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
+        <otriple>Batagor | servingTemperature | "hot"</otriple>
+        <otriple>Batagor | country | "Indonesia"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
+        <otriple>Batagor | servingTemperature | "hot"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Batagor | country | Indonesia</mtriple>
+        <mtriple>Batagor | ingredient | Peanut_sauce</mtriple>
+        <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
+        <mtriple>Batagor | servingTemperature | "hot"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batagor comes from the country of Indonesia. It is made using fried fish dumpling with tofu and vegetables in peanut sauce and should be served "hot".</lex>
+      <lex comment="good" lid="Id2">Batagor contains: fried fish dumpling, tofu, vegetables and peanut sauce. Its is served hot and originates from Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id185" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Shumai | hasVariant | Siomay</otriple>
+        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Batagor | country | Indonesia</mtriple>
+        <mtriple>Shumai | dishVariation | Siomay</mtriple>
+        <mtriple>Batagor | ingredient | Peanut_sauce</mtriple>
+        <mtriple>Batagor | dishVariation | Shumai</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batagor contains peanut sauce and is found in the country of Indonesia. Shumai and Siomay are variations on the dish.</lex>
+      <lex comment="good" lid="Id2">Batagor, a variation of Shumai (a variation of Siomay), contains peanut sauce and is from Indonesia.</lex>
+      <lex comment="good" lid="Id3">Batagor is a variant of Shumai and Siomay, an Indonesian dish containing peanut sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id201" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | Indonesia</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Beef_kway_teow | region | Indonesia</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+        <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Beef kway teow is a dish from the country of Singapore, where Halimah Yacob is leader and Standard Chinese is spoken. The dish originated from the region of Indonesia.</lex>
+      <lex comment="good" lid="Id2">Beef kway teow comes from the region of Indonesia and also Singapore. The leader of Singapore, where Standard Chinese is the spoken language, is Halimah Yacob.</lex>
+    </entry>
+    <entry category="Food" eid="Id202" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Beef_kway_teow | mainIngredient | "Kway teow , beef tenderloin, gula Melaka ,sliced, dried black beans, garlic, dark soy sauce, lengkuas , oyster sauce, soya sauce, chilli and sesame oil"@en</otriple>
+        <otriple>Beef_kway_teow | ingredient | Oyster_sauce</otriple>
+        <otriple>Beef_kway_teow | region | Indonesia</otriple>
+        <otriple>Beef_kway_teow | country | "Singapore and Indonesia"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Beef_kway_teow | mainIngredients | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"</mtriple>
+        <mtriple>Beef_kway_teow | ingredient | Oyster_sauce</mtriple>
+        <mtriple>Beef_kway_teow | region | Indonesia</mtriple>
+        <mtriple>Beef_kway_teow | country | "Singapore and Indonesia"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Beef kway teow is a dish found in Singapore and Indonesia. Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are main ingredients in beef kway teow.</lex>
+      <lex comment="good" lid="Id2">Beef kway teow is served in the region of Indonesia and is also found in Singapore. The main ingredients are Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
+      <lex comment="good" lid="Id3">Beek kway teow includes: kway teow, beef tender loin, gula Melaka, black beans, garlic, oyster, soya and soy sauce, lengkuas, chili and sesame oil. It is found in Singapore and Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id224" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>India | leaderName | Sumitra_Mahajan</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | country | India</mtriple>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
+        <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
+        <mtriple>Bhajji | region | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bhajji originates from the Karnataka region of India. The country's leaders are T. S. Thakur and Sumitra Mahajan.</lex>
+      <lex comment="good" lid="Id2">Bhajji come from the Karnataka region of India. The leaders of the country are T S Thakur and Sumitra Mahajan.</lex>
+    </entry>
+    <entry category="Food" eid="Id225" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bhajji | region | Karnataka</otriple>
+        <otriple>Bhajji | mainIngredient | "Gram flour, vegetables"@en</otriple>
+        <otriple>Bhajji | alias | "Bhaji, bajji"@en</otriple>
+        <otriple>Bhajji | ingredient | Vegetable</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | region | Karnataka</mtriple>
+        <mtriple>Bhajji | mainIngredients | "Gram flour, vegetables"</mtriple>
+        <mtriple>Bhajji | alternativeName | "Bhaji, bajji"</mtriple>
+        <mtriple>Bhajji | ingredient | Vegetable</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gram flour and vegetables are main ingredients in bhajji (also known as Bhaji and bajji) which comes from the Karnataka region.</lex>
+      <lex comment="good" lid="Id2">Bhajji, also known as Bhaji or bajji, are found in the region of Karnataka and its ingredients are gram flour and vegetables.</lex>
+      <lex comment="good" lid="Id3">Bhajji (aka Bhaji or bajji) is from the Karnataka region. It includes gram flour and vegetables.</lex>
+    </entry>
+    <entry category="Food" eid="Id226" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A cookie is a dessert and so is binignit, a dish from the Philippines, where Igorot people are part of one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">The Igorot people are an ethnic group in the Philippines where binignit can be found. The dish is a dessert, as is cookies.</lex>
+    </entry>
+    <entry category="Food" eid="Id227" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Sandesh_(confectionery)</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sandesh is a nice confectionery dessert. Binignit originates from the Philippines where Igorot people are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Binignit, from the Philippines, and sandesh, are desserts; the Philippines is also home to the Igorot people.</lex>
+    </entry>
+    <entry category="Food" eid="Id228" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+        <otriple>Sweet_potato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+        <mtriple>Sweet_potato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cookies and binignit are types of dessert. One of the ingredients in binignit is sweet potato which belongs to the order Solanales.</lex>
+    </entry>
+    <entry category="Food" eid="Id229" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Sandesh_(confectionery)</otriple>
+        <otriple>Sweet_potato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
+        <mtriple>Sweet_potato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sandesh is a dessert, as is binignit. Sweet potato, which belongs to the Solanales order of plants, is one of the ingredients of binignit.</lex>
+      <lex comment="good" lid="Id2">Sandesh and Binignit are both desserts. Binignit contains sweet potato, which belongs to the Solanales plant order.</lex>
+      <lex comment="good" lid="Id3">Sandesh is a dessert confection. Binignit is a dessert that includes sweet potato (a member of the Solanales order).</lex>
+    </entry>
+    <entry category="Food" eid="Id230" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | region | Visayas</otriple>
+        <otriple>Binignit | mainIngredient | Banana</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | region | Visayas</mtriple>
+        <mtriple>Binignit | mainIngredients | Banana</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Binignit contains both sweet potatoes and bananas, and can be found in the Visayas region of the Philippines.</lex>
+      <lex comment="good" lid="Id2">Binignit is a dish from the region of Visayas in the Philippines. It includes sweet potato and banana.</lex>
+      <lex comment="good" lid="Id3">Binignit originates from the Visayas region of the Philippines. Its main ingredients are sweet potato and banana.</lex>
+    </entry>
+    <entry category="Food" eid="Id231" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | region | Visayas</otriple>
+        <otriple>Binignit | mainIngredient | Sago</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | region | Visayas</mtriple>
+        <mtriple>Binignit | mainIngredients | Sago</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Binignit is a dish from the region of Visayas, Philippines. It includes sago and sweet potatoes.</lex>
+      <lex comment="good" lid="Id2">Binignit includes the ingredients sweet potato and sago. The dish originates from the Visayas region of the Philippines.</lex>
+    </entry>
+    <entry category="Food" eid="Id232" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | region | Visayas</otriple>
+        <otriple>Binignit | mainIngredient | Taro</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | region | Visayas</mtriple>
+        <mtriple>Binignit | mainIngredients | Taro</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Binignit is a dish from the region of Visayas in the Philippines and it contains sweet potato and taro.</lex>
+      <lex comment="good" lid="Id2">Binignit is a dish from the Visayas region of the Philippines and includes the main ingredient taro and also sweet potatoes.</lex>
+    </entry>
+    <entry category="Food" eid="Id241" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Binignit | mainIngredient | Sweet_potato</otriple>
+        <otriple>Sweet_potato | division | Flowering_plant</otriple>
+        <otriple>Binignit | ingredient | Sago</otriple>
+        <otriple>Sweet_potato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | mainIngredients | Sweet_potato</mtriple>
+        <mtriple>Sweet_potato | division | Flowering_plant</mtriple>
+        <mtriple>Binignit | ingredient | Sago</mtriple>
+        <mtriple>Sweet_potato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Binignit includes the ingredients sago and sweet potato, the latter of which belongs to flowering plants and the order Solanales.</lex>
+      <lex comment="good" lid="Id2">Binignit includes the ingredients of sago and sweet potato, the latter of which is part of the order Solanales and is a flowering plant.</lex>
+    </entry>
+    <entry category="Food" eid="Id258" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | leader | Silvano_Aureoles_Conejo</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | leaderName | Silvano_Aureoles_Conejo</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bionico and cookies are desserts. Bionico originates from Mexico, where the leader is Silvano Aureoles Conejo.</lex>
+      <lex comment="good" lid="Id2">Bionico is a dessert found in Mexico, the leader is Silvano Aureoles Conejo and cookies are also a dessert.</lex>
+      <lex comment="good" lid="Id3">Cookies and bionico are both types of dessert. The latter dish is found in Mexico where Silvano Aureoles Conejo is the leader.</lex>
+    </entry>
+    <entry category="Food" eid="Id259" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | leader | Silvano_Aureoles_Conejo</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Sandesh_(confectionery)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | leaderName | Silvano_Aureoles_Conejo</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bionico is a dessert found in Mexico. The leader of Mexico is Silvano Aureoles Conejo. Sandesh is another dessert.</lex>
+      <lex comment="good" lid="Id2">Bionico is a dessert found in Mexico. The leader of the country is Silvano Aureoles Conejo. Sandesh is also a dessert.</lex>
+      <lex comment="good" lid="Id3">Sandesh (confectionery) and Bionico are served as a dessert course. The latter dish is found in Mexico where the leader is Silvano Aureoles Conejo.</lex>
+    </entry>
+    <entry category="Food" eid="Id260" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | leader | Silvano_Aureoles_Conejo</otriple>
+        <otriple>Bionico | hasVariant | Cottage_cheese</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | leaderName | Silvano_Aureoles_Conejo</mtriple>
+        <mtriple>Bionico | dishVariation | Cottage_cheese</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bionico is a dessert found in Mexico and can include cottage cheese. The name of the leader in Mexico is Silvano Aureoles Conejo.</lex>
+      <lex comment="good" lid="Id2">Bionico, a dessert, can utilize cottage cheese. It is found in Mexico, led by Silvano Aureoles Conejo.</lex>
+    </entry>
+    <entry category="Food" eid="Id276" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leaderName | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Rome is the capital of Italy, whose leader is Matteo Renzi. Italian is spoken in Italy. Amatriciana sauce is a traditional Italian sauce.</lex>
+      <lex comment="good" lid="Id2">Italy's capital is Rome and the spoken language is Italian. Amatriciana sauce comes from Italy and one of its leaders is Matteo Renzi.</lex>
+      <lex comment="good" lid="Id3">Amatriciana sauce hails from Italian speaking Italy; where the capital is Rome and is led by Matteo Renzi.</lex>
+    </entry>
+    <entry category="Food" eid="Id277" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leaderName | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leaderName | Laura_Boldrini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce is a traditional sauce in Italy (the capital of which is Rome), where two of the country's leaders are Matteo Renzi and Laura Boldrini.</lex>
+      <lex comment="good" lid="Id2">The capital of Italy is Rome. Two leaders in Italy are Matteo Renzi and Laura Boldrini. Amatriciana sauce is a traditional sauce there.</lex>
+      <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italy, where the capital is Rome and the leader is Laura Boldrini and/or Matteo Renzi.</lex>
+    </entry>
+    <entry category="Food" eid="Id278" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leaderName | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leaderName | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Two leaders of Italy, where Amatriciana sauce is found, are Matteo Renzi and Sergio Mattarella. Its capital is Rome.</lex>
+      <lex comment="good" lid="Id2">Italy is the country Amatriciana sauce comes from. The capital is Rome and political leaders include Matteo Renzi and Sergio Mattarella.</lex>
+      <lex comment="good" lid="Id3">Rome is the capital of Italy, where Sergio Mattarella and Matteo Renzi are leaders and where amatriciana sauce is a traditional dish.</lex>
+    </entry>
+    <entry category="Food" eid="Id279" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leaderName | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leaderName | Laura_Boldrini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Italy is the country Amatriciana sauce comes from and the capital is Rome. The leaders are Pietro Grasso and Laura Boldrini.</lex>
+      <lex comment="good" lid="Id2">Amatriciana sauce is a traditional Italian sauce. The capital of the country is Rome and the leader is either Pietro Grasso and/or Laura Boldrini.</lex>
+    </entry>
+    <entry category="Food" eid="Id280" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | leaderName | Tony_Tan</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ayam penyet is originates from Singapore and Tony Tan is the country's leader. It can also be found in Java where Baduy people are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Baduy is an ethnic group of Java, where the dish ayam penyet can be found. This dish is from the Singapore region, where Tony Tan is a leader.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is a dish from Java, where the Baduy are an ethnic group. The dish comes from Singapore where Tony Tan is the leader.</lex>
+    </entry>
+    <entry category="Food" eid="Id281" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ayam penyet comes from Singapore and Java. English is spoken in Singapore. Baduy are an ethnic group living in Java.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is from Singapore and Java (home of the Baduy people). In Singapore English is one language spoken.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is from Singapore and Java (home of the Baduy people). In Singapore they speak English.</lex>
+    </entry>
+    <entry category="Food" eid="Id282" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ayam penyet comes from the Singaporean region and Halimah Yacob is the country's leader. It can be found in Java as well where Baduy people is an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is a dish from the region of Singapore which is led by Halimah Yacob. It is also found in Java where the Baduy are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is a dish from Java where the Baduy are an ethnic group. It also originates from the region of Singapore where the leader is Halimah Yacob.</lex>
+    </entry>
+    <entry category="Food" eid="Id301" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batchoy comes from the Philippines where one of the languages is Arabic. It is also where there are several ethnic groups, two of which are Zamboangans and Igorot people.</lex>
+      <lex comment="good" lid="Id2">Batchoy is a dish that is found in the Philippines, where the Igorot people and the Zamboangans are ethnic groups and where Arabic is one of the languages spoken.</lex>
+      <lex comment="good" lid="Id3">The Zamboangans and Igorot people are ethnic groups in the Philippines where the Arabic language is spoken and batchoy is eaten.</lex>
+    </entry>
+    <entry category="Food" eid="Id302" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batchoy is a dish from the Philippines, where Arabic is one of the languages spoken and where the ethnic groups include Zamboangans and Moro.</lex>
+      <lex comment="good" lid="Id2">Batchoy is eaten in the Philippines where the Moro and the Zamboangans are ethnic groups. One of the languages used in the country is Arabic.</lex>
+    </entry>
+    <entry category="Food" eid="Id303" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cookie is a type of dessert, as too is Binignit which comes from the Philippines. Philippine English is the language of the Philippines.</lex>
+      <lex comment="good" lid="Id2">Philippine English is the language spoken in the Philippines, where the dish binignit can be found. It should be served as the dessert course. Other type of dessert is a cookie.</lex>
+      <lex comment="good" lid="Id3">Cookies and binignit are types of dessert. The latter dish can be found in the Philippines where the spoken language is known as Philippine English.</lex>
+    </entry>
+    <entry category="Food" eid="Id304" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In the Philippines they speak Philippine Spanish, eat Batchoy and are home to the ethnic groups of Igorot people and the Chinese Filipino.</lex>
+      <lex comment="good" lid="Id2">The Igorot people and the Chinese Filipinos are both ethnic groups in the Philippines where the spoken language is Spanish. The country is the origin of the dish known as Batchoy.</lex>
+    </entry>
+    <entry category="Food" eid="Id310" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is from Andalusia in Spain. Felipe VI is the leader there and Spaniards are an ethnic group there as well.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is a dish of Andalusia and Spain (led by Felipe VI and inhabited by Spaniards).</lex>
+    </entry>
+    <entry category="Food" eid="Id311" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Felipe VI is the leader of Spain, home of Ajoblanco. Spaniards are an ethnic group from Spain. Spain uses the Euro as its currency.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originates from the country of Spain (country of Spaniards). It used the Euro as currency and the leader is Felipe VI.</lex>
+      <lex comment="good" lid="Id3">Felipe VI is the leader of Spain, where the euro is the currency and Spaniards are an ethnic group. Spain is also the home of the dish ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id312" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco originates from Spain where the main ethnic group are the Spaniards. The country's leader is King Felipe VI and the spoken language is Spanish.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originates from Spain where the Spanish language is spoken and Felipe VI of Spain leads the Spaniards.</lex>
+    </entry>
+    <entry category="Food" eid="Id313" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is a dish that originated in Spain, where Spaniards are an ethnic group, Spanish is the language spoken and where Felipe VI of Spain is the leader.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco comes from Spain where the Spaniards are an ethnic group. The country's leader is Felipe VI of Spain and the language is Spanish.</lex>
+    </entry>
+    <entry category="Food" eid="Id314" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Felipe VI is the leader of Spain where the Spanish language is spoken and the currency is the Euro. Ajoblanco comes from that country.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is from Spain where Spanish is spoken and the Euro is the currency. Felipe VI is the head of state.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco originates from Spain where the currency is the euro. The country's leader is Felipe VI of Spain and the language spoken is Spanish.</lex>
+    </entry>
+    <entry category="Food" eid="Id315" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Tomato | family | Solanaceae</otriple>
+        <otriple>Tomato | genus | Solanum</otriple>
+        <otriple>Amatriciana_sauce | ingredient | Tomato</otriple>
+        <otriple>Tomato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | family | Solanaceae</mtriple>
+        <mtriple>Tomato | genus | Solanum</mtriple>
+        <mtriple>Amatriciana_sauce | ingredient | Tomato</mtriple>
+        <mtriple>Tomato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tomato belongs to the order of Solanales, the genus Solanum and the family of solanaceae. It's an ingredient in Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id2">Tomato is an ingredient in Amatriciana sauce, it comes from the Solanaceae family of plants and belongs to the genus Solanum and the order Solanales.</lex>
+      <lex comment="good" lid="Id3">The tomato belongs to the genus Solanum, is part of the family of Solanaceae and is a member of the order Solanales. It is one of the ingredients of amatriciana sauce.</lex>
+    </entry>
+  </entries>
+</benchmark>

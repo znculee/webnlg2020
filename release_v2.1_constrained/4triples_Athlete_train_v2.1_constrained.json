@@ -1,0 +1,7068 @@
+{
+   1: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for SV Werder Bremen and SV Werder Bremen II. The latter is managed by Alexander Nouri and is in the league 3 Liga.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexander Nouri is the manager of SV Werder Bremen, which Aaron Hunt plays for. He also plays for, SV Werder Bremen II which is in the league 3 Liga.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "SV Werder Bremen is managed by Alexander Nouri and SV Werder Bremen II are players in 3 Liga. Aaron Hunt plays for both clubs.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " SV_Werder_Bremen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " SV_Werder_Bremen"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández plays for the club, U.S. Città di Palermo and played for the Central Espanol club. He was a member of youth club Peñarol which is managed by, Jorge Orosmán da Silva.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández was a member of youth club Peñarol, managed by, Jorge Orosmán da Silva. Abel Hernandezalso played for the Central Espanol club and now his club is US Citta di Palermo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández has played for Central Español and plays for the club, U.S. Città di Palermo. In his youth, he played for Peñarol, the manager of which, is Jorge Orosmán da Silva.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born October 12th 1986 in Prince Edward Island and now weighs 94.8024kg.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born October 12th 1986 on Prince Edward Island. He weighs 94.8024 kilograms.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on Oct 12, 1986 in P.E.I. is Adam McQuaid. He weighs 94.8024 Kg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Prince_Edward_Island"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Prince_Edward_Island"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10, 1989 and debuted with the Tennessee Titans. He has played for the St. Louis Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers; was born on 10th July 1989, made his debut for the Tennessee Titans and used to play for the St. Louis Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and debuted with the Tennessee Titans. He also played for the St. Louis Rams at one point.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born on the 27th September 1987, in Atlanta, Georgia. He debuted with the Atlanta Falcons and his former team are the Houston Texans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, born September 27, 1987 in Atlanta, Georgia, on the Atlanta Falcons. He also played for the Houston Texans formerly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born in Atlanta, Georgia, on the 27th of September, 1987. He debuted with the Atlanta Falcons and used to play for Houston Texans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " debutTeam ",
+   "subject": " Atlanta_Falcons"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " debutTeam ",
+     "subject": " Atlanta_Falcons"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra has played for Al Kharaitiyat SC and Al-Zawra'a SC. Al Kharaitiyat SC. are managed by Amar Osim and play their home games at Al Khor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra, whose club is Al-Zawra'a SC, is also a member of the club, AL Kharaitiyat SC Amar Osim is the manager of Al Kharaitiyat SC. which is located in Al Khor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra, who played for the club Al-Zawra'a SC, plays for Al Kharaitiyat SC. Al Khor is the home ground of Al Kharaitiyat SC which is managed by, Amar Osim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Kharaitiyat_SC ",
+   "property": " ground ",
+   "subject": " Al_Khor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Kharaitiyat_SC ",
+     "property": " ground ",
+     "subject": " Al_Khor"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Footballer, Alan Martin, who played for the Scotland national under-21 football team, plays for Crewe Alexandra F.C. He was born on the 1st January 1989 and is 185.42 centimetres tall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan martin, was born on the 1st January 1989. He is 185.42 cm tall, a footballer for the Crewe Alexandra FC and plays in the Scottish National under 21 football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "At 185,42 centimetres tall, Footballer, Alan Martin, was born on January 1st 1989. He played for the Scotland national under-21 football team and is a footballer for the Crewe Alexandra FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Scotland_national_under-21_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Scotland_national_under-21_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   8: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who is 185cm tall and was born on 24 February 1989, plays for both FC Kuban Krasnodar and FC Dynamo Moscow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on Feb. 24, 1989 and measuring 185 cm tall, Aleksandr Prudnikov plays for the FC Kuban Krasnodar and is part of the Dynamo Moscow FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born February 24, 1989 and is 185 cm tall. He plays for FC Dynamo Moscow and FC Kuban Krasnodar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " birthDate ",
+   "subject": " 1989-02-24"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " dateOfBirth ",
+     "subject": " "1989-02-24"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id9"
+      }
+},
+{
+   9: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born 1989-02-24 and is now 185.0cm tall. He played for FC Spartak Moscow and plays for FC Rubin Kazan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born on 24-02-1989, he is now 185cm tall. His club is FC Spartak Moscow but he currently plays for FC Rubin Kazan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born on February 24th, 1989 and is 185 cm tall. He once played for FC Spartak Moscow and FC Rubin Kazan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Spartak_Moscow"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " team ",
+     "subject": " FC_Spartak_Moscow"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id10"
+      }
+},
+{
+   10: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, who was born in Batumi, is 178.0 centimetres tall. He is in the FC Zestafoni club and plays for FC Karpaty Lviv club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in Batumi and he is 1.78m tall. He has played for FC Karpaty Lviv and FC Zestafoni.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in Batumi and is 178cm tall. He has played for FC Zestafoni and FC Karpaty Lviv.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " FC_Karpaty_Lviv"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id11"
+      }
+},
+{
+   11: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada, on 09/05/1989. His club is called Anyang Halla.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante, who played for Anyang Halla, was born on 1989-05-09, in Canada.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante, whose club is Anyang Halla, was born in Canada, on 1989-05-09.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Plante ",
+   "property": " birthYear ",
+   "subject": " 1989"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Plante ",
+     "property": " birthYear ",
+     "subject": " "1989"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id12"
+      }
+},
+{
+   12: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1.9304 m tall, Alex Plante, whose club is, Anyang Halla, was born in Canada, in 1989.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1.9304m tall Alex Plante, whose club is Anyang Halla, was born in Canada, in 1989.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante, born in Canada, 1989 is 1.9304m tall and played for Anyang Halla.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Plante ",
+   "property": " birthYear ",
+   "subject": " 1989"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Plante ",
+     "property": " birthYear ",
+     "subject": " "1989"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id13"
+      }
+},
+{
+   13: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada which is led by Elizabeth II, has a national anthem "O Canada" and uses the Inuktitut spoken language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard's birthplace is Canada. The country, where one of the languages spoken is Inuktitut. It is also where O Canada is the national anthem and the leader is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The national anthem of Canada is O Canada and the leader is, Elizabeth II. Inuktitut is a spoken language in Canada, the birthplace of, Aaron Boogaard.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id14"
+      }
+},
+{
+   14: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard is from Canada whose national anthem is O Canada and its leader being Elizabeth II. One ethnic group in Canada are Asian Canadians.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The anthem of Canada is O Canada, the leader is Elizabeth II, one of the ethnic groups in Canada are the Asian Canadians and it is the birthplace of Aaron Boogaard.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "O Canada is the national anthem of Canada, where Aaron Boogaard was born. Elizabeth II is the leader of Canada, where one of the ethnic groups, is Asian Canadians.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id15"
+      }
+},
+{
+   15: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who plays for FC Kuban Krasnodar, played for FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which, is based at Grozny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who plays for FC Kuban Krasnodar, also plays for FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which, is located in Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for FC Terek Grozny whose local ground is in Grozny. He now plays for the FC Kuban Krasnodar club which is managed by Rashid Rakhimov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id16"
+      }
+},
+{
+   16: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons and has played with Houston, Texas based, Houston Texans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first team were the Atlanta Falcons and his former team are the Houston Texans, which are based in the city of Houston and play in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Houston, Texas is the home of Houston Texans, the former club of Akeem Dent, who debuted with the Atlanta Falcons.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " city ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Houston_Texans ",
+       "property": " city ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Houston_Texans ",
+       "property": " locationCity ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id17"
+      }
+},
+{
+   17: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In his youth, Abel Hernández played for Peñarol, which play in the Uruguayan Primera División league. Abel Hernández now plays for Hull City A.F.C. which is managed by, Steve Bruce.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández was a member of youth club Peñarol, that play in the Uruguayan Primera División league. His current club is Hull City A.F.C. which is managed by, Steve Bruce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez was a member of Penarol's youth club which plays in the Uruguayan Primera División. He now plays for Hull City A.F.C., the manager of which, is Steve Bruce.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peñarol ",
+   "property": " league ",
+   "subject": " Uruguayan_Primera_División"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peñarol ",
+     "property": " league ",
+     "subject": " Uruguayan_Primera_División"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id18"
+      }
+},
+{
+   18: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli who played for the Italy national under-16 football team, is a member of AC Milan who are in the Serie A league and managed by Sinisa Mihajlovic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Former Italian national under-16 football player, Alessio Romagnoli, plays for the club A.C. Milan, which is managed by Siniša Mihajlović and is in Serie A league.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli, was in Italy's national under 16's football team and plays for A.C. Milan. Siniša Mihajlović is the manager for A.C. Milan which is in Serie A league.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Milan ",
+   "property": " league ",
+   "subject": " Serie_A"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Milan ",
+     "property": " league ",
+     "subject": " Serie_A"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   19: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli, was a member of the Italian national under 17 football team, and plays for A.C. Milan. Siniša Mihajlović is manager of A.C. Milan which is in Serie A league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli is in the Italian national under 17 team and also plays in the Serie A for AC Milan who are managed by Sinisa Mihajlovic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli is a member of the Italian national under 17 football team and also for AC Milan who play in Serie A and are managed by Sinisa Mihajlovic.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Milan ",
+   "property": " league ",
+   "subject": " Serie_A"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Milan ",
+     "property": " league ",
+     "subject": " Serie_A"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   20: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli, who once represented the Italian Under 19 football team, later played for AC Milan, managed by Siniša Mihajlović in Serie A.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for A.C. Milan in Serie A and formerly played for the Italy national under-19 football team. Siniša Mihajlović is the manager of the A.C. Milan club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli, formerItalian national under-19 football team member, plays for the club A.C. Milan. Siniša Mihajlović is manager of A.C. Milan, which is in Serie A league.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Milan ",
+   "property": " league ",
+   "subject": " Serie_A"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Milan ",
+     "property": " league ",
+     "subject": " Serie_A"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   21: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, whose club is Wichita Thunder, was born in Regina, Saskatchewan, on 11/08/1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, who was born on 11 August 1986 in Regina, Saskatchewan, played for the club Wichita Thunder.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on August 11, 1986 in Regina, Saskatchewan, Aaron Boogaard played with the Wichita Thunder club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   22: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada on 11th August 1986 and plays for Wichita Thunder.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, whose club is Wichita Thunder, was born in Canada, on August 11th, 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on 11th August 1986 in Canada, Aaron Boogaard has played for Wichita Thunder.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   23: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born on 11/08/1986 in Saskatchewan and played for the Wichita Thunder club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, who plays for Wichita Thunder, was born in Saskatchewan on August 11th 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Saskatchewan on August 11th 1986. His club is Wichita Thunder.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   24: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in 1986, in Regina, Saskatchewan. He is 1.905 tall and played for the club, Wichita Thunder.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard's club is Wichita Thunder and he is 1.905 in height. He was born in 1986 in Regina, Saskatchewan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "1.905 tall, Aaron Boogaard, whose club is Wichita Thunder, was born in 1986, in Regina, Saskatchewan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id7"
+      }
+},
+{
+   25: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in 1986 in Canada and is 1.905 m. tall. He plays for Wichita Thunder team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Canadian born, Aaron Boogaard, whose club is Wichita Thunder, was born in 1986 and is 1.905m tall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, who was born in Canada in 1986, is 1.905 metres in height and played for the club Wichita Thunder.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   26: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, who is 1.905 m in height and played for the club Wichita Thunder, was born in Saskatchewan in 1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard, who is 1.905 tall and born in Saskatchewan in 1986, plays for Wichita Thunder.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Saskatchewan in 1986. He is 1.905 metres in height and belongs to the Wichita Thunder club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Boogaard ",
+   "property": " birthYear ",
+   "subject": " 1986"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Boogaard ",
+     "property": " birthYear ",
+     "subject": " "1986"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id9"
+      }
+},
+{
+   27: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has played for SV Werder Bremen who are managed by Viktor Skrypnyk along with Hamburger SV who are a member of the Bundesliga.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has previously played for both SV Werder Bremen under their manager Viktor Skrypnyk and also Hamburger SV which is a member of the Bundesliga.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for SV Werder Bremen whose manager is Viktor Skrypnyk. His present club is Hamburger SV that is in the Bundesliga.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " SV_Werder_Bremen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " SV_Werder_Bremen"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id10"
+      }
+},
+{
+   28: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for both Vfl Wolfsburg who play in the Bundesliga and SV Werder Bremen who are managed by Viktor Skrypnyk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for SV Werder Bremen who have Viktor Skrypnyk as their manager, and his club is VfL Wolfsburg who play in the Bundesliga.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " VfL_Wolfsburg"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id11"
+      }
+},
+{
+   29: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vfl Wolfsburg player, Aaron Hunt, played for the club SV Werder Bremen. The manager of SV Werder Breman (which is in the Bundesliga league) is Viktor Skrypnyk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for the club SV Werder Bremen which is in the Bundesliga league and managed by Viktor Skrypnyk. He now plays for the Vfl Wolfsburg.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for the club SV Werder Bremen that is managed by Viktor Skrypnyk and competes in the Bundesliga. Mr. Hunt also participated in the VfL Wolfsburg club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " VfL_Wolfsburg"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id12"
+      }
+},
+{
+   30: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt's club is VfL Wolfsburg of the Bundesliga. He also plays for SV Werder Bremen II, where Alexander Nouri is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for SV Werder Bremen II where Alexander Nouri is the manager, and his current club is VfL Wolfsburg who play in the Bundesliga.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alexander Nouri is the manager for SV Werder Bremen II, the former club of Aaron Hunt, who plays for Vfl Wolfsburg. The league Vfl Wolfsburg play in is Bundesliga.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Hunt ",
+       "property": " team ",
+       "subject": " VfL_Wolfsburg"
+       },
+       {
+       "object": "Aaron_Hunt ",
+       "property": " clubs ",
+       "subject": " VfL_Wolfsburg"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id13"
+      }
+},
+{
+   31: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "VfL Wolfsburg club is associated with Aaron Hunt and is managed by Dieter Hecking. Mr. Hunt plays for the Hamburger SV club also and they compete in Bundesliga.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt's club is VfL Wolfsburg and is managed by Dieter Hecking. He once played for the Hamburger SV that is part of the Bundesliga League.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for VfL Wolfsburg, where his manager is Dieter Hecking. He has also played for Hamburger SV in the Bundesliga.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " VfL_Wolfsburg"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id14"
+      }
+},
+{
+   32: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for the club SV Werder Bremen and club VfL Wolfsburg in Bundesliga. Dieter Hecking is Wolfsburg's manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt previously played for SV Werder Bremen, but currently plays for VfL Wolfsburg who play in the Bundesliga and are managed by Dieter Hecking.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for SV Werder Bremen but his club is VfL Wolfsburg who play in the Bundesliga and are managed by Dieter Hecking.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " VfL_Wolfsburg"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id15"
+      }
+},
+{
+   33: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt belongs to VfL Wolfsburg and played for SV Werder Bremen, in the Bundesliga. Dieter Hecking manages VfL Wolfsburg.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has played for the club SV Werder Bremen in the Bundesliga and also for VfL Wolfsburg who are managed by Dieter Hecking.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt, is a member of Vfl Wolfsburg, which is managed by Dieter Hecking. once played for SV Werder Bremen. SV Werder is in the Bundesliga league.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Hunt ",
+       "property": " team ",
+       "subject": " VfL_Wolfsburg"
+       },
+       {
+       "object": "VfL_Wolfsburg ",
+       "property": " manager ",
+       "subject": " Dieter_Hecking"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id16"
+      }
+},
+{
+   34: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt belongs to VfL Wolfsburg (in the Bundesliga) and plays for, Dieter Hecking managed, SV Werder Bremen II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for the Bundesliga club VfL Wolfsburg where Dieter Hecking is the manager. He also plays for SV Werder Bremen II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for VfL Wolfsburg, which is managed by Dieter Hecking. Vfl Wolfsburg play in Bundesliga. Aaron Hunt was a member of SV Werder Bremen II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Hunt ",
+   "property": " club ",
+   "subject": " VfL_Wolfsburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Hunt ",
+     "property": " team ",
+     "subject": " VfL_Wolfsburg"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id17"
+      }
+},
+{
+   35: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández played youth football for Central Español and has also played for Peñarol and U.S. Città di Palermo. Peñarol are managed by Jorge Orosmán da Silva.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez currently plays for the club US Citta di Palermo, but he has also played for the youth football team Central Espanol and also at Penarol where the manager is Jorge Orosman da silva.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, whose club is US Citta di Palermo, played youth football for Central Espanol and also for Penarol under the manager Jorge Orosman da Silva.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " club ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " clubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id18"
+      }
+},
+{
+   36: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez's club is US Citta di Palermo which is managed by Giuseppe Iachini. He also played for Penarol and youth football at Central Espanol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, whose club is Penarol, played youth football for Central Espanol and currently plays for US Citta di Palermo who are managed by Giuseppe Iachini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez has played for the Central Espanol youth team, US Citta di Palermo and for Penarol. U.S. Città di Palermo are managed by Giuseppe Iachini.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " club ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " clubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id19"
+      }
+},
+{
+   37: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, who played youth football for Central Español, is now with the club is Penarol. This club plays in the Uruguayan Primera División and is managed by Jorge Orosmán da Silva.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez played youth football for Central Espanol and played for Penarol. Penarol is managed by Jorge Orosman da Silva and they play in the Uruguayan Primera Division.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez played for Penarol (manager: Jorge Orosmán da Silva), who are in the Uruguayan Primera División. He also played youth football for Central Espanol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " club ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " clubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id20"
+      }
+},
+{
+   38: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez is a member of the Central Espanol youth team and also plays for US Citta di Palermo who play in Serie A and are managed by Giuseppe Iachini.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández played youth football for Central Español and later played for U.S. Città di Palermo, who are part of Serie A and are managed by Giuseppe Iachini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez played youth football for Central Espanol, his club is US Citta di Palermo. The manager of U.S. Città di Palermo is Giuseppe Iachini which are in the Serie A League.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Central_Español"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Central_Español"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id21"
+      }
+},
+{
+   39: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez plays for Central Espanol in the Uruguayan Segunda division and is a member of Penarol's youth team where the manager is Jorge Orosman da Silva.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez is a member of Penarol's youth club and is associated with the Central Español club which is part of the Uruguayan Segunda División league. Penarol club is managed by Jorge Orosmán da Silva.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez is a member of Penarol's youth club and plays for Central Espanol in the Uruguayan Segunda División. Jorge Orosman da Silva is Penarol's manager.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id22"
+      }
+},
+{
+   40: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández was a member of youth club Peñarol and now plays for the US Citta di Palermo and the Uruguay Olympic football team. Giuseppe Iachini is the manager of the Palermo club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández was a member of youth club Peñarol and is in the Uruguay Olympic football team. He also plays for the club, U.S. Città di Palermo which is managed by, Giuseppe Iachini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez plays for the US Citta di Palermo club and also played in the Uruguay Olympic football team. Giuseppe Iachini is the manager of U.S. Città di Palermo. Mr. Hernandez was also a youth member of the Penarol club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id23"
+      }
+},
+{
+   41: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner plays football with Real Madrid Castilla under their manager Luis Miguel Ramis. He also plays with the Brazil national under 17 team and Coritiba Football club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner plays football for the Brazilian national under 17 team, but also currently plays for the Coritiba football club and for the Real Madrid Castilla who are managed by Luis Miguel Ramis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " currentclub ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " currentclub ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id24"
+      }
+},
+{
+   42: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner, who has represented the Brazil national under 20 team, currently plays for Coritiba Football club and also for Real Madrid Castilla where Luis Miguel Ramis is manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner plays football for Real Madrid Castilla who are managed by Luis Miguel Ramis, and also for both the Coritiba Football club and the Brazilian national under 20 football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner currently plays for Real Madrid Castilla who are managed by Luis Miguel Ramis, and also for the Brazilian national under 20 football team and Coritiba Football Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " currentclub ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " currentclub ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id25"
+      }
+},
+{
+   43: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The footballer Abner plays for Coritiba Football Club and CD FAS. He also plays for Real Madrid Castilla, where Luis Miguel Ramis is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The footballer, Abner belongs to the club, C.D. FAS, and also plays for the Coritiba Football Club. Abner's current football club is Real Madrid Castilla, where Luis Miguel Ramis is manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer who currently plays for Real Madrid Castilla where Luis Miguel Ramis is the manager. He also belongs to the club CD FAS and plays for Coritiba Football club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " currentclub ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " currentclub ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id26"
+      }
+},
+{
+   44: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher's clubs are PSV Eindhoven where the manager is Phillip Cocu, and AZ Alkmaar who play their home games at the AFAS Stadion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of Adam Maher's clubs, is PSV Eindhoven which is managed by, Phillip Cocu. Another one is, AZ Alkmaar, the ground of which, is AFAS Stadion.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " club ",
+   "subject": " PSV_Eindhoven"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "PSV_Eindhoven ",
+       "property": " manager ",
+       "subject": " Phillip_Cocu"
+       },
+       {
+       "object": "Adam_Maher ",
+       "property": " team ",
+       "subject": " PSV_Eindhoven"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id27"
+      }
+},
+{
+   45: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada on 12th October 1986 and is 1.9558m tall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada on October 12th 1986. He is 1.9558m tall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's height is 1.9558 and he was born in Canada on 12 October 1986.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthDate ",
+   "subject": " 1986-10-12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " dateOfBirth ",
+     "subject": " "1986-10-12"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id28"
+      }
+},
+{
+   46: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's height is 1.9558 metres and he was born in Charlottetown on 12 October 1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Charlottetown, on the 12th of October 1986. He is 1.9558 meters tall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Charlottetown on October 12th 1986. He is 1.9558m tall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Charlottetown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Charlottetown"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id29"
+      }
+},
+{
+   47: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Charlottetown on Oct 12, 1986, Adam McQuaid weighs 94.8024 kilos.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born on the 12th of October 1986, in Charlottetown He now weighs 94.8024 kilograms.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Charlottetown on 12th October 1986 and wieghs 94.8024kg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Charlottetown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Charlottetown"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id30"
+      }
+},
+{
+   48: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in October 12, 1986 in P.E.I. He is 1.9558 m. high.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid is 1.9558 metres in height and was born on Prince Edward Island on 12 October 1986.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who was born on Prince Edward Island, on October 12th, 1986, is 1.9558m tall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Prince_Edward_Island"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Prince_Edward_Island"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id31"
+      }
+},
+{
+   49: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid played for the Boston Bruins, based in Boston, whose manger is Don Sweeney. His draft team was the Columbus Blue Jackets.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's draft team is the Columbus Blue Jackets, and he plays for Boston Bruins who are based in Boston and have Don Sweeney as their general manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was drafted by the Columbus Blue Jackets, he plays for Boston's, Boston Bruins (managed by Don Sweeney).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id32"
+      }
+},
+{
+   50: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who played for the Boston club known as the Boston Bruins, was drafted to the Columbus Blue Jackets in Columbus, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's draft team is the Columbus Blue Jackets, based in the city of Columbus, Ohio. Adam McQuaid plays for Boston Bruins, which are from Boston.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's draft team was the Columbus Blue Jackets, which are based in the city of Columbus, Ohio. He plays for the Boston Bruins which are based in the city of Boston.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id33"
+      }
+},
+{
+   51: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid plays for the Boston Bruins in Boston. His draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekalainen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid plays for the Boston Bruins which are from Boston. His draft team was the Columbus Blue Jackets, the general manager of which, is Jarmo Kekalainen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who was drafted to the Columbus Blue Jackets where the general manager is Jarmo Kekalainen, also plays for the Boston Bruins who originate from Boston.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id34"
+      }
+},
+{
+   52: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who has played for the Boston Bruins. was drafted to the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid plays for the Boston Bruins, however his draft team is the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id35"
+      }
+},
+{
+   53: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad's club is Al-Zawra'a SC who are managed by Basim Qasim, and he also plays in Iran's 3rd division for Steel Azin FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad's club is Al-Zawra'a SC with a manager named Basim Qasim. Another club of his is the Steel Azin F.C. in Iran's Football 3rd Division.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad played for Steel Azin F.C. which play in the Iran Football's 3rd Division. Ahmad Kadhim Assad plays for Al-Zawra'a SC which is managed by, Basim Qasim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ahmad_Kadhim_Assad ",
+   "property": " club ",
+   "subject": " Steel_Azin_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Steel_Azin_F.C. ",
+       "property": " league ",
+       "subject": " Iran_Football's_3rd_Division"
+       },
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " team ",
+       "subject": " Steel_Azin_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id36"
+      }
+},
+{
+   54: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for United Petrotrin FC and now plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams club is Ferencvarosi TC whose manager is Thomas Doll and chairman is Gabor Kubatov. Mr. Adams is also part of the United Petrotrin F.C. club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams is a member of the United Petrotrin F.C. club and plays for the Ferencvarosi TC that is managed by Thomas Doll. The chairman of the Ferencvarosi TC is Gabor Kubatov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " clubs ",
+     "subject": " Ferencvárosi_TC"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id37"
+      }
+},
+{
+   55: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams belongs to United Petrotrin FC based in Palo Seco and also Ferencvarosi TC whose manager is Thomas Doll.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for United Petrotrin F.C. in Palo Seco. He now plays with the Ferencvarosi TC, managed by Thomas Doll.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Ferencvarosi TC where Thomas Doll is the manager, but he previously played for United Petrotrin FC at their Palo Seco ground.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ferencvárosi_TC ",
+       "property": " manager ",
+       "subject": " Thomas_Doll"
+       },
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Ferencvárosi_TC"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id38"
+      }
+},
+{
+   56: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Central FC and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Ferencvarosi TC and his club is Central FC. Ferencvarosi TC has Gabor Kubatov as a chairman and Thomas Doll as a manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams, whose club is Central F.C.,Ferencvarosi TC, which is managed by, Thomas Doll. Gábor Kubatov is the chairman of Ferencvárosi TC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " clubs ",
+     "subject": " Ferencvárosi_TC"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id39"
+      }
+},
+{
+   57: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for W Connection FC, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams, who played for W Connection F.C., plays for Ferencvarosi TC. Gábor Kubatov is the chairman of Ferencvárosi TC. which is managed by, Thomas Doll.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams, who plays for W Connection F.C., also plays for Ferencvarosi TC. Thomas Doll is the manager for and Gabor Kubatov is the chairman of Ferencvárosi TC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Adams ",
+     "property": " clubs ",
+     "subject": " Ferencvárosi_TC"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id40"
+      }
+},
+{
+   58: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams is a member of the United Petrotrin F.C. club which plays at the Palo Seco Velodrome grounds. Mr. Adams club is Ferencvarosi TC which is managed by Thomas Doll.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams is a member of the United Petrotrin F.C. club, and plays for Ferencvarosi TC. The manager of Ferencvarosi TC is Thomas Doll and they play in the Palo Seco Velodrome.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plays for Ferencvarosi TC which is managed by Thomas Doll. Akeem Adams used to play for United Petrotrin F.C. which play in Palo Seco Velodrome.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Ferencvárosi_TC"
+       },
+       {
+       "object": "Ferencvárosi_TC ",
+       "property": " manager ",
+       "subject": " Thomas_Doll"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id41"
+      }
+},
+{
+   59: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams plaus for Palo Seco Velodrome based United Petrotrin FC and also Ferencvarosi TC, of which Gabor Kubatov is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams played for United Petrotrin F.C. which plays in Palo Seco Velodrome. He plays for Ferencvarosi TC, the chairman of which is, Gabor Kubatov.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams has played for Ferencvarosi TC and for United Petrotrin F.C. whose ground is the Palo Seco Velodrome. Gabor Kubatov is the chairman of Ferencvarosi TC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Adams ",
+   "property": " club ",
+   "subject": " Ferencvárosi_TC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Ferencvárosi_TC"
+       },
+       {
+       "object": "United_Petrotrin_F.C. ",
+       "property": " ground ",
+       "subject": " Palo_Seco_Velodrome"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id42"
+      }
+},
+{
+   60: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, who was born on July 10, 1989, formerly played for the Los Angeles Rams. He debuted for the team the Tennessee Titans in 2011.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and began his career in 2011 for the Tennessee Titans. He formerly played for the Los Angeles Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on 10 July 1989 and began his career in 2011. His debut team was the Tennessee Titans and he has also played for Los Angeles Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " Los_Angeles_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " Los_Angeles_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id43"
+      }
+},
+{
+   61: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and played for the Tennessee Titans at first and then the L.A. Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989, he made his debut for the Tennessee Titans and used to play for the Los Angeles Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10, 1989, debuted with the Tennessee Titans and has played for the Los Angeles Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " Los_Angeles_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " Los_Angeles_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id44"
+      }
+},
+{
+   62: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on July 10th 1989 and has played linebacker for the Tennessee Titans and the Los Angeles Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on 10th July, 1989, linebacker, Akeem Ayers made his debut for the Tennessee Titans and used to play for Los Angeles Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Linebacker, Akeem Ayers, was born on 10th July 1989. His debut team was the Tennessee Titans. Akeem Ayers former team is the Los Angeles Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " Los_Angeles_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " Los_Angeles_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id45"
+      }
+},
+{
+   63: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and debuted his career in 2011 for the Tennessee Titans. Mr. Ayers formerly plays for the New England Patriots.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, was born on 10th July 1989 and started his career in 2011. He made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on 10th July 1989 and has been active since 2011. He made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " New_England_Patriots"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " New_England_Patriots"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id46"
+      }
+},
+{
+   64: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th 1989 and has played linebacker for the Tennessee Titans and the New England Patriots.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Linebacker, Akeem Ayers, was born on 10th July 1989. His former team is the New England Patriots and he made his debut for the Tennessee Titans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Linebacker, Akeem Ayers was born July 10th, 1989. He his debut for the Tennessee Titans and used to play for the New England Patriots.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " New_England_Patriots"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " New_England_Patriots"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id47"
+      }
+},
+{
+   65: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers. was born on 10th July 1989 and has been active since 2011. His debut team was Tennessee Titans and another former team, is St. Louis Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, born July 10th, 1989, started his career in 2011, making his debut for the Tennessee Titans. He also used to play for St Louis Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10, 1989 and debuted with the Tennessee Titans in 2011. He has also played with St. Louis Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id48"
+      }
+},
+{
+   66: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born on July 10th, 1989, Akeem Ayers used to play for the St. Louis Rams. He debuted with the Tennessee Titans, who drafted him 39th overall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "St Louis Rams is the former team of Akeem Ayers who was born on 10th July 1989, made his debut with the Tennessee Titans and was number 39 in the draft pick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and started with the Tennessee Titans and also played for the St. Louis Rams. He was 39 on the draft pick list.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id49"
+      }
+},
+{
+   67: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on 10th July 1989. He plays in the position of linebacker and made his debut for the Tennessee Titans before going on to play for the St. Louis Rams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Linebacker, Akeem Ayers, was born on 10th July 1989. His debut team was the Tennessee Titans and he used to play for the St. Louis Rams.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born July 10th, 1989 and made his debut for the Tennessee Titans. A linebacker, his former team is the St Louis Rams.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id50"
+      }
+},
+{
+   68: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted with the Tennessee Titans and is a former member of the St. Louis Rams of St. Louis. Jeff Fisher managed that team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted with the Tennessee Titans and has played with the St. Louis Rams. The Rams, from St. Louis, are coached by Jeff Fisher.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "St Louis Rams is the former team of Akeem Ayers, who made his debut for the Tennessee Titans. Jeff Fisher is coach of the St. Louis Rams, an American Football team, based in the city of St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id51"
+      }
+},
+{
+   69: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers made his debut for the Tennessee Titans, who are based in Nashville, Tennessee. Another team he played for were the American Football team, St. Louis Rams, who are based in the city of St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers' former team is St. Louis Rams which are based in the city of St. Louis. Akeem Ayers made his debut for American Football team, the Tennessee Titans, which is based in the city of Nashville, Tennessee.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted with the Tennessee Titans (Nashville, TN) and is a former member of the St. Louis Rams (St. Louis).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Ayers ",
+       "property": " formerTeam ",
+       "subject": " History_of_the_St._Louis_Rams"
+       },
+       {
+       "object": "Akeem_Ayers ",
+       "property": " formerTeam ",
+       "subject": " History_of_the_St._Louis_Rams"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id52"
+      }
+},
+{
+   70: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers made his debut for the Tennessee Titans which is coached by, Mike Mularkey. American Football team, St. Louis Rams, are based in the city of St. Louis and is the former team of Akeem Ayers.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers made his debut with the Tennessee Titans who are coached by Mike Mularkey, and he has previously played for the St Louis Rams, an American football team based in the city of St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The St. Louis Rams, based in the city of St. Louis, are the former team of Akeem Ayers. He made his debut for the Tennessee Titans which is coached by, Mike Mularkey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id53"
+      }
+},
+{
+   71: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted for Tennessee Titans and played for St Louis based team St Louis Rams whose coach is Steve Spagnuolo.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted with the Tennessee Titans and is a former player of the St. Louis based, St. Louis Rams. The Rams are coached by Steve Spagnuolo.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, who made his debut for the Tennessee Titans, used play for the St. Louis Rams. Steve Spagnuolo is the coach of the St. Louis Rams, an American football team, based in the city of St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id54"
+      }
+},
+{
+   72: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, who made his debut with the Nashville, Tennessee based Tennessee TItans, previously played for the St Louis Rams coached by Jeff Fisher.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, who made his debut with the american football team Tennessee Titans based in Nashville, Tennessee, formerly played with the St Louis Rams who are coached by Jeff Fisher.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Tennessee Titans, based in Nashville, TN, was the debut team of Akeem Ayers. He also played for the St. Louis Rams under coach Jeff Fisher.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " St._Louis_Rams"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " History_of_the_St._Louis_Rams"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id55"
+      }
+},
+{
+   73: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born in Atlanta, Georgia on Sept 27, 1987 and played for the Houston Texans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, whose club is the Houston Texans, was born in Atlanta Georgia, on 27/09/1987.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born September 27, 1987 in Atlanta, Georgia. He plays for the Houston Texans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " birthYear ",
+   "subject": " 1987"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " birthYear ",
+     "subject": " "1987"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id56"
+      }
+},
+{
+   74: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born September 9, 1987 in Atlanta, Georgia. He debuted with the Atlanta Falcons.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent wads born on Sept 27, 1987 in Atlanta, Georgia and started with the Atlanta Falcons.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, who debuted with the Atlanta Falcons, was born in Atlanta, Georgia, on the 27th September, 1987.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " debutTeam ",
+   "subject": " Atlanta_Falcons"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " debutTeam ",
+     "subject": " Atlanta_Falcons"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id57"
+      }
+},
+{
+   75: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent first played with the Atlanta Falcons of Atlanta city. He also played for the Houston Texans out of Houston.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons which play in Atlanta. He used to play for Houston Texans which are based in the city of Houston.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons which play in the city of Atlanta. Houston is the home city of the Houston Texans, the team Akeem Dent used to play for.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " debutTeam ",
+   "subject": " Atlanta_Falcons"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Dent ",
+       "property": " debutTeam ",
+       "subject": " Atlanta_Falcons"
+       },
+       {
+       "object": "Akeem_Dent ",
+       "property": " debutTeam ",
+       "subject": " Atlanta_Falcons"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id58"
+      }
+},
+{
+   76: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent first played with the Atlanta Falcons that is owned by Arthur Blank. His former team was the Houston Texans out of Houston.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first team were the Atlanta Falcons (owned by Arthur Blank). He used to play for the Houston Texans, which is located in the city of Houston.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons which are owned by, Arthur Blank. Akeem Dent used to play for Houston Texans, the home of which, is the city of Houston.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " debutTeam ",
+   "subject": " Atlanta_Falcons"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " debutTeam ",
+     "subject": " Atlanta_Falcons"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id59"
+      }
+},
+{
+   77: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born on Sept. 27, 1987 in Atlanta Georgia, Akeem Dent, formerly played with the Atlanta Falcons team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born in Atlanta, Georgia on the 27th September 1987. He used to play for the Atlanta Falcons.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, who was born on 27 September 1987 in Atlanta, Georgia, used to play for the Atlanta Falcons.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " formerTeam ",
+   "subject": " Atlanta_Falcons"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " formerTeam ",
+     "subject": " Atlanta_Falcons"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id60"
+      }
+},
+{
+   78: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for both Al-Merrikh SC and Al Kharaitiyat SC. Amar Osim is the manager of Al Kharaitiyat SC the ground of which, is Al Khor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra plays for Al Kharaitiyat SC. found in Al Khor and also plays for Al-Merrikh SC. The Kharaitiyat SC is managed by Amar Osim.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra has played for Al Merrikh SC and Al Kharaitiyat. The latter's home ground is Al Khor and the manager is Amar Osim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Kharaitiyat_SC ",
+   "property": " ground ",
+   "subject": " Al_Khor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Kharaitiyat_SC ",
+     "property": " ground ",
+     "subject": " Al_Khor"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id61"
+      }
+},
+{
+   79: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra plays for Al-Wakrah Sport Club and also for Al Kharaitiyat SC who are managed by Amar Osim and located in Al Khor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Khor is the home ground of Al Kharaitiyat SC which is managed by, Amar Osim. It is also the club of Alaa Abdul-Zahra, who also plays for the Al-Wakrah Sport Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra, who plays for the Al-Wakrah Sport Club, plays for Al Kharaitiyat SC. This club is located in Al Khor and is managed by, Amar Osim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Kharaitiyat_SC ",
+   "property": " ground ",
+   "subject": " Al_Khor"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Kharaitiyat_SC ",
+       "property": " ground ",
+       "subject": " Al_Khor"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al_Kharaitiyat_SC"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id62"
+      }
+},
+{
+   80: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Khor is the home ground of Al Kharaitiyat SC, a place Amar Osim manages. Alaa Abdul Zahra plays at Al Kharaitiyat SC and has played at the club Duhok SC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra's club is AL Kharaitiyat SC, located in Al Khor, and managed by Amar Osim. Mr. Abdul also played with the Duhok SC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra has played for Duhok SC and currently plays for Al Kharaitiyat SC, managed by Amar Osim, which is located in Al Khor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Kharaitiyat_SC ",
+   "property": " ground ",
+   "subject": " Al_Khor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Kharaitiyat_SC ",
+     "property": " ground ",
+     "subject": " Al_Khor"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id63"
+      }
+},
+{
+   81: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra is in the Al-Khor Sports Club which is located in Al-Khor. He also plays for Al Kharaitiyat SC which is managed by, Amar Osim.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra is in the Al-Khor Sports Club which has its ground in Al Khor. He plays for Al Kharaitiyat SC, the manager of which, is Amar Osim.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra is in the Al-Khor Sports Club which is located in Al-Khor. Alaa Abdul Zahra also plays for Al Kharaitiyat SC, the manager of which, is Amar Osim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al-Khor_Sports_Club"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al-Khor_Sports_Club"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al_Kharaitiyat_SC"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id64"
+      }
+},
+{
+   82: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra is a member of AL Kharaitiyat SC and the Al-Khor Sports Club. Al Kharaitiyat SC is managed by Amar Osim and its home is Al Khor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amar Osim is the manager of Al Kharaitiyat SC which is located in Al Khor. It is one of the clubs Alaa Abdul Zahra plays for, another is the Al-Khor Sports Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amar Osim is the manager of Al Kharaitiyat SC, the home ground of which is, Al Khor. Alaa Abdul Zahra, who plays for plays for Al-Khor Sports Club, is part of the club, AL Kharaitiyat SC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al-Khor_Sports_Club"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al-Khor_Sports_Club"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al_Kharaitiyat_SC"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id65"
+      }
+},
+{
+   83: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Al Kharaitiyat SC which is in Al Khor and is managed by Amar Osim. He also plays for the raq national under 20 football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra, who plays for the Iraq national under 20 football team, is part of the club, AL Kharaitiyat SC. Amar Osim is the manager of Al Kharaitiyat SC which has its ground at Al Khor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra's club is AL Kharaitiyat SC whose home place is Al Khor and whose manager is Amar Osim. Mr. Zahra plays for the Iraq national under 20 football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al_Kharaitiyat_SC"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alaa_Abdul-Zahra ",
+     "property": " clubs ",
+     "subject": " Al_Kharaitiyat_SC"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id66"
+      }
+},
+{
+   84: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra, whose club is Sanat Mes Kerman F.C., plays for Al Kharaitiyat SC. Al Khor is the home ground of Al Kharaitiyat SC. which is managed by, Amar Osim.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Sanat Mes Kerman FC. He also plays for Al Kharaitiyat SC, in Al Khor, where Amar Osim is the manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra, whose club is Sanat Mes Kerman FC, plays for Al Kharaitiyat SC who have their ground at Al Khor and are managed by Amar Osim.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al_Kharaitiyat_SC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Kharaitiyat_SC ",
+       "property": " ground ",
+       "subject": " Al_Khor"
+       },
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al_Kharaitiyat_SC"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id67"
+      }
+},
+{
+   85: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Accrington Stanley F.C., which play in Accrington. He is a footballer for the Crewe Alexandra FC which is managed by Steve Davis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin plays for both Crewe Alexandra FC, which is managed by Steve Davis, and also Accrington Stanley FC which has their ground in Accrington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Footballer, Alan Martin, plays for the club, Crewe Alexandra F.C. which is managed by footballer, Steve Davis. Alan Martin used to play for Accrington Stanley F.C. which played in Accrington.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Accrington_Stanley_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Accrington_Stanley_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id68"
+      }
+},
+{
+   86: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin is 185.42 cm tall and was born on 1 January 1989. He currently plays for Crewe Alexandra FC and previously for Accrington Stanley FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin was born January 1, 1989 and is 185.42 cm tall. He plays for Crewe Alexandra F.C. and has played for Accrington Stanley F.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Crewe Alexandra FC, Footballer, Alan Martin, was born on 01/01/1989. He is 185.42 cm tall and played for Accrington Stanley F.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Accrington_Stanley_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Accrington_Stanley_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id69"
+      }
+},
+{
+   87: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Clyde F.C. whose playing area is the Broadwood Stadium. Mr. Martin now plays for Crewe Alexandra F.C. for its manager, Steve Davis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin has played for Clyde F.C. and plays for the Crewe Alexandra FC (managed by Steve Davis).Broadwood Stadium is home to Clyde F.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin plays football for Crewe Alexandra FC managed by Steve Davis, and also for Clyde FC who have their home ground at the Broadwood Stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Clyde_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Clyde_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id70"
+      }
+},
+{
+   88: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov, Jr was born in Tampere, Finland on September 2,1995. He is affiliated with the Florida Panthers.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr, who plays for the Florida Panthers, was born in Tampere, Finland on 2 September 1995.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " birthYear ",
+   "subject": " 1995"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " birthYear ",
+     "subject": " "1995"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id76"
+      }
+},
+{
+   89: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr, a centre for the Florida Panthers, was born 1995 in Tampere, Finland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov, Jr. was born in 1995, in Tampere, Finland. His ice hockey position is center, and his club is the Florida Panthers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr was born in Tampere, Finland in 1995. He plays as a centre for the Florida Panthers.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " birthYear ",
+   "subject": " 1995"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " birthYear ",
+     "subject": " "1995"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id77"
+      }
+},
+{
+   90: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr's birthdate is Sept. 2, 1995 in Tampere, Finland. He was drafted to the Florida Panthers team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr was born in Tampere Finland on 2nd September 1995 and his draft team was the Florida Panthers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov, Jr was born on 2nd September 1995 in Tampere, Finland and his draft team was the Florida Panthers.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " draftTeam ",
+   "subject": " Florida_Panthers"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " draftTeam ",
+     "subject": " Florida_Panthers"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id78"
+      }
+},
+{
+   91: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1.905m tall, Aleksander Barkov Jr, has played for the Florida Panthers. He was born in Tampere, Finland, on 1995-09-02.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr. was born in Tampere, Finland on the 2nd September 1995. He is 1.905 tall and has played for the Florida Panthers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr . was born in Tampere, Finland, on the 2nd September 1995. His height is 1.905m and his club is the Florida Panthers.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " height ",
+   "subject": " 1.905"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " height ",
+     "subject": " "1.905"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id79"
+      }
+},
+{
+   92: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr was born in Tampere, Finland, on 1995-09-02. He plays centre and has played for the Florida Panthers.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr was born September 2, 1995 in Tampere, Finland. He is a Centre and has played for the Florida Panthers.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksander Barkov Jr was born in Tampere, Finland on 2 September 1995 and plays as a centre for his club, the Florida Panthers.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksander_Barkov,_Jr. ",
+   "property": " position ",
+   "subject": " Centre_(ice_hockey)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksander_Barkov,_Jr. ",
+     "property": " position ",
+     "subject": " Centre_(ice_hockey)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id80"
+      }
+},
+{
+   93: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov plays for is FC Torpedo Moscow part of the Soviet Union national football team. It is managed by Valery Petrakov and its chairman is Aleksandr Tukmanov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov plays for FC Torpedo Moscow, managed by Valery Petrakov and chaired by Aleksandr Tukmanov, and also the Soviet Union national team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov, who plays for the Soviet Union national football team, played for FC Torpedo Moscow. Aleksandr Tukmanov is the chairman of FC Torpedo Moscow which is managed by, Valery Petrakov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Chumakov ",
+   "property": " club ",
+   "subject": " FC_Torpedo_Moscow"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Chumakov ",
+     "property": " clubs ",
+     "subject": " FC_Torpedo_Moscow"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id81"
+      }
+},
+{
+   94: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born on 24th February 1989 and is 185 cm tall. He has played for FC Kuban Krasnodar and FC Tom Tomsk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who is 185cm in height and was born on 24 February 1989, plays for both FC Tom Tomsk and FC Kuban Krasnodar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "185 cm tall, Aleksandr Prudnikov, was born 1989-02-24. His club is FC Tom Tomsk and he plays for FC Kuban Krasnodar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " birthDate ",
+   "subject": " 1989-02-24"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " dateOfBirth ",
+     "subject": " "1989-02-24"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id82"
+      }
+},
+{
+   95: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for the FC Amkar Perm football club which is managed by, Gadzhi Gadzhiyev. Aleksandr Prudnikov also plays for FC Terek Grozny, the ground of which is located in Grozny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for the FC Amkar Perm football team who are managed by Gadzhi Gadzhiyev, but he is currently playinf for FC Terek Grozny, their ground is based at Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for FC Amkar Perm and FC Terek Grozny, based in Grozny and managed by Gadhzhi Gadzhiyev.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Amkar_Perm"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " clubs ",
+     "subject": " FC_Amkar_Perm"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id83"
+      }
+},
+{
+   96: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "FC Amkar Perm player, Aleksandr Prudnikov, is in the FC Terek Grozny club. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which is, based at Grozny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "FC Amkar Perm player, Aleksandr Prudnikov, played for FC Terek Grozny. Rashid Rakhimov is the manager of Grozny based, FC Terek Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for the FC Amkar Perm football club and played for the Terek Grozny FC who has its grounds at Grozny. The Grozny club is managed by Rashid Rakhimov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Amkar_Perm"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " clubs ",
+     "subject": " FC_Amkar_Perm"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id84"
+      }
+},
+{
+   97: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov was born on Feb. 24, 1989 and is 185 cm tall. He plays for Spartak Moscow and Kuban Krasnodar teams.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, once a memberof FC Spartak Moscow, now plays for the FC Kuban Krasnodar club. He was born on the 24th of February, 1989, and is 185 cm tall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "With his birthdate on Feb 24, 1989, Aleksandr Prudnikov, is 185 cm tall. His club is the FC Spartak Moscow and plays for the KC Kuban Krasnodar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Spartak_Moscow"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " clubs ",
+       "subject": " FC_Spartak_Moscow"
+       },
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " team ",
+       "subject": " FC_Spartak_Moscow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id85"
+      }
+},
+{
+   98: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, whose club is FC Spartak Moscow based at their home ground of the Otkrytiye Arena, also plays for FC Amkar Perm where Gadzhi Gadzhiyev is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov's club is FC Spartak Moscow who play at the Otkrytiye Arena, but he also plays for FC Amkar Perm who are managed by Gadzhi Gadzhiyev.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov who plays for FC Amkar Perm managed by Gadzhi Gadzhiyev, previously played for FC Spartak Moscow who play at the Otkrytiye Arena.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Spartak_Moscow"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " team ",
+       "subject": " FC_Spartak_Moscow"
+       },
+       {
+       "object": "FC_Spartak_Moscow ",
+       "property": " ground ",
+       "subject": " Otkrytiye_Arena"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id86"
+      }
+},
+{
+   99: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in Batumi and is 178 cm high. He plays for the AS Lyon-Duchère and the Karpaty Lviv FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in Batumi. He is 178.0 cm tall. He has played for FC Karpaty Lviv and AS Lyon-Duchere.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, who is 178.0 centimetres tall, was born in Batumi. He played for FC Karpaty Lviv and his club is AS Lyon-Duchere.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " FC_Karpaty_Lviv"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id87"
+      }
+},
+{
+   100: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Batumi and 178 cm tall, Aleksandre Guruli plays for FC Karpaty Lviv club and for the Dinamo Batumi FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in Batumi and is 178 cm tall. His club is FC Karpaty Lviv and plays for the FC Dinamo Batumi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli is 178cm in height and was born in Batumi. He previously played for FC Karpaty Lviv and currently for FC Dinamo Batumi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Karpaty_Lviv"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " FC_Karpaty_Lviv"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id88"
+      }
+},
+{
+   101: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, formally of FC Karpaty Lviv, now plays with AS Lyon-Duchère. He was born in the Soviet Socialist Republic of Georgia and is 178.0 centimetres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in the Georgian Soviet Socialist Republic and is 178 cm in height. He previously played for FC Karpaty Lviv and currently for AS Lyon-Duchere.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli was born in the Georgian Soviet Socialist Republic. He is 178.0 cm tall. He has played for FC Karpaty Lviv and AS Lyon-Duchère.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " FC_Karpaty_Lviv"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id89"
+      }
+},
+{
+   102: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, whose club is FC Karpaty Lviv and plays for FC Dinamo Batumi, is 178 cm in height and was born in the Georgian Soviet Socialist Republic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, who is 178.0 centimetres tall, was born in the Georgian Soviet Socialist Republic. Aleksandre Guruli plays for FC Dinamo Batumi and FC Karpaty Lviv club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "178.0 centimetres tall, Aleksandre Guruli was born in the Georgian Soviet Socialist Republic. His club is FC Karpaty Lviv and he plays for FC Dinamo Batumi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " FC_Karpaty_Lviv"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id90"
+      }
+},
+{
+   103: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli has played for FC Karpaty Lviv who are managed by Oleh Luzhny, and also for Olympique Lyonnais whose ground is the Parc Olympique Lyonnais.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Karpaty Lviv club which is managed by Oleh Luzhny. His club is the Olympique Lyonnais which has its home ground as Parc Olympique Lyonnais stadium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for FC Karpaty Lviv which is managed by, Oleh Luzhny. Now, Aleksandre Guruli's club is Olympique Lyonnais, the home ground of which, is the Parc Olympique Lyonnais stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Karpaty_Lviv"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "FC_Karpaty_Lviv ",
+       "property": " manager ",
+       "subject": " Oleh_Luzhny"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Karpaty_Lviv"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id91"
+      }
+},
+{
+   104: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's plays for Olympique Lyonnais out of Parc Olympique Lyonnais and whose chairman is Jean-Michel Aulas. Mr. Guruli formerly played for the FC Dinamo Batumi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli has played for FC Dinamo Batumi and also Olympique Lyonnais, who play their home games at the Parc Olympique Lyonnais and have Jean-Michel Aulas as the chairman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, plays for FC Dinamo Batumi and his club is Olympique Lyonnais. Jean-Michel Aulas is the chairman of Olympique Lyonnais which play their home games at the Parc Olympique Lyonnais.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Olympique_Lyonnais"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandre_Guruli ",
+     "property": " team ",
+     "subject": " Olympique_Lyonnais"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id92"
+      }
+},
+{
+   105: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli has played for FC Dinamo Batumi (managed by Levan Khomeriki) and is a member of Olympique Lyonnais. Olympique Lyonnais' home ground is the Parc Olympique Lyonnais.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli used to play for the Olympique Lyonnais club, which plays their home games at the Parc Olympique Lyonnais. Now, Aleksandre Guruli plays for FC Dinamo Batumi, the manager of which, is Levan Khomeriki.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for Parc Olympique based club Olympique Lyonnais. He has also played for FC Dinamo Batumi, managed by Levan Khomeriki.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Olympique_Lyonnais"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " Olympique_Lyonnais"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " clubs ",
+       "subject": " Olympique_Lyonnais"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id93"
+      }
+},
+{
+   106: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S. Roma member, Alessio Romagnoli, plays for A.C. Milan, which is managed by Siniša Mihajlović and is in Serie A league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for AS Roman and AC Milan, managed by Sinisa Mihajlovic, in the Serie A League.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli, a member of A.S. Roma, is a member of the A.C. Milan club which play in Serie A. Siniša Mihajlović is the manager for A.C. Milan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alessio_Romagnoli ",
+   "property": " club ",
+   "subject": " A.C._Milan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A.C._Milan ",
+       "property": " league ",
+       "subject": " Serie_A"
+       },
+       {
+       "object": "Alessio_Romagnoli ",
+       "property": " team ",
+       "subject": " A.C._Milan"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id94"
+      }
+},
+{
+   107: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Tyus was born on the 8th January 1988 and played for the college Florida Gators men's basketball team. He had been drafted in 2011 and is 2.032 metres tall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Tyus was born on the 8th of January 1988. He is 2.032 metres tall. He played for the college Florida Gators men's basketball team and was drafted in 2011.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Tyus eas born on January 8th 1988 and was drafted in 2011. He is 2.032m tall and played on the Florida Gators men's basketball team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Tyus ",
+   "property": " college ",
+   "subject": " Florida_Gators_men's_basketball"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alex_Tyus ",
+       "property": " college ",
+       "subject": " Florida_Gators_men's_basketball"
+       },
+       {
+       "object": "Alex_Tyus ",
+       "property": " college ",
+       "subject": " Florida_Gators_men's_basketball"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id103"
+      }
+},
+{
+   108: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Canada is led by Elizabeth II and the anthem is "O Canada", with the ethnic, Black Canadians. It is also the home of Adam McQuaid.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is the leader of Canada whose anthem is O Canada and one ethnic group there are Black Canadians. Adam McQuaid originated from this country.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada where Black Canadians are an ethnic group. Canada's leader is Elizabeth II and its national anthem is O Canada.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id104"
+      }
+},
+{
+   109: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Canada is led by Elizabeth II and the national anthem is "O Canada". An ethnic group of Canada are Asian Canadians. Adam McQuaid was born there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid come from Canada whose leader is Elizabeth II and national anthem is O Canada. Asian Canadians are an ethnic group there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "O Canada is the national anthem of Canada and its leader is Elizabeth II. Adam McQuaid is from this country. There are Asian Canadians who live in Canada.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id105"
+      }
+},
+{
+   110: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Black Canadians are one of the ethnic groups of Canada which is led by, Elizabeth II. Aaron Boogaard's birthplace is Canada where the national anthem is, O Canada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth II leads Canada that has O Canada as its national anthem. Aaron Boogaard was born in that country which has an ethnic group called Black Canadians.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada that has O Canada as its anthem and Elizabeth II as its leader. One ethnic group in the country are Black Canadians.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id106"
+      }
+},
+{
+   111: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "O Canada is the national anthem of Canada which is led by Elizabeth II. Aaron Boogaard was born in Canada where the English language is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Canada, which is the birthplace of Aaron Boogaard, uses the spoken language of English, is led by Elizabeth II and has an anthem known as "O Canada".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard's birthplace is Canada whose leader is Elizabeth II and anthem is O Canada. A language spoken in that country is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id107"
+      }
+},
+{
+   112: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada, which is led by Elizabeth II. English language is spoken in Canada, the national anthem of which, is O Canada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante came from Canada whose leader is Elizabeth II and anthem is O Canada. One language spoken in Canada is English.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "O Canada is the national anthem of Canada, where Elizabeth II rules. Alex Plante is Canadian, and English is the spoken language.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id108"
+      }
+},
+{
+   113: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada, where French is one of the spoken languages. Canada's, leader is Elizabeth II and national anthem is, O Canada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Canada has; Elizabeth II for a leader, O Canada as a national anthem, French as one of the languages spoken and is the birth country of, Aaron Boogaard.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Canada is Aaron Boogaards place of birth. That country is led by Elizabeth II and has its anthem named O Canada. French is spoken there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " language ",
+   "subject": " French_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " language ",
+     "subject": " French_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id109"
+      }
+},
+{
+   114: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada, where Elizabeth II is the leader, Inuktitut is a spoken language, and Asian Canadians are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada where Asian Canadians are an ethnic group. Elizabeth II is a leader there and the Inuktitut language is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Elizabeth II run Canada, was Adam McQuaid. Inuktitut is spoken in that country and Asian Canadians are one ethnic group there.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " language ",
+   "subject": " Inuktitut"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " language ",
+     "subject": " Inuktitut"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id110"
+      }
+},
+{
+   115: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández played youth football for Central Español which plays in the Uruguayan Segunda División. Abel Hernández now plays for Hull City A.F.C., the manager of which, is Steve Bruce.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández played youth football for Central Español that is in the Uruguayan Segunda División league. He now plays for Hull City AFC which is managed by Steve Bruce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Steve Bruce is the manager of Hull City AFC, which is Abel Hernández's club. Hernández played youth football for Central Español which play in the Uruguayan Segunda División league.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Central_Español ",
+   "property": " league ",
+   "subject": " Uruguayan_Segunda_División"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Central_Español ",
+     "property": " league ",
+     "subject": " Uruguayan_Segunda_División"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id111"
+      }
+},
+{
+   116: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández played youth football for Central Español in the Uruguayan Segunda División. He now plays for U.S. Città di Palermo where Giuseppe Iachini is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Giuseppe Iachini is the manager of and Abel Hernández plays for the club, U.S. Città di Palermo. Abel Hernandez used to be a member of the Central Espanol youth team which plays in the Uruguayan Segunda División.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez is a member of the Central Espanol youth team who play in the Uruguayan segunda Division league. He also plays for US Citta di Palermo managed by Giuseppe Iachini.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Central_Español ",
+   "property": " league ",
+   "subject": " Uruguayan_Segunda_División"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Central_Español ",
+     "property": " league ",
+     "subject": " Uruguayan_Segunda_División"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id112"
+      }
+},
+{
+   117: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A footballer, Alan Martin, played with the Clyde FC and the Leeds United FC. The former club is located in Broadwood Stadium and managed by Barry Ferguson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Former Leeds United F.C footballer, Alan Martin, plays for the Clyde FC club. Barry Ferguson is the manager of Clyde F.C., the ground of which, is called Broadwood Stadium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin, who played football for Leeds United F.C. is a footballer for the Clyde FC. The club which is managed by, Barry Ferguson and the ground of which, is called Broadwood Stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Clyde_F.C. ",
+   "property": " manager ",
+   "subject": " Barry_Ferguson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Clyde_F.C. ",
+     "property": " manager ",
+     "subject": " Barry_Ferguson"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id113"
+      }
+},
+{
+   118: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for FC Terek Grozny and now plays with the FC Spartak Moscow located at the Otkrytiye Arena. FC Terek Grozny is managed by Rashid Rakhimov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov once played for FC Spartak Moscow on their home field at Otkrytiye Arena. Prudnikov now plays for FC Terek Grozny, a team managed by Rashid Rakhimov.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for FC Spartak Moscow who have their home ground at Otkrytiye Arena, and also for FC Terek Grozny who are managed by Rashid Rakhimov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Spartak_Moscow ",
+   "property": " ground ",
+   "subject": " Otkrytiye_Arena"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Spartak_Moscow ",
+     "property": " ground ",
+     "subject": " Otkrytiye_Arena"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id114"
+      }
+},
+{
+   119: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov playes for FC Spartak Moscow and FC Terek Grozny. The latter is based in Grozny and the manager is Rashid Rakhimov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who plays for FC Spartak Moscow, played for FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which, is located in Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "FC Terek Grozny, which has its ground in Grozny, is managed by Rashid Rakhimov. Aleksandr Prudnikov, who played for FC Spartak Moscow, plays for FC Terek Grozny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id115"
+      }
+},
+{
+   120: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who plays for FC Alania Vladikavkaz, plays for FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which, is based at Grozny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "FC Terek Grozny is managed by Rashid Rakhimov and his ground is located in Grozny. Aleksandr Prudnikov plays for both FC Alania Vladikavkaz and FC Terek Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for FC Terek Grozny whose base is in Grozny and is managed by Rashid Rakhimov. He also plays for the Alania Vladikavkaz club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id116"
+      }
+},
+{
+   121: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for FC Anzhi Makhachkala and also for FC Terek Grozny who are located in Grozny and managed by Rashid Rakhimov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov is in the FC Terek Grozny club which is located at Grozny and managed by Rashid Rakhimov. Aleksandr Prudnikov plays also for FC Anzhi Makhachkala.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, of FC Terek Grozny club (managed by Rashid Rakhimov), plays for FC Anzhi Makhachkala. Grozny is the home of FC Terek Grozny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id117"
+      }
+},
+{
+   122: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov, who plays for FC Dynamo Moscow, is in the FC Terek Grozny club. The club is based in Grozny and is managed by Rashid Rakhimov.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov has played for FC Terek Grozny and for FC Dynamo Moscow. FC Terek Grozny play in Grozny and are managed by Rashid Rakhimov.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov's club is FC Dynamo Moscow but he is currently playing for FC Terek Grozny, their ground is located in Grozny and they are managed by Rashid Rakhimov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id118"
+      }
+},
+{
+   123: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for both FC Rubin Kazan and FC Terek Grozny. The latter is managed by Rashid Rakhimov and the club's ground is based at Grozny.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov has played for FC Terek Grozny and for FC Rubin Kazan. FC Terek Grozny are managed by Rashid Rakhimov and play in Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for FC Terek Grozny whose home territory is in Grozny. That club is managed by Rashid Rakhimov. Mr. Prudnikov also plays for the Rubin Kazan FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id119"
+      }
+},
+{
+   124: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov is in the FC Terek Grozny club which is located in Grozny and managed by Rashid Rakhimov. Mr. Prudnikov also plays for FC Tom Tomsk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov has played for FC Tom Tomsk and FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, whose ground is located in Grozny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov's club is FC Tom Tomsk. He is also part of the club, FC Terek Grozny. Rashid Rakhimov is the manager of FC Terek Grozny, the ground of which, is based at Grozny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Terek_Grozny ",
+   "property": " ground ",
+   "subject": " Grozny"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Terek_Grozny ",
+     "property": " ground ",
+     "subject": " Grozny"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id120"
+      }
+},
+{
+   125: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov played with the FC Torpedo Moscow, part of the Soviet Union national football club whose chairman is Aleksandr Tukmanov. That club was part of the 2014-15 Russian Premier League.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov's club is the Soviet Union national football team. He has also played for FC Torpedo Moscow who participated in the 2014-15 Russian Premier league season and have Aleksandr Tukmanov as chairman.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov plays for is FC Torpedo Moscow and the Soviet Union national football team. In 2014-15 the Torpedo club played in the Russian Premier League. The chairman of the FC Moscow is Aleksandr Tukmanov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Torpedo_Moscow ",
+   "property": " season ",
+   "subject": " 2014–15_Russian_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Torpedo_Moscow ",
+     "property": " season ",
+     "subject": " 2014–15_Russian_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id121"
+      }
+},
+{
+   126: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014-15 season in the Russian Premier League and are managed by Valery Petrakov. Aleksandr Chumakov also plays for the Soviet Union national football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov was a member of the Soviet Union national football team. The club Aleksandr Chumakov plays for is FC Torpedo Moscow which played the 2014–15 season in the Russian Premier League. Valery Petrakov is the manager of that club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov, who is in the Soviet Union national football team, plays for is FC Torpedo Moscow. Valery Petrakov is the manager of FC Torpedo Moscow which played in the 2014-15 Russian Premier League.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Torpedo_Moscow ",
+   "property": " season ",
+   "subject": " 2014–15_Russian_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "FC_Torpedo_Moscow ",
+     "property": " season ",
+     "subject": " 2014–15_Russian_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id122"
+      }
+},
+{
+   127: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has played for Hamburger SV which is a member of the Bundesliga. Aaron Hunt also plays for the club SV Werder Bremen II which is managed by, Alexander Nouri.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has played for Hamburger SV which compete in the Bundesliga. He has also played for SV Werder Bremen II which is managed by, Alexander Nouri.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for Hamburger SV in the Bundesliga. He also represented SV Werder Bremen II - the manager of the first team there is Alexander Nouri.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Hamburger_SV ",
+   "property": " league ",
+   "subject": " Bundesliga"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Hamburger_SV ",
+     "property": " league ",
+     "subject": " Bundesliga"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id123"
+      }
+},
+{
+   128: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent made his debut with the Atlanta Falcons who play in the city of Atlanta. He also used to play for the Houston Texans in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent made his debut with the Atlanta Falcons who play in the city of Atlanta, he previously played with the Houston Texans who play in Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first team was the Atlanta Falcons, who play in Atlanta. He has also played for the Houston Texans, who play in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " city ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Houston_Texans ",
+       "property": " city ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Houston_Texans ",
+       "property": " locationCity ",
+       "subject": " Texas"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id124"
+      }
+},
+{
+   129: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans who are based in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons which are owned by, Arthur Blank. Akeem Dent used to play for Texas based, Houston Texans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first played for the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans whose home is in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " city ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Houston_Texans ",
+     "property": " locationCity ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id125"
+      }
+},
+{
+   130: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bob McNair is the owner of the Houston Texans, who play in Texas. Akeem Dent, who debuted with the Atlanta Falcons, used to play for the Houston Texans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first team were the Atlanta Falcons and he also played for the Houston Texans of Texas. The Houston Texans are owned by Bob McNair.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted on the Atlanta Falcons and used to play for the Houston Texans. The Texans are owned by Bob McNair and housed in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " city ",
+   "subject": " Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Houston_Texans ",
+     "property": " locationCity ",
+     "subject": " Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id126"
+      }
+},
+{
+   131: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, whose debut team was the Atlanta Falcons, used to play for Houston Texans. The team is owned by Bob McNair and are based in the city of Houston.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, who made his debut with the Atlanta Falcons, previously played with the Houston Texans who are based in the city of Houston and owned by Bob McNair.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, who made his debut with the Atlanta Falcons, used to play for the Houston Texans who are based in the city of Houston and owned by Bob McNair.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " owner ",
+   "subject": " Bob_McNair"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Houston_Texans ",
+     "property": " owner ",
+     "subject": " Bob_McNair"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id127"
+      }
+},
+{
+   132: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for Orange County Blues FC (managed by Oliver Wyss) and is in the Jacksonville Dolphins club. The Jacksonville Dolphins play in Jacksonville, Florida.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for the Jacksonville Dolphins in Jacksonville, Florida and also for the Orange County Blues whose manager is Oliver Wyss.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley, who plays for the Jacksonville Dolphins which are based in the city of Jacksonville in Florida, is also connected to the Orange County Blues FC who are managed by Oliver Wyss.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Jacksonville_Dolphins ",
+   "property": " city ",
+   "subject": " Jacksonville,_Florida"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Jacksonville_Dolphins ",
+     "property": " city ",
+     "subject": " Jacksonville,_Florida"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id128"
+      }
+},
+{
+   133: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, who debuted with the Tennessee Titans, used to play for the Los Angeles Rams. The Los Angeles Rams play in Los Angeles, at the Los Angeles Memorial Coliseum.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers, made his debut for the Tennessee Titans and used to play for Los Angeles Rams. The club is based in Los Angeles, and play home games at the Los Angeles Memorial Coliseum.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers started with the Tennessee Titans. He then played for the Los Angeles Rams who play at Los Angeles Memorial Coliseum in L.A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Los_Angeles_Rams ",
+   "property": " city ",
+   "subject": " Los_Angeles_Memorial_Coliseum"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Los_Angeles_Rams ",
+       "property": " city ",
+       "subject": " Los_Angeles_Memorial_Coliseum"
+       },
+       {
+       "object": "Los_Angeles_Rams ",
+       "property": " city ",
+       "subject": " Los_Angeles"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id129"
+      }
+},
+{
+   134: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers' debut team was the Tennessee Titans who are based in the city of Nashville, Tennessee. Another former club of his was the Los Angeles Rams who play their home matches at the Los Angeles Memorial Coliseum.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The debut team of Akeem Ayers was the Tennessee Titans who are based in the city of Nashville, Tennessee. Ayers has also played for the Los Angeles Rams who play their home matches at the Los Angeles Memorial Coliseum.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers made his debut for the Tennessee Titans which are based in Nashville, Tennessee. His former team is the Los Angeles Rams, which play at the Los Angeles Memorial Coliseum.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Los_Angeles_Rams ",
+   "property": " city ",
+   "subject": " Los_Angeles_Memorial_Coliseum"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Tennessee_Titans ",
+       "property": " city ",
+       "subject": " Nashville,_Tennessee"
+       },
+       {
+       "object": "Los_Angeles_Rams ",
+       "property": " city ",
+       "subject": " Los_Angeles_Memorial_Coliseum"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id130"
+      }
+},
+{
+   135: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Motherwell F.C. that is located in Fir Park. Mr. Martin plays for Crewe Alexandra F.C. that is managed by Steve Davis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Footballer Steve Davis, is the manager of Crewe Alexandra FC, one of the clubs for which Alan Martin plays. Another club of his is, Motherwell FC, the home ground of which, is located in Fir Park.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Motherwell F.C. whose home territory is in Fir Park. Mr. Martin is a player for the Crewe Alexandra FC that has Steve Davis as its manager.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Motherwell_F.C. ",
+   "property": " ground ",
+   "subject": " Fir_Park"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Motherwell_F.C. ",
+     "property": " ground ",
+     "subject": " Fir_Park"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id131"
+      }
+},
+{
+   136: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for Jacksonville Dolphins based at the John Sessions Stadium. He is also connected to the Orange County Blues Football Club which is managed by Oliver Wyss.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley is connected to the Orange County Blues Football club which is managed by Oliver Wyss, but he also plays for Jacksonville Dolphins who have their baseball field in the John Sessions stadium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley is connected to the Orange County Blues Football Club where the manager is, Oliver Wyss. Akeem Priestley plays for Jacksonville Dolphins, the club play at the John Sessions Stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Orange_County_Blues_FC ",
+   "property": " manager ",
+   "subject": " Oliver_Wyss"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Orange_County_Blues_FC ",
+       "property": " manager ",
+       "subject": " Oliver_Wyss"
+       },
+       {
+       "object": "Orange_County_Blues_FC ",
+       "property": " manager ",
+       "subject": " Oliver_Wyss"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id132"
+      }
+},
+{
+   137: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for Jacksonville University's, Jacksonville Dolphins and Oliver Wyss managed, Orange County Blues FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Jackson University team is known as the Jacksonville Dolphins, which is the club of Akeem Priestley, who plays for Orange County Blues FC. Oliver Wyss is the manager of the Orange County Blues FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley is in the Jacksonville Dolphins University team club. He is also associated with the Orange County Blues Football Club that has Oliver Wyss as its manager.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Orange_County_Blues_FC ",
+   "property": " manager ",
+   "subject": " Oliver_Wyss"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Orange_County_Blues_FC ",
+     "property": " manager ",
+     "subject": " Oliver_Wyss"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id133"
+      }
+},
+{
+   138: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher, whose club is AZ Alkmaar, played for the Netherlands national under-17 football team. The current club he plays for is PSV Eindhoven, managed by, Phillip Cocu.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher plays for PSV Eindhoven, which is managed by Phillip Cocu. He has also played for the Netherlands under 17 team and is connected to the AZ Alkmaar Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher currently plays for PSV Eindhoven and has played for the Netherlands national under-17 football team. He also has connections with the AZ Alkmaar club. PSV Eindhoven is managed by Phillip Cocu.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "PSV_Eindhoven ",
+   "property": " manager ",
+   "subject": " Phillip_Cocu"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "PSV_Eindhoven ",
+     "property": " manager ",
+     "subject": " Phillip_Cocu"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id134"
+      }
+},
+{
+   139: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for the German National Under 21 team and also for SV Werder Breman, managed by Viktor Skrypnyk, in the Bundesliga.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The manager of SV Werder Breman, is Viktor Skrypnyk. Aaron Hunt played for SV Werder Bremen which play in the Bundesliga. Aaron Hunt's club is the Germany national under-21 football team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for SV Werder Bremen along with playing for the Germany national under-21 football team. SV Werder Bremen play in the Bundesliga and are managed by Viktor Skrypnyk.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "SV_Werder_Bremen ",
+   "property": " league ",
+   "subject": " Bundesliga"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "SV_Werder_Bremen ",
+     "property": " league ",
+     "subject": " Bundesliga"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id141"
+      }
+},
+{
+   140: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt has played for SV Werder Bremen, managed by Viktor Skrypnyk, with its home in Bundesliga. Hunt plays for Goslarer SC 08.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt, who plays for Goslarer SC 08, previously played in the Bundesliga league for the club SV Werder Bremen which is managed by Viktor Skrypnyk.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt belongs to Goslarer SC 08 and played for SV Werder Bremen, in the Bundesliga league. Viktor Skrypnyk manages SV Werder Breman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "SV_Werder_Bremen ",
+   "property": " league ",
+   "subject": " Bundesliga"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "SV_Werder_Bremen ",
+     "property": " league ",
+     "subject": " Bundesliga"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id142"
+      }
+},
+{
+   141: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Tyus was born in St Louis, part of greater St Louis and the French First Republic and led by Francis G slay.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Tyus was born in St Louis, part of Greater St Louis and the French First Republic. The leader is Francis G Slay.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Tyus was born in St. Louis, part of Greater St. Louis. That city forms part of the French first republic and its leader is Francis G. Slay.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "St._Louis ",
+   "property": " isPartOf ",
+   "subject": " Greater_St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "St._Louis ",
+     "property": " isPartOf ",
+     "subject": " Greater_St._Louis"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id143"
+      }
+},
+{
+   142: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adnan Hamad manages Esteghlal Ahvaz F.C., the club Ahmad Kadhim Assad, used to play for. Ahmad Kadhim Assad plays for Steel Azin F.C., which play in Iran Football's 3rd Division.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad's club is Steel Azin FC in the 3rd division of Iran football. He is also part of Esteghlal Ahvaz F.C. where Adnan Hamad is the manager.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ahmad Kadhim Assad's club is Steel Azin FC who play in Iran's 3rd division. He also played for Esteghlal Ahvaz FC who are managed by Adnan Hamad.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Steel_Azin_F.C. ",
+   "property": " league ",
+   "subject": " Iran_Football's_3rd_Division"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ahmad_Kadhim_Assad ",
+       "property": " team ",
+       "subject": " Steel_Azin_F.C."
+       },
+       {
+       "object": "Steel_Azin_F.C. ",
+       "property": " league ",
+       "subject": " Iran_Football's_3rd_Division"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id144"
+      }
+},
+{
+   143: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The debut team of Akeem Ayers was the Tennessee Titans which are based in Nashville, Tennessee. Akeem Ayers used to play for Los Angeles Rams, that play in Los Angeles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers debuted with Nachville's Tennessee Titans and played with the Los Angeles Rams in L.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Tennessee Titans are based in the city of Nashville, Tennessee and are the team with which Akeem Ayers made his debut. Another former team of his is the Los Angeles Rams which is based in LA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Tennessee_Titans ",
+   "property": " city ",
+   "subject": " Nashville,_Tennessee"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Tennessee_Titans ",
+       "property": " locationCity ",
+       "subject": " Nashville,_Tennessee"
+       },
+       {
+       "object": "Tennessee_Titans ",
+       "property": " city ",
+       "subject": " Nashville,_Tennessee"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id145"
+      }
+},
+{
+   144: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Adams has played for United Petrotrin F.C (home ground Palo Seco) and also Ferencvarosi TC (chairman Gábor Kubatov).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Adams is a member of the United Petrotrin F.C. club., the ground of which is, Palo Seco. Akeem Adams club is Ferencvarosi TC, the chairman of which, is Gabor Kubatov.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Palo Seco is the ground for United Petrotrin F.C. which Akeem Adams played for. His club is Ferencvarosi TC, the chairman of which, is Gabor Kubatov.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Petrotrin_F.C. ",
+   "property": " ground ",
+   "subject": " Palo_Seco"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akeem_Adams ",
+       "property": " clubs ",
+       "subject": " Ferencvárosi_TC"
+       },
+       {
+       "object": "United_Petrotrin_F.C. ",
+       "property": " ground ",
+       "subject": " Palo_Seco"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id146"
+      }
+},
+{
+   145: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for Vfl Wolfsburg which has Dieter Hecking as its manager. Mr. Hunt also plays with SV Werder Bremen II which is in the 3 Liga league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "VfL Wolfsburg and SV Werder Bremen II are Aaron Hunt's Football clubs. SV Werder Bremen II is in the league 3 Liga and VFL Wolfsburn is managed by Dieter Hecking.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt's club is VfL Wolfsburg and played for the SV Werder Bremen II in the 3.Liga. Dieter Hecking manages VFL Wolfsburg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "VfL_Wolfsburg ",
+   "property": " manager ",
+   "subject": " Dieter_Hecking"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "VfL_Wolfsburg ",
+     "property": " manager ",
+     "subject": " Dieter_Hecking"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id147"
+      }
+},
+{
+   146: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A former player of the Central Español youth club, Abel Hernandez belongs to the club Penarol. He also plays for, Steve Bruce managed, Hull City A.F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, who played for Penarol, was a member of the Central Espanol youth team. Abel Hernández's club is Hull City A.F.C. which is managed by, Steve Bruce.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernandez, whose club is Penarol, played youth football for Central Español. his club is also Hull City A.F.C., the manager of which, is Steve Bruce.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " club ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " clubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   147: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abel Hernández, who was a member of youth club Peñarol, plays for the club, U.S. Città di Palermo. The club is managed by Giuseppe Iachini and play in the Serie A league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "When he was younger, Abel Hernández played for Peñarol. He now plays for US Citta di Palermo in the Serie A. League and managed by Giuseppe Iachini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Hernández plays for, Giuseppe Iachini managed, U.S. Città di Palermo. in the Serie A league. He has played for Peñarol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Hernández ",
+   "property": " youthclub ",
+   "subject": " Peñarol"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Hernández ",
+     "property": " youthclubs ",
+     "subject": " Peñarol"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   148: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was originally drafted to the Columbus Blue Jackets out of Columbus, Ohio. He nows plays with the Boston Bruins whose general manager is Don Sweeney.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Don Sweeney is general manager for the Boston Bruins, the team Adam McQuaid played for. McQuaid was drafted to the Columbus Blue Jackets, from Columbus, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was drafted with the Columbus Blue Jackets in Columbus, Ohio. He played for the Boston Bruins whose manager is Don Sweeney.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   149: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on 10th July 1989. He made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on July 10th, 1989, Akeem Ayers, made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was born on 10th July 1989. His debut team was the Tennessee Titans and his former team is the New England Patriots.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " New_England_Patriots"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " New_England_Patriots"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   150: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent, who used to play for Houston Texans, was born on 27 September 1987 in Atlanta, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent was born in Atlanta, Georgia on 27th September 1987 and played for the Houston Texans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Former Houston Texans player, Akeem Dent, was born in Atlanta Georgia, on 09/27/1987.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Dent ",
+   "property": " birthYear ",
+   "subject": " 1987"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Dent ",
+     "property": " birthYear ",
+     "subject": " "1987"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   151: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Al Kharaitiyat SC which is located at Al Khor and managed by Amar Osim. The Shabab Al-Ordon club is associated with Alaa Abdul-Zahra.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra, whose club is Shabab Al-Ordon Club, also plays for Al Kharaitiyat SC. which is located in Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra's club is AL Kharaitiyat SC which is managed by Amar Osim and is located in Al Khor. Another club of Alaa Abdul-Zahra, is Shabab Al-Ordon Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Al_Kharaitiyat_SC"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alaa_Abdul-Zahra ",
+       "property": " clubs ",
+       "subject": " Al_Kharaitiyat_SC"
+       },
+       {
+       "object": "Al_Kharaitiyat_SC ",
+       "property": " ground ",
+       "subject": " Al_Khor"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   152: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Clyde F.C., the manager of which, is Barry Ferguson. Alan Martin also played football for Accrington Stanley F.C., which have their ground in Accrington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin has played footbal for Barry Ferguson managed, Clyde F.C. and Accrington Stanley F.C. of Accrington.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Clyde FC, which was managed by Barry Ferguson. He also played for Accrington based Accrington Stanley FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Accrington_Stanley_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Accrington_Stanley_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id7"
+      }
+},
+{
+   153: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a footballer who is 185.42 cm in height and was born on 1 January 1989. He plays for both Hamilton Academical FC and Crewe Alexandra FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Footballer, Alan Martin, was born on the 1st January 1989. He is 185.42 cm tall and plays for both the Hamilton Academical FC and Crewe Alexandra FC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin was born on the 1st January 1989 and is 185.42 cm tall. He played football for Hamilton Academical F.C. and is a footballer for the Crewe Alexandra FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Hamilton_Academical_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " team ",
+     "subject": " Hamilton_Academical_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   154: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a member of Motherwell FC, with its grounds in Fir Park. He also belongs to Clyde FC club, managed by Barry Ferguson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin played football for Motherwell F.C. whose home territory is Fir Park. Mr. Martin also played with the Clyde FC which is managed by Barry Ferguson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barry Ferguson is the manager of Clyde F.C., the club Alan Martin played for. Martin also played football for Motherwell F.C. which play their home games at Fir Park.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Martin_(footballer) ",
+   "property": " club ",
+   "subject": " Motherwell_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Martin_(footballer,_born_1989) ",
+     "property": " clubs ",
+     "subject": " Motherwell_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id9"
+      }
+},
+{
+   155: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is FC Samtredia who play their home games at Erosi Manjgaladze stadium. Mr. Guruli also once played for the FC Dinamo Batumi that is managed by Levan Khomeriki.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for FC Dinamo Batumi whose manager is Levan Khomeriki. He also plays for FC Samtredia whose ground is the Erosi Manjgaladze Stadium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli plays for both FC Dinamo Batumi (managed by Levan Khomeriki) and FC Samtredia, ground of which is Erosi Manjgaladze Stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " FC_Samtredia"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "FC_Samtredia ",
+       "property": " ground ",
+       "subject": " Erosi_Manjgaladze_Stadium"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Samtredia"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id10"
+      }
+},
+{
+   156: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jean-Michel Aulas is the chairman of Olympique Lyonnais which play their home games at the Parc Olympique Lyonnais. Aleksandre Guruli, whose club is Olympique Lyonnais, used to play for FC Karpaty Lviv.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli, who plays for FC Karpaty Lviv club, used to play for the Olympique Lyonnais club, Jean-Michel Aulas is the chairman of Olympique Lyonnais, the home games of which, are played at the Parc Olympique Lyonnais.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli played for FC Karpaty Lviv and nw plays for Olympiquw Lyonnais which is based at the Parc Olympique Lyonnais Stadium and has jean-Michel Aulas as chairman.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandre_Guruli ",
+   "property": " club ",
+   "subject": " Olympique_Lyonnais"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Karpaty_Lviv"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " Olympique_Lyonnais"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id11"
+      }
+},
+{
+   157: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Plante, who played for the club Anyang Halla, was born on May 9th 1989, in Brandon, Manitoba.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante, whose club is called Anyang Halla, was born on 1989-05-09, in Brandon, Manitoba.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on 09/05/1989 in Brandon, Manitoba, Alex Plante participated in the Anyang Halla Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Plante ",
+   "property": " birthPlace ",
+   "subject": " Brandon,_Manitoba"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Plante ",
+     "property": " placeOfBirth ",
+     "subject": " Brandon,_Manitoba"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id12"
+      }
+},
+{
+   158: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada where the anthem is, O Canada. Elizabeth II is the leader of Canada where Black Canadians are one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada, which is led by Elizabeth II, has an anthem known as "O Canada" and includes the ethnic group of Black Canadians.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada where one of the ethnic groups, are Black Canadians. Canada's anthem is, O Canada and leader is, Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id13"
+      }
+},
+{
+   159: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada whose national anthem is called O Canada and its leader is Elizabeth II. Slavey is spoken in Canada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elizabeth II is Canada's leader and the national anthem is "O Canada". It is home to Aaron Boogaard and the Slavey language is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Boogaard was born in Canada, where one of the languages is, the Slavey language. The national anthem of Canada is O Canada. and the leader is, Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id14"
+      }
+},
+{
+   160: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a footballer for the Clyde FC club but currently plays for Barrow A.F.C. Barry Ferguson is the manager of Clyde F.C. who play at the Broadwood Stadium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin is a footballer who plays for Barrow AFC and also for Clyde FC which is managed by Barry Ferguson and has their ground at Broadwood Stadium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Martin, played football for Clyde F.C. which is managed by, Barry Ferguson. Alan Martin plays football for Barrow A.F.C., the home ground of which, is Broadwood Stadium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Clyde_F.C. ",
+   "property": " manager ",
+   "subject": " Barry_Ferguson"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Clyde_F.C. ",
+       "property": " manager ",
+       "subject": " Barry_Ferguson"
+       },
+       {
+       "object": "Clyde_F.C. ",
+       "property": " manager ",
+       "subject": " Barry_Ferguson"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id15"
+      }
+},
+{
+   161: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli is a member of FC Karpaty Lviv, managed by Oleh Luzhny. He is also a member of FC Samtredia, with its grounds at Erosi Manjgaladze Stadium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is FC Samtredia who have their home ground at Erosi Manjgaladze Stadium. He has also played for FC Karpaty Lviv who are managed by Oleh Luzhny.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandre Guruli's club is FC Samtredia who have their ground at the Erosi Manjgaladze stadium. He also plays for FC Karpaty Lviv who are managed by Oleh Luzhny.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Karpaty_Lviv ",
+   "property": " manager ",
+   "subject": " Oleh_Luzhny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "FC_Karpaty_Lviv ",
+       "property": " manager ",
+       "subject": " Oleh_Luzhny"
+       },
+       {
+       "object": "Aleksandre_Guruli ",
+       "property": " team ",
+       "subject": " FC_Karpaty_Lviv"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id16"
+      }
+},
+{
+   162: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "FC Torpedo Moscow who are managed by Valery Petrakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "FC_Torpedo_Moscow ",
+   "property": " season ",
+   "subject": " 2014–15_Russian_Premier_League"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "FC_Torpedo_Moscow ",
+       "property": " season ",
+       "subject": " 2014–15_Russian_Premier_League"
+       },
+       {
+       "object": "FC_Torpedo_Moscow ",
+       "property": " season ",
+       "subject": " 2014–15_Russian_Premier_League"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id17"
+      }
+},
+{
+   163: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Dent debuted with the Atlanta Falcons in Atlanta city. He played prior to this for the Houston Texans which is owned by Bob McNair.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent's first team was the Atlanta Falcons which play in Atlanta. His former team was the Houston Texans which is owned by Bob McNair.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Dent used to play for Houston Texans which is owned by Bob McNair. Akeem Dent's first team were the Atlanta Falcons which play in Atlanta.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Houston_Texans ",
+   "property": " owner ",
+   "subject": " Bob_McNair"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Houston_Texans ",
+     "property": " owner ",
+     "subject": " Bob_McNair"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id18"
+      }
+},
+{
+   164: {
+   "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt played for the Bundesliga's SV Werder Bremen. He now plays for the club SV Werder Bremen II, where Viktor Skrypnyk is the manager.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays in the Bundesliga league for SV Werder Bremen II. The manager is Viktor Skrypnyk.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Hunt plays for SV Werder Bremen in the Bundesliga. The team are managed by Viktor Skrypnyk. Aaron Hunter played for SV Werder Bremen II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "SV_Werder_Bremen ",
+   "property": " league ",
+   "subject": " Bundesliga"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "SV_Werder_Bremen ",
+       "property": " league ",
+       "subject": " Bundesliga"
+       },
+       {
+       "object": "SV_Werder_Bremen ",
+       "property": " league ",
+       "subject": " Bundesliga"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id19"
+      }
+}

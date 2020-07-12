@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Hamilton_Academical_F.C.</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | dateOfBirth | "1989-01-01"^^xsd:date</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Clyde_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
+        <mtriple>Alan_Martin_(footballer) | birthDate | 1989-01-01</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Alan Martin, was born on 01/01/1989. He is a footballer for the clubs, Hamilton Academical FC and Clyde FC club.</lex>
+      <lex comment="good" lid="Id2">Born on 1 January 1989, Alan Martin currently plays for Hamilton Academical FC, having previously played with Clyde FC.</lex>
+      <lex comment="good" lid="Id3">Footballer, Alan Martin, was born on 01/01/1989. He played football for Clyde F.C. and plays for Hamilton Academical FC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Vladimir_Putin</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Soviet_Union</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Vladimir_Putin</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Soviet_Union</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in the Soviet Union and he died in Russia, where the leader is Vladimir Putin.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was born in the Soviet Union and died there in Russia. The leader of Russia is Vladimir Putin.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in the Soviet Union and died in Russia, where the leader is Vladimir Putin.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Moscow | leaderName | Sergey_Sobyanin</otriple>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Moscow | leaderName | Sergey_Sobyanin</mtriple>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in Moscow, Russia and he died in Russia. The leader of Moscow is Sergey Sobyanin.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was born in Moscow and died in Russia. Sergey Sobyanin is Moscow's leader.</lex>
+      <lex comment="good" lid="Id3">Sergey Sobyanin is the leader of Moscow, which is where Aleksandr Chumakov was born, he died in Russia.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Abner, played for the Brazilian national under 20 football team. He also for the football club Real Madrid Castilla, the manager of which, is Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">Abner plays football for the Brazilian national under 20 football team and also for Real Madrid Castilla who are managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who has represented the Brazil national under 20 team and plays for Real Madrid Castilla under their manager Luis Miguel Ramis.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abel_Hernández | clubs | Peñarol</otriple>
+        <otriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</otriple>
+        <otriple>Abel_Hernández | team | U.S._Città_di_Palermo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | Peñarol</mtriple>
+        <mtriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</mtriple>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernandez, whose club is Penarol, plays for the club, U.S. Città di Palermo. Giuseppe Iachini is the manager of U.S. Città di Palermo.</lex>
+      <lex comment="good" lid="Id2">Abel Hernandez played for Penarol and currently plays for the club U.S. Città di Palermo, which is managed by Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id3">Abel Hernandez's clubs are Penarol and US Citta di Palermo, which is managed by Giuseppe Iachini.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
+        <otriple>Abel_Hernández | team | Central_Español</otriple>
+        <otriple>Abel_Hernández | clubs | U.S._Città_di_Palermo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
+        <mtriple>Abel_Hernández | club | Central_Español</mtriple>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernandez, whose club is US Citta di Palermo, was a member of the youth club Penarol and has also played for Central Espanol.</lex>
+      <lex comment="good" lid="Id2">Abel Hernández; who played for Central Español, is a member of Penarol's youth club and plays for the club, U.S. Città di Palermo.</lex>
+      <lex comment="good" lid="Id3">Abel Hernández was a member of youth club Peñarol but his current club is Central Español and he plays for the club U.S. Città di Palermo.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
+        <otriple>Abel_Hernández | clubs | Central_Español</otriple>
+        <otriple>Abel_Hernández | team | Uruguay_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
+        <mtriple>Abel_Hernández | club | Central_Español</mtriple>
+        <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In his youth, Abel Hernández played for Peñarol and Central Español but he currently plays for the Uruguay national football team.</lex>
+      <lex comment="good" lid="Id2">Abel Hernandez, was a member of Penarol's youth club and now belongs to the clubs, Central Español and the Uruguay National football team.</lex>
+      <lex comment="good" lid="Id3">Uruguay international footballer Abel Hernández was a member of Peñarol's youth team and later played for Central Español.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
+        <otriple>Abel_Hernández | team | Uruguay_national_football_team</otriple>
+        <otriple>Abel_Hernández | clubs | U.S._Città_di_Palermo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
+        <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernandez, who was a member of the youth club Penarol, plays for the Uruguay national football team and the US Citta di Palermo club.</lex>
+      <lex comment="good" lid="Id2">Formerly a member of the youth club Penarol, Abel Hernandez's clubs are the Uruguay National football team and US Citta di Palermo.</lex>
+      <lex comment="good" lid="Id3">Uruguay international footballer Abel Hernández played in the youth team of the club Peñarol and later represented US Citta di Palermo.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born on May 30th 1996, footballer, Abner, played for the Brazil national under-17 football team and plays for the Coritiba Football club.</lex>
+      <lex comment="good" lid="Id2">Abner was born on 30 May 1996 and plays for the Coritiba Fooball club and the Brazil national under 17 team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born on 30 May 1996 and plays for both the Brazilian national under 17 football team and Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Abner was born 30th May 1996 and played for the Real Madrid Castilla and the Brazilian national under 17 football teams.</lex>
+      <lex comment="good" lid="Id3">Abner was born on 30 May 1996 and played for the Brazilian national under 17 football team as well as Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner the footballer, was born on May 30th 1996 and he has represented the Brazil national under 20 team as well as plays for the Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner was born on 30/05/1996 and plays for the Brazilian national under 20 football team and Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who was born on 30 May 1996 and plays for the Coritiba Football Club and the Brazilian national under 20 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer who was born on 30 May 1996 . He belongs to the CD FAS club and plays for Coritiba FC.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner was born on 30 May 1996 and plays for CD FAS and Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id3">Abner was born on 30 May 1996, belongs to the club CD FAS and plays for Coritiba Football club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer, Abner, was born on 30/05/1996. He played for the football club Real Madrid Castilla and is a footballer for the CD FAS club.</lex>
+      <lex comment="good" lid="Id2">Abner was born on 30 May 1995 and formerly played football for Real Madrid Castilla. He currently plays for CD FAS.</lex>
+      <lex comment="good" lid="Id3">Abner, born on 30 May 1996, plays football for the CD FAS club and also Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born on 30/05/1996 and plays for Real Madrid Castilla and the Coritiba football club.</lex>
+      <lex comment="good" lid="Id2">Abner, who was born on 30 May 1996, formerly played for Real Madrid Castilla, and now for Coritiba FC.</lex>
+      <lex comment="good" lid="Id3">Born, 30th May 1996, the footballer, Abner, plays for Coritiba Football Club and for Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_Maher | team | Netherlands_national_under-17_football_team</otriple>
+        <otriple>Adam_Maher | placeOfBirth | Netherlands</otriple>
+        <otriple>Adam_Maher | clubs | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
+        <mtriple>Adam_Maher | birthPlace | Netherlands</mtriple>
+        <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher, whose club is AZ Alkmaar, was born in the Netherlands and played for the country's national under 17 football team.</lex>
+      <lex comment="good" lid="Id2">Netherlands born Adam Maher played for their national under 17 football team and is connected to the AZ Alkmaar club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_Maher | placeOfBirth | Diemen</otriple>
+        <otriple>Adam_Maher | clubs | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | team | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Maher | team | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | placeOfBirth | Diemen</otriple>
+        <otriple>Adam_Maher | clubs | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
+        <mtriple>Adam_Maher | birthPlace | Diemen</mtriple>
+        <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher's birthplace is Diemen and he belongs to the clubs PSV Eindhoven and AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2">Adam Maher was born in Diemen and he is connected to the AZ Alkmaar club but his club is PSV Eindhoven.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id32" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Canada</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Adam_McQuaid | height | "1.9558"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+        <mtriple>Adam_McQuaid | height | 1.9558</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born in Canada in 1986 and his height is 1.9558m.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who is 1.9558m tall, was born in Canada in 1986.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid, whose height is 1.9558 metres, was born in 1986 in Canada.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Canada</otriple>
+        <otriple>Adam_McQuaid | Person/weight | "94.8024"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
+        <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid, who weighs 94.8024 kg, was born in Canada in 1986.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who weighs 94.8024kg, was born in Canada in 1986.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was born in 1986 in Canada and weighs 94.8024 kilograms.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Charlottetown</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Adam_McQuaid | height | "1.9558"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+        <mtriple>Adam_McQuaid | height | 1.9558</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's height is 1.9558 and he was born in Charlottetown in 1986.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was born in 1986 in Charlottetown. He is 1.9558 m tall.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was born in Charlottetown in 1986. His height is 1.9558 meters.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Charlottetown</otriple>
+        <otriple>Adam_McQuaid | Person/weight | "94.8024"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
+        <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Charlottetown was the birthplace of Adam McQuaid, who was born in 1986, and now weighs, 94.8024 kilograms.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who weighs 94.8024 kgs, was born in Charlottetown in 1986.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid, who was born in 1986, Charlottetown, weighs, 94.8024 kilograms.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | dateOfBirth | "1976-07-01"^^xsd:date</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | dateOfBirth | "1976-07-01"^^xsd:date</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Naft</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | birthDate | 1976-07-01</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad was born on 1st July 1976 and his clubs are Steel Azin F.C. and Al-Naft.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad, whose birthdate is 1 July 1976, plays for Al-Naft and his club is Steel Azin FC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id49" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Esteghlal_Ahvaz_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C which is managed by Adnan Hamad. He also plays for Steel Azin FC.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for Steel Azin FC and is part of Esteghlal Ahvaz FC where Adnan Hamad is the manager.</lex>
+    </entry>
+  </entries>
+</benchmark>

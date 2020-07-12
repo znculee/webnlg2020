@@ -1,0 +1,1126 @@
+{
+   1: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jens Hartel played for FC Sachsen Leipzig and was manager of 1 FC Magdeburg. His club is Berliner AK 07 and he plays for SV Babelsberg 03.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jens Hartel played for both Berliner AK 07 and FC Sachsen Leipzig. He has been manager for 1 FC Magdeburg and now plays for SV Babelsberg 03.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1._FC_Magdeburg ",
+   "property": " manager ",
+   "subject": " Jens_Härtel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1._FC_Magdeburg ",
+     "property": " manager ",
+     "subject": " Jens_Härtel"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   2: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The manager of FC Magdeburg is Jens Härtel, who is attached to the club FSV Zwickau. He played for Berliner AK 07, and now plays for SV Babelsberg 03.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jens Hartel played for Berliner AK 07 and has been manager of 1 FC Magdeburg. He is a member of the FSV Zwickau club and plays for SV Babelsberg 03.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1._FC_Magdeburg ",
+   "property": " manager ",
+   "subject": " Jens_Härtel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1._FC_Magdeburg ",
+     "property": " manager ",
+     "subject": " Jens_Härtel"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id9"
+      }
+},
+{
+   3: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jens Härtel played for RB Leipzig and FC Sachsen Leipzig and has been the manager of 1 FC Magdeburg. Jens Härtel is currently part of the club 1. FC Union Berlin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jens Hartel played for FC Sachsen Leipzig and has been manager of 1 FC Magdeburg. He is in the RB Leipzig club and is also part of 1 FC Union Berlin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jens Hartel is in the RB Leipzig club, is part of the 1.FC Union Berlin club, represented FC Sachsen Leipzig. and managed 1 FC Magdeburg.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1._FC_Magdeburg ",
+   "property": " manager ",
+   "subject": " Jens_Härtel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1._FC_Magdeburg ",
+     "property": " manager ",
+     "subject": " Jens_Härtel"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id10"
+      }
+},
+{
+   4: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Cesena, who have a ground in Cesena, has 23900 members. They play in the Serie B league which has Carpi FC 1909 as previous champions.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Previous champions of the Serie B league are Carpi FC 1909. AC Cesena, who also play in the league have a ground in Cesena and 23900 members.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Cesena ",
+   "property": " ground ",
+   "subject": " Cesena"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Cesena ",
+     "property": " ground ",
+     "subject": " Cesena"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id11"
+      }
+},
+{
+   5: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.C. Cesena has 23900 members and their ground is the Stadio Dino Manuzzi. They currently play in the Serie B League in which Carpi F.C. 1909 have previously been champions.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Cesena's ground is the Stadio Dino Manuzzi, they have 23900 members and play in Serie B, which was previously won by Carpi F.C. 1909.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Cesena ",
+   "property": " league ",
+   "subject": " Serie_B"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Cesena ",
+     "property": " league ",
+     "subject": " Serie_B"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id12"
+      }
+},
+{
+   6: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Carpi FC 1909 are the champions of Serie B, the league AC Cesena are in. They are managed by Massimo Drago, who was at the club ASD Licata 1931.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Cesena ",
+   "property": " league ",
+   "subject": " Serie_B"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Cesena ",
+     "property": " league ",
+     "subject": " Serie_B"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id13"
+      }
+},
+{
+   7: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense (their full name) play in the Campeonato Brasileiro Série C league which is based in Brazil. Vila Nova Futebol Clube are the champions of this league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. in Brazil in which Agremiação Sportiva Arapiraquense also play. Their full name is "Agremiação Sportiva Arapiraquense".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id103"
+      }
+},
+{
+   8: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Estadio Municipal Coaracy da Mata Fonseca is the ground of Agremiacao Sportiva Arapiraquense, who play in the Campeonato Brasileiro Série C league. This league is from Brazil and champions of it have included Vila Nova Futebol Clube.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense is located in the Estadio Municipal Coaracy da Mata Fonseca and play in the Campeonato Brasileiro Série C league in Brazil where Vila Nova Futebol Clube are champions.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense play their home games at Estádio Municipal Coaracy da Mata Fonseca in the Campeonato Brasileiro Série C league, Brazil. Vila Nova Futebol Clube are currently the champions of Campeonato Brasileiro Serie C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id104"
+      }
+},
+{
+   9: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. The league, from Brazil, that Agremiação Sportiva Arapiraquense (managed by Vica), play in.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense are managed by Vica and play in the Campeonato Brasileiro Série C league in Brazil which was previously won by the Vila Nova Futebol Clube.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense are managed by Vica and play in the Campeonato Brasileiro Série C league which is located in Brazil. Previous champions of this league have been Vila Nova Futebol Clube.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id105"
+      }
+},
+{
+   10: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil and have the nickname Alvinegro. The league champions are Vila Nova Futebol Clube.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense, whose nickname is Alvinegro, play in the Campeonato Brasileiro Série C league in Brazil. Previous champions of the Serie C were Vila Nova Futebol Clube.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id106"
+      }
+},
+{
+   11: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ground of Agremiação Sportiva Arapiraquense has a capacity of 17000 and is located in Brazil. They play in the Campeonato Brasileiro Série C league which was won by Vila Nova Futebol Clube.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense has 17000 members and play in the Campeonato Brasileiro Serie C League which is based in Brazil. Previously, Vila Nova Futebol Clube have been champions of this league.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id107"
+      }
+},
+{
+   12: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense played in the 2015 season in the Campeonato Brasileiro Série C league which is in Brazil. This league has been won by Vila Nova Futebol Clube.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense the Brazilian football team play their matches in Campeonato Brasileiro Serie C, they played in the 2015. The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, Brazil. They played in the 2015 season when Vila Nova Futebol Clube were champions.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id108"
+      }
+},
+{
+   13: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense" although their nickname is Alvinegro. The club has 17000 members and were in Campeonato Brasileiro Serie C in 2015.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense (nickname Alvinegro) has 17000 members and were in the Campeonato Brasileiro Serie C in 2015.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense". Its nickname is "Alvinegro", it competed in the 2015 Campeonato Brasileiro Série C and has 17000 members.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " nickname ",
+   "subject": " "''Alvinegro""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " nickname ",
+     "subject": " "''Alvinegro"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id109"
+      }
+},
+{
+   14: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense (which is the club's full name) played in the 2015 season. They have 17000 members and the nickname "Alvinegro".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The nickname of Agremiacao Sportiva Arapiraquense (which is the full name) is "Alvinegro". The club played in 2015 and has 17000 members.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " nickname ",
+   "subject": " "''Alvinegro""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " nickname ",
+     "subject": " "''Alvinegro"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id110"
+      }
+},
+{
+   15: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense" and the title of the chairman is "President". The club has 17000 members and played in 2015.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense", it has title of 'President', played in the 2015 season and has 17000 members.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " season ",
+   "subject": " 2015"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " season ",
+       "subject": " 2015"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " season ",
+       "subject": " 2015"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id111"
+      }
+},
+{
+   16: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense (which is its full name), competed in the 2015 Campeonato Brasileiro Série C. Their ground has a capacity of 17000 and the title of the chairman of the club is President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense" and they played in the Campeonato Brasileiro Serie C in 2015. The title of the Chairman is "President" and the club has 17000 members.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " season ",
+   "subject": " 2015_Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " season ",
+       "subject": " 2015_Campeonato_Brasileiro_Série_C"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " capacity ",
+       "subject": " "17000"^^xsd:nonNegativeInteger"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id112"
+      }
+},
+{
+   17: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Summit (full name: Akron Metro Futbol Club Summit Assault) is managed by Denzil Antonio. The club played in the 2011 season and their ground has a capacity of 3000 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of Akron Summit Assault is ''Akron Metro Futbol Club Summit Assault and they are managed by Denzil Antonio. The club played in the 2011 season and has 3000 members.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault (Akron Metro Futbol Club Summit Assault) has 3000 members. The club played in the 2011 season, and is managed by Denzil Antonio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " fullname ",
+   "subject": " "Akron Metro Futbol Club Summit Assault""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akron_Summit_Assault ",
+       "property": " fullname ",
+       "subject": " "Akron Metro Futbol Club Summit Assault"@en"
+       },
+       {
+       "object": "Akron_Summit_Assault ",
+       "property": " fullname ",
+       "subject": " "Akron Metro Futbol Club Summit Assault"@en"
+       },
+       {
+       "object": "Akron_Summit_Assault ",
+       "property": " fullname ",
+       "subject": " "Akron Metro Futbol Club Summit Assault"@en"
+       },
+       {
+       "object": "Akron_Summit_Assault ",
+       "property": " fullname ",
+       "subject": " "Akron Metro Futbol Club Summit Assault"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id113"
+      }
+},
+{
+   18: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Ohio Summit County, United states.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "St Vincent-St Mary High School, Akron, Summit County, Ohio, United States is the ground of Akron Summit Assault.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id114"
+      }
+},
+{
+   19: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AS Roma's manager is Luciano Spalletti, who played for Udinese Calcio. He plays for both, Empoli F.C. and Virtus Entella.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Luciano Spalletti manages A.S. Roma. He also plays for Empoli F.C. and played for Udinese Calcio. While, also having once been at the club Virtus Entella.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Luciano Spalletti has previously been associated with Udinese Calcio and was at Virtus Entella. He is now manager at AS Roma and plays for Empoli FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Luciano_Spalletti ",
+   "property": " club ",
+   "subject": " Udinese_Calcio"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Luciano_Spalletti ",
+       "property": " managerClub ",
+       "subject": " Udinese_Calcio"
+       },
+       {
+       "object": "Luciano_Spalletti ",
+       "property": " managerClub ",
+       "subject": " Udinese_Calcio"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id131"
+      }
+},
+{
+   20: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Greece Superleague participants AEK Athens FC play their home games at the Olympic Stadium, Athens. Olympiacos F.C. are the current champions in the Greek Superleague.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AEK Athens F.C. have there home ground at the Olympic Stadium (Athens) which is located in Athens. They currently play in the Superleague of Greece whose current champions are Olympiacos F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Olympic_Stadium_(Athens) ",
+   "property": " location ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Olympic_Stadium_(Athens) ",
+     "property": " location ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id132"
+      }
+},
+{
+   21: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Olympic Stadium, in Athens, is the home ground of AEK Athens FC. the manager of which, is Gus Poyet, who played for Chelsea F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. He played for Chelsea F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Olympic_Stadium_(Athens) ",
+   "property": " location ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Olympic_Stadium_(Athens) ",
+     "property": " location ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id133"
+      }
+},
+{
+   22: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Located in Athens, the Olympic Stadium, is the ground for AEK Athens FC. The manager of which, used to be Gus Poyet, who, is in the Real Zaragoza club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Olympic Stadium in Athens is the home of AEK Athens FC. The football club's manager used to be Gus Poyet, who played for Real Zaragoza in the past.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. His club is Real Zaragoza.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Olympic_Stadium_(Athens) ",
+   "property": " location ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Olympic_Stadium_(Athens) ",
+     "property": " location ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id134"
+      }
+},
+{
+   23: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stoger, manager for the FC Koln, was also a part of FC Admira Wacker Modling and Favoritner AC as well as the FK Austria Wien Soccer Club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stöger is a player in FC Admira Wacker Mödling and Favoritner AC. He also manages 1. FC Köln and is at the FK Austria Wien club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stöger's club is the FC Admira Wacker Mödling. He is also manager of 1. FC Köln, a player for Favoritner AC and a member of the FK Austria Wien soccer club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " FC_Admira_Wacker_Mödling"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " team ",
+     "subject": " FC_Admira_Wacker_Mödling"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id135"
+      }
+},
+{
+   24: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stöger is the manager of 1. FC Köln and plays for FC Admira Wacker Mödling. He is affiliated with SC Wiener Neustadt club and previously played for the club LASK Linz.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger plays for both LASK Linz and FC Admira Wacker Modling. He previously played for SC Wiener Neustadt but is now the manager of FC Koln.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger, who plays for FC Admira Wacker Modling is also the manager of FC Koln. He is affiliated with the SC Wiener Neustadt club and previously played for the club LASK Linz.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " FC_Admira_Wacker_Mödling"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " team ",
+     "subject": " FC_Admira_Wacker_Mödling"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id136"
+      }
+},
+{
+   25: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stoger is attached to First Vienna FC and is also in FK Austria Wien Club and SK Vorwarts Steyr. He is currently manager of 1FC Koln.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger is in the SK Vorwarts Steyr club and attached to the club First Vienna F.C. He is additionally at the FK Austria Wien club while managing FC Koln.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " SK_Vorwärts_Steyr"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " team ",
+     "subject": " SK_Vorwärts_Steyr"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id137"
+      }
+},
+{
+   26: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stöger is the manager of FC Koln and has played for the following clubs: SK Vorwärts Steyr, Favoritner AC and FK Austria Wien.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC. In addition he is a member of FK Austria Wien soccer club and the manager or 1.FC Koln.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " SK_Vorwärts_Steyr"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " clubs ",
+     "subject": " SK_Vorwärts_Steyr"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id138"
+      }
+},
+{
+   27: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stöger has played for FC Admira Wacker Modling, has managed FC Koln and also worked for SK Vorwärts Steyr and First Vienna FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger is attached to First Vienna FC and is in SK Vorwarts Steyr club. He plays for FC Admira Wacker Modling and is the manager of 1 FC Koln.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Koln.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " SK_Vorwärts_Steyr"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " team ",
+     "subject": " SK_Vorwärts_Steyr"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id139"
+      }
+},
+{
+   28: {
+   "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Peter Stöger, previously a player for SC Wiener Neustadt, is now in the SK Vorwärts Steyr club and managing 1. FC Köln. His club is the FC Admira Wacker Mödling.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stoger is in the SK Vorwarts Steyr club and is affiliated with the SC Wiener Neustadt club. He is currently a player in FC Admira Wacker Modling while being a manager at 1.FC Koln.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Peter Stöger is manager of FC Koln, as well as playing for SC Wiener Neustadt. He is also in the SK Vorwärts Steyr and FC Admira Wacker Mödling clubs.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Peter_Stöger ",
+   "property": " club ",
+   "subject": " SK_Vorwärts_Steyr"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Peter_Stöger ",
+     "property": " team ",
+     "subject": " SK_Vorwärts_Steyr"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id140"
+      }
+}

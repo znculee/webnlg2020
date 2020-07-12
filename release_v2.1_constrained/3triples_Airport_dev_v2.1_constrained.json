@@ -1,0 +1,1424 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alderney Airport, whose runway is 877 m, serves the city of Alderney. Its surface is poaceae.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alderney_Airport ",
+   "property": " 1st_runway_SurfaceType ",
+   "subject": " Poaceae"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alderney_Airport ",
+     "property": " r1Surface ",
+     "subject": " Poaceae"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id8"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp which is in Belgium and one of the spoken languages is German.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp, served by Antwerp International airport, is a popular tourist destination in Belgium. German is spoken in Belgium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp is located in German speaking part of Belgium and served by the International airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id16"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport is located at Egg Harbor Township, New Jersey, part of Atlantic County, New Jersey, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport is in Egg Harbor Township, Atlantic County, New Jersey, United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " location ",
+   "subject": " Egg_Harbor_Township,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " location ",
+       "subject": " Egg_Harbor_Township,_New_Jersey"
+       },
+       {
+       "object": "Atlantic_City_International_Airport ",
+       "property": " location ",
+       "subject": " Egg_Harbor_Township,_New_Jersey"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id17"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Operated by the Aktieselskab organisation, Aarhus Airport, has a runway length of 2776.0 metres and a runway named 10R/28L.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus Airport is operated by Aktieselskab; its runway name is 10R/28L and its runway length is 2776.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus Airport is operated by the Aktieselskab organisation. Its runway's name is 10R/28L and is 2776.0 feet in length.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2776.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2776.73"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id12"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aarhus airport has a runway length of 2777.0 metres and is operated by Aarhus Lufthavn A/S. The name of the runway is 10L/28R.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus airport is operated by Aarhus Lufthavn A/S. Its runway name is 10L/28R and its length is 2777 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Aarhus Airport is run by the Aarhus Lufthavn A/S organization. The runway (whose name is 10L/28R) is 2777 feet in length.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2777.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2777.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id13"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aarhus airport, with a runway name of 10R/28L, and a length of 2777.0. is operated by Aarhus Lufthavn A/S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus Airport, operated by Aarhus Lufthavn A/S, has a runway length of 2777.0 with a name of 10R/28L.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2777.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2777.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id14"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Operated by the Aktieselskab organisation, Aarhus airport has a runway that is 2777.0 metres long. It also has a runway with the name 10L/28R.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aktieselskab operates Aarhus Airport which has a runway that is 2777.0 meters long and the runway name 10L/28R.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus Airport, operated by Aktieselskab, has a runway length of 2777.0 and the runway name is 10L/28R.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2777.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2777.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id15"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 10R/28L runway which is 2777.0 meters long is located in Aarhus Airport which is operated by the Aktieselskab organisation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 10R/28L runway at Aarhus airport is 2777.0 in length, which is run by the operating organization of Aktieselskab.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aktieselskab is the operating organisation for Aarhus Airport where the runway length is 2777.0 and the runway name is 10R/28L.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus_Airport ",
+   "property": " runwayLength ",
+   "subject": " 2777.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_Airport ",
+     "property": " runwayLength ",
+     "subject": " "2777.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id16"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene in Jones County, Texas, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene regional airport serves Abilene, Jones County, Texas, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas, served by Abilene Regional airport, is part of Jones county, Texas, USA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " city ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " city ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id17"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene which is in Texas, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "In Texas we have Abilene which is usually served by the Abilene regional airport, located in the united states.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene, Texas, in the US, is served by the Abilene Regional Airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id18"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Serving the city of Abilene in Texas, Abilene Regional Airport is 546 metres above sea level and has a runway length of 1,121 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport in Texas is 546 metres above sea level and its runway length is 1,121.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene regional airport has a runway length of 1,121, it is located 546 metres above sea level and serves the city of Abilene in Texas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id19"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene in Texas. Its runway is 2194 feet and is 546 m above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abilene Regional Airport serves the city of Abilene, Texas. Its runway length is 2194.0 and 546 m above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Abilene Regional Airport serves the city of Abilene and it's 546 metres above sea level with a runway that's 2,194 long.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abilene_Regional_Airport ",
+   "property": " cityServed ",
+   "subject": " Abilene,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       },
+       {
+       "object": "Abilene_Regional_Airport ",
+       "property": " cityServed ",
+       "subject": " Abilene,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ICAO Location Identifier of Agra Airport is VIAG and the airport in Agra is operated by the Indian Air Force.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agra airport is located inAgra and its location identifier is VIAG. The Indian Air Force operate this airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The operating organization for agra airports is the indian air force, with the identifier VIAG, located in Agra.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agra_Airport ",
+   "property": " operatingOrganisation ",
+   "subject": " Indian_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agra_Airport ",
+     "property": " operator ",
+     "subject": " Indian_Air_Force"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id52"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base serves the city of Fallujah which is in Iraq, where they speak Arabic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base serves the city of Fallujah in Arabic speaking Iraq.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al-Taqaddum_Air_Base ",
+   "property": " cityServed ",
+   "subject": " Fallujah"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al-Taqaddum_Air_Base ",
+     "property": " cityServed ",
+     "subject": " Fallujah"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id53"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Al Taqaddum air base which serves the city of Fallujah is 84 metres above sea level and has a runway length of 3684.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Al Taqaddum Air Base which serves the city of Fallujah is located at 84 metres above sea level and has a runway length of 3684.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Al Taqaddum Air Base which serves the city of Fallujah has a runway length of 3684.0 and is 84 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al-Taqaddum_Air_Base ",
+   "property": " runwayLength ",
+   "subject": " 3684.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.12"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.0"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.0"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.0"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.12"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.12"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "3684.0"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id54"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base, located 84 metres above sea level, serves the city of Fallujah and has a runway length of 4,019.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base which serves the city of Fallujah has a runway length of 4019.0 and is located at 84 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al-Taqaddum Air Base serves the city of Fallujah. The runway there is 4019 feet and it is 84 m above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al-Taqaddum_Air_Base ",
+   "property": " runwayLength ",
+   "subject": " 4019.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "4019.09"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "4019.09"^^xsd:double"
+       },
+       {
+       "object": "Al-Taqaddum_Air_Base ",
+       "property": " runwayLength ",
+       "subject": " "4019.0"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id55"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Operated by the United States Air Force, Al Asad airbase is located at Al Anbar Province, Iraq and has a runway that is 3090 metres long.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase is operated by the United States Air Forces. It is located at Al Anbar Province, Iraq and its runway length is 3090.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The USAF, operating the Al Asad airbase which is located in Al Anbard Province, Iraq, which has a runway length of 3090 meters.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Al_Asad_Airbase ",
+     "property": " operator ",
+     "subject": " United_States_Air_Force"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id56"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase in Iraq with a runway length of 3,990 is operated by the United States Air Force.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad Airbase, operated by the USAF, is found in Iraq and has a runway length of 3990.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The USAF operates the Al Asad Airbase, which is in Iraq and has a runway length of 3990.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " location ",
+       "subject": " Iraq"
+       },
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id57"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Air Force is the operating organisation for Al Asad airbase which is located in the Al Anbar Province, Iraq, the airbase has a runway length of 3990.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       },
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " runwayLength ",
+       "subject": " "3990.0"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id58"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Al Asad Airbase is situated in the Al Anbar Province, Iraq, is run by the United States Air Force and has a runway of 3992.88m.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Air Force is the operating organisation for Al Asad airbase which is located in Al Anbar Province, Iraq, the airbase has a runway length of 3992.88.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Asad airbase, which is located at Al Anbar Province, Iraq is operated by the United States Air Force and has a runway length of 3992.88.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Al_Asad_Airbase ",
+   "property": " operatingOrganisation ",
+   "subject": " United_States_Air_Force"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " runwayLength ",
+       "subject": " "3992.88"^^xsd:double"
+       },
+       {
+       "object": "Al_Asad_Airbase ",
+       "property": " operator ",
+       "subject": " United_States_Air_Force"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id59"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "At 159 meters above sea level, Angola International airport is located in Icolo e Bengo, in Angola.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is in Icolo e Bengo, Angola and is 159 metres above sea level.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located in Ícolo e Bengo, Angola and is 159 metres above sea level.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id113"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "With a runway length of 3800 metres, Angola International Airport is located at Ícolo e Bengo, in Angola.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo, Angola and its runway length is 3800.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located in Ícolo e Bengo, Angola and has a runway length of 3800.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id114"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "05L/23R is the name of the runway at Angola International airport in Icolo e Bengo, Angola.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Ícolo e Bengo, Angola, Angola International Airport has a runway name 05L/23R.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is in Icolo e Bengo, Angola. Its runway is names 05L/23R.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Angola_International_Airport ",
+     "property": " location ",
+     "subject": " Ícolo_e_Bengo"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id115"
+      }
+},
+{
+   24: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Angola International Airport is located in Icolo e Bengo, Angolo, Luanda Province.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo, Luanda province, Angola.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International airport is located in Icolo e Bengo, Luanda Province in Angola.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " location ",
+   "subject": " Ícolo_e_Bengo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " location ",
+       "subject": " Ícolo_e_Bengo"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id116"
+      }
+},
+{
+   25: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Luanda is served by Angola International Airport. This airport is is 159 meters above sea level and has a runway length of 4000 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Angola International Airport, located 159 metres above sea level, has a runway length of 4000 feet and serves Luanda.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Angola_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 4000.0"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Angola_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "3999.89"^^xsd:double"
+       },
+       {
+       "object": "Angola_International_Airport ",
+       "property": " runwayLength ",
+       "subject": " "4000.0"^^xsd:double"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id117"
+      }
+},
+{
+   26: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp which is in Belgium, where the capital is Brussels.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp, Belgium. Brussels is the capital of Belgium.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id118"
+      }
+},
+{
+   27: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Dutch language is spoken in Antwerp, Belgium in which Antwerp International Airport is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp, a popular tourist destination in Dutch speaking Belgium.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id119"
+      }
+},
+{
+   28: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp, Belgium, where French is spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves Antwerp, a popular tourist destination in French speaking Belgium.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp in Belgium where the French language is spoken.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id120"
+      }
+},
+{
+   29: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport is located in Belgium which has French as the official language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International airport serves Antwerp, Belgium where the official language is French.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport serves the city of Antwerp, a popular tourist destination en Belgium, where they speak french.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id121"
+      }
+},
+{
+   30: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antwerp International airport serves Antwerp, a popular tourist destination in, German speaking Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International airport serves Antwerp, Belgium where German is an official language.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Antwerp"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " city ",
+     "subject": " Antwerp"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X))))",
+   "shape_type": "chain",
+   "size": "3",
+   "xml_id": "Id122"
+      }
+},
+{
+   31: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport is located in Saranac Lake Harrietstown, New York, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown, New York, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York, USA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " Harrietstown,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " isPartOf ",
+       "subject": " Harrietstown,_New_York"
+       },
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " isPartOf ",
+       "subject": " Harrietstown,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id186"
+      }
+},
+{
+   32: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake which is part of Essex County, New York, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York, the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Essex County in the U.S.A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id187"
+      }
+}

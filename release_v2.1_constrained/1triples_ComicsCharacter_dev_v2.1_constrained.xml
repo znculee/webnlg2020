@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie was born in Lancashire.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Ralph Payne"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Arrow is otherwise known as Ralph Payne.</lex>
+      <lex comment="good" lid="Id2">The alternative name for the comic character, the Arrow, is Ralph Payne.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Rick Parker"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Rick Parker, is the alternative name for the comic character, the Arrow.</lex>
+      <lex comment="good" lid="Id2">The alternative name for The Arrow (comics character) is "Rick Parker".</lex>
+      <lex comment="good" lid="Id3">The comic book character The Arrow's alter ego is Rick Parker.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paul Gustavson created The Arrow.</lex>
+      <lex comment="good" lid="Id2">The comic character, The Arrow, was created by Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in Buxton.</lex>
+      <lex comment="good" lid="Id2">Buxton is the birthplace of Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in Derbyshire.</lex>
+      <lex comment="good" lid="Id2">The birth place of Tim Brooke-Taylor is Derbyshire.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in England.</lex>
+      <lex comment="good" lid="Id2">England is the birth place of Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor's birth place is the United Kingdom.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in the UK.</lex>
+      <lex comment="good" lid="Id3">The birth place of Tim Brooke-Taylor is United Kingdom.</lex>
+    </entry>
+  </entries>
+</benchmark>

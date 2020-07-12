@@ -1,0 +1,126 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was under commander David Scott on Nasa's Apollo 12 mission.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a member of the NASA operated Apollo 12 crew commanded by David Scott.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "David Scott was the commander of the NASA operated Apollo 12 flight mission on which the crew included Alan Bean.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dianne Feinstein is a senator in California where Alan Shepard died on July 21 1998.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died on the 21st of July, 1998 in California (whose Senator was Dianne Feinstein).",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " deathDate ",
+   "subject": " "1998-07-21""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " deathDate ",
+     "subject": " "1998-07-21"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, also called Edwin E. Aldrin Jr., graduated in 1963 from MIT with a Sc.D. and was a crew member on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, whose real name was Edwin E. Aldrin, Jr., graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and later became a crew member of Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin (AKA Edwin E Aldrin Jr) graduated in 1963 from MIT with a Sc.D. was a crew member of Apollo 11.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, whose real name is Edwin E. Aldrin Jr., was a member of Apollo 11 who in 1963 graduated with a Sc. D. from MIT.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " alternativeNames ",
+   "subject": " "Edwin E. Aldrin, Jr.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " alternativeNames ",
+     "subject": " "Edwin E. Aldrin, Jr."@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id3"
+      }
+}

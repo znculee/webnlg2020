@@ -1,0 +1,1088 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Completed in 1985, 200 Public Square has 45 floors and 111484 square meters space, and can be found in Cleveland, Ohio, 44114.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square in Cleveland, Ohio 44114 was completed in 1985 and has 45 floors and measures 111484 square meters.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " floorCount ",
+     "subject": " 45"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id27"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is located in the United States. It has 45 floors, is 111484 square metres, and was completed in 1985.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square in the United States has 45 floors, a total area of 111484 square metres and was completed in 1985.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Completed in 1985 in the United States, 200 Public Square has 45 floors and floor area of 111484 meters.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " floorCount ",
+   "subject": " 45"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " floorCount ",
+       "subject": " 45"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id28"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square, with 45 floors covering 111484 square metres, is located in Cleveland and was completed in 1985.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square, Cleveland, with 45 floors covering 111484 square metres, was completed in 1985.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square which was completed in 1985 has 45 floors with a total area of 111484 square metres, is located in Cleveland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id29"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square which has 45 floors is located in Cleveland, Cuyahoga County, Ohio, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland and it has a floor count of 45. Cleveland is part of Cuyahoga County, Ohio, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 45 floor 200 Public Square building is in Cuyahoga County, Cleveland, Ohio in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id30"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square has 45 floors and is located in Cleveland, Ohio, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 45 floors at 200 Public Square, Cleveland, Ohio, which is in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "With a floor count of 45, 200 Public Square is located in Ohio, Cleveland, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id31"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cuyahoga County, Cleveland, Ohio in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Cuyahoga County, Ohio, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, United States. Cleveland is part of the Cuyahoga County in Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id32"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, U.S., which is part of Cuyahoga County, Ohio. Frank G. Jackson is the leader of Cleveland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Part of the Cuyahoga County in Ohio is Cleveland in the United States. Cleveland has the leader Frank G Jackson and is the location of the 200 Public square.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " location ",
+       "subject": " Cleveland"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id33"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located Cuyahoga County, Cleveland Ohio. Frank G Jackson is leader in Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Cuyahoga County, Ohio; Frank G Jackson is a leader in Cleveland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id34"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio, United States and the governing body of Cleveland is Cleveland City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio, a city in the United States that is governed by the Cleveland City Council.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "With the governing body of Cleveland City Council, Cleveland can be found within Ohio, United States, and is the location of 200 Public Square.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id35"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, United States and whose leader is Frank G Jackson, which is governed by the Cleveland City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, United States, whose leader is Frank G Jackson, and the Cleveland City Council is the governing body.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland, United States, whose leader is Frank G Jackson and the governing body is Cleveland City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id36"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland, Ohio, United States, where Frank G Jackson is a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, Ohio, United States (local leader Frank G Jackson).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is in Cleveland, Ohio in the U.S. Frank G. Jackson is a leader in Cleveland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id37"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Adare Manor is located in the Republic of Ireland where Irish is one of the official language's spoken and the currency used is the euro. Enda Kenny is the current leader for the republic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in the Republic of Ireland which has Irish as the official language, the euro as currency and is led by Enda Kenny.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " locationCountry ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id79"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is in Adare, Munster in County Limerick. Limerick City and County Council govern County Limerick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, Munster, County Limerick, which is governed by the Limerick City and County Council.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare ",
+       "property": " isPartOf ",
+       "subject": " Munster"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id80"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "James Pain and George Richard Pain were the architects for Adare Manor, located in Adare, County Limerick, which was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor was designed by architects James Pain and George Richard Pain and was completed in 1862 and is located in Adare, County Limerick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, County Limerick and was completed in 1862 being designed by the architects James Pain and George Richard Pain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id81"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lewis Nockalls Cottingham is the architect of Adare Manor (completed in 1862) which is located in Adare in County Limerick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor in Adare, County Limerick was designed by the architect Lewis Nockalls Cottingham and completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor, a 1862 building in Adare, County Limerick, was designed by Lewis Nockalls Cottingham.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id82"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor, completed in 1862 by architect Philip Charles Hardwick, is located in Adare, in County Limerick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Located in Adare in County Limerick, Adare Manor was completed in 1862 and designed by architect Philip Charles Hardwick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor, designed by Philip Charles Hardwick, was completed in 1862 and is located in Adare, County Limerick.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id83"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor, designed by architect George Richard Pain, was completed in Adare, County Limerick, in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor, Adare, County Limerick, was designed by George Richard Pain and completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, County Limerick and it was completed in 1862. Its architect is George Richard Pain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " locationTown ",
+     "subject": " Adare"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id84"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor, designed by James Pain and completed in 1862, is located in Adare, County Limerick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor, Adare, County Limerick was designed by the architect James Pain and completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare, County Limerick, was completed in 1862 and was designed by James Pain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id85"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor designed by Augustus Pugin is located in Adare in County Limerick and completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Augustus Pugin is the architect of Adare Manor which was completed in 1862 and is located in Adare in County Limerick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Designed by Augustus Pugin, the Adare Manor in County Limerick was completed in 1862.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " locationTown ",
+     "subject": " Adare"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id86"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium and Addis Ababa City Hall, named for their city location, are located in Amharic-speaking Ethiopia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Both Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia, where Amharic is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa Stadium and the Addis Ababa City Hall is in Addis Ababa in Ethiopia. Amharic is spoken in Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa ",
+   "property": " isPartOf ",
+   "subject": " Addis_Ababa_Stadium"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa ",
+     "property": " isPartOf ",
+     "subject": " Addis_Ababa_Stadium"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id87"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium and the Addis Ababa City Hall are in Addis Ababa, Ethiopia. Amharic is a language spoken there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa Stadium and Addis Ababa City Hall are located in the city of Addis Ababa, Ethiopia, where the language spoken is Amharic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa is situated in Ethiopia and the language spoken is Amharic. Here you will also find the Addis Ababa Stadium and the Addis Ababa City Hall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa ",
+   "property": " isPartOf ",
+   "subject": " Addis_Ababa_Stadium"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa ",
+     "property": " isPartOf ",
+     "subject": " Addis_Ababa_Stadium"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id88"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall was completed in 1964; it has a height of 42 metres and 140000 square metres. Its current tenants are the Government of Addis Ababa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, which was completed in 1964 with a height of 42 metres and a floor area of 140000 square metres. The current tenants are the Government of Addis Ababa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall's completion date was in 1964. Its height is 42 meters and a floor area of 140000 square meters. One tenant is the Government of Addis Ababa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " completionDate ",
+   "subject": " 1964"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id89"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, which was completed in 1964, has a height of 42 metres. Building commenced in 1961, and its floor area is 140000.0 (square metres).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, a 140000.0 floor area, 42 metres high building, was built between 1961-1964.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " completionDate ",
+   "subject": " 1964"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " completionDate ",
+       "subject": " 1964"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id90"
+      }
+},
+{
+   24: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Building started on the Addis Ababa City Hall in 1961, it is 42 m high and has a floor area of 140000.0 square metres. The Government of Addis Ababa are the current tenants.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall, a 42 m high, 140,000-square meter facility which began construction in 1961, is currently occupied by the government of Addis Ababa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " currentTenants ",
+   "subject": " "Government of Addis Ababa""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " currentTenants ",
+       "subject": " "Government of Addis Ababa"@en"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " currentTenants ",
+       "subject": " "Government of Addis Ababa"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id91"
+      }
+}

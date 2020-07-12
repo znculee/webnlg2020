@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University, in New York is the publisher of the Administrative Science Quarterly as well as being affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly was published by Cornell University, New York, affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id3">The Administrative Science Quarterly is published by Cornell University, New York. Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land-grant Universities and publishes the Administrative Science Quarterly. The University is located in Ithaca in the state of New York.</lex>
+      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land-grant Universities, Cornell University, publisher of Administrative Science Quarterly, is the located in the city of Ithaca found in the state of New York.</lex>
+      <lex comment="good" lid="Id3">Cornell University is located in Ithaca, New York and is affiliated with the Association of Public and Land-grant Universities and publishes the Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aenir | numberOfPages | "233"^^xsd:positiveInteger</otriple>
+        <otriple>Aenir | author | Garth_Nix</otriple>
+        <otriple>Aenir | isbn | "0-439-17684-0"</otriple>
+        <otriple>Aenir | mediaType | Paperback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aenir | numberOfPages | "233"</mtriple>
+        <mtriple>Aenir | author | Garth_Nix</mtriple>
+        <mtriple>Aenir | ISBN_number | "0-439-17684-0"</mtriple>
+        <mtriple>Aenir | mediaType | Paperback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aenir, written by Garth Nix, is a paperback with 233 pages. Its ISBN number is 0-439-17684-0.</lex>
+      <lex comment="good" lid="Id2">Garth Nix is the author of Aenir which has the ISBN number of 0-439-17684-0. It has 233 pages and is available in paperback.</lex>
+      <lex comment="good" lid="Id3">Aenir is a paperback book that has 233 pages and was written by Garth Nix, its ISBN number is 0-439-17684-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</otriple>
+        <otriple>Johns_Hopkins_University_Press | country | United_States</otriple>
+        <otriple>Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University</otriple>
+        <otriple>American_Journal_of_Mathematics | firstPublicationYear | "1878"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</mtriple>
+        <mtriple>Johns_Hopkins_University_Press | country | United_States</mtriple>
+        <mtriple>Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University</mtriple>
+        <mtriple>American_Journal_of_Mathematics | firstPublicationYear | 1878</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Johns Hopkins University Press (U.S.), subsidiary of Johns Hopkins University, publishes the American Journal of Mathematics first printed in 1878 .</lex>
+      <lex comment="good" lid="Id2">American Journal of Mathematics is published in 1878 by the Johns Hopkins University Press whose parent company is Johns Hopkins University located in the United States.</lex>
+      <lex comment="good" lid="Id3">The American Journal of Mathematics (first pub. 1878) was published by Johns Hopkins University, parent company of Johns Hopkins University Press (United States).</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asian-Americans is one of the ethnic group in the US where English is spoken along with Great Britain. Alcatraz Versus the Evil Librarians is from The United States.</lex>
+      <lex comment="good" lid="Id2">English is spoken in Great Britain and the United States. The book Alcatraz Versus the Evil Librarians comes from the U.S. where one of the ethnic groups is Asian Americans.</lex>
+    </entry>
+  </entries>
+</benchmark>

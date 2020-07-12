@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+        <otriple>Arem-arem | ingredient | Banana_leaf</otriple>
+        <otriple>Arem-arem | region | Javanese_cuisine</otriple>
+        <otriple>Arem-arem | course | "Main course"@en</otriple>
+        <otriple>Arem-arem | mainIngredient | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | country | Indonesia</mtriple>
+        <mtriple>Arem-arem | ingredient | Banana_leaf</mtriple>
+        <mtriple>Arem-arem | region | Javanese_cuisine</mtriple>
+        <mtriple>Arem-arem | course | "Main course"</mtriple>
+        <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The main course Arem-arem is a dish of Javanese cuisine and is also popular in Indonesia. The main ingredients are rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id2">Indonesian arem-arem, with ingredients such as compressed rice, banana leaf, vegetables and minced meat is a Javanese dish which can be served as a main course.</lex>
+      <lex comment="good" lid="Id3">Arem-arem includes compressed rice cooked in banana leaf and vegetables or minced meat. It is a main course dish of Javanese cuisine and served in Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+        <otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+        <otriple>Indonesia | currency | Indonesian_rupiah</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | country | Indonesia</mtriple>
+        <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
+        <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
+        <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The dish Arem arem originates from Indonesia, more specifically Java. Indonesia's leader's name is Joko Widodo. and the currency is the rupiah. The language is Indonesian.</lex>
+      <lex comment="good" lid="Id2">The dish arem arem is found nationwide in Indonesia, but is more specific to Java. In Indonesia, the currency is called the Indonesian rupiah, the language spoken is Indonesian and a leader is Joko Widodo.</lex>
+      <lex comment="good" lid="Id3">Arem-arem, is predominant in Indonesia's Java. Indonesia is led by Joko Widodo, hails the currency rupiah and the Indonesian language is spoken.</lex>
+    </entry>
+    <entry category="Food" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+        <otriple>Indonesia | leader | Joko_Widodo</otriple>
+        <otriple>Indonesia | leaderName | Jusuf_Kalla</otriple>
+        <otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+        <otriple>Indonesia | leader | Jusuf_Kalla</otriple>
+        <otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | country | Indonesia</mtriple>
+        <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
+        <mtriple>Indonesia | leaderName | Jusuf_Kalla</mtriple>
+        <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Indonesian language is the language spoken in Indonesia where the leaders are Joko Widodo and Jusuf Kalla. Arem-arem is a food found in Indonesia but is more specific to Java.</lex>
+      <lex comment="good" lid="Id2">One food found in Indonesia is arem-arem which although is found nation-wide, is specific to Java. Indonesian is spoken in Indonesia and its leaders are Jusuf Kalla and Joko Widodo.</lex>
+      <lex comment="good" lid="Id3">Arem arem originates from the Island of Java and can be found nationwide all around Indonesia. The country's leaders are Joko Widodo and Jusuf Kalla, and the spoken language is Indonesian.</lex>
+    </entry>
+    <entry category="Food" eid="Id22" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arrabbiata_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leaderName | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leaderName | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arrabbiata sauce is from Italy, where the capital city is Rome and where the people that come from the country are called Italians. Pietro Grasso and Sergio Mattarella are leaders in Italy.</lex>
+      <lex comment="good" lid="Id2">Arrabbiata sauce is from Italy, which is home to Italians and where Rome is the capital. Sergio Mattarella and Pietro Grasso are leaders in this country.</lex>
+    </entry>
+    <entry category="Food" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Arrabbiata_sauce | variations | Oregano</otriple>
+        <otriple>Arrabbiata_sauce | ingredient | Chili_pepper</otriple>
+        <otriple>Arrabbiata_sauce | mainIngredient | "Tomatoes, red chili, garlic, olive oil"@en</otriple>
+        <otriple>Arrabbiata_sauce | region | "Rome"@en</otriple>
+        <otriple>Arrabbiata_sauce | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arrabbiata_sauce | dishVariation | Oregano</mtriple>
+        <mtriple>Arrabbiata_sauce | ingredient | Chili_pepper</mtriple>
+        <mtriple>Arrabbiata_sauce | mainIngredients | "Tomatoes, red chili, garlic, olive oil"</mtriple>
+        <mtriple>Arrabbiata_sauce | region | Rome</mtriple>
+        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arrabbiata sauce originates from the region of Rome in Italy. Oregano can be added to Arrabbiata sauce as well as chili pepper, tomatoes, red chili, garlic and olive oil.</lex>
+      <lex comment="good" lid="Id2">Arrabbiata sauce is a traditional dish from Rome in Italy. Oregano is one of the ingredients that can be used in a variation of Arrabbiata sauce and other ingredients are chili pepper, tomatoes, red chili, garlic and olive oil.</lex>
+      <lex comment="good" lid="Id3">Arrabbiata sauce from Rome, Italy contains: oregano, chili pepper, tomatoes, red chili, garlic and olive oil.</lex>
+    </entry>
+    <entry category="Food" eid="Id24" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Arrabbiata_sauce | ingredient | Chili_pepper</otriple>
+        <otriple>Arrabbiata_sauce | mainIngredient | "Tomatoes, red chili, garlic, olive oil"@en</otriple>
+        <otriple>Arrabbiata_sauce | region | "Rome"@en</otriple>
+        <otriple>Arrabbiata_sauce | variations | Basil</otriple>
+        <otriple>Arrabbiata_sauce | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arrabbiata_sauce | ingredient | Chili_pepper</mtriple>
+        <mtriple>Arrabbiata_sauce | mainIngredients | "Tomatoes, red chili, garlic, olive oil"</mtriple>
+        <mtriple>Arrabbiata_sauce | region | Rome</mtriple>
+        <mtriple>Arrabbiata_sauce | dishVariation | Basil</mtriple>
+        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arrabbiata sauce is a traditional dish from Rome in Italy and is made from tomatoes, red chili, garlic and olive oil. Basil can also be included in the sauce.</lex>
+      <lex comment="good" lid="Id2">Arrabbiata sauce which comes from Rome, Italy includes tomatoes, red chili, garlic, olive oil, chili pepper. Basil can also be included if you like.</lex>
+    </entry>
+    <entry category="Food" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Catalonia | leaderName | Parliament_of_Catalonia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Catalonia | leaderName | Parliament_of_Catalonia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arròs negre is from the Catalonia region of Spain. The region is led by the Parliament of Catalonia. Felipe VI is the head of state of the Spaniards.</lex>
+      <lex comment="good" lid="Id2">Arròs negre is from the Catalonia region, which is led by the Parliament of Catalonia., in Spain, which leader is Felipe VI of Spain, the name of the people is Spaniards.</lex>
+    </entry>
+    <entry category="Food" eid="Id26" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Catalonia | leaderName | Parliament_of_Catalonia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Catalonia | leaderName | Parliament_of_Catalonia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arròs negre is a traditional dish from Catalonia, Spain where an ethnic group is Spaniards and the leader is Felipe VI. Catalonia is governed by the Parliament of Catalonia.</lex>
+    </entry>
+    <entry category="Food" eid="Id69" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">White Americans are one of the ethnic groups in the United States, a country where the leader is called the President and Washington, D.C. is the capital city. Joe Biden is a political leader in the U.S. The country is also the origin of Bacon Explosion.</lex>
+      <lex comment="good" lid="Id2">The country Bacon Explosion comes from is the United States where political leaders include the President and Joe Biden. White Americans are one ethnic group there and the capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id3">Washington D.C is the capital of the United States and White Americans are one of the ethnic groups living there and Bacon Explosion is a popular local food. The leader of the country is called President and Joe Biden is a prominent person in politics.</lex>
+    </entry>
+    <entry category="Food" eid="Id70" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | John_Roberts</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bacon Explosion comes from the United States, where John Roberts is leader and White Americans are an ethnic group. English is the language spoken in the US and the capital city is Washington DC.</lex>
+      <lex comment="good" lid="Id2">The United States is home to the dish Bacon Explosion. John Roberts is a leader of the United States, where Washington DC is the capital, English is the language used and White Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">The country Bacon Explosion comes from is the United States where the capital is Washington D.C. and English is spoken. The country's politicians include John Roberts and White Americans are one ethnic group there.</lex>
+    </entry>
+    <entry category="Food" eid="Id71" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | John_Roberts</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of the United States is called the President and John Roberts is a leader there. The Bacon Explosion is from America where White Americans are an ethnic group and the capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States where the capital is Washington D.C. and the leader is called the President. A political leader there is John Roberts and White Americans are one ethnic group of the country.</lex>
+    </entry>
+    <entry category="Food" eid="Id72" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bacon Explosion is a dish from America, where there is a leader called Paul Ryan and where African Americans are an ethnic group. Washington DC is the capital of the US and the leader of the country has the title of President.</lex>
+      <lex comment="good" lid="Id2">The Bacon Explosion has its origins in the United States. The U.S. is led by Paul Ryan and the President, hails Washington D.C. as its capital and includes the ethnic African Americans.</lex>
+    </entry>
+    <entry category="Food" eid="Id73" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States is home to the ethnic group of Asian Americans and the dish Bacon Explosion. Paul Ryan is a leader in the US, where the capital city is Washington DC and English is the language used.</lex>
+      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States where the capital is Washington D.C. and Paul Ryan is a politician. Asian Americans are one ethnic group of the country and English is spoken there.</lex>
+      <lex comment="good" lid="Id3">The Bacon Explosion comes from the United States where the capital is Washington D.C. and English is spoken. A political leader there is Paul Ryan and Asian Americans are one ethnic group of the country.</lex>
+    </entry>
+    <entry category="Food" eid="Id149" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Binignit | ingredient | Sweet_potato</otriple>
+        <otriple>Binignit | region | Visayas</otriple>
+        <otriple>Binignit | mainIngredient | Banana</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | region | Visayas</mtriple>
+        <mtriple>Binignit | mainIngredients | Banana</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Binignit is a dish from the region of Visayas in the Philippines. It's a dessert that contains sweet potatoes and bananas.</lex>
+      <lex comment="good" lid="Id2">Binignit comes from the Visayas region of the Philippines. It is made with banana and sweet potato and is served as a dessert.</lex>
+      <lex comment="good" lid="Id3">Binignit is a food from the Visayas region of the Philippines. Its main ingredient is banana and it also contains sweet potato. It is served as a dessert.</lex>
+    </entry>
+    <entry category="Food" eid="Id157" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+        <otriple>Bionico | mainIngredient | "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"@en</otriple>
+        <otriple>Bionico | region | Guadalajara</otriple>
+        <otriple>Bionico | ingredient | Granola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+        <mtriple>Bionico | mainIngredients | "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"</mtriple>
+        <mtriple>Bionico | region | Guadalajara</mtriple>
+        <mtriple>Bionico | ingredient | Granola</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bionico is a dessert found in Mexico and Guadalajara. Its ingredients include granola, chopped fruits, sour cream, condensed milk, shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id2">Bionico is a Mexican dessert made from chopped fruits, sour cream, condensed milk, granola, raisins and shredded coconut. It originates from the Guadalajara region.</lex>
+      <lex comment="good" lid="Id3">Bionico (dessert) contains: chopped fruits, sour cream, condensed milk, granola shredded coconut and raisins. It is found in the Guadalajara region of Mexico.</lex>
+    </entry>
+    <entry category="Food" eid="Id170" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | leader | Enrique_Peña_Nieto</otriple>
+        <otriple>Mexico | language | Mexican_Spanish</otriple>
+        <otriple>Bionico | hasVariant | Cottage_cheese</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | leaderName | Enrique_Peña_Nieto</mtriple>
+        <mtriple>Mexico | language | Mexican_Spanish</mtriple>
+        <mtriple>Bionico | dishVariation | Cottage_cheese</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Enrique Pena Nieto is a leader in Mexico, where one of the languages spoken is Mexican Spanish and the dish bionico can be found. Bionico is a dessert dish that can be varied by adding cottage cheese.</lex>
+      <lex comment="good" lid="Id2">Bionico is a dessert containing cottage cheese and is from Mexican Spanish speaking Mexico; led by Enrique Pena Nieto.</lex>
+    </entry>
+    <entry category="Food" eid="Id182" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</otriple>
+        <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
+        <otriple>Bakewell_tart | region | Derbyshire_Dales</otriple>
+        <otriple>Derbyshire_Dales | isPartOf | Derbyshire</otriple>
+        <otriple>Bakewell_tart | ingredient | Fruit_preserves</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</mtriple>
+        <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
+        <mtriple>Bakewell_tart | region | Derbyshire_Dales</mtriple>
+        <mtriple>Derbyshire_Dales | isPartOf | Derbyshire</mtriple>
+        <mtriple>Bakewell_tart | ingredient | Fruit_preserves</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A variation of Bakewell pudding, Bakewell tart has fruit preserves as an ingredient. It comes from the Derbyshire Dales region (in Derbyshire), where the leader is Patrick McLoughlin.</lex>
+      <lex comment="good" lid="Id2">Patrick McLoughlin is a leader in the Derbyshire community of Derbyshire Dales. This community is known for a variant of bakewell pudding, the bakewell tart, which features fruit preserves.</lex>
+      <lex comment="good" lid="Id3">A variant of bakewell pudding is bakewell tart which comes from the Derbyshire Dales region, a part of Derbyshire. Fruit preserves are an ingredient in bakewell tart. Patrick McLoughlin is a leader in Derbyshire Dales.</lex>
+    </entry>
+    <entry category="Food" eid="Id184" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indonesia | capital | Jakarta</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+        <otriple>Bakso | region | Indonesia</otriple>
+        <otriple>Bakso | country | Chinese_cuisine</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indonesia | capital | Jakarta</mtriple>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+        <mtriple>Bakso | region | Indonesia</mtriple>
+        <mtriple>Bakso | country | Chinese_cuisine</mtriple>
+        <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bakso is a Chinese dish which can be found in Indonesia, the country where Joko Widodo is the leader, Jakarta is the capital and Indonesian is the language spoken.</lex>
+      <lex comment="good" lid="Id2">Joko Widodo is the leader of Indonesia. In Indonesia, the Indonesian language is spoken, and the capital city is Jakarta. Types of food include Bakso which originates from Chinese cuisine.</lex>
+      <lex comment="good" lid="Id3">Indonesian speaking Indonesia (capital: Jakarta), led by Joko Widodo offers the Chinese dish Bakso.</lex>
+    </entry>
+    <entry category="Food" eid="Id229" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | ingredient | Olive_oil</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leaderName | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | ingredient | Olive_oil</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Olive oil is an ingredient in Ajoblanco which is from Andalusia, the leader of which is Susana Diaz. Andalusia is in Spain where the leader is Felipe VI of Spain.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is from the Andalusia region. It has olive oil in it. Susana Diaz is a leader in that region. Felipe VI is the leader of Spain.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco, which includes olive oil is a dish from Andalusia (Spain) where the leader is Susana Diaz. Spain's leader is Felipe VI.</lex>
+    </entry>
+    <entry category="Food" eid="Id230" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leaderName | Susana_Díaz</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is from Andalusia, Spain where the currency is the Euro and the leaders are Susana Diaz and Felipe VI.</lex>
+      <lex comment="good" lid="Id2">Felipe VI is the leader of Spain, but Susana Diaz is the leader of Andalusia. They use the Euro as currency. Ajoblanco, found in Andalusia is a food that originated in Spain.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco has its origins in Spain (led by Felipe VI) and is also found in Susana Diaz led Andalusia. In Spain it can be purchased via the Euro.</lex>
+    </entry>
+    <entry category="Food" eid="Id231" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is from the Andalusia region of Spain where Felipe VI is the leader and Spanish is Spoken. The population are known as Spaniards.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originates from Andalusia, Spain. The leader of Spain is Felipe VI, the spoken language is Spanish, and Spaniards are the ethnic group of the country.</lex>
+    </entry>
+    <entry category="Food" eid="Id232" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leaderName | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In Spain, the language spoken is Spanish. Spain contains regions such as Andalusia, where Ajoblanco originates from. Susana Diaz is the leader of Andalusia, where as Felipe Vl is the leader of Spain.</lex>
+      <lex comment="good" lid="Id2">Felipe VI is the leader of Spain, a country where the Spanish language is spoken. Ajoblanco is a food that comes from Andalusia in Spain. Susana Diaz is a leader of Andalusia.</lex>
+      <lex comment="good" lid="Id3">In Spain they speak Spanish. The leader of the country is Felipe VI and the leader of the Andalusia region is Susana Diaz. This region is where Ajoblanco is from.</lex>
+    </entry>
+    <entry category="Food" eid="Id233" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is from Spain where Felipe VI of Spain is the leader. In this country, where the currency is the euro, the Spaniards are the ethnic group and the language is Spanish.</lex>
+      <lex comment="good" lid="Id2">The Euro is the currency in Spain where ajoblanco is originated from and they speak Spanish there. Felipe VI is the leader and the main ethnic group are Spaniards.</lex>
+      <lex comment="good" lid="Id3">The dish ajoblanco is from Spain where an ethnic group are the Spaniards, the currency is the Euro, the language spoken is Spanish and the leader is Felipe VI.</lex>
+    </entry>
+  </entries>
+</benchmark>

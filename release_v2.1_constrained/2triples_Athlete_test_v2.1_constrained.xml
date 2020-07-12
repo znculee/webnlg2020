@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Ayers | formerTeam | New_England_Patriots</otriple>
+        <otriple>Akeem_Ayers | draftPick | "39"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Ayers | formerTeam | New_England_Patriots</mtriple>
+        <mtriple>Akeem_Ayers | draftPick | "39"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Ayers was number 39 in the draft pick and his former team was New England Patriots.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers draft pick is 39 ad his former team is the New England Patriots.</lex>
+      <lex comment="good" lid="Id3">Akeem Ayers was number 39 in the draft pick and was a former member of the New England Patriots.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Ayers | formerTeam | Tennessee_Titans</otriple>
+        <otriple>Akeem_Ayers | draftPick | "39"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Ayers | formerTeam | Tennessee_Titans</mtriple>
+        <mtriple>Akeem_Ayers | draftPick | "39"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Ayers' former team was Tennessee Titans and he was number 39 in the draft pick.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers used to play for Tennessee Titans and he was number 39 in the draft pick.</lex>
+      <lex comment="good" lid="Id3">Akeem Ayers played for Tennessee Titans and was 39 in the draft pick.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Connecticut_Huskies</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Connecticut_Huskies</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's club is the Connecticut Huskies and he previously played for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for the Connecticut Huskies, having previously played for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays for the Connecticut Huskies and formerly played for Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Spartak_Moscow</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | FC_Kuban_Krasnodar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Spartak_Moscow</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov's club is FC Spartak Moscow and he also plays for the FC Kuban Krasnodar club.</lex>
+      <lex comment="good" lid="Id2">Former clubs of Aleksandr Prudnikov include FC Spartak Moscow and FC Kuban Krasnodar.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov has played for FC Spartak Moscow and FC Kuban Krasnodar.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer for the Coritiba Football club and also Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Footballer Abner plays for Real Madrid Castilla and Coritiba Football Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_Maher | team | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | clubs | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Maher | clubs | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | team | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
+        <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher's clubs are PSV Eindhoven and AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2">Adam Maher plays for PSV Eindhoven and has been connected to the club AZ Alkmaar.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Canada</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born in Canada in 1986.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Charlottetown</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born in Charlottetown in 1986.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was born in 1986, in Charlottetown.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Prince_Edward_Island</otriple>
+        <otriple>Adam_McQuaid | birthYear | "1986"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Prince_Edward_Island</mtriple>
+        <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was born in 1986 on Prince Edward Island.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was born on Prince Edward Island in 1986.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team is the Columbus Blue Jackets in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's draft team is the Columbus Blue Jackets, which are based in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id3">The Columbus Blue Jackets in Columbus, Ohio drafted Adam McQuaid.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id90" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | team | Iraq_national_under-20_football_team</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-20_football_team</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for the Iraq national under-20 football team and Al Kharaitiyat SC.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al Kharaitiyat SC and the Iraq under 20 team.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for the club AL Kharaitiyat SC and has represented the Iraq national Under 20 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id91" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Al-Khor_Sports_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Khor_Sports_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra has payed for Shabab Al-Ordon Club and Al-Khor Sports Club.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra belongs to Shabab Al-Ordon Club and plays for Al-Khor Sports Club.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul-Zahra has played for both Shabab Al-Ordon Club and Al-Khor Sports Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id117" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Amkar_Perm</otriple>
+        <otriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
+        <otriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
+        <mtriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov plays for the FC Amkar Perm football club managed by Gadzhi Gadzhiyev.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Prudnikov played for FC Amkar Perm football club, where the manager is Gadzhi Gadzhiyev.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id134" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | nationalteam | Italy_national_under-16_football_team</otriple>
+        <otriple>Italy_national_under-16_football_team | coach | Daniele_Zoratto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | club | Italy_national_under-16_football_team</mtriple>
+        <mtriple>Italy_national_under-16_football_team | coach | Daniele_Zoratto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alessio Romagnoli played for the Italy national under-16 football team coached by Daniele Zoratto.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli is in the Italy national under 16's football team which is coach by Daniele Zoratto.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli played for the Italian national under 16 football team which is coached by Daniele Zoratto.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id137" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | nationalteam | Italy_national_under-17_football_team</otriple>
+        <otriple>Italy_national_under-17_football_team | coach | Alessandro_Dal_Canto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | club | Italy_national_under-17_football_team</mtriple>
+        <mtriple>Italy_national_under-17_football_team | coach | Alessandro_Dal_Canto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays for the Italy national under-17 football team which is coached by Alessandro Dal Canto .</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli is a member of the Italian national under 17 football team coached by Alessandro Dal Canto.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli plays for the Italy national under-17 football team, where Alessandro Dal Canto is the coach.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id144" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alex_Plante | placeOfBirth | Brandon,_Manitoba</otriple>
+        <otriple>Brandon,_Manitoba | leaderName | Larry_Maguire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Plante | birthPlace | Brandon,_Manitoba</mtriple>
+        <mtriple>Brandon,_Manitoba | leaderName | Larry_Maguire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Larry Maguire is the leader of Brandon, Manitoba, the birthplace of Alex Plante.</lex>
+      <lex comment="good" lid="Id2">Alex Plante was born in Brandon, Manitoba where the leader is Larry Maguire.</lex>
+      <lex comment="good" lid="Id3">Larry Maguire is the leader in Brandon, Manitoba which is where Alex Plante was born.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id159" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>C.D._FAS | league | Salvadoran_Primera_División</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>C.D._FAS | league | Salvadoran_Primera_División</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays for CD FAS in the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Division.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id162" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Canada | anthem | O_Canada</otriple>
+        <otriple>Alex_Plante | placeOfBirth | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | anthem | O_Canada</mtriple>
+        <mtriple>Alex_Plante | birthPlace | Canada</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The national anthem of Canada, where Alex Plante was born, is O Canada.</lex>
+      <lex comment="good" lid="Id2">Alex Plante was born in Canada where the country's anthem is O Canada.</lex>
+    </entry>
+  </entries>
+</benchmark>

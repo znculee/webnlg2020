@@ -1,0 +1,3738 @@
+{
+   1: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was also in office while Mr. Mike Akhigbe was Vice President. Olusegun Obasanjo succeeded Mr. Abubaka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, who was succeeded by Olusegun Obasanjo. was in office while Mike Akhigbe was Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, whose successor was Olusegun Obasanjo was in office while Mike Akhigbe was the Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " successor ",
+   "subject": " Olusegun_Obasanjo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " successor ",
+     "subject": " Olusegun_Obasanjo"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   2: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York City an died in Dona Ana County, New Mexico.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in New York City, Albert Jennings Fountain, died in Dona Ana County, New Mexico.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York City and died in Dona Ana County, New Mexico.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " deathPlace ",
+   "subject": " Doña_Ana_County,_New_Mexico"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " deathPlace ",
+     "subject": " Doña_Ana_County,_New_Mexico"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id19"
+      }
+},
+{
+   3: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant lives in The Netherlands whose leader is Mark Rutte.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant is from the Netherlands, the leader of which, is Mark Rutte.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant's country is the Netherlands, the leader of which, is Mark Rutte.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Netherlands ",
+   "property": " leaderName ",
+   "subject": " Mark_Rutte"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Netherlands ",
+       "property": " leader ",
+       "subject": " Mark_Rutte"
+       },
+       {
+       "object": "Netherlands ",
+       "property": " leaderName ",
+       "subject": " Mark_Rutte"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   4: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett participated in the Battle of Gettysburg and Robert E. Lee was a commander in that war.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S Daggett fought at the Battle of Gettysburg in which Robert E Lee was a commander.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett was in the Battle of Gettysburg that was commanded by Robert E. Lee.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_S._Daggett ",
+   "property": " battles ",
+   "subject": " Battle_of_Gettysburg"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_S._Daggett ",
+     "property": " battles ",
+     "subject": " Battle_of_Gettysburg"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   5: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, who was born in the Kingdom of Sarawak, was succeeded by Adenan Satem.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem succeeded by Abdul Taib Mahmud, who was born in the Kingdom of Sarawak.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem was the successor of Abdul Taib Mahmud who was originally from the Kingdom of Sarawak.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " successor ",
+   "subject": " Adenan_Satem"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " successor ",
+     "subject": " Adenan_Satem"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   6: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud was born in Miri, Malaysia and was succeeded by Adenan Satem.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, born in Miri, Malaysiam, was succeeded by Adenan Satem.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdul Taib Mahmud, born in Miri, Malaysia, was succeeded by Adenan Satem.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " successor ",
+   "subject": " Adenan_Satem"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " successor ",
+     "subject": " Adenan_Satem"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   7: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Japanese occupation of British Borneo was the birthplace of Adenan Satem who succeeded Abdul Taib Mahmud.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem was born in the Japanese Occupation of British Borneo and succeeded Abdul Taib Mahmud.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adenan Satem, born in British Borneo during the Japanese occupation, succeeded Abdul Taib Mahmud.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdul_Taib_Mahmud ",
+   "property": " successor ",
+   "subject": " Adenan_Satem"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdul_Taib_Mahmud ",
+     "property": " successor ",
+     "subject": " Adenan_Satem"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   8: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The alma mater of Abdulsalami Abubakar, who was born in Niger State, was the Technical Institute, Kaduna.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Niger State, is the birth place of Abdulsalami Abubakar, whose alma mater was the Technical Institute, Kaduna.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, born in the Niger State, attended The Technical Institute of Kaduna.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " birthPlace ",
+   "subject": " Niger_State"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abdulsalami_Abubakar ",
+       "property": " birthPlace ",
+       "subject": " Niger_State"
+       },
+       {
+       "object": "Abdulsalami_Abubakar ",
+       "property": " birthPlace ",
+       "subject": " Niger_State"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   9: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar lives in Nigeria, where the leader is Yemi Osinbajo.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar is from Nig where Yemi Osinbajo is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar's comes from Nigeria whose leader is called Yemi Osinbajo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " country ",
+   "subject": " Nigeria"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " country ",
+     "subject": " Nigeria"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   10: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office with Mike Akhigbe and was in the Nigerian Air Force.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in the Nigerian Air Force. He was in office while Mike Akhigbe was the Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, who was a member of the Nigerian Air Force, was in office while Mike Akhigbe was the Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   11: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al-Amin Daggash was the successor of Abdulsalami Abubakar who was in office at the same time as Vice President Mike Akhigbe.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, who succeeded Al-Amin Daggash, was in office whilst Mike Akhigbe was Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, who was succeeded by Al-Amin Daggash, was in office while Mike Akhigbe was Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   12: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office whilst the Vice President was Mike Akhigbe, who belonged to the Nigerian Navy branch of the Military.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mike Akhigbe was Vice President while Abdulsalami Abubakar was in office. Mr. Akhigbe served in the Nigerian Navy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office whilst Mike Akhigbe, who was in the Nigerian Navy, was Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id37"
+      }
+},
+{
+   13: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Oladipo Diya was the predecesso of Mike Akhigbe, who was the Vice President, while Abdulsalami Abubakar was in office.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vice President Mike Akhigbe's predecesor was Oladipo Diya. Mr. Akigbe was in office alongside Abdulsalami Abubakar.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id38"
+      }
+},
+{
+   14: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar was in office at the same time that Mike Akhigbe was the Vice President. Mr Akhigbe was succeeded by Atiku Abubakar.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " inOfficeWhileVicePresident ",
+   "subject": " Mike_Akhigbe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " vicePresident ",
+     "subject": " Mike_Akhigbe"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id39"
+      }
+},
+{
+   15: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar ended his career on 1999-05-29 and was succeeded by Al-Amin Daggash.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar's successor was Al-Amin Daggash afterhe ended his career on 1999-05-29.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al-Amin Daggash was succeeded by Abdulsalami Abubakar whose career ended on May 29, 1999.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " successor ",
+   "subject": " Al-Amin_Daggash"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " successor ",
+     "subject": " Al-Amin_Daggash"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id40"
+      }
+},
+{
+   16: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, whose successor was Olusegun Obasanjo, worked as the Nigerian Chief of the Defence Staff.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Olusegun Obasanjo succeeded Abdulsalami Abubakar, who worked as the Nigerian Chief of the Defence Staff.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar, was the Chief of the Defence Staff in Nigeria, and his successor was Olusegun Obasanjo.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " successor ",
+   "subject": " Olusegun_Obasanjo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Abdulsalami_Abubakar ",
+       "property": " successor ",
+       "subject": " Olusegun_Obasanjo"
+       },
+       {
+       "object": "Abdulsalami_Abubakar ",
+       "property": " successor ",
+       "subject": " Olusegun_Obasanjo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id41"
+      }
+},
+{
+   17: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Olusegun Obasanjo, successor of Abdulsalami Abubakar, took office during Atiku Abubaker's Vice Presidency.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abdulsalami Abubakar's successor was Olusegun Obasanjo who was in office while Atiku Abubaker was Vice President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Olusegun Obasanjo was Abdulsalami Abubakar successor and Atiku Abubakar was his Vice President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abdulsalami_Abubakar ",
+   "property": " successor ",
+   "subject": " Olusegun_Obasanjo"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abdulsalami_Abubakar ",
+     "property": " successor ",
+     "subject": " Olusegun_Obasanjo"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id42"
+      }
+},
+{
+   18: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Galicia, Spain, Abel Caballero, has the University of Santiago de Compostela for an alma mater.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero's alma mater is the University of Santiago de Compostela and he was born in Galicia in Spain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Abel Caballero was born in Galicia, Spain and went to the University of Santiago de Compostela.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abel_Caballero ",
+   "property": " almaMater ",
+   "subject": " University_of_Santiago_de_Compostela"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abel_Caballero ",
+     "property": " almaMater ",
+     "subject": " University_of_Santiago_de_Compostela"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id43"
+      }
+},
+{
+   19: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Koc fought in WWI and won the Legion of Honour award.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc fought in WWI and he was awarded the Legion of Honour.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc, who fought in World War I, won the Legion of Honour award.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " battles ",
+   "subject": " World_War_I"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " battles ",
+     "subject": " World_War_I"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id100"
+      }
+},
+{
+   20: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Koc, fought in WWI, was awarded the Order of Polonia Restituta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc was awarded the Order of Polonia Restituta after his efforts in World War One.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc, who fought in World War I was awarded the Order of Polonia Restituta.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " battles ",
+   "subject": " World_War_I"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " battles ",
+     "subject": " World_War_I"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id101"
+      }
+},
+{
+   21: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Kashubians are an ethnic group of Poland, the country Adam Koc comes from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Koc was born in Poland; where Kashubians are an ethnic group.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Koc ",
+   "property": " nationality ",
+   "subject": " Poland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Koc ",
+     "property": " nationality ",
+     "subject": " Poland"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id102"
+      }
+},
+{
+   22: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adolf Schärf was born in Mikulov and served in office with President Alfons Gorbach.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach was in office while Mikulov born Adolf Scharf was President.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach was in office at the same time that Mikulov born Adolf Scharf was President.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adolf_Schärf ",
+   "property": " birthPlace ",
+   "subject": " Mikulov"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adolf_Schärf ",
+     "property": " birthPlace ",
+     "subject": " Mikulov"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id103"
+      }
+},
+{
+   23: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Athens and attended the National and Kapodistrian University of Athens.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Athens and he attended the National and Kapodistrian University of Athens.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " almaMater ",
+   "subject": " National_and_Kapodistrian_University_of_Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " almaMater ",
+     "subject": " National_and_Kapodistrian_University_of_Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id104"
+      }
+},
+{
+   24: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis. born in Athens, was a member of the New Democracy party in Greece.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Athens, Adonis Georgiadis, is a member of the Greek New Democracy Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, born in Athens, is a member of the Greek New Democracy Party.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " birthPlace ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id105"
+      }
+},
+{
+   25: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Makis Voridis was the successor of Adonis Georgiadis, who was born in Athens.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, born in Athens, was succeeded by Makis Voridis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Athens he was succeeded by Makis Voridis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " birthPlace ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id106"
+      }
+},
+{
+   26: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Greece, Adonis Georgiadis's alma Mater was the National and Kapodistrian University of Athens.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The National and Kapodistrian University of Athens, is the alma mater of Greek born Adonis Georgiadis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The alma mater of Greek born, Adonis Georgiadis, was the National and Kapodistrian University of Athens.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Greece"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " birthPlace ",
+     "subject": " Greece"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id107"
+      }
+},
+{
+   27: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis birthplace was in Greece where he was a member of the New Democracy party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Greece and is a member of the Greek New Democracy Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, member of the Greek New Democratic Party, was born in Greece.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Greece"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " birthPlace ",
+     "subject": " Greece"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id108"
+      }
+},
+{
+   28: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, was born in Greece, and was succeeded by Makis Voridis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Greek born Adonis Georgiadis was succeeded by Makis Voridis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Makis Voridis was the successor of Greek bron, Adonis Georgiadis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " birthPlace ",
+   "subject": " Greece"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " birthPlace ",
+     "subject": " Greece"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id109"
+      }
+},
+{
+   29: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, who was born in Greece, served in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Greece, Adonis Georgiadis, was in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was born in Greece and served in office under Prime Minister Antonis Samaras.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " primeMinister ",
+     "subject": " Antonis_Samaras"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id110"
+      }
+},
+{
+   30: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Makis Voridis was the successor of Adonis Georgiadis, who, served in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Makis Voridis was the successor of Adonis Georgiadis, who in turn was in office under Antonis Samaras, Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeminister ",
+       "subject": " Antonis_Samaras"
+       },
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeMinister ",
+       "subject": " Antonis_Samaras"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id111"
+      }
+},
+{
+   31: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Antonis Samaras was born in Athens and served as Prime Minister while Adonis Georgiadis was in office.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was in office while Athens born Antonis Samaras was Prime Minister.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Prime Minister Antonis Samaras was born in Athens and Adonis Georgiadis was a member of his office.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adonis_Georgiadis ",
+     "property": " primeMinister ",
+     "subject": " Antonis_Samaras"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id112"
+      }
+},
+{
+   32: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Evangelos Venizelos is Prime Minister Antonis Samaras' deputy while Adonis Georgiadis was under office.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was in office under Prime Minister Antonis Samaras, whose deputy is, Evangelos Venizelos.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeMinister ",
+       "subject": " Antonis_Samaras"
+       },
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeminister ",
+       "subject": " Antonis_Samaras"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id113"
+      }
+},
+{
+   33: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant, who was born in Hessisch Oldendorf, attended the Radboud University Nijmegen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in Hessisch Oldendorf and has alma mater is Radboud University Nijmegen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant (b. Hessisch Oldendorf) graduated from Radboud University Nijmegen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " almaMater ",
+   "subject": " Radboud_University_Nijmegen"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agnes_Kant ",
+       "property": " birthPlace ",
+       "subject": " Hessisch_Oldendorf"
+       },
+       {
+       "object": "Agnes_Kant ",
+       "property": " almaMater ",
+       "subject": " Radboud_University_Nijmegen"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id114"
+      }
+},
+{
+   34: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in Hessisch Oldendorf and worked in the Netherlands at the House of Representatives.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in Hessisch Oldendorf and worked at the House of Representatives in the Netherlands.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " birthPlace ",
+   "subject": " Hessisch_Oldendorf"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " birthPlace ",
+     "subject": " Hessisch_Oldendorf"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id115"
+      }
+},
+{
+   35: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and her alma mater is the Radboud university Nijmegen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany, her alma mater is the Radboud University Nijmegen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and attending the Radboud University, Nijmegen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " birthPlace ",
+   "subject": " West_Germany"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agnes_Kant ",
+       "property": " almaMater ",
+       "subject": " Radboud_University_Nijmegen"
+       },
+       {
+       "object": "Agnes_Kant ",
+       "property": " birthPlace ",
+       "subject": " West_Germany"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id116"
+      }
+},
+{
+   36: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant, born in West Germany, worked at the House of Representatives in Netherlands.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant (b West Germany) worked at the Netherlands House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and worked in the House of Representatives in the Netherlands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " birthPlace ",
+   "subject": " West_Germany"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " birthPlace ",
+     "subject": " West_Germany"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id117"
+      }
+},
+{
+   37: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "West Germany was the birthplace of Agnes Kant, who worked as the Parliamentary group leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "West Germany was the birthplace of Agnes Kant, who worked as a Parliamentary group leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and was the Parliamentary group leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " birthPlace ",
+   "subject": " West_Germany"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " birthPlace ",
+     "subject": " West_Germany"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id118"
+      }
+},
+{
+   38: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant is from the Netherlands, where their currency is the Euro.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The nationality of Agnes Kant is the Netherlands, where the Euro is the currency.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant has Dutch nationality, where the euro is the currency.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " nationality ",
+   "subject": " Netherlands"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " nationality ",
+     "subject": " Netherlands"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id119"
+      }
+},
+{
+   39: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant comes from the Netherlands, the leader of which, is Mark Rutte.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Netherlands is led by Mark Rutte and home to national Agnes Kant.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant is a national of the Netherlands, where Mark Rutte is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " nationality ",
+   "subject": " Netherlands"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agnes_Kant ",
+       "property": " nationality ",
+       "subject": " Netherlands"
+       },
+       {
+       "object": "Agnes_Kant ",
+       "property": " nationality ",
+       "subject": " Netherlands"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id120"
+      }
+},
+{
+   40: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in Hessisch Oldendorf and worked as a member of the House of Representatives.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant, born in Hessisch Oldendorf, was a Member of the House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "House of Representatives member, Agnes Kant, was born in Hessisch Oldendorf.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the House of Representatives""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " office ",
+     "subject": " "Member of the House of Representatives""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id121"
+      }
+},
+{
+   41: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and worked as a member of the House of Representatives.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant was born in West Germany and was a member of the House of Representatives.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant, born in West Germany, was a Member of the House of Representatives.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the House of Representatives""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " office ",
+     "subject": " "Member of the House of Representatives""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id122"
+      }
+},
+{
+   42: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant worked at the House of Representatives in the Netherlands, the leader of which is Khadija Arib.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Khadija Arib is the leader of the House of Representatives in the Netherlands and Agnes Kant worked there.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Khadija Arib is the leader of the House of Representatives in the Netherlands where Agnes Kant worked.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " House_of_Representatives_(Netherlands)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " office ",
+     "subject": " House_of_Representatives_(Netherlands)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id123"
+      }
+},
+{
+   43: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Kant held office in the Socialist Party of the Netherlands which was led by Emile Roemer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant worked at the Socialist Party in the Netherlands which is led by Emile Roemer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant held office in the Socialist Party of the Netherlands, the leader of which, is Emile Roemer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " Socialist_Party_(Netherlands)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " office ",
+     "subject": " Socialist_Party_(Netherlands)"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id124"
+      }
+},
+{
+   44: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave was involved in the Battle of France and he ended his career on 30th March 1979.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Battle of France and ended his career on 30th March 1979.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Battle of France and his career ended on 30th March 1979.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " Battle_of_France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " Battle_of_France"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id125"
+      }
+},
+{
+   45: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave began his career on 30th June 1953 and he was involved in the Battle of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave started his career on 30th June 1953 and was involved in the Battle of France.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, started his career on 30th June 1953 and was involved in the Battle of France.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " Battle_of_France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " Battle_of_France"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id126"
+      }
+},
+{
+   46: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave, born in Knightsbridge, London, fought in the Battle of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, born in Knightsbridge, London, was involved in the Battle of France.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, who fought in the Battle of France, was born in Knightsbridge, London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " Battle_of_France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " Battle_of_France"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id127"
+      }
+},
+{
+   47: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave, born in Knightsbridge, fought in the Battle of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was born in Knightsbridge and fought in the Battle of France.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave (b Knightsbridge) took part in the Battle of France.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " Battle_of_France"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " Battle_of_France"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id128"
+      }
+},
+{
+   48: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in World War II and ended his career on 30 March 1979.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, who fought in World War II, ended his career on 30th March 1979.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was in World War II and his career ended on 30th March 1979.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id129"
+      }
+},
+{
+   49: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave was in World War II and began his career on March 4th 1974.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave began his career on March 4th 1974 and fought in World War II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in the Second World War and began his career on March 4th 1974.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id130"
+      }
+},
+{
+   50: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Knightsbridge, London, is the birthplace of Airey Neave, who fought in World War II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Knightsbridge, London is the birthplace of Airey Neave, who was in World War II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was born in Knightsbridge, London and fought in World War II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id131"
+      }
+},
+{
+   51: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Both Airey Neave and Benito Mussolini (commander) participated in World War II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was in World War II and a commander there was Benito Mussolini.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Benito Mussolini was a commander in World War II, the war Airey Neave was invloved in.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id132"
+      }
+},
+{
+   52: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in World War II, during which, Chiang Kai-shek was a commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was in World War II, where one of the commanders was, Chiang Kai-shek.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave fought in World War II in which Chiang Kai-shek was a commander.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " battles ",
+   "subject": " World_War_II"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " battles ",
+     "subject": " World_War_II"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id133"
+      }
+},
+{
+   53: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave was a Lieutenant Colonel and ended his career on 30th March 1979.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave was a Lieutenant Colonel and he ended his career on 30th March 1979.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, whose military rank is Lieutenant Colonel, ended his career on 30th March 1979.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " militaryRank ",
+   "subject": " Lieutenant_colonel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Airey_Neave ",
+       "property": " rank ",
+       "subject": " Lieutenant_colonel"
+       },
+       {
+       "object": "Airey_Neave ",
+       "property": " militaryRank ",
+       "subject": " Lieutenant_colonel"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id134"
+      }
+},
+{
+   54: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave started serving in military in 1935 and ended his career on 30th March 1979.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave whose military career began in 1935, ended his career on 30th March 1979.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave began his service in 1935 and his career ended on 30 March 1979.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " serviceStartYear ",
+   "subject": " 1935"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " serviceStartYear ",
+     "subject": " "1935"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id135"
+      }
+},
+{
+   55: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave, served in the Royal Artillery Unit, and was awarded the Distinguished Service Order.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave's unit was the Royal Artillery, and he was awarded the Distinguished Service Order.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Part of the Royal Artillery, Airey Neave, was a hero who was awarded the Distinguished Service Order.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " unit ",
+   "subject": " Royal_Artillery"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " unit ",
+     "subject": " Royal_Artillery"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id136"
+      }
+},
+{
+   56: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave served in the Royal Artillery Unit and was awarded the Order of the British Empire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave served in the Royal Artillery an was awarded the Order of the British Empire.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " unit ",
+   "subject": " Royal_Artillery"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " unit ",
+     "subject": " Royal_Artillery"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id137"
+      }
+},
+{
+   57: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Airey Neave, awarded the Territorial Decoration, served in the Royal Artillery Unit.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave, whose unit was the Royal Artillery, won the Territorial Decoration award.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Airey Neave served in the Royal Artillery Unit where he won the Territorial Decoration Award.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Airey_Neave ",
+   "property": " unit ",
+   "subject": " Royal_Artillery"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Airey_Neave ",
+     "property": " unit ",
+     "subject": " Royal_Artillery"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id138"
+      }
+},
+{
+   58: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White was born in Cleveland 1856-09-22.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born, 22nd September, 1856, in Cleveland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born in Cleveland on September 2, 1856.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " birthDate ",
+   "subject": " 1856-09-22"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " dateOfBirth ",
+     "subject": " "1856-09-22"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id139"
+      }
+},
+{
+   59: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White was born on September 22nd 1856 and died July 7th, 1941.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was born 09/22/1856 and passed 04/03/1941.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was born on 22nd September 1856 and died on 3rd July 1941.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " birthDate ",
+   "subject": " 1856-09-22"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " dateOfBirth ",
+     "subject": " "1856-09-22"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id140"
+      }
+},
+{
+   60: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert White was born on 22nd September 1856 and he died in Parkersburg West Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was born on September 22nd, 1856 and died in Parkersburg, West Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born September 22nd, 1856 and died in Parkersburg, West Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " birthDate ",
+   "subject": " 1856-09-22"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " dateOfBirth ",
+     "subject": " "1856-09-22"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id141"
+      }
+},
+{
+   61: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born 09/22/1856.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born on the 22nd of September, 1856.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born on the 22nd of September, in 1856.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " birthYear ",
+   "subject": " 1856"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " birthYear ",
+     "subject": " "1856"^^xsd:gYear"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id142"
+      }
+},
+{
+   62: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White, a member of the Republican Party of the United States, was succeeded by William M O Dawson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B.White is a member of the Republican Party of the United States and he was succeeded by William M.O. Dawson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B.White is a member of the Republican Party of the United States and was succeeded by William M. O. Dawson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " party ",
+   "subject": " Republican_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " party ",
+     "subject": " Republican_Party_(United_States)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id143"
+      }
+},
+{
+   63: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White, who was married to Agnes Ward White, finished his career on March 4th 1905.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Ward White was the wife of Albert B. White, who finished his career on March 4th 1905.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was married to Agnes Ward White and finished his career on March 4th 1905.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " spouse ",
+   "subject": " Agnes_Ward_White"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " spouse ",
+     "subject": " Agnes_Ward_White"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id144"
+      }
+},
+{
+   64: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agnes Ward White, wife of Albert B. White was born in Cleveland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White, who was born in Cleveland, was the spouse of Agnes Ward White.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born in Cleveland, and is married to Agnes Ward White.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " spouse ",
+   "subject": " Agnes_Ward_White"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " spouse ",
+     "subject": " Agnes_Ward_White"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id145"
+      }
+},
+{
+   65: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White finished his career on March 4th 1905 and was succeeded by William M O Dawson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William M O Dawson was the successor to Albert B. White, who retired March 4, 1905.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William M.O. Dawson succeeded Albert B. White who ended his career on 4th March 1905.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " successor ",
+   "subject": " William_M._O._Dawson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " successor ",
+     "subject": " William_M._O._Dawson"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id146"
+      }
+},
+{
+   66: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White was born in Cleveland and was succeeded by William MO Dawson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The successor to Cleveland born, Albert B. White, was William M.O. Dawson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cleveland born, Albert B. White's, successor was William M. O. Dawson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " successor ",
+   "subject": " William_M._O._Dawson"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albert_B._White ",
+       "property": " placeOfBirth ",
+       "subject": " Cleveland"
+       },
+       {
+       "object": "Albert_B._White ",
+       "property": " successor ",
+       "subject": " William_M._O._Dawson"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id147"
+      }
+},
+{
+   67: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William M O Dawson, born in Bloomington, Maryland, was the successor of Albert B White.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William M O Dawson (b Bloomington, Maryland) succeeded Albert B White.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was succeeded by William M O Dawson, who was born in Bloomington Maryland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " successor ",
+   "subject": " William_M._O._Dawson"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albert_B._White ",
+       "property": " successor ",
+       "subject": " William_M._O._Dawson"
+       },
+       {
+       "object": "Albert_B._White ",
+       "property": " successor ",
+       "subject": " William_M._O._Dawson"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id148"
+      }
+},
+{
+   68: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White was succeeded by William M O Dawson, who, died in Charleston, West Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The successor to Albert B. White was William M.O. Dawson, who died in Charleston, West Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White's successor was William M. O. Dawson, who died in Charleston, West Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " successor ",
+   "subject": " William_M._O._Dawson"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albert_B._White ",
+       "property": " successor ",
+       "subject": " William_M._O._Dawson"
+       },
+       {
+       "object": "Albert_B._White ",
+       "property": " successor ",
+       "subject": " William_M._O._Dawson"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id149"
+      }
+},
+{
+   69: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B White was succeeded by William M O Dawson, who is a member of the United States Republican party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B. White's successor was William M. O. Dawson, a member of the United States Republican Party.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was succeeded by Republican William M O Dawson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " successor ",
+   "subject": " William_M._O._Dawson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " successor ",
+     "subject": " William_M._O._Dawson"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id150"
+      }
+},
+{
+   70: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain fought in the American Civil War. Jefferson Davis was one commander in that war.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Jefferson Davis was a commander in the American Civil War, the war Albert Jennings Fountain fought in.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Jefferson Davis, was a commander in the American Civil War, the war in which Albert Jennings Fountain fought.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " battles ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " battles ",
+     "subject": " American_Civil_War"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id151"
+      }
+},
+{
+   71: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in Staten Island, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in Staten Island, in New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " birthPlace ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " birthPlace ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id152"
+      }
+},
+{
+   72: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York, where Arabic is spoken amongst many other languages.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York, a city of many languages, on of which is, Arabic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain came from New York where one language spoken is Arabic.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " birthPlace ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " birthPlace ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id153"
+      }
+},
+{
+   73: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York, where one of the languages spoken, is French.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York, where French is one of the languages spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York where one of the spoken languages is French.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " birthPlace ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " birthPlace ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id154"
+      }
+},
+{
+   74: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born on Staten Island in New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Staten Island, New York City, was the birth place of Albert Jennings Fountain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " birthPlace ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " birthPlace ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id155"
+      }
+},
+{
+   75: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in Staten Island, in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain birthplace is the United States on Staten Island.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Staten Island, in the United States, is the birth place of Albert Jennings Fountain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " birthPlace ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " birthPlace ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id156"
+      }
+},
+{
+   76: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers served in the United States Army, which took art in Korean War battles.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers served in the United States Army, an army which fought in the Korean War.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " militaryBranch ",
+   "subject": " United_States_Army"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " militaryBranch ",
+     "subject": " United_States_Army"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id210"
+      }
+},
+{
+   77: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur and he was succeeded by Price Daniel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers, a member of the Texas State Senate District 4 for Port Arthur, was succeeded by Price Daniel.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the Texas State Senate from District 4 (Port Arthur)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " office ",
+     "subject": " "Member of theTexas State SenatefromDistrict 4(Port Arthur)""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id211"
+      }
+},
+{
+   78: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wilfred R. Cousins, Jr. was the successor of Allan Shivers, who was a member of the Texas State Senate District 4 for Port Arthur.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was a part of the Texas State Senate District 4 for Port Arthur. Wilfred R. Cousins, Jr. succeeded him.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Wilfred R. Cousins, Jr.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Member of the Texas State Senate from District 4 (Port Arthur)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " office ",
+     "subject": " "Member of theTexas State SenatefromDistrict 4(Port Arthur)""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id212"
+      }
+},
+{
+   79: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was Lieutenant Governor of Texas and was succeeded by Ben Ramsey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was Lieutenant Governor of Texas and was succeded by Ben Ramsey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers, was Lieutenant Governor of Texas, and his successor was Ben Ramsey.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " successor ",
+   "subject": " Ben_Ramsey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " successor ",
+     "subject": " Ben_Ramsey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id213"
+      }
+},
+{
+   80: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was the Governor of Texas and his successor was Price Daniel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was Governor of Texas and was succeeded by Price Daniel.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers worked as the Governor of Texas and was succeeded by Price Daniel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " successor ",
+   "subject": " Price_Daniel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allan_Shivers ",
+     "property": " successor ",
+     "subject": " Price_Daniel"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id214"
+      }
+},
+{
+   81: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allan Shivers, was Lieutenant Governor of Texas and was succeeded by Price Daniel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers, a Lieutenant Governor of Texas, was succeeded by Price Daniel.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allan Shivers was Lieutenant Governor of Texas and was succeeded by Price Daniel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allan_Shivers ",
+   "property": " successor ",
+   "subject": " Price_Daniel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allan_Shivers ",
+       "property": " successor ",
+       "subject": " Price_Daniel"
+       },
+       {
+       "object": "Allan_Shivers ",
+       "property": " successor ",
+       "subject": " Price_Daniel"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id215"
+      }
+},
+{
+   82: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin died in Sycamore, in DeKalb County, Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin died in Sycamore which is located in DeKalb County, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin died in Dekalb County, Sycamore, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " deathPlace ",
+   "subject": " Sycamore,_Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " deathPlace ",
+     "subject": " Sycamore,_Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id216"
+      }
+},
+{
+   83: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Georgia, Vermont, Alvah Sabin, worked as the secretary of the State of Vermont.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, was born in Georgia, Vermont, and worked as the Secretary of State of Vermont.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " Secretary_of_State_of_Vermont"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alvah_Sabin ",
+       "property": " office ",
+       "subject": " "Secretary of State of Vermont""
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " birthPlace ",
+       "subject": " Georgia,_Vermont"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id217"
+      }
+},
+{
+   84: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett fought in battles in the American Civil War, a war Robert E Lee was part of, as a commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett fought in, and Robert E. Lee was a commander in, the American Civil War.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron S. Daggett served in the American Civil War, commanded by Robert E Lee.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "American_Civil_War ",
+   "property": " commander ",
+   "subject": " Robert_E._Lee"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "American_Civil_War ",
+     "property": " commander ",
+     "subject": " Robert_E._Lee"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id228"
+      }
+},
+{
+   85: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfons Gorbach was born in Austria, where Austrian German is the language spoken.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austria was the birthplace of Alfons Gorbach whose language is Austrian German.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austrian born Alfons Gorbach speaks Austrian German which is the language of Austria.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Austria ",
+   "property": " language ",
+   "subject": " Austrian_German"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Austria ",
+     "property": " language ",
+     "subject": " Austrian_German"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id229"
+      }
+},
+{
+   86: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in the Netherlands, where the Euro is the currency.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in the Netherlands, where the currency is the euro.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The euro is the currency in the Netherlands where Ab Klink was born.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Netherlands ",
+   "property": " currency ",
+   "subject": " Euro"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Netherlands ",
+     "property": " currency ",
+     "subject": " Euro"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id236"
+      }
+},
+{
+   87: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ab Klink comes from the Netherlands where the Euro is the currency.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink is from the Netherlands, whose currency is the Euro.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Netherlands ",
+   "property": " currency ",
+   "subject": " Euro"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Netherlands ",
+     "property": " currency ",
+     "subject": " Euro"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id237"
+      }
+},
+{
+   88: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mark Rutte is the leader of the Netherlands where Ab Klink was born.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in the Netherlands where the leader is Mark Rutte.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ab Klink was born in the Netherlands which is led by Mark Rutte.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Netherlands ",
+   "property": " leaderName ",
+   "subject": " Mark_Rutte"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Netherlands ",
+     "property": " leader ",
+     "subject": " Mark_Rutte"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id238"
+      }
+},
+{
+   89: {
+   "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis is a member of the Greek New Democracy Party, whose colour is blue.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was a member of the New Democracy party in Greece and blue is their colour.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis is part of the New Democracy party in Greece whose color is blue.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Democracy_(Greece) ",
+   "property": " colour ",
+   "subject": " Blue"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Democracy_(Greece) ",
+     "property": " colour ",
+     "subject": " Blue"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id239"
+      }
+}

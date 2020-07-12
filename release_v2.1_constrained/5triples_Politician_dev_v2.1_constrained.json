@@ -1,0 +1,1095 @@
+{
+   1: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Socialist Party member Agnes Kant is from the Netherlands, where the leader is Mark Rutte. She worked at the House of Representatives in the Netherlands, which is led by Khadija Arib.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agnes Kant is a national of the Netherlands which is led by Mark Rutte. She is a member of the Socialist Party and worked at the House of Representatives which is led by Khadija Arib.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Socialist Party member Agnes Kant, from the Netherlands, worked at the House of Representatives, where the leader is Khadija Arib. Mark Rutte leads the country.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agnes_Kant ",
+   "property": " nationality ",
+   "subject": " Netherlands"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agnes_Kant ",
+     "property": " nationality ",
+     "subject": " Netherlands"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id7"
+      }
+},
+{
+   2: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert B. White was married to Agnes Ward White who was born in Marietta, Ohio. He was succeeded by William M O Dawson who was born in Bloomington, Maryland and died in Charleston, West Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was married to Agnes Ward White (who was born in Marietta, Ohio) and was succeeded by William M O Dawson. Mr Dawson was born in Bloomington Maryland and died in Charleston, West Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The spouse of Albert B. White was Agnes Ward White, who was born in Marietta, Ohio. Albert B White was succeeded by William M O Dawson; who was born in Bloomington, Maryland and died in Charleston, West Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " spouse ",
+   "subject": " Agnes_Ward_White"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " spouse ",
+     "subject": " Agnes_Ward_White"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id8"
+      }
+},
+{
+   3: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland born Albert B White, who was married to Agnes Ward White, served as the Governor of West Virginia and finished his career on March 4th 1905. He was succeeded by William M O Dawson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert B White was born in Cleveland and was married to Agnes Ward White. He worked as the Governor of West Virginia and finished his career on 4 March 1905 being succeeded by William M O Dawson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Cleveland born Albert B White, married to Agnes Ward White, was the Governor of West Virginia, ending his career on March 4th 1905. He was succeeded by William M O Dawson.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_B._White ",
+   "property": " spouse ",
+   "subject": " Agnes_Ward_White"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_B._White ",
+     "property": " spouse ",
+     "subject": " Agnes_Ward_White"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id9"
+      }
+},
+{
+   4: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in Staten Island, New York City. He died on 1 February 1896 in Dona Ana County, New Mexico, US.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in New York City on Staten Island. He died on February 1st, 1896 in Dona Ana County, New Mexico, U.S.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albert Jennings Fountain was born in Staten Island, New York City and died 1896-02-01 in Dona Ana County, New Mexico, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albert_Jennings_Fountain ",
+   "property": " deathPlace ",
+   "subject": " Doña_Ana_County,_New_Mexico"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albert_Jennings_Fountain ",
+     "property": " deathPlace ",
+     "subject": " Doña_Ana_County,_New_Mexico"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id10"
+      }
+},
+{
+   5: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway is a national of the United Kingdom, the capital of which, is London. Adam Holloway served in the Grenadier Guards and fought in the Gulf War. John Major was a commander during the Gulf War.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "London is the capital of the United Kingdom, from which Adam Holloway is a citizen He was in the Grenadier Guards, in the military and was involved in Gulf War battles. John Major was a commander during the Gulf War.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was in the Grenadier Guards in the military and fought in the Gulf War, when John Major was a commander. Adam Holloway is from the United Kingdom whose capital is London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " battles ",
+   "subject": " Gulf_War"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Holloway ",
+       "property": " battles ",
+       "subject": " Gulf_War"
+       },
+       {
+       "object": "Adam_Holloway ",
+       "property": " battles ",
+       "subject": " Gulf_War"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id51"
+      }
+},
+{
+   6: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway is a national of the United Kingdom, the capital of which, is London. Adam Holloway served in the Grenadier Guards and fought in the Gulf War. One of the commanders in the Gulf War was George H. W. Bush.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway who is a national of the United Kingdom, where London is the capital, served in the Grenadier Guards and he was involved in Gulf War battles. The commander of the Gulf War was George H. W. Bush.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "George H. W. Bush was a commander during the Gulf War. Adam Holloway was involved in Gulf War battles and was in the Grenadier Guards in the military. Adam Holloway is from the United Kingdom, the capital of which is, London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " battles ",
+   "subject": " Gulf_War"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Holloway ",
+       "property": " battles ",
+       "subject": " Gulf_War"
+       },
+       {
+       "object": "Adam_Holloway ",
+       "property": " battles ",
+       "subject": " Gulf_War"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id52"
+      }
+},
+{
+   7: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Magdalene College Cambridge alum and Grenadier Guards veteran Adam Holloway was born 05/05/2005 in Faversham, Kent, England. He is the Member of Parliament for Gravesham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. His alma mater was Magdalene College in Cambridge. Adam Holloway, was in the Grenadier Guards, in the military and was the Member of Parliament for Gravesham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England, attended Magdalene College in Cambridge and began his career on May 5th, 2005. He served in the Grenadier Guards and was the MP for Gravesham.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " "Faversham, Kent, England""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " "Faversham, Kent, England"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id53"
+      }
+},
+{
+   8: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway, who served in the Grenadier Guards, was born in Faversham, Kent, England, and studied at Magdalene College in Cambridge. He began his career on 5th May 2005 and worked as a Member of parliament.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. He served in the Grenadier Guards and worked as a Member of parliament. The alma mater of Adam Holloway was Magdalene College Cambridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. A Member of parliament, Adam Holloway, Grenadier Guards, in the military, and his alma mater was Magdalene College Cambridge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " "Faversham, Kent, England""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " "Faversham, Kent, England"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id54"
+      }
+},
+{
+   9: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Faversham, Adam Holloway began his career on 5th May 2005 and served in the Grenadier Guards. Adam Holloway was the Member of Parliament for Gravesham and his alma mater was Magdalene College in Cambridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham and his alma mater was Magdalene College, Cambridge. He began his career on 5 May 2005, serving in the Grenadier Guards and becoming a member of Parliament for Gravesham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Member of Parliament for Gravesham and retired Grenadier Guard Adam Holloway was born in Faversham. He graduated from Magdalene College, Cambridge and began his career 05/05/2005.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " Faversham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " Faversham"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id55"
+      }
+},
+{
+   10: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway who was born in Faversham, began his career on 5th May 2005, he worked as a Member of parliament and he was in the Grenadier Guards in the military. The alma mater of Adam Holloway was Magdalene College in Cambridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Magdalene College, Cambridge alum and Grenandier Guard veteran Adam Holloway was born in Faversham. He was also a Parliament member.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Faversham, Adam Holloway attended Magdalene College in Cambridge and began his career on 5th May 2005. He served in the Grenadier Guards and worked as a Member of parliament.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " Faversham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " Faversham"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id56"
+      }
+},
+{
+   11: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Magdalene College Cambridge alum and Grenadier Guard veteran Adam Holloway was a parliament member. Born in Kent, his career began 05/05/2005.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Kent, Adam Holloway began his career on 5th May 2005 and worked as a Member of parliament. Adam Holloway was in the Grenadier Guards, in the military and his Alma mater is Magdalene College, Cambridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Kent and graduated from Magdalene College, Cambridge. He began his career on 5 May 2005, serving in the military in the Grenadier Guards and also becoming a Member of Parliament.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " birthPlace ",
+   "subject": " Kent"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " birthPlace ",
+     "subject": " Kent"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id57"
+      }
+},
+{
+   12: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Magdalene College Cambridge alum and United Kingdom national Tory member Adam Holloway was born in Faversham Kent, England. He started his career 05/05/2005.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. A national of the United Kingdom, Adam Holloway is a member of the Tories and his alma mater is Magdalene College in Cambridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Faversham Kent, England, Adam Holloway attended Magdalene College in Cambridge and began his career on 5th May 2005. He is a United Kingdom national and is in the Conservative Party (UK).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " party ",
+   "subject": " Conservative_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " party ",
+     "subject": " Conservative_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id58"
+      }
+},
+{
+   13: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "UK Conservative Party and Magdalene College in Cambridge alum Adam Holloway was a Grenadier Guard. He was born in Faversham and started his career 05/05/2005.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway, born in Faversham, began his career on 5th May 2005 and served in the Grenadier Guards. A member of the U.K. Conservative Party, Adam Holloway attended Magdalene College, Cambridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Magdalene College in Cambridge alum and Grenadier Guard veteran Adam Holloway was born in Faversham. A UK Conservative Party member, his career began 05/05/2005.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " party ",
+   "subject": " Conservative_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " party ",
+     "subject": " Conservative_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id59"
+      }
+},
+{
+   14: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Kent and began his career on May 5th 2005. He is a membe of the Conservative Party in the UK and served in the Grenadier Guards. His alma mater is Magdalene College, Cambridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Holloway was born in Kent and began his career on 5th May 2005. His alma mater was Magdalene College Cambridge. Adam Holloway served in the Grenadier Guards and is a member of the Conservative Party in the UK.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Holloway ",
+   "property": " party ",
+   "subject": " Conservative_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_Holloway ",
+     "property": " party ",
+     "subject": " Conservative_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id60"
+      }
+},
+{
+   15: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Athens born Prime Minister Antonis Samaras was in office along with Prime Minister Konstantinos Mitsotakis. Greece born Adonis Georgiadis was in office during Samaras' leadership. Georgiadis' successor was Makis Voridis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antonis Samaras was born in Athens and was in office while Konstantinos Mitsotakis was Prime Minister. When Samaras himself was Prime Minister, Greek born Adonis Georgiadis was in office before being succeeded by Makis Voridis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, born in Greece, worked during Prime Minister Konstantinos Mitsotakis and Antonis Samaras' (born: Athens) leaderships. Adonis Georgiadis' successor was Makis Voridis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeMinister ",
+       "subject": " Antonis_Samaras"
+       },
+       {
+       "object": "Antonis_Samaras ",
+       "property": " birthPlace ",
+       "subject": " Athens"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id61"
+      }
+},
+{
+   16: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis is a member of the Greek New Democracy Party, the colour of which, is blue. Makis Voridis was the successor of Adonis Georgiadis, who served in office while Antonis Samaras was Prime Minister and Evangelos Venizelos was his deputy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis is a member of the Greek New Democracy Party which uses the colour blue. Before being succeeded by Makis Voridis he served in office while Antonis Samaras was Prime Minister and Evangelos Venizelos was Deputy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Blue is the colour of the New Democracy in Greece, which was the party of Adonis Georgiadis. Makis Voridis was the successor of Adonis Georgiadis, who was in office while Antonis Samaras was Prime Minister and Evangelos Venizelos was the deputy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adonis_Georgiadis ",
+   "property": " inOfficeWhilePrimeMinister ",
+   "subject": " Antonis_Samaras"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeminister ",
+       "subject": " Antonis_Samaras"
+       },
+       {
+       "object": "Adonis_Georgiadis ",
+       "property": " primeMinister ",
+       "subject": " Antonis_Samaras"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id62"
+      }
+},
+{
+   17: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales came from the United States, where Native Americans are one of the ethnic groups. Alfred Moore Scales took part in the Battle of Chancellorsville, part of the American Civil War conflict, during which, Abraham Lincoln was a commander.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Native Americans are an ethnic group in the United States, the country where Alfred Moore Scales lived. Alfred Moore Scales took part in the Battle of Chancellorsville, part of the American Civil War conflict. A commander in the American Civil War was Abraham Lincoln.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales came from the United States, where one of the ethnic groups are Native Americans. Alfred Moore Scales took part in the Battle of Chancellorsville, which was part of the American Civil War conflict. Abraham Lincoln was a commander in the American Civil War.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Chancellorsville ",
+   "property": " isPartOfMilitaryConflict ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Chancellorsville ",
+     "property": " isPartOfMilitaryConflict ",
+     "subject": " American_Civil_War"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id130"
+      }
+},
+{
+   18: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jefferson Davis was a commander in the American Civil War, where the US national Alfred Scales Moore took part in the Battle of Chancellorsville. The US is home to an ethnic group called African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Moore Scales came from the U.S. where one of the ethnic groups, is, African Americans. Alfred Moore Scales fought in the Battle of Chancellorsville, part of the American Civil War conflict, during which, Jefferson Davis was a commander.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the commanders during the American Civil War was Jefferson Davis. During the conflict Alfred Moore Scales took part in the Battle of Chancellorsville. He was living in the United States, a country where one of the ethnic groups are the African Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Battle_of_Chancellorsville ",
+   "property": " isPartOfMilitaryConflict ",
+   "subject": " American_Civil_War"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Battle_of_Chancellorsville ",
+     "property": " isPartOfMilitaryConflict ",
+     "subject": " American_Civil_War"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id131"
+      }
+},
+{
+   19: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The governing body in Buenos Aires is the Buenos Aires City Legislature and the city is led by Horacio Rodríguez Larreta. It is the death place of the Alberto Teisaire who was from Argentina where the language spoken is Spanish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Spanish is spoken in Argentina the country Alberto Teisaire came from. He died in Buenos Aires, where the governing body is, the Buenos Aires City Legislature. The leader of Buenos Aires is Horacio Rodríguez Larreta.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alberto_Teisaire ",
+   "property": " deathPlace ",
+   "subject": " Buenos_Aires"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alberto_Teisaire ",
+     "property": " deathPlace ",
+     "subject": " Buenos_Aires"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id11"
+      }
+},
+{
+   20: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire, born on 20th May 1891 in Mendoza, Argentina was a Rear Admiral in the Argentine Navy. He worked as a Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was born in Mendoza, Argentina on May 20th 1891 and served as a Rear Admiral in the Argentine Navy. He worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alberto Teisaire was born in Mendoza, Argentina on May 20th, 1891. He was a Rear Admiral in the Argentine Navy, worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alberto_Teisaire ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " "Provisional President of the Argentine Senate""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alberto_Teisaire ",
+       "property": " successor ",
+       "subject": " Isaac_Rojas"
+       },
+       {
+       "object": "Alberto_Teisaire ",
+       "property": " office ",
+       "subject": " "Provisional President of the Argentine Senate""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id12"
+      }
+},
+{
+   21: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Burlington is the largest city in Vermont, which is where Alvah Sabin is from. He started active service on 1853-03-04 and represented Vermont's 3rd Congressional District. Alvah Sabin died in Sycamore, Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin was from Vermont and represented Vermont's 3rd congressional district where Burlington is the largest city. He started active service on 03/04/1853 and died in Sycamore, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Before dying in Sycamore, Illinois, Alvah Sabin represented Vermont's 3rd Congressional District. He started active service on 1853-03-04 and his state was Vermont, the largest city of which is, Burlington.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " activeYearsStartDate ",
+   "subject": " 1853-03-04"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alvah_Sabin ",
+     "property": " activeYearsStartDate ",
+     "subject": " "1853-03-04"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id13"
+      }
+},
+{
+   22: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. He was from Vermont, which has the largest city of Burlington and worked as the Secretary of State of Vermont.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " office (workedAt, workedAs) ",
+   "subject": " Secretary_of_State_of_Vermont"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alvah_Sabin ",
+       "property": " region ",
+       "subject": " Vermont's_3rd_congressional_district"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " office ",
+       "subject": " "Secretary of State of Vermont""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id14"
+      }
+},
+{
+   23: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin represented Vermont and was a member of the Whig Party in the United States. The largest city in Vermont is Burlington. Alvah Sabin died in Sycamore, Illinois and Henry Clay was the leader of the Whig Party.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvah Sabin belongs to the Whig Party of the United States which is led by Henry Clay. Sabin represented Vermont, where the largest city is Burlington and eventually died in Sycamore, Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Burlington is the largest city in Vermont, the state, Alvah Sabin represented. He was a member of the Whig Party of the United States (led by Henry Clay) and died in Sycamore, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " party ",
+   "subject": " Whig_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id15"
+      }
+},
+{
+   24: {
+      "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Burlington is the largest city in Vermont, which is the state Alvah Sabin represented. Alvah Sabin (died in Sycamore, Illinois) was a member of the United States Whig Party, which was led by Daniel Webster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vermont, where the largest city is Burlington, was represented by Alvah Sabin who died in Sycamore, Illinois. He belonged to the Whig Party (United States) which is led by Daniel Webster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Burlington is the largest city in Vermont, the state that Alvah Sabin represented. He was a member of the United States Whig Party, which was led by Daniel Webster. Alvah Sabin died in Sycamore, Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alvah_Sabin ",
+   "property": " party ",
+   "subject": " Whig_Party_(United_States)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       },
+       {
+       "object": "Alvah_Sabin ",
+       "property": " party ",
+       "subject": " Whig_Party_(United_States)"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id16"
+      }
+},
+{
+   25: {
+   "category": "Politician",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister. Athens born Samaras, who had the deputy Evangelos Venizelos, was in office while Konstantinos Mitsotakis was Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antonis Samaras, born in Athens, was Prime Minister and served with Adonis Georgiadis. Samaras, whose deputy is Evangelos Venizelos, served also when K. Mitsotakis was Prime Minister. Georgiadis was succeeded by Makis Voridis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adonis Georgiadis was in office while Athens-born Antonis Samaras was Prime Minister. In turn, Samaras was in office while Konstantinos Mitsotakis was Prime Minister. Samaras' deputy is Evangelos Venizelos and Georgiadis was succeeded by Makis Voridis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antonis_Samaras ",
+   "property": " birthPlace ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antonis_Samaras ",
+     "property": " birthPlace ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id17"
+      }
+}

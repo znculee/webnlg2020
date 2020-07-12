@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco originates from the country of Spain.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is from Spain.</lex>
+    </entry>
+    <entry category="Food" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | ingredient | Almond</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | ingredient | Almond</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco has almond as one of its ingredients.</lex>
+      <lex comment="good" lid="Id2">Almond is an ingredient in ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | ingredient | Bread</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | ingredient | Bread</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bread is an ingredient of Ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | ingredient | Garlic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | ingredient | Garlic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">An ingredient of Ajoblanco is garlic.</lex>
+      <lex comment="good" lid="Id2">Garlic is an ingredient used in Ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | ingredient | Olive_oil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | ingredient | Olive_oil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Olive oil is an ingredient in Ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | ingredient | Water</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | ingredient | Water</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco contains water.</lex>
+      <lex comment="good" lid="Id2">Water is an ingredient in Ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajoblanco is a food found in Andalusia.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is from the Andalusia region.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco is from Andalusia.</lex>
+    </entry>
+    <entry category="Food" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Almond | division | Flowering_plant</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Almond | unrankedDivisio | Flowering_plant</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Almond | division | Flowering_plant</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Almond is classed as a flowering plant.</lex>
+      <lex comment="good" lid="Id2">Almonds are in the division of flowering plants.</lex>
+    </entry>
+    <entry category="Food" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Almond | familia | Rosaceae</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Almond | family | Rosaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Almond | family | Rosaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Almond is part of the Rosaceae family.</lex>
+      <lex comment="good" lid="Id2">Almonds are from the Rosaceae family.</lex>
+    </entry>
+    <entry category="Food" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Almond | ordo | Rosales</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Almond | order | Rosales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Almond | order | Rosales</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Almond is one of the members of the Rosales order.</lex>
+    </entry>
+    <entry category="Food" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Almond | order | Rosids</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Almond | order | Rosids</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Almond is part of the order of Rosids.</lex>
+      <lex comment="good" lid="Id2">Almonds are from the order Rosids.</lex>
+    </entry>
+    <entry category="Food" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Italy is the country Amatriciana sauce comes from.</lex>
+      <lex comment="good" lid="Id2">Amatriciana sauce is a traditional Italian sauce.</lex>
+      <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italy.</lex>
+    </entry>
+    <entry category="Food" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | course | Italian_meal_structure</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce can be found in an Italian meal.</lex>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | variations | "Onion, garlic, black pepper, chili"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A variation of Amatriciana sauce includes onion, garlic, black pepper, and chili.</lex>
+      <lex comment="good" lid="Id2">A variation of Amatriciana sauce contains onion, garlic, black pepper, chili.</lex>
+    </entry>
+    <entry category="Food" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | hasVariant | Garlic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | Garlic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce can be varied by adding garlic.</lex>
+      <lex comment="good" lid="Id2">One variation of Amatriciana sauce uses garlic as part of its dish.</lex>
+    </entry>
+    <entry category="Food" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | hasVariant | Onion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | Onion</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Onion is one variation of ingredients in Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | ingredient | Guanciale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | ingredient | Guanciale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Guanciale is an ingredient of Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id2">Guanciale is an ingredient used in the preparation of Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id3">Guanciale is an ingredient in Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | ingredient | Olive_oil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | ingredient | Olive_oil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Olive oil is one ingredient in Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id2">Olive oil is an ingredient of Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | ingredient | Tomato</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | ingredient | Tomato</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce has tomato as one of its ingredients.</lex>
+      <lex comment="good" lid="Id2">Tomato is an ingredient in Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id3">Tomato is an ingredient of Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | mainIngredient | "Tomatoes, guanciale, cheese , olive oil"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | ingredientName | "Tomatoes,guanciale, cheese (Pecorino Romano),olive oil"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tomatoes, guanciale, cheese, olive oil are the main ingredients of Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | region | Lazio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | region | Lazio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce comes from the region of Lazio.</lex>
+      <lex comment="good" lid="Id2">Amatriciana is a sauce from Lazio.</lex>
+      <lex comment="good" lid="Id3">Amatriciana sauce is from the Lazio region.</lex>
+    </entry>
+    <entry category="Food" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andalusia | leaderName | Susana_Díaz</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Susana Diaz is a leader of Andalusia.</lex>
+      <lex comment="good" lid="Id2">Susana Diaz is the leader of Andalusia.</lex>
+    </entry>
+    <entry category="Food" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Antioquia_Department | country | Colombia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antioquia_Department | country | Colombia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Antioquia Department is found in Colombia.</lex>
+      <lex comment="good" lid="Id2">The Antioquia Department can be found in the country of Colombia.</lex>
+    </entry>
+    <entry category="Food" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | country | Indonesia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arem-arem is a food found in Indonesia.</lex>
+      <lex comment="good" lid="Id2">Arem arem originates from the country of Indonesia.</lex>
+      <lex comment="good" lid="Id3">The country of Indonesia commonly serves Arem-arem.</lex>
+    </entry>
+    <entry category="Food" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arem-arem | course | "Main course"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | course | "Main course"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arem-arem can be served as a main course.</lex>
+      <lex comment="good" lid="Id2">Arem arem is a main course.</lex>
+    </entry>
+    <entry category="Food" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | alternateName | "Asam padeh"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | alternativeName | "Asam padeh"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The alternative name for asam pedas is asam padeh.</lex>
+      <lex comment="good" lid="Id2">Asam padeh is also known as Asam pedas.</lex>
+      <lex comment="good" lid="Id3">An alternative name for Asam pedas is Asam padeh.</lex>
+    </entry>
+    <entry category="Food" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | "Indonesia and Malaysia"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | "Indonesia and Malaysia"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas comes from the countries of Indonesia and Malaysia.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is from Indonesia and Malaysia.</lex>
+    </entry>
+    <entry category="Food" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Indonesia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Indonesia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Indonesia is the country Asam pedas comes from.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a dish that is popular in Indonesia.</lex>
+      <lex comment="good" lid="Id3">The Asam pedas is popular in Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | creatorOfDish | Malay_cuisine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | creatorOfDish | Malay_cuisine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a dish that was created within Malay cuisine.</lex>
+    </entry>
+    <entry category="Food" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | creatorOfDish | Padang_cuisine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | creatorOfDish | Padang_cuisine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Padang cuisine has resulted in the creation of the dish Asam pedas.</lex>
+    </entry>
+    <entry category="Food" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | ingredientName | "Fish cooked in sour and hot sauce"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asam_pedas | mainIngredient | "Fish cooked in sour and hot sauce"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | mainIngredients | "Fish cooked in sour and hot sauce"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The main ingredients of Asam pedas are fish cooked in sour and hot sauce.</lex>
+      <lex comment="good" lid="Id2">The main ingredients of asam pedas consist of fish cooked in a sour and hot sauce.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a dish of fish cooked in a sour and hot sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | region | "Sumatra and Malay Peninsula"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | region | "Sumatra and Malay Peninsula"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is found in the region of Sumatra and Malay peninsula.</lex>
+      <lex comment="good" lid="Id2">The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is from the Sumatra and Malay Peninsula regions.</lex>
+    </entry>
+    <entry category="Food" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | region | Malay_Peninsula</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | region | Malay_Peninsula</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a food found in the Malay Peninsula.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is from the Malay Peninsula region.</lex>
+      <lex comment="good" lid="Id3">Asam pedas hails from the Malay Peninsula.</lex>
+    </entry>
+    <entry category="Food" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | region | Sumatra</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | region | Sumatra</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a dish from Sumatra.</lex>
+    </entry>
+    <entry category="Food" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | ingredient | Christmas_pudding</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | ingredient | Christmas_pudding</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Christmas pudding is an ingredient in Baked Alaska.</lex>
+    </entry>
+    <entry category="Food" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | ingredient | Ice_cream</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | ingredient | Ice_cream</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ice cream is an ingredient of Baked Alaska.</lex>
+      <lex comment="good" lid="Id2">Ice cream is an ingredient in Baked Alaska.</lex>
+    </entry>
+    <entry category="Food" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | ingredient | Sponge_cake</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | ingredient | Sponge_cake</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sponge cake is an ingredient of Baked Alaska.</lex>
+      <lex comment="good" lid="Id2">One of the ingredients of Baked Alaska is Sponge Cake.</lex>
+      <lex comment="good" lid="Id3">Sponge cake is an ingredient in baked alaska.</lex>
+    </entry>
+    <entry category="Food" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | ingredientName | "Meringue, ice cream,sponge cakeorChristmas pudding"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | mainIngredients | "Meringue, ice cream, sponge cake or Christmas pudding"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Meringue, ice cream, sponge cake or Christmas pudding are the main ingredients of Baked Alaska.</lex>
+      <lex comment="good" lid="Id2">The main ingredients of a Baked Alaska are meringue, ice cream and sponge cake (or Christmas pudding).</lex>
+      <lex comment="good" lid="Id3">Meringue, ice cream, sponge cake or Christmas pudding are main ingredients in baked Alaska.</lex>
+    </entry>
+    <entry category="Food" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | region | "Paris, New York or Hong Kong"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | region | "Paris, New York or Hong Kong"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Hong Kong or New York or Paris are the regions where Baked Alaska is found.</lex>
+      <lex comment="good" lid="Id2">Baked Alaska comes from either Paris, New York or Hong Kong.</lex>
+      <lex comment="good" lid="Id3">Baked Alaska is popular in Paris, New York and Hong Kong.</lex>
+    </entry>
+    <entry category="Food" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baked_Alaska | region | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | region | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baked Alaska comes from the region of New York.</lex>
+      <lex comment="good" lid="Id2">Baked Alaska is from the New York region.</lex>
+    </entry>
+    <entry category="Food" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bakewell_pudding | course | "Dessert"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bakewell_pudding | course | "Dessert"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bakewell pudding is a dessert.</lex>
+      <lex comment="good" lid="Id2">Bakewell pudding is classed as a Dessert.</lex>
+    </entry>
+    <entry category="Food" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bakewell_pudding | creator | "Rutland Arms, Bakewell, in 1820"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bakewell_pudding | creator | "Rutland Arms, Bakewell, in 1820"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bakewell pudding was created in 1820 at the Rutland Arms, Bakewell.</lex>
+      <lex comment="good" lid="Id2">Bakewell pudding was created in Rutland Arms, Bakewell, in 1820.</lex>
+    </entry>
+    <entry category="Food" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A variant of bakewell pudding is bakewell tart.</lex>
+      <lex comment="good" lid="Id2">Bakewell tart is a variation of Bakewell pudding.</lex>
+    </entry>
+    <entry category="Food" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bakewell_pudding | ingredientName | "Ground almond, jam, butter, eggs"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bakewell_pudding | mainIngredient | "Ground almond, jam, butter, eggs"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Some main ingredients in Bakewell pudding are ground almonds, jam, butter and eggs.</lex>
+      <lex comment="good" lid="Id2">Bakewell pudding has ground almond, jam, butter and eggs as main ingredients.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of Bakewell pudding are ground almond, jam, butter, eggs.</lex>
+    </entry>
+    <entry category="Food" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bionico is a food found in Mexico.</lex>
+    </entry>
+    <entry category="Food" eid="Id168" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bionico | ingredient | Condensed_milk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | ingredient | Condensed_milk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Condensed milk is an ingredient of Bionico.</lex>
+      <lex comment="good" lid="Id2">Condensed milk is an ingredient in Bionico.</lex>
+      <lex comment="good" lid="Id3">Condensed milk is used in bionico.</lex>
+    </entry>
+    <entry category="Food" eid="Id207" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jalisco | leaderName | Jesús_Casillas_Romero</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jalisco | leaderName | Jesús_Casillas_Romero</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Jalisco is Jesús Casillas Romero.</lex>
+      <lex comment="good" lid="Id2">Jesús Casillas Romero is the name of Jalisco's leader.</lex>
+      <lex comment="good" lid="Id3">The name of the leader in Jalisco is Jesus Casillas Romero.</lex>
+    </entry>
+    <entry category="Food" eid="Id208" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Javanese people are an ethnic group of Java.</lex>
+      <lex comment="good" lid="Id2">The Javanese people are an ethnic group in Java.</lex>
+    </entry>
+    <entry category="Food" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Lemon | family | Rutaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lemon | family | Rutaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The lemon belongs to the rutaceae family.</lex>
+      <lex comment="good" lid="Id2">Lemon is a member of the family Rutaceae.</lex>
+    </entry>
+    <entry category="Food" eid="Id211" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Lemon | genus | Citrus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lemon | genus | Citrus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Lemon is part of genus Citrus.</lex>
+      <lex comment="good" lid="Id2">Lemon is from the genus citrus.</lex>
+    </entry>
+    <entry category="Food" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Mexico | leader | Enrique_Peña_Nieto</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Mexico | leaderName | Enrique_Peña_Nieto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mexico | leaderName | Enrique_Peña_Nieto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Mexico is Enrique Peña Nieto.</lex>
+      <lex comment="good" lid="Id2">Enrique Pena Nieto is a leader in Mexico.</lex>
+      <lex comment="good" lid="Id3">Enrique Pena Nieto is the leader of Mexico.</lex>
+    </entry>
+    <entry category="Food" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Mondelez_International | foundationPlace | Chicago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mondelez_International | foundationPlace | Chicago</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mondelez International was founded in Chicago.</lex>
+    </entry>
+    <entry category="Food" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_York | language | Arabic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York | language | Arabic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arabic is one of the languages that is spoken in New York.</lex>
+      <lex comment="good" lid="Id2">Arabic is one language spoken in New York.</lex>
+    </entry>
+    <entry category="Food" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_York | language | French_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York | language | French_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The French Language can be heard in New York.</lex>
+      <lex comment="good" lid="Id2">French is a language in New York.</lex>
+    </entry>
+  </entries>
+</benchmark>

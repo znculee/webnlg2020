@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id27" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | region | Valencian_Community</otriple>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | region | Valencian_Community</mtriple>
+        <mtriple>Valencian_Community | leaderName | Ximo_Puig</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arros negre comes from the region of the Valencian Community (leader Ximo Puig), Spain (leader Felipe VI). Spaniards are the population name there.</lex>
+      <lex comment="good" lid="Id2">Arros negre comes from the Valencia Province of Spain, where Ximo Puig is the region's leader. The country's main ethnic group is the Spaniards and it is led by King Felipe VI.</lex>
+    </entry>
+    <entry category="Food" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | region | Valencian_Community</otriple>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | region | Valencian_Community</mtriple>
+        <mtriple>Valencian_Community | leaderName | Ximo_Puig</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ximo Puig is a leader in the Valencian Community where Arros negre comes from. It is a traditional dish from Spain, where the currency is the euro and the leader is Felipe VI of Spain.</lex>
+      <lex comment="good" lid="Id2">The Spanish dish Arros negre comes from the region of the Valencian Community, where the leader is Ximo Puig. The leader of Spain is Felipe VI and the currency used in the country is the euro.</lex>
+    </entry>
+    <entry category="Food" eid="Id29" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | region | Valencian_Community</otriple>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | region | Valencian_Community</mtriple>
+        <mtriple>Valencian_Community | leaderName | Ximo_Puig</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The traditional Spanish dish Arros negre comes from the region of the Valencian Community, where Ximo Puig is the leader. The language in Spain is Spanish and the leader of the country is Felipe VI.</lex>
+      <lex comment="good" lid="Id2">The traditional Spanish dish Arros negre comes from the region of the Valencian Community, where the leader is Ximo Puig. The Spanish language is spoken in Spain, where the leader is Felipe VI.</lex>
+      <lex comment="good" lid="Id3">Arros Negre comes from Spain, where the leader is Felipe VI and they speak spanish, but it's more specific to the Valencian Community, where the leader is Ximo Puig.</lex>
+    </entry>
+    <entry category="Food" eid="Id30" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Indonesia</otriple>
+        <otriple>Sumatra | ethnicGroup | Acehnese_people</otriple>
+        <otriple>Indonesia | leader | Joko_Widodo</otriple>
+        <otriple>Asam_pedas | region | Sumatra</otriple>
+        <otriple>Sumatra | ethnicGroups | Malays_(ethnic_group)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Indonesia</mtriple>
+        <mtriple>Sumatra | ethnicGroup | Acehnese_people</mtriple>
+        <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
+        <mtriple>Asam_pedas | region | Sumatra</mtriple>
+        <mtriple>Sumatra | ethnicGroup | Malays_(ethnic_group)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Joko Widodo is the leader of Indonesia which is where Asam pedas comes from. Asam pedas also comes from Sumatra where the ethnic groups Malays and Acehnese live.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a dish from Sumatra in Indonesia, a country led by Joko Widodo. The Acehnese and Malays are both ethnic groups in Sumatra.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a popular dish in Indonesia, but it's from Sumatra, where the Acehnese and Malays are both ethnic groups. Joko Widodo is an Indonesian leader.</lex>
+    </entry>
+    <entry category="Food" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Malay</otriple>
+        <otriple>Malaysia | capital | Kuala_Lumpur</otriple>
+        <otriple>Asam_pedas | region | Malay_Peninsula</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
+        <mtriple>Malaysia | capital | Kuala_Lumpur</mtriple>
+        <mtriple>Asam_pedas | region | Malay_Peninsula</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital of Malaysia is Kuala Lumpur, and two ethnic groups include Malaysian Chinese and Malay. Asam pedas is a dish from the Malay Peninsula.</lex>
+      <lex comment="good" lid="Id2">The Malay Peninsula region of Malaysia offer Asam pedas. Malaysia is also home to the Malay and ethnic Malaysian Chinese. Malaysia's capital is Kuala Lumpur.</lex>
+    </entry>
+    <entry category="Food" eid="Id32" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Malay</otriple>
+        <otriple>Malaysia | capital | Kuala_Lumpur</otriple>
+        <otriple>Asam_pedas | region | Sumatra</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
+        <mtriple>Malaysia | capital | Kuala_Lumpur</mtriple>
+        <mtriple>Asam_pedas | region | Sumatra</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a Malaysian dish found in Sumatra. The capital of Malaysia is Kuala Lumpur and the Malaysian Chinese and the Malay are ethnic groups in the country.</lex>
+      <lex comment="good" lid="Id2">The capital of Malaysia is Kuala Lumpur. The Malaysian chinese and Malaysian Malay are both ethnic groups in this country. Asam pedas, a dish from Sumatra, may also be found in Malaysia.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a dish from Sumatra. It can also be found in Malaysia (capital city: Kuala Lumpur) where Malaysian chinese and Malay are ethnic groups.</lex>
+    </entry>
+    <entry category="Food" eid="Id33" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Malay</otriple>
+        <otriple>Malaysia | capital | Putrajaya</otriple>
+        <otriple>Asam_pedas | region | "Sumatra and Malay Peninsula"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
+        <mtriple>Malaysia | capital | Putrajaya</mtriple>
+        <mtriple>Asam_pedas | region | "Sumatra and Malay Peninsula"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a food found in the region of Sumatra and Malay peninsula in Malaysia, the capital of which is Putrajaya, and whose ethnic groups include the Malay and the Malaysian Chinese.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia, where the capital is Putrajaya and ethnic groups include Malay and Malaysian chinese. The dish is also found in the regions of Sumatra and the Malay Peninsula.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is from the Sumatra and Malay Peninsula regions. The food can be found in Malaysia whose capital city is Putrajaya and Malay and Malaysian Chinese people are among the country's ethnic groups.</lex>
+    </entry>
+    <entry category="Food" eid="Id74" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Washington, D.C. is the capital of the United States and the leader of the United States has a title called the president. Paul Ryan is a leader of the United States. Asian Americans are one of many ethnic groups in the United States which is where Bacon Explosion comes from.</lex>
+      <lex comment="good" lid="Id2">Bacon Explosion comes from the United States, where Paul Ryan is a leader and Asian Americans are one of the ethnic groups. The leader of the United States is called the President and the capital city is Washington DC.</lex>
+      <lex comment="good" lid="Id3">Bacon Explosion hails from the United States, where Paul Ryan is a leader and the capital is Washington DC. Asian Americans are an ethnic group there and the leader of the country has the title President.</lex>
+    </entry>
+    <entry category="Food" eid="Id99" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bakewell_pudding | region | Derbyshire_Dales</otriple>
+        <otriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</otriple>
+        <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
+        <otriple>Derbyshire_Dales | subdivisionName | Derbyshire</otriple>
+        <otriple>Bakewell_tart | ingredient | Fruit_preserves</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bakewell_pudding | region | Derbyshire_Dales</mtriple>
+        <mtriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</mtriple>
+        <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
+        <mtriple>Derbyshire_Dales | administrativeCounty | Derbyshire</mtriple>
+        <mtriple>Bakewell_tart | ingredient | Fruit_preserves</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bakewell tart, which includes the ingredient fruit preserves, is a variant of Bakewell Pudding which comes from the Derbyshire Dales. The leader of the Derbyshire Dales, which is in the county of Derbyshire, is Patrick McLoughlin.</lex>
+      <lex comment="good" lid="Id2">The bakewell tart includes fruit preserves. The variant is Bakewell pudding, originating from Patrick McLoughlin led Derbyshire Dales in the County of Derbyshire.</lex>
+    </entry>
+    <entry category="Food" eid="Id120" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>France | leader | Gérard_Larcher</otriple>
+        <otriple>Mondelez_International | foundationPlace | Chicago</otriple>
+        <otriple>Barny_Cakes | creator | Mondelez_International</otriple>
+        <otriple>France | leaderName | Manuel_Valls</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | country | France</mtriple>
+        <mtriple>France | leaderName | Gérard_Larcher</mtriple>
+        <mtriple>Mondelez_International | foundationPlace | Chicago</mtriple>
+        <mtriple>Barny_Cakes | creator | Mondelez_International</mtriple>
+        <mtriple>France | leaderName | Manuel_Valls</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes were created by Chicago based Mondelez International. Barny cakes are also from France, whose leader is Gerard Larcher. Manuel Valls is a former leader.</lex>
+      <lex comment="good" lid="Id2">Barney cakes is created by Mondelez International, which was founded in Chicago. Barney cakes are now produced in France, a nation led by Manuel Valls and Gerard Larcher.</lex>
+      <lex comment="good" lid="Id3">Created by Mondelez International (founded in Chicago), Barny Cakes come from France where Gerard Larcher and Manuel Valls are leaders.</lex>
+    </entry>
+    <entry category="Food" eid="Id121" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>Mondelez_International | foundationPlace | Chicago</otriple>
+        <otriple>Barny_Cakes | creator | Mondelez_International</otriple>
+        <otriple>France | leader | François_Hollande</otriple>
+        <otriple>France | leaderName | Claude_Bartolone</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | country | France</mtriple>
+        <mtriple>Mondelez_International | foundationPlace | Chicago</mtriple>
+        <mtriple>Barny_Cakes | creator | Mondelez_International</mtriple>
+        <mtriple>France | leaderName | François_Hollande</mtriple>
+        <mtriple>France | leaderName | Claude_Bartolone</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mondelez International, founded in Chicago, is the creator of Barny cakes which come from France. François Hollande and Claude Bartolone are French leaders.</lex>
+      <lex comment="good" lid="Id2">Francois Hollande and Claude Bartolone are leaders of France. A national dessert is called Barny cakes, which were crated by Mondelez International in Chicago.</lex>
+    </entry>
+    <entry category="Food" eid="Id122" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>Mondelez_International | foundationPlace | Chicago</otriple>
+        <otriple>Barny_Cakes | creator | Mondelez_International</otriple>
+        <otriple>France | leader | François_Hollande</otriple>
+        <otriple>France | leaderName | Manuel_Valls</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | country | France</mtriple>
+        <mtriple>Mondelez_International | foundationPlace | Chicago</mtriple>
+        <mtriple>Barny_Cakes | creator | Mondelez_International</mtriple>
+        <mtriple>France | leaderName | François_Hollande</mtriple>
+        <mtriple>France | leaderName | Manuel_Valls</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Created by Mondelez International (founded in Chicago), Barny Cakes come from France where François Hollande and Manuel Valls are leaders.</lex>
+      <lex comment="good" lid="Id2">Barny Cakes originates from France where the country's leaders are Francois Hollande and Manuel Valls. Mondelez International is the creator of the dessert and the company was founded in Chicago.</lex>
+      <lex comment="good" lid="Id3">Barney cakes were founded by Chicago's Mondelez International in France (led by Manuel Valls and Francois Hollande).</lex>
+    </entry>
+    <entry category="Food" eid="Id129" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Indonesia | leader | Joko_Widodo</otriple>
+        <otriple>Shumai | ingredient | Shiitake</otriple>
+        <otriple>Batagor | variations | Siomay</otriple>
+        <otriple>Siomay | hasVariant | Shumai</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Batagor | country | Indonesia</otriple>
+        <otriple>Indonesia | leader | Joko_Widodo</otriple>
+        <otriple>Batagor | hasVariant | Siomay</otriple>
+        <otriple>Siomay | variations | Shumai</otriple>
+        <otriple>Shumai | ingredient | Shiitake</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Batagor | country | Indonesia</mtriple>
+        <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
+        <mtriple>Shumai | ingredient | Shiitake</mtriple>
+        <mtriple>Batagor | dishVariation | Siomay</mtriple>
+        <mtriple>Siomay | dishVariation | Shumai</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batagor is found in Indonesia, where the leader is Joko Widodo. The dish is a variation of siomay and shumai (which contains shiitake).</lex>
+      <lex comment="good" lid="Id2">Batagor, Shumai and Siomay are variations of the same dish. Batagor is found in the country of Indonesia, which leader is Joko Widodo. Shiitake is an ingredient of Shumai.</lex>
+    </entry>
+    <entry category="Food" eid="Id133" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Beef_kway_teow | region | Singapore</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | "Singapore and Indonesia"@en</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Beef_kway_teow | region | Singapore</otriple>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | "Singapore and Indonesia"@en</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Beef_kway_teow | region | Singapore</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | "Singapore and Indonesia"</mtriple>
+        <mtriple>Singapore | leaderName | Tony_Tan</mtriple>
+        <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English speaking Singapore, led by Tony Tan and Halimah Yacob, offers the dish Beef kway teow, also found in Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id134" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Beef_kway_teow | region | Singapore</otriple>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Indonesia</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Beef_kway_teow | region | Singapore</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Indonesia</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Beef_kway_teow | region | Singapore</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Indonesia</mtriple>
+        <mtriple>Singapore | leaderName | Tony_Tan</mtriple>
+        <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leaders of Singapore are Tony Tan and Halimah Yacob. They speak English there and eat beef kway teow. That dish is also popular in Indonesia.</lex>
+      <lex comment="good" lid="Id2">Tony Tan and Halimah Yacob are leaders in Singapore, a country where English is spoken. Beef kway teow comes from Singapore. It is also a popular food in Indonesia.</lex>
+    </entry>
+    <entry category="Food" eid="Id140" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | currency | Indian_rupee</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | currency | Indian_rupee</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>India | leader | Narendra_Modi</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | country | India</mtriple>
+        <mtriple>India | currency | Indian_rupee</mtriple>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
+        <mtriple>India | leaderName | Narendra_Modi</mtriple>
+        <mtriple>Bhajji | region | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Bhajji originates from the Karnataka region of India. The country's leaders include T. S. Thakur and Narendra Modi and the currency is the rupee.</lex>
+      <lex comment="good" lid="Id2">Bhajji come from the Karnataka region, India, which leaders are T. S. Thakur and Narendra Modi and the currency is the Indian rupee.</lex>
+    </entry>
+    <entry category="Food" eid="Id147" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+        <otriple>Karnataka | leaderName | Vajubhai_Vala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | country | India</mtriple>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
+        <mtriple>Bhajji | region | Karnataka</mtriple>
+        <mtriple>Karnataka | leaderName | Vajubhai_Vala</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Bhajji originates from the Karnataka region of India. The country's leader is T. S. Thakur and Vajubhai Vala is the leader of Karnataka. People living in India are called Indians.</lex>
+      <lex comment="good" lid="Id2">Bhajji, from the region of Karnataka, originates from india where people are referred to as indians, the leaders are T.S. Thakur and Vajubhai Vala.</lex>
+    </entry>
+  </entries>
+</benchmark>

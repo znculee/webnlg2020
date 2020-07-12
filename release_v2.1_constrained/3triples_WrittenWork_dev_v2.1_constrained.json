@@ -1,0 +1,442 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Native Americans are one of the ethnic groups of the United States where A Wizard of Mars, which is published in English, originates from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars is written in English and was published in the United States. Additionally, Native Americans are an ethnic group in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The US is not only home to Native Americans but also the origin place of the English book A Wizard of Mars.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id111"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars, published in the United States was written in English, which is spoken in Great Britain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was written in English (which is spoken in Great Britain) and originates from the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id112"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The English-language book A Wizard of Mars originates from the United States that includes many Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Written in English, A Wizard of Mars was Published in the United States where one of the ethnic groups is Asian Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Wizard_of_Mars ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Wizard_of_Mars ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id113"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars comes from the United States where they speak english and African Americans are one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language of the United States where A Wizard of Mars was published. One of the ethnic groups in the country are the African Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id210"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was published in the United States, where Barack Obama is the leader and one of the ethnic groups is African American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barack Obama, president of the US is an African American man, which is one of the ethnic groups of the United States. A Wizard of Mars was published in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id211"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars was Published in the United States where the leader the President. it is also where one of the ethnic groups is African Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States, which is led by the President, and includes African Americans as one of its ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States, where the title of the leader is the President and where African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id212"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Many Asian Americans live in the United States, the country where English is the language and where 'A Fortress of Grey Ice' is from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice was originally published in English. The book came from the United States, where there is an ethnic group called Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is written in the English language and is from the United States where one of the ethnic groups are Asian Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id213"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the US, where the capital city is Washington D.C. There are many Asian Americans in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, where Washington D. C. is the capital and Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The US is home to Asian Americans and the origin place of A Fortress of Grey Ice. Washington, D.C. is the capital.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id214"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A severed Wasp originates from the United States, a country that includes many Asian Americans and has Washington, D.C. as its capital.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States, where there is an ethnic group called Asian Americans and where the capital is Washington DC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The US is home to Asian Americans and is the origin place of A Severed Wasp. Washington, D.C. is the capital.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id215"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In the United States, English is the language spoken and one of the ethnic groups is Asian Americans. It is also the country where A Fortress of Grey Ice is from.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where they speak English and of the ethnic groups is Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States which has the language of English and where the Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id216"
+      }
+},
+{
+   11: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the language is English and the Asian Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the language is English and one of the ethnic groups are the Asian Americans.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "English is spoken in the US; which is home to Asian Americans and the origin place of A Severed Wasp.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id217"
+      }
+}

@@ -1,0 +1,514 @@
+{
+   1: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Jong Ajax and Ajax Youth Academy are tenants of Sportpark De Toekomst. the home ground of AFC Ajax (amateurs). The ground is operated by AFC Ajax and owned by AFC Ajax NV.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax and owned by AFC Ajax NV. Jong Ajax and Ajax Youth Academy are both tenants.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst. It is owned and operated by AFC Ajax N.V. and tenanted by Ajax Youth Academy (Jong Ajax).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax_(amateurs) ",
+   "property": " ground ",
+   "subject": " Sportpark_De_Toekomst"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax_(amateurs) ",
+     "property": " ground ",
+     "subject": " Sportpark_De_Toekomst"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id22"
+      }
+},
+{
+   2: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK play in. AZAL Arena, is where home matches of AZAL PFK are played. The club has 3500 members, and are in the 2014 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL PFK, who play at the AZAL Arena and have a membership of 3500, are in the Azerbaijan Premier League where they competed in 2014. The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL PFK competed in the 2014 season and play their home matches at the AZAL Arena.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " league ",
+   "subject": " Azerbaijan_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " league ",
+     "subject": " Azerbaijan_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id23"
+      }
+},
+{
+   3: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 members and play their home matches at the AZAL Arena.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " league ",
+   "subject": " Azerbaijan_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " league ",
+     "subject": " Azerbaijan_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id24"
+      }
+},
+{
+   4: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense, whose ground is Estádio Municipal Coaracy da Mata Fonseca, play in the Campeonato Brasileiro Série C league in Brazil. Agremiacao Sportiva Arapiraquense has 17000 members and Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, it has 17000 members and play in the Campeonato Brasileiro Série C league, which is based in Brazil and the current champions are Vila Nova Futebol Clube.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id25"
+      }
+},
+{
+   5: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C league in Brazil. The Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members also played in the league in 2015.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C. based in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id26"
+      }
+},
+{
+   6: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense (with 17000 members) play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube are the champions of Série C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense play in the Brazilian Campeonato Brasileiro Série C league in 2015. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C from Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also competed in the league in 2015.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       },
+       {
+       "object": "Agremiação_Sportiva_Arapiraquense ",
+       "property": " league ",
+       "subject": " Campeonato_Brasileiro_Série_C"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id27"
+      }
+},
+{
+   7: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "St. Vincent-St. Mary High School, which is in Akron, Ohio, in the United States, is the ground of Akron Summit Assault. They play in the Premier Development League, where the champions have been K-W United FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "St Vincent-St Mary High School, located in Akron, Ohio, US is the home of Akron Summit Assault. They play football in the Premier Development League, of which K-W United FC were champions.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "K-W United FC have been champions of the Premier Development League, which Akron Summit Assault play in. their ground is St. Vincent-St. Mary High School in Akron, Ohio, in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id28"
+      }
+},
+{
+   8: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is located in the United States, is part of the Summit County and has Dan Horrigan as a leader. Akron is also home to St Vincent-St Mary High School which is the ground of Akron Summit Assault.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "St. Vincent–St. Mary High School is located in the city of Akron, Ohio, USA. The school is the ground of Akron Summit Assault. The city is part of Summit County, Ohio. It is led by Dan Horrigan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dan Horrigan is the leader in Akron, Summit County, Ohio, United States, where St Vincent-St Mary High School is located. The school is the location for the home ground of Akron Summit Assault.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id29"
+      }
+},
+{
+   9: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States, where the leader is Dan Horrigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault have their ground at St Vincent St Mary High School which is based in Akron, Summit County, Ohio in the United States. Dan Horrigan is the leader of Akron.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dan Horrigan is the leader of Akron where the home ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id30"
+      }
+},
+{
+   10: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "St. Vincent-St. Mary High School is located in Akron, Summit County, Ohio USA. St Vincent-St Mary High School is the ground of Akron Summit Assault. The leader of Akron, Ohio is a one Dan Horrigan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Summit County, Ohio, (where the leader is Dan Horrigan), in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault's ground is St. Vincent-St. Mary High School. The school is in the United States in Summit County, in Akron, Ohio where Dan Horrigan is the leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id31"
+      }
+},
+{
+   11: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Summit County, Ohio in the U.S. Dan Horrigan is the leader of Akron, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dan Horrigan is the leader of Akron, Summit County, Ohio in the United States. Akron is the location of the home ground of Akron Summit Assault at St Vincent St Mary High School.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "St. Vincent St. Mary High School is located in Summit County, Ohio, Akron, Ohio, United States. Its leader is Dan Horrigan and it is the ground of Akron Summit Assault.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id32"
+      }
+},
+{
+   12: {
+   "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault play in the Premier Development League (where K-W United FC were previously champions). The team has their ground at St Vincent-St Mary High School in Akron, Ohio, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "K-W United FC have been champions of the Premier Development League, which is the league Akron Summit Assault play in. Akron Summit Assault's ground is St. Vincent-St. Mary High School, in Akron, Ohio, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, United States. The team play in the Premier Development League, which has previously been won by K-W United FC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " St._Vincent–St._Mary_High_School"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " St._Vincent–St._Mary_High_School"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id33"
+      }
+}

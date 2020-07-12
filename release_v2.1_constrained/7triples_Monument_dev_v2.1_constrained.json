@@ -1,0 +1,84 @@
+{
+   1: {
+      "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ankara is the capital of Turkey where the currency is the Turkish lira and the leader is Ahmet Davutoglu. Izmir is located in the country and is the site of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932, having been designed by Pietro Canonica.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atatürk Monument is located in İzmir, in the country of Turkey, whose leader is Ahmet Davutoğlu. The monument is made of bronze, was designed by Pietro Canonica and was inaugurated on the 27th of July, 1932. Turkey's capital city is Ankara and the currency is the Turkish lira.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Turkish lira is the currency of Turkey where Ahmet Davutoglu is the leader and Ankara is the capital. The Ataturk Monument designed in bronze by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atatürk_Monument_(İzmir) ",
+   "property": " designer ",
+   "subject": " Pietro_Canonica"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atatürk_Monument_(İzmir) ",
+     "property": " designer ",
+     "subject": " Pietro_Canonica"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "7",
+   "xml_id": "Id2"
+      }
+},
+{
+   2: {
+   "category": "Monument",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The National Assembly is the official legislature of Azerbaijan which is led by a Prime Minister. The capital city is Baku which is the location of the Turkish Martyrs' memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baku is the capital of Azerbaijan where the leader's title is Prime Minister and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Memorial. It is located in Baku, Azerbaijan, which has legislature of National Assembly, and led by the Prime Minster. The memorial is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan ",
+   "property": " capital ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan ",
+     "property": " capital ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "7",
+   "xml_id": "Id3"
+      }
+}

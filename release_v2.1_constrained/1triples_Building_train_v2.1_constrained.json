@@ -1,0 +1,9226 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is located in South Africa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address, 11 Diagonal Street is located in South Africa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " location ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " location ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has the Postmodern style of architecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architectural style of 250 Delaware Avenue is Postmodern.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " architecturalStyle ",
+   "subject": " Postmodern_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " architecturalStyle ",
+     "subject": " Postmodern_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is located in Chicago.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Chicago"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "George Winkler was the architect of 320 South Boston Building.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "George Winkler is the architect of the 320 South Boston Building.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " architect ",
+   "subject": " George_Winkler"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "320_South_Boston_Building ",
+     "property": " architect ",
+     "subject": " George_Winkler"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The building of 320 South Boston Building started in 1910.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Construction of the 320 South Boston Building began in 1910.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " buildingStartDate ",
+   "subject": " 1910"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " startDate ",
+       "subject": " 1910"
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingStartDate ",
+       "subject": " "1910""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky Copenhagen has 814 rooms.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of rooms in the AC Hotel Bella Sky Copenhagen is 814.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " numberOfRooms ",
+   "subject": " 814"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " numberOfRooms ",
+     "subject": " "814"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architects James Pain and George Richard Pain designed Adare Manor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "James Pain and George Richard Pain are the architects of the Adare Manor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "James Pain and George Richard Pain were the Adare Manor architects.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " "James Pain and George Richard Pain,""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " "James Pain and George Richard Pain,"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   8: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " Haputale"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " location ",
+     "subject": " Haputale"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   9: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Japan.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " country ",
+       "subject": " Japan"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationCountry ",
+       "subject": " Japan"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   10: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The College of William and Mary is the owner of the Alan B. Miller Hall.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " owner ",
+   "subject": " College_of_William_&amp;_Mary"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " owner ",
+     "subject": " College_of_William_&amp;_Mary"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   11: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " address ",
+   "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " address ",
+     "subject": " "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   12: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House has the reference number 88002539 in the National Register of Historic Places.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House has a reference number of 88002539 in the National Register of Historic Places.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Reference Number in the National Register of Historic Places for Asher and Mary Isabelle Richardson House is 88002539.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " ReferenceNumber in the National Register of Historic Places ",
+   "subject": " "88002539""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " nrhpReferenceNumber ",
+     "subject": " "88002539""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   13: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect of the grounds of Asilomar Conference.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Asilomar Conference Grounds was Julia Morgan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architect ",
+   "subject": " Julia_Morgan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architect ",
+     "subject": " Julia_Morgan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   14: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is designed based on the architecture style of "Arts and Crafts Movement and American craftsman Bungalows".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architecture of Asilomar Conference Grounds is of the "Arts and Crafts Movement and American Craftsman Bungalows".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architecture ",
+   "subject": " "Arts and Crafts Movement and American craftsman Bungalows""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architecture ",
+     "subject": " "Arts and Crafts Movement and American craftsman Bungalows"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   15: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds were constructed in 1913.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds was constructed in 1913.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " yearOfConstruction ",
+   "subject": " 1913"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " built ",
+       "subject": " 1913"
+       },
+       {
+       "object": "Asilomar_Conference_Grounds ",
+       "property": " yearOfConstruction ",
+       "subject": " "1913"^^xsd:gYear"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   16: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located in New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in New York City.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " New_York_City"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   17: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buffalo New York is part of Erie County New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buffalo, New York is part of Erie County in New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buffalo,_New_York ",
+   "property": " isPartOf ",
+   "subject": " Erie_County,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Buffalo,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " Erie_County,_New_York"
+       },
+       {
+       "object": "Buffalo,_New_York ",
+       "property": " isPartOf ",
+       "subject": " Erie_County,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   18: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Buffalo, New York is Byron Brown.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Byron Brown is the leader of Buffalo, New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Buffalo, New York, is Byron Brown.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buffalo,_New_York ",
+   "property": " leaderName ",
+   "subject": " Byron_Brown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buffalo,_New_York ",
+     "property": " leaderName ",
+     "subject": " Byron_Brown"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   19: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "County Limerick is a part of Munster.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "County Limerick is part of Munster.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Limerick County is part of Munster.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "County_Limerick ",
+   "property": " isPartOf ",
+   "subject": " Munster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "County_Limerick ",
+       "property": " subdivisionName ",
+       "subject": " Munster"
+       },
+       {
+       "object": "County_Limerick ",
+       "property": " isPartOf ",
+       "subject": " Munster"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   20: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Críona Ní Dhálaigh was Lord Mayor of Dublin.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " leaderName ",
+   "subject": " Críona_Ní_Dhálaigh"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " leaderName ",
+     "subject": " Críona_Ní_Dhálaigh"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   21: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mulatu Teshome is an Ethiopian leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The name of the leader in Ethiopia is Mulatu Teshome.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " leaderName ",
+   "subject": " Mulatu_Teshome"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Mulatu_Teshome"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " leaderName ",
+       "subject": " Mulatu_Teshome"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   22: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The demonym for people living in India is Indian.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A demonym for residents of India is Indian People.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " demonym ",
+   "subject": " Indian_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "India ",
+     "property": " demonym ",
+     "subject": " Indian_people"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   23: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " significantBuilding ",
+   "subject": " Los_Angeles_Herald-Examiner"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Julia_Morgan ",
+     "property": " significantBuilding ",
+     "subject": " Los_Angeles_Herald-Examiner"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   24: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Live Nation Entertainment is located at Beverly Hills, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Live Nation Entertainment is located in Beverly Hills, California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Live_Nation_Entertainment ",
+   "property": " location ",
+   "subject": " Beverly_Hills,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Live_Nation_Entertainment ",
+     "property": " location ",
+     "subject": " Beverly_Hills,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   25: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Manhattan is part of New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Manhattan is a part of New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Manhattan ",
+   "property": " isPartOf ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Manhattan ",
+     "property": " isPartOf ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   26: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "New York City is a part of New Netherland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New York city is part of New Netherland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City was part of New Netherland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York_City ",
+   "property": " isPartOf ",
+   "subject": " New_Netherland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_York_City ",
+     "property": " isPartOf ",
+     "subject": " New_Netherland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   27: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pacific Grove, California is part of California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Pacific Grove is part of California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pacific_Grove,_California ",
+   "property": " isPartOf ",
+   "subject": " California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pacific_Grove,_California ",
+     "property": " isPartOf ",
+     "subject": " California"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   28: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The white South Africans are an ethnic group of South Africa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in South Africa is White South Africans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " ethnicGroup ",
+   "subject": " White_South_African"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroup ",
+       "subject": " White_South_African"
+       },
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroups ",
+       "subject": " White_South_African"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   29: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A leader in the United Kingdom is Elizabeth 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United Kingdom is Elizabeth II.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of United Kingdom is Elizabeth II.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " Elizabeth_II"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_Kingdom ",
+       "property": " leader ",
+       "subject": " Elizabeth_II"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leaderName ",
+       "subject": " Elizabeth_II"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   30: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architecture style of 103 Colmore Row falls under Brutalist architecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is in the architectural style " Brutalist architecture".",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architecturalStyle ",
+   "subject": " Brutalist_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architecturalStyle ",
+     "subject": " Brutalist_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   31: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1973 was the start date for the building at 103 Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building of 103 Colmore Row began in 1973.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row opened in 1973.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " buildingStartDate ",
+   "subject": " "1973""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " buildingStartDate ",
+     "subject": " "1973""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   32: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was completed in 1976.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building of 103 Colmore Row was completed in 1976.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " completionDate ",
+   "subject": " 1976"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "103_Colmore_Row ",
+       "property": " buildingEndDate ",
+       "subject": " "1976""
+       },
+       {
+       "object": "103_Colmore_Row ",
+       "property": " completionDate ",
+       "subject": " 1976"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   33: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 23 floors at 103 Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row has 23 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " floorCount ",
+   "subject": " 23"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " floorCount ",
+     "subject": " "23"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   34: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located on Colmore Row, Birmingham, England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Colmore Row, Birmingham, England.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is in Birmingham, England.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " "Colmore Row, Birmingham, England""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " "Colmore Row, Birmingham, England"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   35: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Birmingham.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " Birmingham"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   36: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The construction of 108 St Georges Terrace began in 1981.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building of 108 St. Georges Terrace was started in 1981.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " buildingStartDate ",
+   "subject": " 1981"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " buildingStartDate ",
+       "subject": " "1981""
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " startDate ",
+       "subject": " 1981"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   37: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace was completed in 1988.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " completionDate ",
+   "subject": " 1988"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " completionDate ",
+       "subject": " 1988"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " buildingEndDate ",
+       "subject": " "1988""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   38: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace cost 120 million Australian dollars.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace cost 120m Australian dollars.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The cost of 108 St. Georges Terrace is 120 million AUD.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " cost ",
+   "subject": " "120 million (Australian dollars)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "108_St_Georges_Terrace ",
+     "property": " cost ",
+     "subject": " "A$120 million"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   39: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St. Georges Terrace has a floor area of 39500.0 square metres.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " floorArea ",
+   "subject": " 39500.0 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " floorArea ",
+       "subject": " "39500.0"^^xsd:double"
+       },
+       {
+       "object": "108_St_Georges_Terrace ",
+       "property": " Building/floorArea ",
+       "subject": " "39500.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   40: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "108 St Georges Terrace has a floor count of 50.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 50 floors at 108 St Georges Terrace.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " floorCount ",
+   "subject": " 50"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "108_St_Georges_Terrace ",
+     "property": " floorCount ",
+     "subject": " 50"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   41: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 108 St. Georges Terrace is located in Perth.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "108 St. Georges Terrace is located in Perth.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "108_St_Georges_Terrace ",
+   "property": " location ",
+   "subject": " Perth"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "108_St_Georges_Terrace ",
+     "property": " location ",
+     "subject": " Perth"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   42: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 11 Diagonal Street is Helmut Jahn.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " architect ",
+   "subject": " Helmut_Jahn"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " architect ",
+     "subject": " "Helmut Jahn"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   43: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 11 Diagonal Street originated in 1978.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was built in 1978.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The building at 11 Diagonal Street was started to be erected in 1978.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " buildingStartDate ",
+   "subject": " "1978""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " buildingStartDate ",
+     "subject": " "1978""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   44: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has a floor area of 1200 square metres.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " floorArea ",
+   "subject": " 1200 (square metres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " floorArea ",
+     "subject": " "1200.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   45: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street has 20 floors.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " floorCount ",
+   "subject": " 20"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " floorCount ",
+     "subject": " "20"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   46: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Redefine Properties Limited is the owner of 11 Diagonal Street.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street is owned by Redefine Properties Limited.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Redefine Properties Limited owns 11 Diagonal Street.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " owner ",
+   "subject": " Redefine_Properties_Limited"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "11_Diagonal_Street ",
+     "property": " owner ",
+     "subject": " Redefine_Properties_Limited"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   47: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of 200 Public Square is HOK.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK (firm) were the architects of 200 Public Square.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " architect ",
+   "subject": " HOK_(firm)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " architect ",
+     "subject": " HOK_(firm)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   48: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " "United States""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " "United States"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   49: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public square is in Cleveland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Cleveland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   50: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located at Public Square, Cleveland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square is located in Public Square, Cleveland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " location ",
+   "subject": " Public_Square,_Cleveland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "200_Public_Square ",
+     "property": " location ",
+     "subject": " Public_Square,_Cleveland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   51: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April of 2014.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street was completed in April 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " completionDate ",
+   "subject": " "April 2014""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " completionDate ",
+       "subject": " "April 2014"@en"
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " buildingEndDate ",
+       "subject": " "April 2014""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   52: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor area of 30843.8 square metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor area of 30843.8 (square metres).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue possesses a floor area of 30843.8 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " floorArea ",
+   "subject": " 30843.8 (square metres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " floorArea ",
+     "subject": " "30843.8"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   53: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has 12 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are a total of 12 floors in 250 Delaware Avenue.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue has a floor count of 12.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " floorCount ",
+   "subject": " 12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " floorCount ",
+     "subject": " 12"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id34"
+      }
+},
+{
+   54: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is a location in Buffalo, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in Buffalo, New York.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is in Buffalo, New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " Buffalo,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " Buffalo,_New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   55: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "250 Delaware Avenue is located in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "250_Delaware_Avenue ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "250_Delaware_Avenue ",
+     "property": " location ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   56: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pickard Chilton is the architect of 300 North LaSalle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of 300 North LaSalle is Pickard Chilton.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of 300 North LaSalle was Pickard Chilton.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " architect ",
+   "subject": " Pickard_Chilton"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " architect ",
+     "subject": " Pickard_Chilton"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id37"
+      }
+},
+{
+   57: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle was completed in 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building at 300 North LaSalle was completed in 2009.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " completionDate ",
+   "subject": " 2009"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "300_North_LaSalle ",
+       "property": " completionDate ",
+       "subject": " 2009"
+       },
+       {
+       "object": "300_North_LaSalle ",
+       "property": " buildingEndDate ",
+       "subject": " "2009""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id38"
+      }
+},
+{
+   58: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The floor area of 300 North LaSalle is 120770.0 square metres.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " floorArea ",
+   "subject": " 120770.0 (square metres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " Building/floorArea ",
+     "subject": " "120770.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id39"
+      }
+},
+{
+   59: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle is in Illinois.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " location ",
+   "subject": " Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " location ",
+     "subject": " Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id40"
+      }
+},
+{
+   60: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The construction of 320 South Boston Building was completed in 1929.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "320 South Boston was completed in 1929.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "320 South Boston Building was completed in 1929.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " completionDate ",
+   "subject": " 1929"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " buildingEndDate ",
+       "subject": " "1929""
+       },
+       {
+       "object": "320_South_Boston_Building ",
+       "property": " completionDate ",
+       "subject": " 1929"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   61: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 22 floors in 320 South Boston Building.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building at 320 South Boston Street has 22 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " floorCount ",
+   "subject": " 22"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "320_South_Boston_Building ",
+     "property": " floorCount ",
+     "subject": " 22"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   62: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building is 121.92 metres high.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 320 South Boston Building has a height of 121.92 metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "320 South Boston Building is 121.92 metres in height.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "320_South_Boston_Building ",
+   "property": " height ",
+   "subject": " 121.92 (metres)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "320_South_Boston_Building ",
+     "property": " height ",
+     "subject": " "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id44"
+      }
+},
+{
+   63: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The owner of 3Arena is Live Nation Entertainment.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is owned by Live Nation Entertainment.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " owner ",
+   "subject": " Live_Nation_Entertainment"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " owner ",
+     "subject": " Live_Nation_Entertainment"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id52"
+      }
+},
+{
+   64: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "3XN was the architect of the AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky in Copenhagen was designed by the architects of the 3XN firm.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of the AC Hotel Bella Sky, Copenhagen was 3XN.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " architect ",
+   "subject": " 3XN"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " architect ",
+     "subject": " 3XN"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id53"
+      }
+},
+{
+   65: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky, Copenhagen was developed by the Bella Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The developer of the AC Hotel Bella Sky in Copenhagen is Bella Center.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Bella Center were developers of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " developer ",
+   "subject": " Bella_Center"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " developer ",
+     "subject": " Bella_Center"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id54"
+      }
+},
+{
+   66: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky Copenhagen has 23 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 23 floors in the AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Bella Sky hotel in Copenhagen has 23 floors.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " floorCount ",
+   "subject": " 23"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " floorCount ",
+     "subject": " "23"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id55"
+      }
+},
+{
+   67: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky is in Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen is located in Copenhagen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AC Hotel Bella Sky is located in Copenhagen.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " location ",
+   "subject": " Copenhagen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " location ",
+     "subject": " Copenhagen"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id56"
+      }
+},
+{
+   68: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky is in Copenhagen, Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen is located in Denmark.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " location ",
+   "subject": " Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " location ",
+     "subject": " Denmark"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id57"
+      }
+},
+{
+   69: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AC Hotel Bella Sky Copenhagen is owned by Bella Center.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " owner ",
+   "subject": " Bella_Center"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+     "property": " owner ",
+     "subject": " Bella_Center"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   70: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Marriott International is the tenant of AC Hotel Bella Sky Copenhagen.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+   "property": " tenant ",
+   "subject": " Marriott_International"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " operator ",
+       "subject": " Marriott_International"
+       },
+       {
+       "object": "AC_Hotel_Bella_Sky_Copenhagen ",
+       "property": " tenant ",
+       "subject": " Marriott_International"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   71: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare is part of Munster.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare ",
+   "property": " isPartOf ",
+   "subject": " Munster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare ",
+       "property": " subdivisionName ",
+       "subject": " Munster"
+       },
+       {
+       "object": "Adare ",
+       "property": " isPartOf ",
+       "subject": " Munster"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   72: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor is Augustus Pugin.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Augustus_Pugin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " Augustus_Pugin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id61"
+      }
+},
+{
+   73: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor is George Richard Pain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor's architect was George Richard Pain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor was George Richard Pain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " George_Richard_Pain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " George_Richard_Pain"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id62"
+      }
+},
+{
+   74: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect of Adare Manor was James Pain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "James Pain was the architect of the Adare Manor.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " James_Pain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " James_Pain"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   75: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor was designed by the architect Lewis Nockalls Cottingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Lewis Nockalls Cottingham is the architect of Adare Manor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lewis N. Cottingham is the architect of Adare Manor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Lewis_Nockalls_Cottingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " Lewis_Nockalls_Cottingham"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id64"
+      }
+},
+{
+   76: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Philip Charles Hardwick was the architect of Adare Manor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor's architect was Philip Charles Hardwick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect responsible for Adare Manor was Philip Charles Hardwick.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " architect ",
+   "subject": " Philip_Charles_Hardwick"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " architect ",
+     "subject": " Philip_Charles_Hardwick"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id65"
+      }
+},
+{
+   77: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The construction of Adare Manor was completed in 1862.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor was completed in 1862.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The completion date of Adare Manor is 1862.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " completionDate ",
+   "subject": " 1862"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " completionDate ",
+       "subject": " 1862"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " buildingEndDate ",
+       "subject": " "1862""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id66"
+      }
+},
+{
+   78: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in Adare.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " Adare"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " Adare"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " Adare"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id67"
+      }
+},
+{
+   79: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in County Limerick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adare Manor can be found in County Limerick.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " location ",
+   "subject": " County_Limerick"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationTown ",
+       "subject": " County_Limerick"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " location ",
+       "subject": " County_Limerick"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id68"
+      }
+},
+{
+   80: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "J P McManus is the owner of Adare Manor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "J.P. McManus is the owner of Adare Manor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "JP McManus owns Adare Manor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " owner ",
+   "subject": " J._P._McManus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " owner ",
+     "subject": " J._P._McManus"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id69"
+      }
+},
+{
+   81: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa is located in Ethiopia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa is in Ethiopia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa ",
+   "property": " country ",
+   "subject": " Ethiopia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa ",
+     "property": " country ",
+     "subject": " Ethiopia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id70"
+      }
+},
+{
+   82: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium is part of Addid Ababa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa Stadium is situated in Addis Ababa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa Stadium is part of Addis Ababa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa ",
+   "property": " isPartOf ",
+   "subject": " Addis_Ababa_Stadium"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa ",
+     "property": " isPartOf ",
+     "subject": " Addis_Ababa_Stadium"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id71"
+      }
+},
+{
+   83: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Building started on the Addis Ababa City Hall in 1961.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The start date for building Addis Ababa City Hall was 1961.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "They started to build Addis Ababa City Hall in 1961.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " buildingStartDate ",
+   "subject": " 1961"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " startDate ",
+     "subject": " 1961"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id72"
+      }
+},
+{
+   84: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is the seat of the local government.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is the seat of Local Government.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " buildingType ",
+   "subject": " Seat_of_local_government"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " buildingType ",
+     "subject": " Seat_of_local_government"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id73"
+      }
+},
+{
+   85: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall was completed in 1964.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall's completion date was in 1964.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall was finished in 1964.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " completionDate ",
+   "subject": " 1964"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " completionDate ",
+     "subject": " 1964"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id74"
+      }
+},
+{
+   86: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is located in the country of Ethiopia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addis Ababa City Hall is in the country of Ethiopia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is in Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " country ",
+   "subject": " Ethiopia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " country ",
+     "subject": " Ethiopia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id75"
+      }
+},
+{
+   87: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Government of Addis Ababa is the current tenants of the Addis Ababa city hall.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The " Government of Addis Ababa" are the current tenants of Addis Ababa City Hall.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " currentTenants ",
+   "subject": " "Government of Addis Ababa""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " currentTenants ",
+     "subject": " "Government of Addis Ababa"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id76"
+      }
+},
+{
+   88: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The floor area of Addis Ababa City Hall is 140000.0 (square metres).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall has a 140000.0 (square metres) floor area.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall has a floor area of 140000.0 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " floorArea ",
+   "subject": " 140000.0 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " Building/floorArea ",
+       "subject": " "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       },
+       {
+       "object": "Addis_Ababa_City_Hall ",
+       "property": " floorArea ",
+       "subject": " "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id77"
+      }
+},
+{
+   89: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall has a height of 42 metres.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is 42 m high.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " height ",
+   "subject": " "42 m""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " height ",
+     "subject": " "42.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id78"
+      }
+},
+{
+   90: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addis Ababa City Hall is located in Addis Ababa.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addis_Ababa_City_Hall ",
+   "property": " location ",
+   "subject": " Addis_Ababa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Addis_Ababa_City_Hall ",
+     "property": " location ",
+     "subject": " Addis_Ababa"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id79"
+      }
+},
+{
+   91: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located on St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Adisham Hall is St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " address ",
+   "subject": " "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " address ",
+     "subject": " "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id80"
+      }
+},
+{
+   92: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Halls Architectural style`is Tudor and Jacabian.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architecture style of Adisham Hall is Tudor and Jacabian.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in the architectural style of "Tudor and Jacobean".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " "Tudor and Jacabian""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " "Tudor and Jacabian"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id81"
+      }
+},
+{
+   93: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall has the Tudor Revival architectural style.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall has the architectural style 'Tudor Revival'.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adisham Hall's style of architecture is Tudor Revival.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " Tudor_Revival_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " Tudor_Revival_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id82"
+      }
+},
+{
+   94: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Construction of Adisham Hall began in 1927.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall was begun to be built in 1927.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " buildingStartDate ",
+   "subject": " "1927""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " buildingStartDate ",
+     "subject": " "1927""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id83"
+      }
+},
+{
+   95: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall was completed in 1931.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The construction of Adisham Hall was completed in 1931.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall was finished in 1931.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " completionDate ",
+   "subject": " 1931"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " completionDate ",
+       "subject": " 1931"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " buildingEndDate ",
+       "subject": " "1931""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id84"
+      }
+},
+{
+   96: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in the country of Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adisham_Hall ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Adisham_Hall ",
+       "property": " locationCountry ",
+       "subject": " Sri_Lanka"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id85"
+      }
+},
+{
+   97: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located at Haputale, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is located in Haputale, Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Adisham Hall is in Haputale, Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adisham_Hall ",
+   "property": " location ",
+   "subject": " "Haputale, Sri Lanka""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adisham_Hall ",
+     "property": " location ",
+     "subject": " "Haputale, Sri Lanka"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id86"
+      }
+},
+{
+   98: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Akita is found in the country of Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita is located in Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita,_Akita ",
+   "property": " country ",
+   "subject": " Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita,_Akita ",
+     "property": " country ",
+     "subject": " Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id89"
+      }
+},
+{
+   99: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita, Akita is part of Akita Prefecture.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita,_Akita ",
+   "property": " isPartOf ",
+   "subject": " Akita_Prefecture"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita,_Akita ",
+       "property": " isPartOf ",
+       "subject": " Akita_Prefecture"
+       },
+       {
+       "object": "Akita,_Akita ",
+       "property": " subdivisionName ",
+       "subject": " Akita_Prefecture"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id90"
+      }
+},
+{
+   100: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The address of Akita Museum of Art is "1-4-2 Nakadori".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Akita Museum of Art is 142 Nakadori.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " address ",
+   "subject": " "1-4-2 Nakadori""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " address ",
+     "subject": " "1-4-2 Nakadori"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id91"
+      }
+},
+{
+   101: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tadao Ando is the architect who designed the Akita Museum of Art.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Tadao Ando is the architect of the Akita Museum of Art.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Tadao Ando is the architect of Akita Museum of Art.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " architect ",
+   "subject": " Tadao_Ando"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " architect ",
+     "subject": " Tadao_Ando"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id92"
+      }
+},
+{
+   102: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art has a floor area of 3746.66 (square metres).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The floor area of the Akita Museum of Art is 3746.66 square metres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art has a floor area of 3746.66 square metres.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " floorArea ",
+   "subject": " 3746.66 (square metres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " floorArea ",
+       "subject": " "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " Building/floorArea ",
+       "subject": " "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id93"
+      }
+},
+{
+   103: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art has 3 floors.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art 3 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " floorCount ",
+   "subject": " 3"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " floorCount ",
+     "subject": " "3"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id94"
+      }
+},
+{
+   104: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is an art museum in the city of Akita.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akita Museum of Art is located in Akita, Akita.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art is located in Akita, Akita.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " location ",
+   "subject": " Akita,_Akita"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " locationTown ",
+       "subject": " Akita,_Akita"
+       },
+       {
+       "object": "Akita_Museum_of_Art ",
+       "property": " location ",
+       "subject": " Akita,_Akita"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id95"
+      }
+},
+{
+   105: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The address of Alan B. Miller Hall is "101 Ukrop Way".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The address of Alan B. Miller Hall is 101 Ukrop Way.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " address ",
+   "subject": " "101 Ukrop Way""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " address ",
+     "subject": " "101 Ukrop Way"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id98"
+      }
+},
+{
+   106: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Robert A.M. Stern is the architect for Alan B. Miller Hall.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Alan B Miller Hall is Robert A M Stern.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was designed by Robert A.M. Stern.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " architect ",
+   "subject": " Robert_A._M._Stern"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " architect ",
+     "subject": " Robert_A._M._Stern"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id99"
+      }
+},
+{
+   107: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architectural style of the Alan B. Miller Hall is Georgian.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architectural style of the Alan B Miller Hall is Georgian.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall was built in the Georgian architecture style.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " architecturalStyle ",
+   "subject": " Georgian_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " architecturalStyle ",
+     "subject": " Georgian_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id100"
+      }
+},
+{
+   108: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall's building start date was in 30th March 2007.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "They started to build Alan B Miller Hall on 30 March, 2007.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " buildingStartDate ",
+   "subject": " "30 March 2007""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " startDate ",
+       "subject": " "2007-03-30"^^xsd:date"
+       },
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " buildingStartDate ",
+       "subject": " "30 March 2007""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id101"
+      }
+},
+{
+   109: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was completed on June 1st, 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was completed on "1 June 2009".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B. Miller Hall was completed on 1st June 2009.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " completionDate ",
+   "subject": " "1 June 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " buildingEndDate ",
+       "subject": " "1 June 2009""
+       },
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " completionDate ",
+       "subject": " "2009-06-01"^^xsd:date"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id102"
+      }
+},
+{
+   110: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alan B Miller Hall cost 75 million dollars.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall cost 75 million dollars.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " cost ",
+   "subject": " "75.0 million (dollars)""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " cost ",
+     "subject": " "7.5E7"^^&lt;http://dbpedia.org/datatype/usDollar&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id103"
+      }
+},
+{
+   111: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was inaugurated on 2009-10-02.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall was inaugurated on "2009-10-02".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The inauguration date of the Alan B. Miller Hall was 2nd October, 2009.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " inaugurationDate ",
+   "subject": " "2009-10-02""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " openingDate ",
+       "subject": " "2009-10-02"^^xsd:date"
+       },
+       {
+       "object": "Alan_B._Miller_Hall ",
+       "property": " inaugurationDate ",
+       "subject": " "2009-10-02"^^xsd:date"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id104"
+      }
+},
+{
+   112: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B Miller Hall is located in Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall is situated in Virginia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id105"
+      }
+},
+{
+   113: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Alan B. Miller Hall is in Williamsburg, Virginia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B Miller Hall's location is Williamsburg, Virginia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B Miller Hall is located in Williamsburg, Virginia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " location ",
+   "subject": " Williamsburg,_Virginia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " location ",
+     "subject": " Williamsburg,_Virginia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id106"
+      }
+},
+{
+   114: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mason School of Business is a tenant of the Alan B. Miller Hall.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " tenant ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " tenant ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id107"
+      }
+},
+{
+   115: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect Alfred Giles was born in England.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Architect, Alfred Giles was born in England.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Giles_(architect) ",
+   "property": " birthPlace ",
+   "subject": " England"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Giles_(architect) ",
+       "property": " birthPlace ",
+       "subject": " England"
+       },
+       {
+       "object": "Alfred_Giles_(architect) ",
+       "property": " placeOfBirth ",
+       "subject": " England"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id108"
+      }
+},
+{
+   116: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect Alfred Giles died in Kendall County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect Alfred Giles died in Kendall County Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Giles_(architect) ",
+   "property": " placeOfDeath ",
+   "subject": " Kendall_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alfred_Giles_(architect) ",
+     "property": " placeOfDeath ",
+     "subject": " Kendall_County,_Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id109"
+      }
+},
+{
+   117: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa was completed in 1995.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " completionDate ",
+   "subject": " 1995"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " buildingEndDate ",
+       "subject": " "1995""
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " completionDate ",
+       "subject": " 1995"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id110"
+      }
+},
+{
+   118: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " country ",
+       "subject": " India"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationCountry ",
+       "subject": " India"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id111"
+      }
+},
+{
+   119: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in Gujarat.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " location ",
+   "subject": " Gujarat"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " locationTown ",
+       "subject": " Gujarat"
+       },
+       {
+       "object": "Amdavad_ni_Gufa ",
+       "property": " location ",
+       "subject": " Gujarat"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id113"
+      }
+},
+{
+   120: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ampara Hospital is in Ampara.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Ampara.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " location ",
+   "subject": " Ampara"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " location ",
+     "subject": " Ampara"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id115"
+      }
+},
+{
+   121: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in the region of Ampara District.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara hospital is located in Ampara district.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " region ",
+   "subject": " Ampara_District"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " region ",
+     "subject": " Ampara_District"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id116"
+      }
+},
+{
+   122: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Eastern Province, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in the Eastern Province, Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ampara Hospital is situated in the Eastern Province state of Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " state ",
+   "subject": " Eastern_Province,_Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " state ",
+     "subject": " Eastern_Province,_Sri_Lanka"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id117"
+      }
+},
+{
+   123: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital has a website: http://www.ghampara.gov.lk/.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " website ",
+   "subject": " &lt;http://www.ghampara.gov.lk/&gt;"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " website ",
+     "subject": " &lt;http://www.ghampara.gov.lk/&gt;"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id118"
+      }
+},
+{
+   124: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Giles was the architect of Asher and Mary Isabelle Richardson House.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The architect of Asher and Mary Isabelle Richardson House was Alfred Giles.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " architect ",
+   "subject": " Alfred_Giles_(architect)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " architect ",
+     "subject": " Alfred_Giles_(architect)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id119"
+      }
+},
+{
+   125: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located in Asherton, Texas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " Asherton,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " location ",
+     "subject": " ".Asherton, Texas"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id120"
+      }
+},
+{
+   126: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House is located at U.S. Route 83.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House is located on U.S. Route 83.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " U.S._Route_83"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " location ",
+     "subject": " U.S._Route_83"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id121"
+      }
+},
+{
+   127: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was built in 1911.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was constructed in 1911.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " yearOfConstruction ",
+   "subject": " 1911"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " built ",
+       "subject": " 1911"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " yearOfConstruction ",
+       "subject": " "1911"^^xsd:gYear"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id122"
+      }
+},
+{
+   128: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asherton Texas is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asherton is situated in Texas, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asherton, Texas is in the country of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id123"
+      }
+},
+{
+   129: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asherton, Texas is part of Dimmit County, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asherton is part of Dimmit County, Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Dimmit_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asherton,_Texas ",
+       "property": " subdivisionName ",
+       "subject": " Dimmit_County,_Texas"
+       },
+       {
+       "object": "Asherton,_Texas ",
+       "property": " isPartOf ",
+       "subject": " Dimmit_County,_Texas"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id124"
+      }
+},
+{
+   130: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asherton, Texas is part of the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asherton,_Texas ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asherton,_Texas ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id125"
+      }
+},
+{
+   131: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The reference number in the National Register of Historic Places for Asilomar Conference Grounds is 87000823.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": ""87000823" is Asilomar Conference Grounds' reference number in the National Register of Historic Places.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " ReferenceNumber in the National Register of Historic Places ",
+   "subject": " "87000823""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " nrhpReferenceNumber ",
+     "subject": " "87000823""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id126"
+      }
+},
+{
+   132: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " added to the National Register of Historic Places ",
+   "subject": " "1987-02-27""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " added ",
+     "subject": " "1987-02-27"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id127"
+      }
+},
+{
+   133: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds have the architectural style of American Craftsman.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architecturalStyle ",
+   "subject": " American_Craftsman"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architecturalStyle ",
+     "subject": " American_Craftsman"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id128"
+      }
+},
+{
+   134: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " architecturalStyle ",
+   "subject": " Arts_and_Crafts_movement"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " architecturalStyle ",
+     "subject": " Arts_and_Crafts_movement"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id129"
+      }
+},
+{
+   135: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " "Asilomar Blvd., Pacific Grove, California""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " "Asilomar Blvd., Pacific Grove, California"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id130"
+      }
+},
+{
+   136: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds is located at Pacific Grove, California.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id131"
+      }
+},
+{
+   137: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths' reference number is 80002709 in the National Register of Historic Places.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " ReferenceNumber in the National Register of Historic Places ",
+   "subject": " "80002709""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " nrhpReferenceNumber ",
+     "subject": " "80002709""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id132"
+      }
+},
+{
+   138: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths was added to the National Register of Historic Places on 1980-04-23.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths was added to the National Register of Historic Places on "1980-04-23".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths was added to the National Register of Historic Places on 23rd April 1980.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " added to the National Register of Historic Places ",
+   "subject": " "1980-04-23""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " added ",
+     "subject": " "1980-04-23"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id133"
+      }
+},
+{
+   139: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths have the Romanesque Revival style of architecture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths architectural style is that of Romanesque Revival.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are in the architectural style of Romanesque Revival architecture.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " architecturalStyle ",
+   "subject": " Romanesque_Revival_architecture"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " architecturalStyle ",
+     "subject": " Romanesque_Revival_architecture"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id134"
+      }
+},
+{
+   140: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located at 23rd Street (Manhattan).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located on 23rd Street, Manhattan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " 23rd_Street_(Manhattan)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " 23rd_Street_(Manhattan)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id136"
+      }
+},
+{
+   141: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Avenue A, Manhattan.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Avenue_A_(Manhattan)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " Avenue_A_(Manhattan)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id137"
+      }
+},
+{
+   142: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths is located in Manhattan.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " Manhattan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id138"
+      }
+},
+{
+   143: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birth place of Augustus Pugin is Bloomsbury.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Augustus Pugin's birthplace is Bloomsbury.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Augustus_Pugin ",
+   "property": " birthPlace ",
+   "subject": " Bloomsbury"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Augustus_Pugin ",
+     "property": " birthPlace ",
+     "subject": " Bloomsbury"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id139"
+      }
+},
+{
+   144: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Augustus_Pugin ",
+   "property": " significantBuilding ",
+   "subject": " Palace_of_Westminster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Augustus_Pugin ",
+       "property": " significantBuildings ",
+       "subject": " Palace_of_Westminster"
+       },
+       {
+       "object": "Augustus_Pugin ",
+       "property": " significantBuilding ",
+       "subject": " Palace_of_Westminster"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id140"
+      }
+},
+{
+   145: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Birmingham's governing body is Birmingham City Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Birmingham City Council is the governing body of Birmingham.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The governing body of Birmingham is Birmingham City Council.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " governingBody ",
+   "subject": " Birmingham_City_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " governingBody ",
+     "subject": " Birmingham_City_Council"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id141"
+      }
+},
+{
+   146: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Mitchell is the leader of Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Birmingham's leader is Andrew Mitchell.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " Andrew_Mitchell"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " Andrew_Mitchell"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id142"
+      }
+},
+{
+   147: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Birmingham is the Conservative Party (UK).",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " Conservative_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " Conservative_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id143"
+      }
+},
+{
+   148: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Labour politician, John Clancy is the leader of Birmingham.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " John_Clancy_(Labour_politician)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " John_Clancy_(Labour_politician)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id144"
+      }
+},
+{
+   149: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Khalid Mahmood (British politician) is one of the leaders of Birmingham.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " Khalid_Mahmood_(British_politician)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " Khalid_Mahmood_(British_politician)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id145"
+      }
+},
+{
+   150: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Birmingham Council is led by the Labour Party (UK).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Labour Party leads Birmingham.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " Labour_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " Labour_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id146"
+      }
+},
+{
+   151: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Liberal Democrats are the leaders of Birmingham.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Birmingham are the Liberal Democrats.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Liberal Democrats are leaders of Birmingham.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " leaderName ",
+   "subject": " Liberal_Democrats"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " leaderName ",
+     "subject": " Liberal_Democrats"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id147"
+      }
+},
+{
+   152: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buffalo New York is part of New York.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buffalo,_New_York ",
+   "property": " isPartOf ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buffalo,_New_York ",
+     "property": " isPartOf ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id148"
+      }
+},
+{
+   153: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is located in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id149"
+      }
+},
+{
+   154: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is part of Cook County, Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is in Cook County, Illinois.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " isPartOf ",
+   "subject": " Cook_County,_Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " isPartOf ",
+     "subject": " Cook_County,_Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id150"
+      }
+},
+{
+   155: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is part of Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is part of the State of Illinois.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Chicago is part of the state of Illinois.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " isPartOf ",
+   "subject": " Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " isPartOf ",
+     "subject": " Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id151"
+      }
+},
+{
+   156: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rahm Emanuel is a leader in Chicago.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago's leader is called Rahm Emanuel.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rahm Emanuel is the leader of Chicago.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " leaderName ",
+   "subject": " Rahm_Emanuel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " leaderName ",
+     "subject": " Rahm_Emanuel"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id152"
+      }
+},
+{
+   157: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Susana Mendoza is the leader of Chicago.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Chicago is Susana Mendoza.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Susana Mendoza is a leader in Chicago.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " leaderName ",
+   "subject": " Susana_Mendoza"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " leaderName ",
+     "subject": " Susana_Mendoza"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id153"
+      }
+},
+{
+   158: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cleveland is located in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cleveland is in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Cleveland ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Cleveland ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id154"
+      }
+},
+{
+   159: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the languages in Denmark is German.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the languages used in Denmark is the German language.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " language ",
+   "subject": " German_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " language ",
+     "subject": " German_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id163"
+      }
+},
+{
+   160: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Greenlandic is one of the languages of Denmark.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " language ",
+   "subject": " Greenlandic_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " language ",
+     "subject": " Greenlandic_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id164"
+      }
+},
+{
+   161: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lars Lokke Rasmussen is Denmark's leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Denmark is Lars Løkke Rasmussen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Lars Løkke Rasmussen is the prime minister of Denmark.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderName ",
+   "subject": " Lars_Løkke_Rasmussen"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " leaderName ",
+     "subject": " Lars_Løkke_Rasmussen"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id165"
+      }
+},
+{
+   162: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Margrethe II of Denmark is the leader of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Margrethe II of Denmark is the name of Denmark's leader.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderName ",
+   "subject": " Margrethe_II_of_Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " leaderName ",
+     "subject": " Margrethe_II_of_Denmark"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id166"
+      }
+},
+{
+   163: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is part of the Republic of Ireland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dublin is a part of the Republic of Ireland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " isPartOf ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " subdivisionName ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id167"
+      }
+},
+{
+   164: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dáil Éireann is a leader in Dublin.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " leaderTitle ",
+   "subject": " Dáil_Éireann"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " leaderTitle ",
+     "subject": " Dáil_Éireann"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id168"
+      }
+},
+{
+   165: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is led by the European Parliament.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "European Parliament is the title of the leader of Dublin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the government in Dublin is the European Parliament.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " leaderTitle ",
+   "subject": " European_Parliament"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " leaderTitle ",
+     "subject": " European_Parliament"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id169"
+      }
+},
+{
+   166: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Eastern_Province,_Sri_Lanka ",
+   "property": " governingBody ",
+   "subject": " Eastern_Provincial_Council"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Eastern_Province,_Sri_Lanka ",
+     "property": " governingBody ",
+     "subject": " Eastern_Provincial_Council"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id170"
+      }
+},
+{
+   167: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of the Eastern Province, Sri Lanka is Austin Fernando.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin Fernando is the leader of the Eastern Province of Sri Lanka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Austin Fernando is the name of the leader in the Eastern Province of Sri Lanka.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Eastern_Province,_Sri_Lanka ",
+   "property": " leaderName ",
+   "subject": " Austin_Fernando"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Eastern_Province,_Sri_Lanka ",
+     "property": " leaderName ",
+     "subject": " Austin_Fernando"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id171"
+      }
+},
+{
+   168: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ethiopia's currency is the Ethiopian Birr.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ethiopian birr is the money used in Ethiopia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The currency of Ethiopia is the Ethiopian birr.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " currency ",
+   "subject": " Ethiopian_birr"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ethiopia ",
+     "property": " currency ",
+     "subject": " Ethiopian_birr"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id172"
+      }
+},
+{
+   169: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amharic is a language found in Ethiopia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language spoken in Ethiopia is Amharic.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amharic is the language of Ethiopia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " language ",
+   "subject": " Amharic"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ethiopia ",
+       "property": " officialLanguage ",
+       "subject": " Amharic"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " language ",
+       "subject": " Amharic"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id173"
+      }
+},
+{
+   170: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Ethiopia is Hailemariam Desalegn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Hailemariam Desalegn is the leader of Ethiopia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ethiopia ",
+   "property": " leaderName ",
+   "subject": " Hailemariam_Desalegn"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ethiopia ",
+       "property": " leader ",
+       "subject": " Hailemariam_Desalegn"
+       },
+       {
+       "object": "Ethiopia ",
+       "property": " leaderName ",
+       "subject": " Hailemariam_Desalegn"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id174"
+      }
+},
+{
+   171: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "George Winkler is from the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "George Winkler is from the United States of America.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "George_Winkler ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "George_Winkler ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id175"
+      }
+},
+{
+   172: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anandiben Patel is the leader of Gujarat.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anandiben Patel was the leader of Gujarat.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Gujarat ",
+   "property": " leaderName ",
+   "subject": " Anandiben_Patel"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Gujarat ",
+     "property": " leaderName ",
+     "subject": " Anandiben_Patel"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id176"
+      }
+},
+{
+   173: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Japan has an ethnic group called Koreans in Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Japan has an ethnic group of Koreans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Koreans_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Koreans_in_Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id186"
+      }
+},
+{
+   174: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There is an ethnic group of Vietnamese people in Japan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vietnamese people in Japan are an ethnic group from Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Vietnamese_people_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Vietnamese_people_in_Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id187"
+      }
+},
+{
+   175: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Japan is called Akihito.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Japan is Akihito.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Emperor of Japan is Akihito.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " leaderName ",
+   "subject": " Akihito"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " leader ",
+     "subject": " Akihito"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id188"
+      }
+},
+{
+   176: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Japan is Shinzō Abe.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Shinzo Abe is the leader of Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " leaderName ",
+   "subject": " Shinzō_Abe"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " leader ",
+     "subject": " Shinzō_Abe"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id189"
+      }
+},
+{
+   177: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John Madin was born in Birmingham.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "John_Madin ",
+   "property": " birthPlace ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "John_Madin ",
+     "property": " birthPlace ",
+     "subject": " Birmingham"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id190"
+      }
+},
+{
+   178: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Birmingham is the home town of John Madin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The hometown of John Madin is Birmingham.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "John_Madin ",
+   "property": " hometown ",
+   "subject": " Birmingham"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "John_Madin ",
+     "property": " hometown ",
+     "subject": " Birmingham"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id191"
+      }
+},
+{
+   179: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Julia Morgan designed significant buildings in Chinatown, San Francisco.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan is the architect behind Chinatown in San Francisco.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " significantBuilding ",
+   "subject": " Chinatown,_San_Francisco"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Julia_Morgan ",
+     "property": " significantBuilding ",
+     "subject": " Chinatown,_San_Francisco"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id195"
+      }
+},
+{
+   180: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Hearst Castle was a significant project of Julia Morgan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Julia Morgan was the architect of the landmark Hearst Castle.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Hearst Castle was a significant project for Julia Morgan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Julia_Morgan ",
+   "property": " significantProject ",
+   "subject": " Hearst_Castle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Julia_Morgan ",
+     "property": " significantProject ",
+     "subject": " Hearst_Castle"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id197"
+      }
+},
+{
+   181: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Boris Johnson is the leader in London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of London is called Boris Johnson.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " leaderName ",
+   "subject": " Boris_Johnson"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " leaderName ",
+     "subject": " Boris_Johnson"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id198"
+      }
+},
+{
+   182: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "London is led via the European Parliament.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " leaderTitle ",
+   "subject": " European_Parliament"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " leaderTitle ",
+     "subject": " European_Parliament"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id199"
+      }
+},
+{
+   183: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Manhattan is Cyrus Vance Jr.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cyrus Vance Jr. is one of the leaders of Manhattan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Manhattan ",
+   "property": " leaderName ",
+   "subject": " Cyrus_Vance,_Jr."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Manhattan ",
+     "property": " leaderName ",
+     "subject": " Cyrus_Vance,_Jr."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id201"
+      }
+},
+{
+   184: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business is located in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Mason_School_of_Business ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Mason_School_of_Business ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id205"
+      }
+},
+{
+   185: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Brooklyn is part of New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Brooklyn is a part of New York City.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York_City ",
+   "property": " isPartOf ",
+   "subject": " Brooklyn"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "New_York_City ",
+       "property": " subdivisionName ",
+       "subject": " Brooklyn"
+       },
+       {
+       "object": "New_York_City ",
+       "property": " isPartOf ",
+       "subject": " Brooklyn"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id207"
+      }
+},
+{
+   186: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Manhattan is part of New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New York City is part of Manhattan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York_City ",
+   "property": " isPartOf ",
+   "subject": " Manhattan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "New_York_City ",
+       "property": " isPartOf ",
+       "subject": " Manhattan"
+       },
+       {
+       "object": "New_York_City ",
+       "property": " subdivisionName ",
+       "subject": " Manhattan"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id208"
+      }
+},
+{
+   187: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "New York City is part of New York.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_York_City ",
+   "property": " isPartOf ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_York_City ",
+     "property": " isPartOf ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id209"
+      }
+},
+{
+   188: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Perth is located in Australia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Perth is in Australia.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Perth ",
+   "property": " country ",
+   "subject": " Australia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Perth ",
+     "property": " country ",
+     "subject": " Australia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id211"
+      }
+},
+{
+   189: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The currency of the Republic of Ireland is the euro.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Republic of Ireland's currency is the Euro.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " currency ",
+   "subject": " Euro"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Republic_of_Ireland ",
+     "property": " currency ",
+     "subject": " Euro"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id212"
+      }
+},
+{
+   190: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Irish people are the inhabitants of the Republic of Ireland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Irish people inhabit the Republic of Ireland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The demonym of natives of the Republic of Ireland is Irish people.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " demonym ",
+   "subject": " Irish_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Republic_of_Ireland ",
+     "property": " demonym ",
+     "subject": " Irish_people"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id213"
+      }
+},
+{
+   191: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In the Republic of Ireland they speak Irish.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Irish is one of the official language in the Republic of Ireland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Irish is the official language of the Republic of Ireland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " language ",
+   "subject": " Irish_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " languages ",
+       "subject": " Irish_language"
+       },
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " language ",
+       "subject": " Irish_language"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id214"
+      }
+},
+{
+   192: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of the Republic of Ireland is Enda Kenny.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " leaderName ",
+   "subject": " Enda_Kenny"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " leaderName ",
+       "subject": " Enda_Kenny"
+       },
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " leader ",
+       "subject": " Enda_Kenny"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id215"
+      }
+},
+{
+   193: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "People from South Africa can say they are from South Africa.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " demonym ",
+   "subject": " South_Africa"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "South_Africa ",
+     "property": " demonym ",
+     "subject": " South_Africa"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id216"
+      }
+},
+{
+   194: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In South Africa there is an ethnic group of Asian South Africans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups within South Africa is Asian South Africans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_South_Africans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroup ",
+       "subject": " Asian_South_Africans"
+       },
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroups ",
+       "subject": " Asian_South_Africans"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id217"
+      }
+},
+{
+   195: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of South Africa's ethnic groups are the Coloured.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Coloured people are an ethnic group in South Africa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " ethnicGroup ",
+   "subject": " Coloured"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroups ",
+       "subject": " Coloured"
+       },
+       {
+       "object": "South_Africa ",
+       "property": " ethnicGroup ",
+       "subject": " Coloured"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id218"
+      }
+},
+{
+   196: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cyril Ramaphosa is the leader of South Africa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Cyril Ramaphosa is one of the leaders of South Africa.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of South Africa is called Cyril Ramaphosa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " leaderName ",
+   "subject": " Cyril_Ramaphosa"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "South_Africa ",
+       "property": " leader ",
+       "subject": " Cyril_Ramaphosa"
+       },
+       {
+       "object": "South_Africa ",
+       "property": " leaderName ",
+       "subject": " Cyril_Ramaphosa"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id219"
+      }
+},
+{
+   197: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The language of Sri Lanka is the Tamil language.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Sri_Lanka ",
+   "property": " language ",
+   "subject": " Tamil_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Sri_Lanka ",
+     "property": " language ",
+     "subject": " Tamil_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id223"
+      }
+},
+{
+   198: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United Kingdom's currency is Pound sterling.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The currency of the United Kingdom is the Pound sterling.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " currency ",
+   "subject": " Pound_sterling"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " currency ",
+     "subject": " Pound_sterling"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id225"
+      }
+},
+{
+   199: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The demonym for natives of the United kingdom is British people.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " demonym ",
+   "subject": " British_people"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " demonym ",
+     "subject": " British_people"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id226"
+      }
+},
+{
+   200: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Washington DC is the capital of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of the United States is Washington D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Washington D.C. is the capital of the USA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id227"
+      }
+},
+{
+   201: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "An ethnic group of the United States is Asian Americans.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asian Americans are an ethnic group in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There is an ethnic group of Asian Americans in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id229"
+      }
+},
+{
+   202: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One United States ethnic group is White Americans.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " White_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " White_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id230"
+      }
+},
+{
+   203: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is the language of the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "English is the language in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The English language is the language of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id231"
+      }
+},
+{
+   204: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of the United States was Barack Obama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barack Obama is the leader of the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barack Obama is the leader of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Barack_Obama"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " Barack_Obama"
+       },
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " Barack_Obama"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id232"
+      }
+},
+{
+   205: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United States is Joe Biden.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Joe Biden is a leader of the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Joe_Biden"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " Joe_Biden"
+       },
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " Joe_Biden"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id233"
+      }
+},
+{
+   206: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States of America`s Chief Justice is John Roberts.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John Roberts is a leader in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " John_Roberts"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " John_Roberts"
+       },
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " John_Roberts"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id234"
+      }
+},
+{
+   207: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of the United States is known as the President of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The title of the leader of the United States is President of the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United States has the title President of the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id235"
+      }
+},
+{
+   208: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Virginia is in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Virginia ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Virginia ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id236"
+      }
+},
+{
+   209: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect, John Madin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row was designed by the architect John Madin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " architect ",
+   "subject": " John_Madin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " architect ",
+     "subject": " John_Madin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   210: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located at Colmore Row.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "103 Colmore Row is located in Colmore Row.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "103_Colmore_Row ",
+   "property": " location ",
+   "subject": " Colmore_Row"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "103_Colmore_Row ",
+     "property": " location ",
+     "subject": " Colmore_Row"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   211: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "11 Diagonal Street was completed in 1983.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "11_Diagonal_Street ",
+   "property": " completionDate ",
+   "subject": " 1983"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " buildingEndDate ",
+       "subject": " "1983""
+       },
+       {
+       "object": "11_Diagonal_Street ",
+       "property": " completionDate ",
+       "subject": " 1983"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   212: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 200 Public Square was completed in 1985.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "200 Public Square was completed in 1985.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "200_Public_Square ",
+   "property": " completionDate ",
+   "subject": " 1985"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "200_Public_Square ",
+       "property": " buildingEndDate ",
+       "subject": " "1985""
+       },
+       {
+       "object": "200_Public_Square ",
+       "property": " completionDate ",
+       "subject": " 1985"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   213: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The building at 20 Fenchurch Street was started in January 2009.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The construction of 20 Fenchurch Street began in January 2009.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " buildingStartDate ",
+   "subject": " "January 2009""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " buildingStartDate ",
+       "subject": " "January 2009""
+       },
+       {
+       "object": "20_Fenchurch_Street ",
+       "property": " startDate ",
+       "subject": " "January 2009"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   214: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located in the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "20 Fenchurch Street is located within the United Kingdom.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "20_Fenchurch_Street ",
+   "property": " location ",
+   "subject": " United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "20_Fenchurch_Street ",
+     "property": " location ",
+     "subject": " United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   215: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 60 floors at 300 North LaSalle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "300 North LaSalle has 60 floors.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "300_North_LaSalle ",
+   "property": " floorCount ",
+   "subject": " 60"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "300_North_LaSalle ",
+     "property": " floorCount ",
+     "subject": " "60"^^xsd:positiveInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   216: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of 3Arena.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "HOK SVE was the architect of the 3Arena.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " architect ",
+   "subject": " "HOK SVE""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " architect ",
+     "subject": " "HOK SVE"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   217: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located at East Link Bridge.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 3Arena is located on the East Link Bridge.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "3Arena is located at East Link Bridge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "3Arena ",
+   "property": " location ",
+   "subject": " "East Link Bridge""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "3Arena ",
+     "property": " location ",
+     "subject": " "East Link Bridge"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   218: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor's building start was in 1700.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The building of the Adare Manor was started in 1700.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " buildingStartDate ",
+   "subject": " "1700""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adare_Manor ",
+     "property": " buildingStartDate ",
+     "subject": " "(original structure); 1832 (current structure)""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   219: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adare Manor is located in the Republic of Ireland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Adare Manor is in the Republic of Ireland.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adare_Manor ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adare_Manor ",
+       "property": " locationCountry ",
+       "subject": " Republic_of_Ireland"
+       },
+       {
+       "object": "Adare_Manor ",
+       "property": " country ",
+       "subject": " Republic_of_Ireland"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   220: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akita Museum of Art was inaugurated on 28th September 2013.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akita_Museum_of_Art ",
+   "property": " inaugurationDate ",
+   "subject": " "2013-09-28""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akita_Museum_of_Art ",
+     "property": " openingDate ",
+     "subject": " "2013-09-28"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   221: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Mason School of Business are the current tenants of Alan B Miller Hall.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " currentTenants ",
+   "subject": " Mason_School_of_Business"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " currentTenants ",
+     "subject": " Mason_School_of_Business"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   222: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The architect B V Doshi designed Amdavad Ni Gufa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "B V Doshi is the architect who designed Amdavad ni Gufa.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amdavad_ni_Gufa ",
+   "property": " architect ",
+   "subject": " B._V._Doshi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amdavad_ni_Gufa ",
+     "property": " architect ",
+     "subject": " B._V._Doshi"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   223: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is located in Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Sri Lanka.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " country ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   224: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on "1988-11-22".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " added to the National Register of Historic Places ",
+   "subject": " "1988-11-22""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+     "property": " added ",
+     "subject": " "1988-11-22"^^xsd:date"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   225: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths was built in 1904.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths were constructed in 1904.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " yearOfConstruction ",
+   "subject": " 1904"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " built ",
+       "subject": " 1904"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " yearOfConstruction ",
+       "subject": " "1904"^^xsd:gYear"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   226: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Birmingham has the postcode area 'B'.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The B postcode area is the postal code of Birmingham.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Birmingham ",
+   "property": " postalCode ",
+   "subject": " B_postcode_area"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Birmingham ",
+     "property": " postalCode ",
+     "subject": " B_postcode_area"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   227: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Chicago is part of DuPage County in Illinois.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Chicago is part of DuPage County Illinois.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Chicago ",
+   "property": " isPartOf ",
+   "subject": " DuPage_County,_Illinois"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Chicago ",
+     "property": " isPartOf ",
+     "subject": " DuPage_County,_Illinois"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   228: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is in the Republic of Ireland.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " country ",
+   "subject": " Republic_of_Ireland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dublin ",
+     "property": " country ",
+     "subject": " Republic_of_Ireland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   229: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dublin is part of Leinster.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dublin ",
+   "property": " isPartOf ",
+   "subject": " Leinster"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dublin ",
+       "property": " isPartOf ",
+       "subject": " Leinster"
+       },
+       {
+       "object": "Dublin ",
+       "property": " subdivisionName ",
+       "subject": " Leinster"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   230: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Sumitra Mahajan is an Indian leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The name of the leader in India is Sumitra Mahajan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " Sumitra_Mahajan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " Sumitra_Mahajan"
+       },
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " Sumitra_Mahajan"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   231: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in Japan is the Brazilians.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "The Brazilians in Japan are an ethnic group found in Japan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " ethnicGroup ",
+   "subject": " Brazilians_in_Japan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " ethnicGroup ",
+     "subject": " Brazilians_in_Japan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   232: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Japan is Tarō Asō.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Japan ",
+   "property": " leaderName ",
+   "subject": " Tarō_Asō"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Japan ",
+     "property": " leader ",
+     "subject": " Tarō_Asō"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   233: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bill Marriott is the key person at Marriott International.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the key people in Marriott International is Bill Marriott.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Marriott_International ",
+   "property": " keyPerson ",
+   "subject": " Bill_Marriott"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Marriott_International ",
+       "property": " keyPeople ",
+       "subject": " Bill_Marriott"
+       },
+       {
+       "object": "Marriott_International ",
+       "property": " keyPerson ",
+       "subject": " Bill_Marriott"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   234: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ireland official language is English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The English language is the main language of the Republic of Ireland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One language used in the Republic of Ireland is English.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Republic_of_Ireland ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " languages ",
+       "subject": " English_language"
+       },
+       {
+       "object": "Republic_of_Ireland ",
+       "property": " language ",
+       "subject": " English_language"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   235: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Cape Town is the capital of South Africa.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital of South Africa is Cape Town.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Africa ",
+   "property": " capital ",
+   "subject": " Cape_Town"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "South_Africa ",
+     "property": " capital ",
+     "subject": " Cape_Town"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   236: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of the United Kingdom is London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "London is the capital of the United Kingdom.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " capital ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " capital ",
+     "subject": " London"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   237: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Native Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Native_Americans_in_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Native_Americans_in_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   238: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paul Ryan is the leader of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of the United States is Paul Ryan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderName ",
+   "subject": " Paul_Ryan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "United_States ",
+       "property": " leader ",
+       "subject": " Paul_Ryan"
+       },
+       {
+       "object": "United_States ",
+       "property": " leaderName ",
+       "subject": " Paul_Ryan"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id30"
+      }
+}

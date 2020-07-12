@@ -1,0 +1,522 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1634: The Bavarian Crisis was written by Eric Flint who was born in Burbank, California. It was the sequel to Grantville Gazette III and DeMarce short stories in the Grantville Gazettes.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint (born Burbank, California) is the author of 1634: The Bavarian Crisis, which is the sequel to Grantville Gazette III. DeMarce short stories in the Grantville Gazettes preceded 1634: The Bavarian Crisis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Eric Flint, born in Burbank, California, is the author of 1634: The Bavarian Crisis. DeMarce short stories in the Grantville Gazettes and Grantville Gazette III preceded 1634: The Bavarian Crisis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1634:_The_Bavarian_Crisis ",
+   "property": " author ",
+   "subject": " Eric_Flint"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1634:_The_Bavarian_Crisis ",
+     "property": " author ",
+     "subject": " Eric_Flint"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice, by J V Jones, has the OCLC number 51969173, the ISBN number 0-7653-0633-6 and is available in hardcover.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice, written by J.V. Jones and produced in hardcover, has the ISBN number 0-7653-0633-6 and the OCLC number 51969173.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "J V Jones is the author of A Fortress of Grey Ice which was published in hardcover. The OCLC number is 51969173 and the ISBN number is 0-7653-0633-6.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Fortress_of_Grey_Ice ",
+   "property": " mediaType ",
+   "subject": " Hardcover"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Fortress_of_Grey_Ice ",
+       "property": " mediaType ",
+       "subject": " Hardcover"
+       },
+       {
+       "object": "A_Fortress_of_Grey_Ice ",
+       "property": " mediaType ",
+       "subject": " Hardcover"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is written in English which is spoken in Great Britain. The book is published in the United States where the Native Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Native Americans are an ethnic group within the United States where A Loyal Character Dancer was written in English, a language also spoken in Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Loyal Character Dancer is published in the United States where the native americans are an ethnic group. It is written in English, which is spoken in Great Britain.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Loyal_Character_Dancer ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A_Loyal_Character_Dancer ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "English is spoken in Great Britain and the United States where African Americans are an ethnic group. Alcatraz Versus the Evil Librarians is from The United States and is written in the English language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "African Americans are an ethnic group in the United States. It is also where the book Alcatraz Versus the Evil Librarians comes from. This book was written in English which is the language of Great Britain.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book Alcatraz Versus the Evil Librarians is written in English, the language spoken in Great Britain. The book comes from the US, where African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alcatraz_Versus_the_Evil_Librarians ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alcatraz_Versus_the_Evil_Librarians ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id15"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acta Palaeontologica Polonica comes under the academic discipline of paleontology and is abbreviated to Acta Palaeontol. Pol. The ISSN number is 1732-2421 and the LCCN number is 60040714.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acta Palaeontologica Polonica is an academic publication which is primarily focussed on Paleontology. Its title can be abbreviated to Acta Palaeontol. Pol. It has an LCCN number of 60040714 and its ISSN number is 1732-2421.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica, abbreviated name Acta Palaeontol. Pol., comes under the academic discipline of paleontology. Its LCCN number is 60040714 and ISSN number is 1732-2421.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " LCCN_number ",
+   "subject": " 60040714"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acta_Palaeontologica_Polonica ",
+     "property": " lccn ",
+     "subject": " "60040714""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id87"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica, ISSN number is "0567-7920", LCCN number of 60040714, was published by the Polish Academy of Sciences and is known as Acta Palaeontol. Pol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica (often abbreviated to Acta Palaeontol. Pol) is published by the Polish Academy of Sciences with the ISSN number 0567-7920 and the LCCN number 60040714.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica, abbreviated to Acta Palaeontol. Pol., was published by the Polish Academy of Sciences and has an ISSN number of 0567-7920 and an LCCN number of 60040714.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " publisher ",
+   "subject": " Polish_Academy_of_Sciences"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id88"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and is abbreviated Acta Palaeontol. Pol. The CODEN code is "APGPAC" and the LCCN number is 60040714.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acta Palaeontologica Polonica (Acta Palaeontol. Pol.), published by Polish Academy of Sciences has the LCCN number 60040714 and CODEN code APGPAC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica, whose abbreviated form is Acta Palaeontol. Pol. It has a LCCN number of 60040714, as well as the CODEN code APGPAC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acta_Palaeontologica_Polonica ",
+   "property": " publisher ",
+   "subject": " Polish_Academy_of_Sciences"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       },
+       {
+       "object": "Acta_Palaeontologica_Polonica ",
+       "property": " publisher ",
+       "subject": " Polish_Academy_of_Sciences"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id89"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addiction Journal, abbreviated to Addiction, is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addiction Journal has the ISSN number of 0965-2140 and the LCCN number of 93645978. It is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and is abbreviated to "Addiction".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " ISSN_number ",
+   "subject": " "0965-2140""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addiction_(journal) ",
+       "property": " issn ",
+       "subject": " "0965-2140""
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " issn ",
+       "subject": " "0965-2140""
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " issn ",
+       "subject": " "0965-2140""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id90"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and has the ISSN number 1360-0443. It has the abbreviation of "Addiction" and the LCCN number 93645978.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the abbreviated name "Addiction". The ISSN number is 1360-0443 and the LCCN number is 93645978.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley-Blackwell on behalf of the Society of the Study of Addiction.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " ISSN_number ",
+   "subject": " "1360-0443""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addiction_(journal) ",
+       "property": " issn ",
+       "subject": " "1360-0443""
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " issn ",
+       "subject": " "1360-0443""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id91"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addiction journal (abbreviated to just 'Addiction') is about addiction. The ISSN and LCCN numbers are 0965-2140 and 93645978 respectively.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction Journal, abbreviated "Addiction", about addiction, has an ISSN number 0965-2140 and LCCn number 93645978.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Addiction (journal) is about Addiction, ISSN number of 0965-2140, LCCN number 93645978.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " academicDiscipline ",
+   "subject": " Addiction"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addiction_(journal) ",
+       "property": " discipline ",
+       "subject": " Addiction"
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " discipline ",
+       "subject": " Addiction"
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " abbreviation ",
+       "subject": " "Addiction"@en"
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " abbreviation ",
+       "subject": " "Addiction"@en"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id92"
+      }
+},
+{
+   11: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Addiction journal (abbreviated to Addiction) is published by Wiley-Blackwell. It has the ISSN number 0965-2140, and the LCCN number 93645978.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Wiley-Blackwell is the publisher of Addiction (journal), known as Addiction, ISSN number of 0965-2140 and LCCN number 93645978.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Addiction journal (abbreviated to Addiction) was published by Wiley-Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Addiction_(journal) ",
+   "property": " publisher ",
+   "subject": " Wiley-Blackwell"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Addiction_(journal) ",
+       "property": " publisher ",
+       "subject": " Wiley-Blackwell"
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " publisher ",
+       "subject": " Wiley-Blackwell"
+       },
+       {
+       "object": "Addiction_(journal) ",
+       "property": " publisher ",
+       "subject": " Wiley-Blackwell"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id93"
+      }
+}

@@ -1,0 +1,726 @@
+{
+   1: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was number 39 in the draft pick and his former team was New England Patriots.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers draft pick is 39 ad his former team is the New England Patriots.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers was number 39 in the draft pick and was a former member of the New England Patriots.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " New_England_Patriots"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " New_England_Patriots"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   2: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers' former team was Tennessee Titans and he was number 39 in the draft pick.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers used to play for Tennessee Titans and he was number 39 in the draft pick.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Ayers played for Tennessee Titans and was 39 in the draft pick.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Ayers ",
+   "property": " formerTeam ",
+   "subject": " Tennessee_Titans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Ayers ",
+     "property": " formerTeam ",
+     "subject": " Tennessee_Titans"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   3: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley's club is the Connecticut Huskies and he previously played for Sheikh Russel KC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for the Connecticut Huskies, having previously played for Sheikh Russel KC.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akeem Priestley plays for the Connecticut Huskies and formerly played for Sheikh Russel KC.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akeem_Priestley ",
+   "property": " club ",
+   "subject": " Connecticut_Huskies"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akeem_Priestley ",
+     "property": " team ",
+     "subject": " Connecticut_Huskies"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   4: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov's club is FC Spartak Moscow and he also plays for the FC Kuban Krasnodar club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Former clubs of Aleksandr Prudnikov include FC Spartak Moscow and FC Kuban Krasnodar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov has played for FC Spartak Moscow and FC Kuban Krasnodar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Spartak_Moscow"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aleksandr_Prudnikov ",
+     "property": " team ",
+     "subject": " FC_Spartak_Moscow"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id16"
+      }
+},
+{
+   5: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer for the Coritiba Football club and also Real Madrid Castilla.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Footballer Abner plays for Real Madrid Castilla and Coritiba Football Club.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Abner_(footballer) ",
+   "property": " club ",
+   "subject": " Real_Madrid_Castilla"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Abner_(footballer) ",
+     "property": " team ",
+     "subject": " Real_Madrid_Castilla"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   6: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam Maher's clubs are PSV Eindhoven and AZ Alkmaar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam Maher plays for PSV Eindhoven and has been connected to the club AZ Alkmaar.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_Maher ",
+   "property": " club ",
+   "subject": " PSV_Eindhoven"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_Maher ",
+       "property": " team ",
+       "subject": " PSV_Eindhoven"
+       },
+       {
+       "object": "Adam_Maher ",
+       "property": " clubs ",
+       "subject": " PSV_Eindhoven"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   7: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Canada in 1986.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   8: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in Charlottetown in 1986.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in 1986, in Charlottetown.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Charlottetown"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Charlottetown"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   9: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born in 1986 on Prince Edward Island.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid was born on Prince Edward Island in 1986.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " birthPlace ",
+   "subject": " Prince_Edward_Island"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Adam_McQuaid ",
+     "property": " placeOfBirth ",
+     "subject": " Prince_Edward_Island"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   10: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's draft team is the Columbus Blue Jackets in Columbus, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Adam McQuaid's draft team is the Columbus Blue Jackets, which are based in Columbus, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Columbus Blue Jackets in Columbus, Ohio drafted Adam McQuaid.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Adam_McQuaid ",
+   "property": " draftTeam ",
+   "subject": " Columbus_Blue_Jackets"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       },
+       {
+       "object": "Adam_McQuaid ",
+       "property": " draftTeam ",
+       "subject": " Columbus_Blue_Jackets"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   11: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra plays for the Iraq national under-20 football team and Al Kharaitiyat SC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for Al Kharaitiyat SC and the Iraq under 20 team.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul Zahra plays for the club AL Kharaitiyat SC and has represented the Iraq national Under 20 football team.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Iraq_national_under-20_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alaa_Abdul-Zahra ",
+     "property": " team ",
+     "subject": " Iraq_national_under-20_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id90"
+      }
+},
+{
+   12: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra has payed for Shabab Al-Ordon Club and Al-Khor Sports Club.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra belongs to Shabab Al-Ordon Club and plays for Al-Khor Sports Club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alaa Abdul-Zahra has played for both Shabab Al-Ordon Club and Al-Khor Sports Club.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alaa_Abdul-Zahra ",
+   "property": " club ",
+   "subject": " Shabab_Al-Ordon_Club"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alaa_Abdul-Zahra ",
+     "property": " clubs ",
+     "subject": " Shabab_Al-Ordon_Club"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id91"
+      }
+},
+{
+   13: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov plays for the FC Amkar Perm football club managed by Gadzhi Gadzhiyev.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aleksandr Prudnikov played for FC Amkar Perm football club, where the manager is Gadzhi Gadzhiyev.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aleksandr_Prudnikov ",
+   "property": " club ",
+   "subject": " FC_Amkar_Perm"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " team ",
+       "subject": " FC_Amkar_Perm"
+       },
+       {
+       "object": "Aleksandr_Prudnikov ",
+       "property": " clubs ",
+       "subject": " FC_Amkar_Perm"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id117"
+      }
+},
+{
+   14: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli played for the Italy national under-16 football team coached by Daniele Zoratto.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli is in the Italy national under 16's football team which is coach by Daniele Zoratto.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli played for the Italian national under 16 football team which is coached by Daniele Zoratto.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alessio_Romagnoli ",
+   "property": " club ",
+   "subject": " Italy_national_under-16_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alessio_Romagnoli ",
+     "property": " nationalteam ",
+     "subject": " Italy_national_under-16_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id134"
+      }
+},
+{
+   15: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for the Italy national under-17 football team which is coached by Alessandro Dal Canto .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli is a member of the Italian national under 17 football team coached by Alessandro Dal Canto.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alessio Romagnoli plays for the Italy national under-17 football team, where Alessandro Dal Canto is the coach.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alessio_Romagnoli ",
+   "property": " club ",
+   "subject": " Italy_national_under-17_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alessio_Romagnoli ",
+     "property": " nationalteam ",
+     "subject": " Italy_national_under-17_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id137"
+      }
+},
+{
+   16: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Larry Maguire is the leader of Brandon, Manitoba, the birthplace of Alex Plante.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Brandon, Manitoba where the leader is Larry Maguire.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Larry Maguire is the leader in Brandon, Manitoba which is where Alex Plante was born.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Plante ",
+   "property": " birthPlace ",
+   "subject": " Brandon,_Manitoba"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alex_Plante ",
+     "property": " placeOfBirth ",
+     "subject": " Brandon,_Manitoba"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id144"
+      }
+},
+{
+   17: {
+      "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Abner plays for CD FAS in the Salvadoran Primera Division.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Division.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "C.D._FAS ",
+   "property": " league ",
+   "subject": " Salvadoran_Primera_División"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "C.D._FAS ",
+     "property": " league ",
+     "subject": " Salvadoran_Primera_División"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id159"
+      }
+},
+{
+   18: {
+   "category": "Athlete",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The national anthem of Canada, where Alex Plante was born, is O Canada.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Plante was born in Canada where the country's anthem is O Canada.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Canada ",
+   "property": " anthem ",
+   "subject": " O_Canada"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Canada ",
+     "property": " anthem ",
+     "subject": " O_Canada"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id162"
+      }
+}

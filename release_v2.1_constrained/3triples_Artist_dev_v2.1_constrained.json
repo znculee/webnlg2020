@@ -1,0 +1,272 @@
+{
+   1: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Trance musician Andrew Rayel is associated with artists Armin van Buuren and Jwaydan Moyine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel, whose musical genre is trance music, is associated with, musician Jwaydan Moyine and musical artist Armin van Buuren.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Raye, who plays trance music, knows Jwaydan Moyine, musician. Mr. Rayel is also associated with Armin van Buuren.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id208"
+      }
+},
+{
+   2: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel's musical genre is Trance and he is associated with Bobina and Jwaydan Moyine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel, a musician in Trance is associated with the musical artist, Bobina and the musician, Jwaydan Moyine.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel plays Trance music. He is associated with Bobina and Jwaydan Moyine, musician.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_Rayel ",
+       "property": " associatedBand ",
+       "subject": " Jwaydan_Moyine"
+       },
+       {
+       "object": "Andrew_Rayel ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Jwaydan_Moyine"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id209"
+      }
+},
+{
+   3: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has performed the genre of Trance music and is associated with Mark Sixma and Christian Burns.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel plays Trance music and is associated with Mark Sixma and Christian Burns.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The musical genre of Andrew Rayel is trance music. Andrew Rayel is associated with Mark Sixma and Christian Burns.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Mark_Sixma"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedBand ",
+     "subject": " Mark_Sixma"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id210"
+      }
+},
+{
+   4: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The musician Andrew White is a member of the Kaiser Chiefs band and his genre is alternative rock. He is also associated with the musical artist, Marry Banilow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White, whose genre is alternative rock, plays for the band Kaiser Chiefs and is associated with the musical artist Marry Banilow.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The musician Andrew White is associated with the musical artist Marry Banilow and plays for the band Kaiser Chiefs. His genre is alternative rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id211"
+      }
+},
+{
+   5: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew White, a musician signed to the record label B-Unique Records, plays for the band Kaiser Chiefs and is associated with the musical artist Marry Banilow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Kaiser Chiefs band member, musician Andrew White, is signed to the record label B-Unique Records andis associated with the musical artist, Marry Banilow.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White is signed with B-Unique Records and is associated with Marry Banilow. and the Kaiser Chiefs.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id212"
+      }
+},
+{
+   6: {
+   "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The musician Andrew White is a member of the band Kaiser Chiefs who is signed to the Fiction record label. He is associated with the musical artist, Marry Banilow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White plays for the band Kaiser Chiefs and recorded for the Fiction label. He was associated with Marry Banilow, musician.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The band Kaiser Chiefs included the member musician, Andrew White, who is associated with the musical artist, Marry Banilow and who is signed to the record label Fiction.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id213"
+      }
+}

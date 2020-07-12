@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id111" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Native Americans are one of the ethnic groups of the United States where A Wizard of Mars, which is published in English, originates from.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars is written in English and was published in the United States. Additionally, Native Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3">The US is not only home to Native Americans but also the origin place of the English book A Wizard of Mars.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id112" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars, published in the United States was written in English, which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was written in English (which is spoken in Great Britain) and originates from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The English-language book A Wizard of Mars originates from the United States that includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id2">Written in English, A Wizard of Mars was Published in the United States where one of the ethnic groups is Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id210" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars comes from the United States where they speak english and African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">English is the language of the United States where A Wizard of Mars was published. One of the ethnic groups in the country are the African Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id211" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was published in the United States, where Barack Obama is the leader and one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">Barack Obama, president of the US is an African American man, which is one of the ethnic groups of the United States. A Wizard of Mars was published in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id212" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was Published in the United States where the leader the President. it is also where one of the ethnic groups is African Americans.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States, which is led by the President, and includes African Americans as one of its ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where the title of the leader is the President and where African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id213" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Many Asian Americans live in the United States, the country where English is the language and where 'A Fortress of Grey Ice' is from.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was originally published in English. The book came from the United States, where there is an ethnic group called Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is written in the English language and is from the United States where one of the ethnic groups are Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id214" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the US, where the capital city is Washington D.C. There are many Asian Americans in the United States.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States, where Washington D. C. is the capital and Asian Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">The US is home to Asian Americans and the origin place of A Fortress of Grey Ice. Washington, D.C. is the capital.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id215" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed Wasp originates from the United States, a country that includes many Asian Americans and has Washington, D.C. as its capital.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States, where there is an ethnic group called Asian Americans and where the capital is Washington DC.</lex>
+      <lex comment="good" lid="Id3">The US is home to Asian Americans and is the origin place of A Severed Wasp. Washington, D.C. is the capital.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id216" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In the United States, English is the language spoken and one of the ethnic groups is Asian Americans. It is also the country where A Fortress of Grey Ice is from.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where they speak English and of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States which has the language of English and where the Asian Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id217" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the language is English and the Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States where the language is English and one of the ethnic groups are the Asian Americans.</lex>
+      <lex comment="good" lid="Id3">English is spoken in the US; which is home to Asian Americans and the origin place of A Severed Wasp.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,3008 @@
+{
+   1: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The President of Acharya Institute of Technology is B. M. Reddy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's president is B.M. Reddy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " president ",
+   "subject": " "B.M. Reddy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " president ",
+     "subject": " "B.M. Reddy"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   2: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The northwest border to Kerala is Mahe in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Kerala has to its northwest Mahé in India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Mahé in India is to the northwest of Kerala.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Kerala ",
+   "property": " has to its northwest ",
+   "subject": " Mahé,_India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Kerala ",
+     "property": " northwest ",
+     "subject": " Mahé,_India"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   3: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Thomas Pallesen is the dean of Aarhus University School of Business and Social Sciences .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The dean of School of Business and Social Sciences at the Aarhus University is Thomas Pallesen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Thomas Pallesen is the Dean at the School of Business and Social Sciences at Aarhus University.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The dean of the School of Business and Social Sciences at the Aarhus University is Thomas Pallesen.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " dean ",
+   "subject": " "Thomas Pallesen""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " dean ",
+     "subject": " "Thomas Pallesen"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   4: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University has 16000 students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus University School of Business and Social Sciences' number of students are 16000.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 16000 students at the School of Business and Social Sciences at the University of Aarhus.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 16000 students in the Aarhus University School of Business and Social Sciences.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus University School of Business and Social Sciences has 16000 students.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of students in School of Business and Social Sciences at the Aarhus University is 16000.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of students at the School of Business and Social Sciences at the Aarhus University is 16000.",
+   "xml_id": "Id7"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has 16000 students.",
+   "xml_id": "Id8"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " numberOfStudents ",
+   "subject": " 16000"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " numberOfStudents ",
+       "subject": " "16000"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " students ",
+       "subject": " 16000"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   5: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The "1 Decembrie 1918 University" is in the city Alba Iulia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Alba Iulia has a University called "1 Decembrie 1918 University".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in the city of Alba Iulia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " city ",
+   "subject": " Alba_Iulia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " city ",
+     "subject": " Alba_Iulia"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   6: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in the country of Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University is located in Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " country ",
+   "subject": " Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " country ",
+     "subject": " Romania"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   7: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Latin name of the 1 Decembrie 1918 University is "Universitas Apulensis".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Latin name of 1 Decembrie 1918 University is Universitas Apulensis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The latin name for 1 Decembrie 1918 University is Universitas Apulensis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " latinName ",
+   "subject": " "Universitas Apulensis""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " latinName ",
+     "subject": " "Universitas Apulensis"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   8: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 1 Decembrie 1918 University has the nickname Uab.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " nickname ",
+   "subject": " Uab"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " nickname ",
+     "subject": " Uab"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   9: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Breaz Valer Daniel is rector of the 1 Decembrie 1918 University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The rector of the 1 Decembrie 1918 University is Breaz Valer Daniel.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1_Decembrie_1918_University ",
+   "property": " rector ",
+   "subject": " "Breaz Valer Daniel""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1_Decembrie_1918_University,_Alba_Iulia ",
+     "property": " rector ",
+     "subject": " "Breaz Valer Daniel"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   10: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The academic staff at the AWH Engineering College number 250.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AWH Engineering College has academic staff size of 250.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College has an academic staff of 250.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " academicStaffSize ",
+   "subject": " 250"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "AWH_Engineering_College ",
+       "property": " facultySize ",
+       "subject": " "250"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "AWH_Engineering_College ",
+       "property": " faculty ",
+       "subject": " 250"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   11: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AWH Engineering College is located in Kuttikkattoor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is in the city of Kuttikkattoor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is located in Kuttikkattoor.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " city ",
+   "subject": " "Kuttikkattoor""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " city ",
+     "subject": " "Kuttikkattoor"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+},
+{
+   12: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is located in India.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " country ",
+   "subject": " India"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " country ",
+     "subject": " India"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   13: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AWH Engineering College was established in 2001.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " established ",
+   "subject": " 2001"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " established ",
+     "subject": " 2001"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id9"
+      }
+},
+{
+   14: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AWH Engineering College is located in Kerala state.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AWH Engineering College is in the State of Kerala.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AWH_Engineering_College ",
+   "property": " state ",
+   "subject": " Kerala"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AWH_Engineering_College ",
+     "property": " state ",
+     "subject": " Kerala"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   15: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The type of government of Aarhus is magistrate.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "The city of Aarhus is governed by Magistrates.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus ",
+   "property": " governmentType ",
+   "subject": " Magistrate"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus ",
+     "property": " governmentType ",
+     "subject": " Magistrate"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   16: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Mols is to the northeast of Aarhus.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus has to its northeast Mols.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Mols is the area to the northeast of Aarhus.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aarhus ",
+   "property": " has to its northeast ",
+   "subject": " Mols"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus ",
+     "property": " northeast ",
+     "subject": " Mols"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   17: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is located in the city of Mendrisio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in the city of Mendrisio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " city ",
+   "subject": " Mendrisio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " city ",
+     "subject": " Mendrisio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id13"
+      }
+},
+{
+   18: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Switzerland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is located in Switzerland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio is in Switzerland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " country ",
+   "subject": " Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " country ",
+     "subject": " Switzerland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   19: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The dean of the Accademia di Architettura di Mendrisio is Mario Botta.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio's dean is Mario Botta.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " dean ",
+   "subject": " Mario_Botta"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " dean ",
+     "subject": " Mario_Botta"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   20: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio was established in 1996.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " established ",
+   "subject": " 1996"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " established ",
+     "subject": " 1996"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   21: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio is located in Ticino.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ticino is the location of the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " location ",
+   "subject": " Ticino"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Accademia_di_Architettura_di_Mendrisio ",
+     "property": " canton ",
+     "subject": " Ticino"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   22: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 600 students at the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Six hundred students attend the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio has 600 students.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Accademia di Architettura di Mendrisio has 600 students enrolled.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "There are 600 students attending the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " numberOfStudents ",
+   "subject": " 600"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " numberOfStudents ",
+       "subject": " "600"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " students ",
+       "subject": " 600"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   23: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's academic staff total is ~500.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology employs about 500 academic staff.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Approximately 500 employees make up the academic staff at Acharya Institute of Technology.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " academicStaffSize ",
+   "subject": " "~500""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " academicStaff ",
+     "subject": " "~500"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+},
+{
+   24: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " affiliation ",
+   "subject": " Visvesvaraya_Technological_University"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " affiliation ",
+       "subject": " Visvesvaraya_Technological_University"
+       },
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " affiliations ",
+       "subject": " Visvesvaraya_Technological_University"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id20"
+      }
+},
+{
+   25: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is located in the city of Bangalore.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in Bangalore.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is in Bangalore.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " city ",
+   "subject": " Bangalore"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " city ",
+     "subject": " Bangalore"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id21"
+      }
+},
+{
+   26: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology can be found in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in India.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is located in India.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " country ",
+   "subject": " "India""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " country ",
+     "subject": " "India"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id22"
+      }
+},
+{
+   27: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The director of Acharya Institute of Technology is Dr. G. P. Prabhukumar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's director is Dr. G. P. Prabhukumar.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " director ",
+   "subject": " "Dr. G. P. Prabhukumar""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " director ",
+     "subject": " "Dr. G. P. Prabhukumar"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id23"
+      }
+},
+{
+   28: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology was established in the year 2000.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology was established in 2000.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " established ",
+   "subject": " 2000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " established ",
+     "subject": " 2000"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id24"
+      }
+},
+{
+   29: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's motto is Nurturing Excellence.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The motto of the Acharya Institute of Technology is "Nurturing Excellence".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " motto ",
+   "subject": " "Nurturing Excellence""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " motto ",
+     "subject": " "Nurturing Excellence"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id25"
+      }
+},
+{
+   30: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AIT is the nickname for the Acharya Institute of Technology.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The nickname of the Acharya Institute of Technology is AIT.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is known as AIT.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " nickname ",
+   "subject": " "AIT""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " nickname ",
+     "subject": " "AIT"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id26"
+      }
+},
+{
+   31: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The number of post graduate students at the Acharya Institute of Technology is about 700.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of postgraduate students in Acharya Institute of Technology is ~700.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There are around 700 postgraduate students at the Acharya Institute of Technology.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "There are about 700 postgraduate students at the Acharya Institute of Technology.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology has 700 postgraduate students.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "700 students are enrolled in a post-graduate program at Acharya Institute of Technology.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " numberOfPostgraduateStudents ",
+   "subject": " 700"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " numberOfPostgraduateStudents ",
+       "subject": " "700"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " postgrad ",
+       "subject": " "~700"@en"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id27"
+      }
+},
+{
+   32: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's number of Undergraduate students total to ~10000.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "There are around 10000 undergraduate students at the Acharya Institute of Technology.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology has 10000 undergraduate students.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology has 10,000 undergraduate students.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology has 10,000 undergraduate students.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " numberOfUndergraduateStudents ",
+   "subject": " 10000"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " undergrad ",
+       "subject": " "~10000"@en"
+       },
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " numberOfUndergraduateStudents ",
+       "subject": " "10000"^^xsd:nonNegativeInteger"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id28"
+      }
+},
+{
+   33: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Blue, white and orange are the colours adopted by Acharya Institute of Technology.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Blue, white and orange are the colours of Acharya Institute of Technology.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's official colors are Blue, White and Orange.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The official school colours of the Acharya Institute of Technology are blue, white and orange.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology official school colors are Blue White and Orange.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology official school colours are blue, white and orange.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " officialSchoolColour ",
+   "subject": " "Blue, White and Orange""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " colours ",
+       "subject": " "Blue, White and Orange"@en"
+       },
+       {
+       "object": "Acharya_Institute_of_Technology ",
+       "property": " officialSchoolColour ",
+       "subject": " "Blue, White and Orange""
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id29"
+      }
+},
+{
+   34: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The outlook ranking for the Acharya Institute of Technology is 63.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology's outlook ranking is 63.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology has an outlook ranking of 63.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " outlookRanking ",
+   "subject": " 63"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " outlook ",
+     "subject": " 63"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id30"
+      }
+},
+{
+   35: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Tennis is one of the sports offered at the Acharya Institute of Technology.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology offers Tennis as a sport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "One of the sports offered at the Acharya Institute of Technology is tennis.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology offers sports including tennis.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " sportsOffered ",
+   "subject": " Tennis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " sport ",
+     "subject": " Tennis"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id31"
+      }
+},
+{
+   36: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology is in the state of Karnataka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is located in the state of Karnataka.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology is in Karnataka state.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " state ",
+   "subject": " Karnataka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " state ",
+     "subject": " Karnataka"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id32"
+      }
+},
+{
+   37: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Acharya Institute of Technology was given the 'Technical Campus' status by All India Council for Technical Education.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " was given the 'Technical Campus' status by ",
+   "subject": " All_India_Council_for_Technical_Education"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " free ",
+     "subject": " All_India_Council_for_Technical_Education"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id33"
+      }
+},
+{
+   38: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "All India Council for Technical Education is located in Mumbai.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The All India Council for Technical Education is located in Mumbai.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "All_India_Council_for_Technical_Education ",
+   "property": " location ",
+   "subject": " Mumbai"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "All_India_Council_for_Technical_Education ",
+     "property": " location ",
+     "subject": " Mumbai"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id34"
+      }
+},
+{
+   39: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Kempe Gowda I founded Bangalore.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The founder of Bangalore was Kempe Gowda I.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Kempe Gowda I was the founder of Bangalore.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bangalore ",
+   "property": " founder ",
+   "subject": " Kempe_Gowda_I"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bangalore ",
+     "property": " founder ",
+     "subject": " Kempe_Gowda_I"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id35"
+      }
+},
+{
+   40: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Lars Lokke Rasmussen is the leader of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "One of Denmark's leaders is Lars Lokke Rasmussen.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Denmark's leader is Lars Løkke Rasmussen.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Denmark is Lars Lokke Rasmussen.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "The Leader of Denmark is Lars Løkke Rasmussen.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Lars Løkke Rasmussen is the leader of Denmark.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderName ",
+   "subject": " Lars_Løkke_Rasmussen"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Denmark ",
+       "property": " leaderName ",
+       "subject": " Lars_Løkke_Rasmussen"
+       },
+       {
+       "object": "Denmark ",
+       "property": " leader ",
+       "subject": " Lars_Løkke_Rasmussen"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   41: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Denmark is led by a Monarch.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Monarch of Denmark is the country's leader.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " leaderTitle ",
+   "subject": " Monarchy_of_Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " leaderTitle ",
+     "subject": " Monarchy_of_Denmark"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id37"
+      }
+},
+{
+   42: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The official religion of Denmark is the Church of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Denmark's religion is led by Church of Denmark.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Church of Denmark is the religion of Denmark.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Denmark ",
+   "property": " religion ",
+   "subject": " Church_of_Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Denmark ",
+     "property": " religion ",
+     "subject": " Church_of_Denmark"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id38"
+      }
+},
+{
+   43: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The headquarters of the European University Association is in Brussels.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The European University Association headquarter is in Brussels.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "European_University_Association ",
+   "property": " headquarters ",
+   "subject": " Brussels"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "European_University_Association ",
+     "property": " headquarters ",
+     "subject": " Brussels"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id39"
+      }
+},
+{
+   44: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The largest city in India is Mumbai.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mumbai is India's largest city.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " largestCity ",
+   "subject": " Mumbai"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "India ",
+     "property": " largestCity ",
+     "subject": " Mumbai"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id40"
+      }
+},
+{
+   45: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ganges is a river in India.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Ganges is India's most well known river.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " river ",
+   "subject": " Ganges"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "India ",
+     "property": " river ",
+     "subject": " Ganges"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id41"
+      }
+},
+{
+   46: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Karnataka neighbors Telangana to its northeast.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Karnataka has to its northeast Telangana.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "To the northeast of Karnataka is Telangana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Karnataka ",
+   "property": " has to its northeast ",
+   "subject": " Telangana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Karnataka ",
+     "property": " northeast ",
+     "subject": " Telangana"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id42"
+      }
+},
+{
+   47: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Arabian Sea is west of Karnataka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The west of Karnataka is the Arabian Sea.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "To the west Karnataka borders on the Arabian Sea.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Karnataka ",
+   "property": " has to its west ",
+   "subject": " Arabian_Sea"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Karnataka ",
+     "property": " west ",
+     "subject": " Arabian_Sea"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id43"
+      }
+},
+{
+   48: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Kochi is the leader of Kerala.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Kerala is Kochi.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Kerala leader is in Kochi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Kerala ",
+   "property": " leaderName ",
+   "subject": " Kochi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Kerala ",
+     "property": " leaderName ",
+     "subject": " Kochi"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id44"
+      }
+},
+{
+   49: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The anthem of Romania is called Desteapta te romane.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Desteapta te, romane is the Romanian anthem.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The national anthem of Romania is Desteapta-te, romane!",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " anthem ",
+   "subject": " Deșteaptă-te,_române!"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " anthem ",
+     "subject": " Deșteaptă-te,_române!"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id45"
+      }
+},
+{
+   50: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "One of the ethnic groups in Romania are the Germans of Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Germans of Romania is an ethnic group in Romania.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Germans of Romania are an ethnic group in Romania.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Romania has many ethnic groups one of which are Germans.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " ethnicGroup ",
+   "subject": " Germans_of_Romania"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " ethnicGroup ",
+       "subject": " Germans_of_Romania"
+       },
+       {
+       "object": "Romania ",
+       "property": " ethnicGroups ",
+       "subject": " Germans_of_Romania"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id46"
+      }
+},
+{
+   51: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Romania is Klaus Iohannis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Romania's leader is Klaus Iohannis.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " leaderName ",
+   "subject": " Klaus_Iohannis"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Romania ",
+       "property": " leaderName ",
+       "subject": " Klaus_Iohannis"
+       },
+       {
+       "object": "Romania ",
+       "property": " leader ",
+       "subject": " Klaus_Iohannis"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   52: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Romania is known as the Prime Minister.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Romania's leader is called the Prime Minister of Romania.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The title of the leader of Romania is "Prime Minister".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " leaderTitle ",
+   "subject": " Prime_Minister_of_Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " leaderTitle ",
+     "subject": " Prime_Minister_of_Romania"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   53: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aarhus University School of Business and Social Sciences is affiliated with the European University Association.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is affiliated to European University Association.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University is affiliated to the European University Association.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " affiliation ",
+   "subject": " European_University_Association"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " affiliation ",
+       "subject": " European_University_Association"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " affiliations ",
+       "subject": " European_University_Association"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   54: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aarhus University School of Business and Social Sciences is in the city of Aarhus.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University is situated in the city of Aarhus.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " city ",
+   "subject": " Aarhus"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " city ",
+     "subject": " Aarhus"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   55: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at Aarhus University was established in 1928.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aarhus University School of Business and Social Sciences was established in 1928.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University was established in 1928.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is established in 1928.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " established ",
+   "subject": " 1928"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " established ",
+     "subject": " 1928"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   56: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The latin name of School of Business and Social Sciences at the Aarhus University is "Universitas Aarhusiensis".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The latin name of the School of Business and Social Sciences at Aarhus University is "universitas Aarhusiensis".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has the latin name Universitas Aarhusiensis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " latinName ",
+   "subject": " "Universitas Aarhusiensis""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " latinName ",
+     "subject": " "Universitas Aarhusiensis"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id52"
+      }
+},
+{
+   57: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Swiss Psalm is the anthem of Switzerland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The anthem of Switzerland is called the Swiss Psalm.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Switzerland ",
+   "property": " anthem ",
+   "subject": " Swiss_Psalm"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Switzerland ",
+     "property": " anthem ",
+     "subject": " Swiss_Psalm"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id53"
+      }
+},
+{
+   58: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Johann Schneider-Ammann is the leader of Switzerland.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Johann Schneider-Ammann is the Swiss leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Switzerland is Johann Schneider-Ammann.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Switzerland has a leader called Johann Schneider-Ammann.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Johann Schneider-Ammann is the name of the leader of Switzerland.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "The Swiss leader is Johann Schneider-Ammann.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Switzerland ",
+   "property": " leaderName ",
+   "subject": " Johann_Schneider-Ammann"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Switzerland ",
+       "property": " leaderName ",
+       "subject": " Johann_Schneider-Ammann"
+       },
+       {
+       "object": "Switzerland ",
+       "property": " leader ",
+       "subject": " Johann_Schneider-Ammann"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id54"
+      }
+},
+{
+   59: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Federal Chancellor of Switzerland helps to lead the country.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Federal Chancellor of Switzerland is the title of the leader of Switzerland.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Switzerland is titled the Federal Chancellor of Switzerland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Switzerland ",
+   "property": " leaderTitle ",
+   "subject": " Federal_Chancellor_of_Switzerland"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Switzerland ",
+     "property": " leaderTitle ",
+     "subject": " Federal_Chancellor_of_Switzerland"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id55"
+      }
+},
+{
+   60: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Switzerland's legislature is formed in the Federal Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Switzerland's legislature is known as the Federal Assembly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Federal Assembly legislates in Switzerland.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Switzerland ",
+   "property": " legislature ",
+   "subject": " Federal_Assembly_(Switzerland)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Switzerland ",
+     "property": " legislature ",
+     "subject": " Federal_Assembly_(Switzerland)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id56"
+      }
+},
+{
+   61: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The sport Tennis has a Governing Body called the International Tennis Federation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The International Tennis Federation is the Governing Body for the tennis sport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The tennis sport is governed by the International Tennis Federation.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The International Tennis Federation is the Governing Body of the sport of tennis.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "The International Tennis Federation is the governing body of tennis.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "The sports governing body of tennis is the International Tennis Federation.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Tennis ",
+   "property": " sportsGoverningBody ",
+   "subject": " International_Tennis_Federation"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Tennis ",
+       "property": " union ",
+       "subject": " International_Tennis_Federation"
+       },
+       {
+       "object": "Tennis ",
+       "property": " sportGoverningBody ",
+       "subject": " International_Tennis_Federation"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id57"
+      }
+},
+{
+   62: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Visvesvaraya Technological University is in the city of Belgaum.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Visvesvaraya Technological University is in the city of Belgaum.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Visvesvaraya Technological University is located in Belgaum.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Visvesvaraya_Technological_University ",
+   "property": " city ",
+   "subject": " Belgaum"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Visvesvaraya_Technological_University ",
+     "property": " city ",
+     "subject": " Belgaum"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   63: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The academic staff size of Accademia di Architettura di Mendrisio is 100.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The academic staff number 100 at the Accademia di Architettura di Mendrisio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Accademia di Architettura di Mendrisio has an academic staff of 100.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Accademia_di_Architettura_di_Mendrisio ",
+   "property": " academicStaffSize ",
+   "subject": " 100"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " facultySize ",
+       "subject": " "100"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Accademia_di_Architettura_di_Mendrisio ",
+       "property": " faculty ",
+       "subject": " 100"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id1"
+      }
+},
+{
+   64: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The campus address for the Acharya Institute of Technology is: Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Acharya Institute of Technology campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The campus of the Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Acharya_Institute_of_Technology ",
+   "property": " campus ",
+   "subject": " "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Acharya_Institute_of_Technology ",
+     "property": " campus ",
+     "subject": " "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   65: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is located in Romania.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is in the country of Romania.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is in Romania.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " country ",
+   "subject": " Romania"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " country ",
+     "subject": " Romania"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   66: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is part of the county of Alba.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alba Iulia is part of Alba County.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alba_Iulia ",
+   "property": " isPartOf ",
+   "subject": " Alba_County"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alba_Iulia ",
+     "property": " isPartOf ",
+     "subject": " Alba_County"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id4"
+      }
+},
+{
+   67: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The patron saint of Romania is Andrew the Apostle.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew the Apostle is the patron saint of Romania.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Romania ",
+   "property": " patronSaint ",
+   "subject": " Andrew_the_Apostle"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Romania ",
+     "property": " patronSaint ",
+     "subject": " Andrew_the_Apostle"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   68: {
+      "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The academic staff of the School of Business and Social Sciences at the Aarhus University number 737.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has academic staff size of 737.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University has an academic staff of 737.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " academicStaffSize ",
+   "subject": " 737"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " facultySize ",
+       "subject": " "737"^^xsd:nonNegativeInteger"
+       },
+       {
+       "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+       "property": " faculty ",
+       "subject": " 737"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id6"
+      }
+},
+{
+   69: {
+   "category": "University",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Aarhus University School of Business and Social Sciences is in the country of Denmark.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is situated in Denmark.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is located in Denmark.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "The School of Business and Social Sciences at the Aarhus University is in Denmark.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "School of Business and Social Sciences at the Aarhus University ",
+   "property": " country ",
+   "subject": " Denmark"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aarhus_University,_School_of_Business_and_Social_Sciences ",
+     "property": " country ",
+     "subject": " Denmark"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id7"
+      }
+}

@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id76" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Japan | leader | Shinzō_Abe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Akita Museum is in Akita, Akita (part of Akita Prefecture) in Japan. The leader of Japan is Shinzō Abe. Brazilians are one ethnic group there.</lex>
+      <lex comment="good" lid="Id2">The Brazilians are an ethnic group in Japan where the leader is Shinzo Abe. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+    </entry>
+    <entry category="Building" eid="Id77" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        <mtriple>Japan | leaderName | Tarō_Asō</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita which is part of Akita Prefecture, Japan. One of the ethnic groups in Japan is the Brazilians and the leader of the country is Tarō Asō.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups of Japan are the Brazilians and the country is led by Taro Aso. The Akita Museum of Art is located in the country at Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id3">The Brazilians are one of the ethnic groups in Japan which is led by Taro Aso. The Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+    </entry>
+    <entry category="Building" eid="Id78" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Chinese_people_in_Japan</otriple>
+        <otriple>Japan | leader | Shinzō_Abe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
+        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Chinese are an ethnic group in Japan which is led by Shinzo Abe. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture, Japan. Shinzo Abe is the leader of Japan, where there is an ethnic group of Chinese people.</lex>
+    </entry>
+    <entry category="Building" eid="Id79" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+        <otriple>Japan | leader | Shinzō_Abe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. One of the ethnic groups in Japan is the Filipinos and the leader of the country is Shinzō Abe.</lex>
+      <lex comment="good" lid="Id2">Akita, Japan holds the Akita Museum of Art and is part of the Akita Prefecture. Japan's leader is Shinzo Abe and it homes various ethnic groups one of which is the Filipinos.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita; Akita Prefecture, Japan, which is led by Shinzo Abe and has the ethnic group Filipinos.</lex>
+    </entry>
+    <entry category="Building" eid="Id80" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+        <mtriple>Japan | leaderName | Tarō_Asō</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. One of the ethnic groups in Japan is the Filipinos and the leader of the country is Tarō Asō.</lex>
+      <lex comment="good" lid="Id2">The Filipinos are one of the ethnic groups in Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id3">Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. One of Japan's leaders is Tarō Asō and one ethnic group is the Filipinos.</lex>
+    </entry>
+    <entry category="Building" eid="Id81" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | leader | Shinzō_Abe</otriple>
+        <otriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
+        <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Vietnamese are an ethnic group within Japan which is led by Shinzo Abe. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. The leader of Japan is Shinzo Abe and an ethnic group there is called Vietnamese.</lex>
+    </entry>
+    <entry category="Building" eid="Id82" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+        <otriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+        <otriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | leaderName | Tarō_Asō</mtriple>
+        <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita, Akita, a part of Akita Prefecture in Japan. The leader of the country is Tarō Asō, and Vietnamese people are an ethnic group from Japan.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan. The country's leader is Tarō Asō, and Vietnamese people are an ethnic group from Japan.</lex>
+    </entry>
+    <entry category="Building" eid="Id102" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
+        <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ampara Hospital is in Eastern Province (leader: Austin Fernando), Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the currency used in the country is the Sri Lankan Rupee.</lex>
+      <lex comment="good" lid="Id2">Ranil Wickremesinghe is a leader of Sri Lanka where the currency is the Sri Lankan rupee. The country is the location of Ampara Hospital in Eastern Province which is led by Austin Fernando.</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is located in the Eastern Province, Sri Lanka, where Austin Fernando is the leader. Ranil Wickremesinghe is a leader of Sri Lanka, where the currency is the Sri Lankan rupee.</lex>
+    </entry>
+    <entry category="Building" eid="Id103" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ampara Hospital is located in Eastern Province of Sri Lanka: which is led by Ranil Wickremesinghe, has the rupee as currency and the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id2">Sri Lanka is led by Ranil Wickremesinghe, has the capital of Sri Jayawardenepura Kotte and uses the Sri Lankan rupee as currency. It is the location for the Ampara Hospital in the Eastern Province state.</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, the country which has the Sri Lankan rupee as its currency and Ranil Wickremesinghe as its leader.</lex>
+    </entry>
+    <entry category="Building" eid="Id104" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan is an architect born in San Francisco who designed several significant projects. These include the Asilomar Conference Grounds, the landmark Californian building of the Los Angeles Herald-Examiner building, the Riverside Art Museum and Hearst Castle.</lex>
+      <lex comment="good" lid="Id2">The architect Julia Morgan, who was born in San Francisco, designed many significant buildings. These include the Asilomar Conference Grounds, the Los Angeles Herald Examiner building (a Californian landmark), the Riverside Art Museum and Hearst Castle.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan (born in San Francisco) was the architect of the Asilomar Conference grounds, The Los Angeles Herald Examiner building, The Riverside Art Museum and Hearst Castle.</lex>
+    </entry>
+    <entry category="Building" eid="Id128" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+        <otriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</otriple>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | hometown | Birmingham</mtriple>
+        <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Birminham, which has the B postcode, is led by Labour politician John Clancy and the Birmingham City Council. It is the home town of architect John Madin who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect, John Madin, who originated from Birmingham (postal code 'B'). Labour politician, John Clancy is the leader of Birmingham, with Birmingham City Council as the governing body .</lex>
+      <lex comment="good" lid="Id3">The governing body of Birmingham, which has the B postcode, is the City Council along with labour politician John Clancy. It is the home town of architect John Madin who designed 103 Colmore Row.</lex>
+    </entry>
+    <entry category="Building" eid="Id129" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+        <otriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</otriple>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | hometown | Birmingham</mtriple>
+        <mtriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</mtriple>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect, John Madin, who was born in Birmingham. With the postcode ''B'', Birmingham is run by Birmingham City Council with Khalid Mahmood as one of its leaders.</lex>
+      <lex comment="good" lid="Id2">The governing body of Birmingham is the City Council along with the British politician Khalid Mahmood. The city, which has the B postcode, is the home town of John Madin who was the architect responsible for 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id3">Birmingham on the B postcode area is governed by the Birmingham City council of which Khalid Mahmood is a member. 103 Colmore Row was designed by native son John Madin.</lex>
+    </entry>
+    <entry category="Building" eid="Id130" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        <otriple>Birmingham | leaderName | Conservative_Party_(UK)</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        <mtriple>Birmingham | leaderName | Conservative_Party_(UK)</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | hometown | Birmingham</mtriple>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John Madin, who was the architect of 103 Colmore Row was born in Birmingham. The governing body of the city (which has the B postcode) is the City Council led by the UK Conservative Party.</lex>
+      <lex comment="good" lid="Id2">Birmingham City Council governs the city of Birmingham which has the postcode area "B". It is led by the Conservative Party (UK) and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id3">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham. The leader of Birmingham is the Conservative Party (UK), and it has the postcode area 'B'. Its governing body is Birmingham City Council.</lex>
+    </entry>
+    <entry category="Building" eid="Id131" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amharic is the language of Ethiopia where the leader is Hailemariam Desalegn. The country is the location of Addis Ababa Stadium and Addis Ababa City Hall in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Amharic is spoken in this country, and Hailemariam Desalegn is a national leader.</lex>
+    </entry>
+    <entry category="Building" eid="Id132" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. The leader of Ethiopia is Hailemariam Desalegn and the language used in the country is Amharic.</lex>
+      <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where the Amharic language is spoken. Addis Ababa is located in the country and is where the Addis Ababa Stadium and Addis Ababa City Hall are found.</lex>
+    </entry>
+    <entry category="Building" eid="Id133" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amharic is the language of Ethiopia, which is led by Mulatu Teshome and Hailemariam Desalegn and the location of Addis Ababa City Hall in Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, the country where the Amharic language is used. The leader of Ethiopia is Hailemariam Desalegn and another leader there is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id3">In Ethiopia the Amharic language is spoken. Ethiopia's leaders include Hailemariam Desalegn and Mulatu Teshome. Addis Ababa is an Ethiopian city where Addis Ababa City Hall is situated.</lex>
+    </entry>
+    <entry category="Building" eid="Id134" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall and Addis Ababa Stadium are both located in Addis Ababa, Ethiopia. Amharic is the language of Ethiopia and the country's leader is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, where Amharic is spoken. The name of the country's leader is Mulatu Teshome.</lex>
+    </entry>
+    <entry category="Building" eid="Id135" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amharic is a language in Ethiopia where the leader is Mulatu Teshome. Addis Ababa is located in the country and is where Addis Ababa City Hall and Addis Ababa Stadium are located.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa is in in Ethiopia and has a City Hall and Stadium. Mulatu Teshome is an Ethiopian leader and the language is Amharic.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia. The leader of Ethiopia is Mulatu Teshome and the language used in the country is Amharic.</lex>
+    </entry>
+    <entry category="Building" eid="Id136" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia and the Addis Ababa Stadium can also be found there. The leaders of Ethiopia are Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall and the Addis Ababa Stadium are located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are leaders in this country.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are both located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are key country leaders.</lex>
+    </entry>
+    <entry category="Building" eid="Id137" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where Amharic is the language spoken. Key leaders of Ethiopia include Hailemariam Desalegn and Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where Mulatu Teshome is also a leader. The Amharic language is found in the country which is the location of Addis Ababa City Hall in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Leaders in Ethiopia are Mulatu Teshome and Hailemariam Desalegn. Addis Ababa City Hall is in Addis Ababa, Ethiopia and the language spoken there is Amharic.</lex>
+    </entry>
+  </entries>
+</benchmark>

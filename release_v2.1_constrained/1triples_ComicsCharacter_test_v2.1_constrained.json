@@ -1,0 +1,84 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bo Bibbowski is the full name of Bibbo Bibbowski.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Bo Bibbowski is often called Bibbo.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bibbo_Bibbowski ",
+   "property": " fullName ",
+   "subject": " "Bo Bibbowski""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bibbo_Bibbowski ",
+     "property": " fullName ",
+     "subject": " "Bo Bibbowski"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   2: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The comic character, Blockbuster, was created by Gardner Fox.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The creator of Blockbuster (comics character) is Gardner Fox.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The comic book character Blockbuster was created by Gardner Fox.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blockbuster_(comicsCharacter) ",
+   "property": " creator ",
+   "subject": " Gardner_Fox"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creator ",
+       "subject": " Gardner_Fox"
+       },
+       {
+       "object": "Blockbuster_(DC_Comics) ",
+       "property": " creators ",
+       "subject": " Gardner_Fox"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id55"
+      }
+}

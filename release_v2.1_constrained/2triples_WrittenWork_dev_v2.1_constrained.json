@@ -1,0 +1,479 @@
+{
+   1: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp which has the ISBN number 0-374-26131-8, also has an OCLC number of 8805735.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp has the ISBN number 0-374-26131-8 and OCLC number 8805735.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp has the ISBN number 0-374-26131-8, and the OCLC number 8805735.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A_Severed_Wasp ",
+   "property": " OCLC_number ",
+   "subject": " 8805735"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "A_Severed_Wasp ",
+       "property": " oclc ",
+       "subject": " "8805735""
+       },
+       {
+       "object": "A_Severed_Wasp ",
+       "property": " oclc ",
+       "subject": " 8805735"
+       }
+     ]
+     },
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id11"
+      }
+},
+{
+   2: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where the capital is in Washington, D.C.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id22"
+      }
+},
+{
+   3: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States where one of the ethnic groups is African American.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Fortress of Grey Ice is from the United States, which has among its ethnic groups African Americans.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " African_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " African_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id23"
+      }
+},
+{
+   4: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The novel A Long Long Way was followed by The Secret Scripture published by Faber and Faber.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": ""The Secret Scriptures," published by Faber and Faber, followed "A Long, Long Way".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The book The Secret Scriptures, published by Faber and Faber, followed the book "A Long Long Way".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "The_Secret_Scripture ",
+   "property": " publisher ",
+   "subject": " Faber_and_Faber"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "The_Secret_Scripture ",
+     "property": " publisher ",
+     "subject": " Faber_and_Faber"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id180"
+      }
+},
+{
+   5: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AIDS (journal) is published in the UK where English is the spoken language.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS journal is from the United Kingdom where the language spoken is English.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The AIDS journal was published in the United Kingdom where the English language is spoken.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id181"
+      }
+},
+{
+   6: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AIDS Journal was published in the UK, where David Cameron was a leader.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS (journal) is published in the UK where David Cameron is the leader.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AIDS journal is from the United Kingdom where the leader is David Cameron.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_Kingdom ",
+   "property": " leaderName ",
+   "subject": " David_Cameron"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_Kingdom ",
+     "property": " leader ",
+     "subject": " David_Cameron"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id182"
+      }
+},
+{
+   7: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Severed Wasp is from the United States where the capital is Washington DC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "'A severed Wasp' comes from the United States where the capital is Washington, D.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id183"
+      }
+},
+{
+   8: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States where the capital city is Washington DC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States where the capital is Washington D. C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " capital ",
+   "subject": " Washington,_D.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " capital ",
+     "subject": " Washington,_D.C."
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id184"
+      }
+},
+{
+   9: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": ""A Wizard of Mars" was published in the United States, where the leader is known as the President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Wizard of Mars originates from the United States where the title of the leader is the President.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " leaderTitle ",
+   "subject": " President_of_the_United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " leaderTitle ",
+     "subject": " President_of_the_United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id199"
+      }
+},
+{
+   10: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A Long Long Way is published by Viking press in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The book 'A Long Long Way' was published by Viking Press which is in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Viking_Press ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Viking_Press ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id200"
+      }
+},
+{
+   11: {
+      "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "'A Glastonbury Romance' was followed by 'Weymouth Sands', the sequel to which was 'Maiden Castle'.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A Glastonbury Romance was followed by Weymouth Sands and Maiden Castle.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Weymouth_Sands ",
+   "property": " followedBy ",
+   "subject": " Maiden_Castle_(novel)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Weymouth_Sands ",
+       "property": " followedBy ",
+       "subject": " Maiden_Castle_(novel)"
+       },
+       {
+       "object": "Weymouth_Sands ",
+       "property": " subsequentWork ",
+       "subject": " Maiden_Castle_(novel)"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id201"
+      }
+},
+{
+   12: {
+   "category": "WrittenWork",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wizards at War, which preceded A Wizard of Mars is published by Harcourt.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Wizards at War, which was preceded by A Wizard of Mars was published by Harcourt (publishers).",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Wizards at War, followed by A Wizard of Mars, was published by Harcourt (publishers).",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Wizards_at_War ",
+   "property": " publisher ",
+   "subject": " Harcourt_(publisher)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Wizards_at_War ",
+       "property": " publisher ",
+       "subject": " Harcourt_(publisher)"
+       },
+       {
+       "object": "Wizards_at_War ",
+       "property": " publisher ",
+       "subject": " Harcourt_(publisher)"
+       }
+     ]
+     },
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id202"
+      }
+}

@@ -1,0 +1,346 @@
+{
+   1: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall, the building of which began 30 March, 2007, is located in Williamsburg, Virginia and owned by the College of William and Mary.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan B. Miller Hall's building, started on 30th March 2007, is located in Williamsburg, Virginia, and owned by the College of William and Mary.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Alan B. Miller Hall, owned by The College of William and Mary, is in Williamsburg, Virginia and was opened on the 30th March 2007.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_B._Miller_Hall ",
+   "property": " owner ",
+   "subject": " College_of_William_&amp;_Mary"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_B._Miller_Hall ",
+     "property": " owner ",
+     "subject": " College_of_William_&amp;_Mary"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id19"
+      }
+},
+{
+   2: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The 476 bed Ampara Hospital is located in Ampara District, Sri Lanka.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital, which has 476 beds, is located in the Ampara District of Sri Lanka.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ampara_Hospital ",
+       "property": " region ",
+       "subject": " Ampara_District"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " country ",
+       "subject": " Sri_Lanka"
+       },
+       {
+       "object": "Ampara_Hospital ",
+       "property": " region ",
+       "subject": " Ampara_District"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   3: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ampara Hospital is in Eastern Province, Sri Lanka. Ranil Wickremesinghe is a leader there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Sri Lanka, led by Ranil Wickremesinghe, is home to Ampara Hospital in the Eastern Province state.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ampara_Hospital ",
+   "property": " country ",
+   "subject": " Sri_Lanka"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ampara_Hospital ",
+     "property": " country ",
+     "subject": " Sri_Lanka"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id21"
+      }
+},
+{
+   4: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House located on US Route 83 and built in 1911 was added to the National Register of Historic Places, on 22nd November 1988.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asher and Mary Isabelle Richardson House on U.S. Route 83 was built in 1911 and added to the National Register of Historic Places on 22 November 1988.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+   "property": " location ",
+   "subject": " U.S._Route_83"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " U.S._Route_83"
+       },
+       {
+       "object": "Asher_and_Mary_Isabelle_Richardson_House ",
+       "property": " location ",
+       "subject": " U.S._Route_83"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id22"
+      }
+},
+{
+   5: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987. Its reference number in the National Register of Historic Places is 87000823.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asilomar Conference Grounds of Pacific Grove in California was added to the National Register of Historic Places on 27th of February in 1987, where the reference number for the National register was 87000823.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Asilomar Conference Grounds, Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987 with a reference number of 87000823.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asilomar_Conference_Grounds ",
+   "property": " location ",
+   "subject": " Pacific_Grove,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asilomar_Conference_Grounds ",
+     "property": " location ",
+     "subject": " Pacific_Grove,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id23"
+      }
+},
+{
+   6: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 1980-04-23, with the number 80002709.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " "Asser Levy Place and East 23rd Street""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Asser_Levy_Public_Baths ",
+     "property": " location ",
+     "subject": " "Asser Levy Place and East 23rd Street"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id24"
+      }
+},
+{
+   7: {
+      "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Asser Levy Public Baths are located in New York City, U.S. Manhattan is a borough in New York City.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Asser Levy Public Baths are located in Manhattan, New York City, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The location of Asser Levy Public Baths is New York City, Manhattan in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Asser_Levy_Public_Baths ",
+   "property": " location ",
+   "subject": " New_York_City"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       },
+       {
+       "object": "Asser_Levy_Public_Baths ",
+       "property": " location ",
+       "subject": " New_York_City"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id25"
+      }
+},
+{
+   8: {
+   "category": "Building",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amdavad ni Gufa is located in India where T S Thakur and Sumitra Mahajan are leaders.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "India ",
+   "property": " leaderName ",
+   "subject": " T._S._Thakur"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "India ",
+       "property": " leader ",
+       "subject": " T._S._Thakur"
+       },
+       {
+       "object": "India ",
+       "property": " leaderName ",
+       "subject": " T._S._Thakur"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id26"
+      }
+}

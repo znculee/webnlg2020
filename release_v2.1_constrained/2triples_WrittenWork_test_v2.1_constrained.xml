@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | numberOfPages | "672"^^xsd:positiveInteger</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | numberOfPages | "672"</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice has 672 pages, and has the ISBN number 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice with ISBM 0-7653-0633-6 has 672 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way was published in Print &amp; Paperback and has the OCLC number 57392246.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way which has the OCLC number 57392246, was published in Print &amp; Paperback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hardcover A Severed Wasp was assigned the OCLC number 8805735.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp, OCLC number 8805735, is a hardcover book.</lex>
+      <lex comment="good" lid="Id3">The OCLC number of the hardback book, "A Severed Wasp" is 8805735.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis was preceded by Grantville Gazette II, and was written by Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette II.</lex>
+      <lex comment="good" lid="Id3">Virginia DeMarce and Eric Flint are the authors of 1634: The Bavarian Crisis which was preceded by Grantville Gazette II.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id103" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States, which counts African Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp originates from the United States, where the African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id104" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">'A Severed Wasp' is from the United States, a country where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp originates from the United States, a country where one of the ethnic groups is Native Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id121" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Above_the_Veil | oclc | "46451790"</otriple>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+        <otriple>Above_the_Veil | oclc | 46451790</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | OCLC_number | 46451790</mtriple>
+        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">'Above the Veil' authored by Garth Nix has a OCLC number of 46451790.</lex>
+      <lex comment="good" lid="Id2">Above the Veil has the OCLC number 46451790 and was written by Garth Nix.</lex>
+      <lex comment="good" lid="Id3">'Above the Veil' which was written by Garth Nix, has the OCLC number 46451790.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id168" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."@en</otriple>
+        <otriple>American_Journal_of_Mathematics | eissn | 1080</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | eissn | 1080</otriple>
+        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</mtriple>
+        <mtriple>American_Journal_of_Mathematics | EISSN_number | 1080</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Am. J. Math is the abbreviation for the American Journal of Mathematics which has the EISSN number 1080.</lex>
+      <lex comment="good" lid="Id2">Am. J. Math is the abbreviation for the American Journal of Mathematics whose EISSN number is 1080.</lex>
+      <lex comment="good" lid="Id3">Am. J. Math is the abbreviation for the American Journal of Mathematics, 1080 is the EISSN number.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id185" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States, where Asian Americans form one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where there are many Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id186" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp originates from the United States, which counts Asian Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id2">The United States has an ethnic group called Asian Americans and is the home of a severed wasp.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id187" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In almost unrelated facts both Asian Americans and the book Alcatraz Versus the Evil Librarians come from the U.S.</lex>
+      <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians comes from the U.S where there are many Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id188" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is an example of American Literature. White people are a part of the U.S's ethnic make-up.</lex>
+      <lex comment="good" lid="Id2">'Alcatraz Versus the Evil Librarians' is from The United States, the country where White Americans live.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id189" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English is the main language spoken in the United States. This country is home to the Severed Wasp.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States where English is the language.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp originates from the United States where the language is English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id190" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">" A Wizard of Mars was Published in the United States, of which English is the language.</lex>
+      <lex comment="good" lid="Id2">"A Wizard of Mars" was published in the United States, where the official language is English.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where the official language is English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id191" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English is the language of the United States the country where the book Alcatraz Versus the Evil Librarians was written.</lex>
+      <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians comes from the United States where the English language is spoken.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States therefore is written in english.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id192" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion was written in the U.S where Barack Obama is the leader.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States where Barack Obama is the president.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion was written in the U.S where Barack Obama is President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id193" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States, led by President Barack Obama.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where Barack Obama is President.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States, where the leader is Barack Obama.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id194" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where Barack Obama is president.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp originates from the United States where Barack Obama is President.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States where the leader is Barack Obama.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id195" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was Published in the United States where Barack Obama is president.</lex>
+      <lex comment="good" lid="Id2">' A Wizard of Mars' was published in the United States, the country where Barack Obama is the leader.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States where Barack Obama is the leader.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id196" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion was written in the United States where the leader is known as the President.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States, where the President is the head of state.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion was written in the U.S where the title of the leader is President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id197" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where the leader is known as the President.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where the title of the leader is President.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States, whose leader is called the President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+        <mtriple>A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has the ISBN number 0-7156-3648-0 and is in print.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance with ISBN 0-7156-3648-0 is available in print.</lex>
+      <lex comment="good" lid="Id3">The ISBN number of the currently in print book, "A Glastonbury Romance," is 0-7156-3648-0.</lex>
+    </entry>
+  </entries>
+</benchmark>

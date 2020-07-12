@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Mendrisio | neighboringMunicipalities | Meride</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Mendrisio | neighboringMunicipality | Meride</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mendrisio and Meride are neighboring Municipalities.</lex>
+      <lex comment="good" lid="Id2">Mendrisio is a neighbouring municipality of Meride.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | capital | Bucharest</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital of Romania is Bucharest.</lex>
+      <lex comment="good" lid="Id2">Bucharest is the capital of Romania.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,136 @@
+{
+   1: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Alan Tudyk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax is a character who appeared in Big Hero 6 starring Alan Tudyk. It was created by Steven T Seagle and the American, Duncan Rouleau.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which starred Alan Tudyk.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Duncan_Rouleau ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Baymax ",
+       "property": " creator ",
+       "subject": " Duncan_Rouleau"
+       },
+       {
+       "object": "Duncan_Rouleau ",
+       "property": " nationality ",
+       "subject": " Americans"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Bananaman was shown on the BBC, first airing on 3 October 1983 and the final broadcast being 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The BBC began airing Bananaman October 3rd, 1983 and the last episode was broadcast on April 15th, 1986. John Geering is one of the creators of Bananaman which also starred Tim Brooke-Taylor.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The TV character Bananaman was created by John Geering. The programme was broadcast by the BBC and starred Tim Brooke-Taylor. It first aired on the 10th March 1983 and was last shown on April 15th 1986.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Bananaman ",
+   "property": " starring ",
+   "subject": " Tim_Brooke-Taylor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Bananaman ",
+     "property": " starring ",
+     "subject": " Tim_Brooke-Taylor"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "5",
+   "xml_id": "Id1"
+      }
+},
+{
+   3: {
+   "category": "ComicsCharacter",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Baymax is a character from the film Big Hero 6 starring Scott Adsit. He was created by Steven T Seagle and the American, Duncan Rouleau.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American Duncan Rouleau and Steven T. Seagle created Baymax. Baymax is a character in Big Hero 6 which starred Scott Adsit.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Scott Adsit.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Duncan_Rouleau ",
+   "property": " nationality ",
+   "subject": " Americans"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Duncan_Rouleau ",
+       "property": " nationality ",
+       "subject": " Americans"
+       },
+       {
+       "object": "Baymax ",
+       "property": " creator ",
+       "subject": " Duncan_Rouleau"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "5",
+   "xml_id": "Id2"
+      }
+}

@@ -1,0 +1,3514 @@
+{
+   1: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AEK Athens F.C.'s ground is in Athens.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AEK_Athens_F.C. ",
+   "property": " ground ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AEK_Athens_F.C. ",
+     "property": " ground ",
+     "subject": " Athens"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id8"
+      }
+},
+{
+   2: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The AZAL Arena is in Baku.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL Arena is located in Baku.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_Arena ",
+   "property": " location ",
+   "subject": " Baku"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_Arena ",
+     "property": " location ",
+     "subject": " Baku"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   3: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK play in the Azerbaijan Premier League.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The AZAL PFK competes in The Azerbaijan Premier League.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL PFK is in the Azerbaijan Premier League.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " league ",
+   "subject": " Azerbaijan_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " league ",
+     "subject": " Azerbaijan_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id11"
+      }
+},
+{
+   4: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar played in the Eredivisie in 2014-15.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " season ",
+   "subject": " 2014–15_Eredivisie"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " season ",
+     "subject": " 2014–15_Eredivisie"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id12"
+      }
+},
+{
+   5: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron is located in Summit County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is located in Summit County, Ohio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is in Summit County, Ohio.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " location ",
+   "subject": " Summit_County,_Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " subdivisionName ",
+     "subject": " Summit_County,_Ohio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id14"
+      }
+},
+{
+   6: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The full name of Akron Summit Assault is ''Akron Metro Futbol Club Summit Assault.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault full name is "Akron Metro Futbol Club Summit Assault".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of Akron Summit is Akron Metro Futbol Club Summit Assault.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " fullname ",
+   "subject": " "Akron Metro Futbol Club Summit Assault""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " fullname ",
+     "subject": " "Akron Metro Futbol Club Summit Assault"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id15"
+      }
+},
+{
+   7: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam's leader is Eberhard van der Laan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Eberhard van der Laan is a leader in Amsterdam.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam ",
+   "property": " leader ",
+   "subject": " Eberhard_van_der_Laan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amsterdam ",
+     "property": " leaderName ",
+     "subject": " Eberhard_van_der_Laan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   8: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci has played for Chelsea FC.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " Chelsea_F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Panucci ",
+     "property": " team ",
+     "subject": " Chelsea_F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   9: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci plays for Inter Milan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci played for Inter Milan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " Inter_Milan"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Panucci ",
+       "property": " team ",
+       "subject": " Inter_Milan"
+       },
+       {
+       "object": "Christian_Panucci ",
+       "property": " clubs ",
+       "subject": " Inter_Milan"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id18"
+      }
+},
+{
+   10: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1 FC Köln played in the 2014 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "2014 saw 1. FC Koln participating.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1._FC_Köln ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1._FC_Köln ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id2"
+      }
+},
+{
+   11: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "1. FC Köln were in the 2014–15 Bundesliga season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "FC Köln played the 2014-15 season in the Bundesliga.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "1._FC_Köln ",
+   "property": " season ",
+   "subject": " 2014–15_Bundesliga"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "1._FC_Köln ",
+     "property": " season ",
+     "subject": " 2014–15_Bundesliga"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id3"
+      }
+},
+{
+   12: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.C. Cesena's ground is Stadio Dino Manuzzi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Cesena's ground is the Stadio Dino Manuzzi.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Cesena ",
+   "property": " ground ",
+   "subject": " Stadio_Dino_Manuzzi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Cesena ",
+     "property": " ground ",
+     "subject": " Stadio_Dino_Manuzzi"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id10"
+      }
+},
+{
+   13: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Chievo_Verona ",
+   "property": " ground ",
+   "subject": " Stadio_Marc'Antonio_Bentegodi"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Chievo_Verona ",
+     "property": " ground ",
+     "subject": " Stadio_Marc'Antonio_Bentegodi"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id16"
+      }
+},
+{
+   14: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.C. Chievo Verona is playing in his ground at Verona.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.C. Chievo Verona play in Verona.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.C._Chievo_Verona ",
+   "property": " ground ",
+   "subject": " Verona"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.C._Chievo_Verona ",
+     "property": " ground ",
+     "subject": " Verona"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id17"
+      }
+},
+{
+   15: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde are based at Bryning Lane.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " "Bryning Lane""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " "Bryning Lane"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id47"
+      }
+},
+{
+   16: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde's ground is Kellamergh Park.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " "Kellamergh Park""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " "Kellamergh Park"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id48"
+      }
+},
+{
+   17: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde are based at Warton, Fylde, Lancashire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde's ground is in Warton, Fylde, Lancashire.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " "Warton, Fylde, Lancashire""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " "Warton, Fylde, Lancashire"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id49"
+      }
+},
+{
+   18: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ground of AFC Fylde can be found in the county of Lancashire.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde's ground is in Lancashire.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " Lancashire"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " Lancashire"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id50"
+      }
+},
+{
+   19: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde's ground is located in Warton, Fylde.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde ground is Warton Fylde.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " ground ",
+   "subject": " Warton,_Fylde"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " ground ",
+     "subject": " Warton,_Fylde"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id51"
+      }
+},
+{
+   20: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde is a member of the National League North.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Fylde played in the National League North league.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde play in National League North.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " league ",
+   "subject": " National_League_North"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " league ",
+     "subject": " National_League_North"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id52"
+      }
+},
+{
+   21: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde's manager is Dave Challinor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is the manager of AFC Fylde.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor manages A.F.C. Fylde.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " manager ",
+   "subject": " Dave_Challinor"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " manager ",
+     "subject": " Dave_Challinor"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id53"
+      }
+},
+{
+   22: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde has 3180 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde has 3180 members.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C Fylde has 3180 members.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " numberOfMembers ",
+   "subject": " 3180"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " capacity ",
+     "subject": " "3180"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id54"
+      }
+},
+{
+   23: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde competed in the 2014 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.F.C. Fylde played in 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id55"
+      }
+},
+{
+   24: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Fylde played the 2014-15 season in the Football Conference.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.F.C._Fylde ",
+   "property": " season ",
+   "subject": " 2014–15_Football_Conference"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.F.C._Fylde ",
+     "property": " season ",
+     "subject": " 2014–15_Football_Conference"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id56"
+      }
+},
+{
+   25: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The full name of AS Gubbio 1910 is "Associazione Sportiva Gubbio 1910 Srl".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Gubbio_1910 ",
+   "property": " fullname ",
+   "subject": " "Associazione Sportiva Gubbio 1910 Srl""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Gubbio_1910 ",
+     "property": " fullname ",
+     "subject": " "Associazione Sportiva Gubbio 1910 Srl"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id57"
+      }
+},
+{
+   26: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The ground of AS Gubbio 1910 is called Stadio Pietro Barbetti.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Gubbio_1910 ",
+   "property": " ground ",
+   "subject": " Stadio_Pietro_Barbetti"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Gubbio_1910 ",
+     "property": " ground ",
+     "subject": " Stadio_Pietro_Barbetti"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id58"
+      }
+},
+{
+   27: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The A.S. Gubbio 1910 football club play in Serie D.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Gubbio 1910 is in the Serie D league.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Gubbio 1910 play in Serie D.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Gubbio_1910 ",
+   "property": " league ",
+   "subject": " Serie_D"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Gubbio_1910 ",
+     "property": " league ",
+     "subject": " Serie_D"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id59"
+      }
+},
+{
+   28: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AS Gubbio 1910 competed in the 2014 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S Gubbio 1910 played in the 2014 season.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Gubbio_1910 ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Gubbio_1910 ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id60"
+      }
+},
+{
+   29: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Gubbio 1910 were in the Lega Pro in the 2014-15 season.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Gubbio_1910 ",
+   "property": " season ",
+   "subject": " 2014–15_Lega_Pro"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Gubbio_1910 ",
+     "property": " season ",
+     "subject": " 2014–15_Lega_Pro"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id61"
+      }
+},
+{
+   30: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of A.S. Livorno Calcio is Associazione Sportiva.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Livorno_Calcio ",
+   "property": " fullname ",
+   "subject": " "Associazione Sportiva""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Livorno_Calcio ",
+     "property": " fullname ",
+     "subject": " "Associazione Sportiva"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id62"
+      }
+},
+{
+   31: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AS Livorno Calcio has the full name of "Livorno Calcio S.p.A".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Livorno_Calcio ",
+   "property": " fullname ",
+   "subject": " "Livorno Calcio S.p.A.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Livorno_Calcio ",
+     "property": " fullname ",
+     "subject": " "Livorno Calcio S.p.A."@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id63"
+      }
+},
+{
+   32: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Livorno, Italy is the location of the ground of AS Livorno Calcio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Livorno Calcio is based in Livorno, Italy.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Livorno Calcio's ground is in Livorno, Italy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Livorno_Calcio ",
+   "property": " ground ",
+   "subject": " "Livorno, Italy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Livorno_Calcio ",
+     "property": " ground ",
+     "subject": " "Livorno, Italy"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id64"
+      }
+},
+{
+   33: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S Livorno Calcio ground is in Livorno.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Livorno_Calcio ",
+   "property": " ground ",
+   "subject": " Livorno"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Livorno_Calcio ",
+     "property": " ground ",
+     "subject": " Livorno"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id65"
+      }
+},
+{
+   34: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The "Associazione Sportiva Roma S.p.A." is the non-abbreviated name of A.S. Roma.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Roma's full name is Associazione Sportiva Roma S.p.A.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of A.S. Roma is Associazione Sportiva Roma S.p.A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " fullname ",
+   "subject": " "Associazione Sportiva Roma S.p.A.""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " fullname ",
+     "subject": " "Associazione Sportiva Roma S.p.A."@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id72"
+      }
+},
+{
+   35: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S. Roma's ground is in Rome, Italy.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The ground of A.S. Roma is in Rome, Italy.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " ground ",
+   "subject": " "Rome, Italy""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " ground ",
+     "subject": " "Rome, Italy"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id73"
+      }
+},
+{
+   36: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S. Roma have a ground in Rome.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " ground ",
+   "subject": " Rome"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " ground ",
+     "subject": " Rome"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id74"
+      }
+},
+{
+   37: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "A.S Roma ground is Stadio Olimpico.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " ground ",
+   "subject": " Stadio_Olimpico"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " ground ",
+     "subject": " Stadio_Olimpico"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id75"
+      }
+},
+{
+   38: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AS Roma play in the Serie A league.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "A.S. Roma play in Serie A.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " league ",
+   "subject": " Serie_A"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " league ",
+     "subject": " Serie_A"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id76"
+      }
+},
+{
+   39: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AS Roma's manager is Luciano Spalletti.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Luciano Spalletti manages A.S. Roma.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The manager of A.S. Roma is Luciano Spalletti.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "A.S._Roma ",
+   "property": " manager ",
+   "subject": " Luciano_Spalletti"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "A.S._Roma ",
+     "property": " manager ",
+     "subject": " Luciano_Spalletti"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id77"
+      }
+},
+{
+   40: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The full name of AFC Ajax is "Amsterdamsche Football Club Ajax".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of AFC Ajax is Amsterdamsche Football Club Ajax.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " fullname ",
+   "subject": " "Amsterdamsche Football Club Ajax""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax ",
+     "property": " fullname ",
+     "subject": " "Amsterdamsche Football Club Ajax"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id92"
+      }
+},
+{
+   41: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax has 53502 members.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " numberOfMembers ",
+   "subject": " 53502"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax ",
+     "property": " capacity ",
+     "subject": " "53502"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id93"
+      }
+},
+{
+   42: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The owner of AFC Ajax is AFC Ajax N.V.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The owner of AFC Ajax is AFC Ajax NV.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax N.V. owns AFC Ajax.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " owner ",
+   "subject": " AFC_Ajax_N.V."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax ",
+     "property": " owner ",
+     "subject": " AFC_Ajax_N.V."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id94"
+      }
+},
+{
+   43: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax played in the 2014 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax played in season 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id95"
+      }
+},
+{
+   44: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs) played in the Topklasse in the 2014-2015 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AFC Ajax (amateurs) played in the 2014-15 Topklasse season.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AFC_Ajax_(amateurs) ",
+   "property": " season ",
+   "subject": " 2014–15_Topklasse"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AFC_Ajax_(amateurs) ",
+     "property": " season ",
+     "subject": " 2014–15_Topklasse"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id103"
+      }
+},
+{
+   45: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK stands for "AZAL Peşəkar Futbol Klubu".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL PFK's full name is AZAL Peşəkar Futbol Klubu.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " fullname ",
+   "subject": " "AZAL Peşəkar Futbol Klubu""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " fullname ",
+     "subject": " "AZAL Peşəkar Futbol Klubu"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id106"
+      }
+},
+{
+   46: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK play their home matches at the AZAL Arena.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL Arena is the ground of AZAL PFK.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " ground ",
+   "subject": " AZAL_Arena"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " ground ",
+     "subject": " AZAL_Arena"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id107"
+      }
+},
+{
+   47: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "There are 3500 members of AZAL PFK.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The number of members of Azal Pfk is 3500.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " numberOfMembers ",
+   "subject": " 3500"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " capacity ",
+     "subject": " "3500"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id108"
+      }
+},
+{
+   48: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK competed in the season 2014.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL PFK are in season 2014.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id109"
+      }
+},
+{
+   49: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZAL PFK Bakou is playing Azerbaijan PremierLeague, 2014–15.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "AZAL PFK were in the Azerbaijan Premier League in 2014-15.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZAL_PFK ",
+   "property": " season ",
+   "subject": " 2014–15_Azerbaijan_Premier_League"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZAL_PFK ",
+     "property": " season ",
+     "subject": " 2014–15_Azerbaijan_Premier_League"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id110"
+      }
+},
+{
+   50: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar full name is "Alkmaar Zaanstreek".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alkmaar Zaanstreek is the full name of AZ Alkmaar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar's full name is Alkmaar Zaanstreek.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " fullname ",
+   "subject": " "Alkmaar Zaanstreek""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " fullname ",
+     "subject": " "Alkmaar Zaanstreek"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id111"
+      }
+},
+{
+   51: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar's ground is the AFAS Stadion.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " ground ",
+   "subject": " AFAS_Stadion"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " ground ",
+     "subject": " AFAS_Stadion"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id112"
+      }
+},
+{
+   52: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "John van den Brom has been manager of AZ Alkmaar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "John van den Brom manages the AZ Alkmaar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The manager of AZ Alkmaar is john van den Brom.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " manager ",
+   "subject": " John_van_den_Brom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " manager ",
+     "subject": " John_van_den_Brom"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id113"
+      }
+},
+{
+   53: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Max Huiberts is the owner of AZ Alkmaar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Max Huiberts owns AZ Alkmaar.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The owner of AZ Alkmaar is Max Huiberts.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " owner ",
+   "subject": " Max_Huiberts"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " owner ",
+     "subject": " "Max Huiberts"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id114"
+      }
+},
+{
+   54: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar is owned by Robert Eenhoorn.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Robert Eenhoorn owns AZ Alkmaar.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " owner ",
+   "subject": " Robert_Eenhoorn"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " owner ",
+     "subject": " Robert_Eenhoorn"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id115"
+      }
+},
+{
+   55: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AZ Alkmaar played in the 2014 season.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "AZ_Alkmaar ",
+   "property": " season ",
+   "subject": " 2014"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "AZ_Alkmaar ",
+     "property": " season ",
+     "subject": " 2014"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id116"
+      }
+},
+{
+   56: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The title of the chairman of Agremiacao Sportiva Arapiraquense is President.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The chairman of Agremiação Sportiva Arapiraquense has the title of 'President'.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The "President" is the chairman title of the Agremiação Sportiva Arapiraquense.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " chairmanTitle ",
+   "subject": " "President""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " chrtitle ",
+     "subject": " "President"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id117"
+      }
+},
+{
+   57: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense".",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " fullname ",
+   "subject": " "Agremiação Sportiva Arapiraquense""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " fullname ",
+     "subject": " "Agremiação Sportiva Arapiraquense"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id118"
+      }
+},
+{
+   58: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " ground ",
+   "subject": " Estádio_Municipal_Coaracy_da_Mata_Fonseca"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " ground ",
+     "subject": " Estádio_Municipal_Coaracy_da_Mata_Fonseca"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id119"
+      }
+},
+{
+   59: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " league ",
+   "subject": " Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " league ",
+     "subject": " Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id120"
+      }
+},
+{
+   60: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alvinegro is the nickname for Agremiação Sportiva Arapiraquense.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The nickname of Agremiacao Sportiva Arapiraquense is "Alvinegro".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " nickname ",
+   "subject": " "''Alvinegro""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " nickname ",
+     "subject": " "''Alvinegro"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id121"
+      }
+},
+{
+   61: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense nickname is Asa Gigante.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense have the nickname Asa Gigante.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " nickname ",
+   "subject": " "Asa Gigante ''""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " nickname ",
+     "subject": " "Asa Gigante ''"@en"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id122"
+      }
+},
+{
+   62: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense has 17000 members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense club has 17000 members.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense has 17000 members.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " numberOfMembers ",
+   "subject": " 17000"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " capacity ",
+     "subject": " "17000"^^xsd:nonNegativeInteger"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id123"
+      }
+},
+{
+   63: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense played in the 2015 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense play in 2015.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " season ",
+   "subject": " 2015"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " season ",
+     "subject": " 2015"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id124"
+      }
+},
+{
+   64: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is part of Summit County, Ohio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is a part of Summit County, Ohio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " isPartOf ",
+   "subject": " Summit_County,_Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " isPartOf ",
+     "subject": " Summit_County,_Ohio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id125"
+      }
+},
+{
+   65: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron, Ohio is located in the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron,_Ohio ",
+   "property": " location ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron,_Ohio ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id127"
+      }
+},
+{
+   66: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akrons Summit Assault chairman is Dave Laughlin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault's chairman is Dave Laughlin.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " chairman ",
+   "subject": " Dave_Laughlin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " chairman ",
+     "subject": " Dave_Laughlin"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id128"
+      }
+},
+{
+   67: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Akron Summit Assault team is based in Akron, Ohio.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " ground ",
+   "subject": " Akron,_Ohio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " ground ",
+     "subject": " Akron,_Ohio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id129"
+      }
+},
+{
+   68: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Denzil Antonio was the manager of Akron Summit Assault.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Denzil Antonio is the manager of Akron Summit Assault.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " manager ",
+   "subject": " Denzil_Antonio"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " manager ",
+     "subject": " Denzil_Antonio"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id131"
+      }
+},
+{
+   69: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault played in the 2011 season.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault was in the 2011 season.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault are in season 2011.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " season ",
+   "subject": " 2011"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " season ",
+     "subject": " 2011"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id132"
+      }
+},
+{
+   70: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Akron Summit Assault play in the 2011 PDL season.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Akron_Summit_Assault ",
+   "property": " season ",
+   "subject": " 2011_PDL_season"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Akron_Summit_Assault ",
+     "property": " season ",
+     "subject": " 2011_PDL_season"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id133"
+      }
+},
+{
+   71: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Amsterdam-Noord is part of Amsterdam.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amsterdam ",
+   "property": " part ",
+   "subject": " Amsterdam-Noord"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Amsterdam ",
+       "property": " part ",
+       "subject": " Amsterdam-Noord"
+       },
+       {
+       "object": "Amsterdam ",
+       "property": " p ",
+       "subject": " Amsterdam-Noord"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id134"
+      }
+},
+{
+   72: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The mayor of Athens is Giorgos Kaminis.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens ",
+   "property": " mayor ",
+   "subject": " Giorgos_Kaminis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Athens ",
+     "property": " mayor ",
+     "subject": " Giorgos_Kaminis"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id135"
+      }
+},
+{
+   73: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Qarabağ FK are the champions of the Azerbaijan Premier League.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The champions of the Azerbaijan Premier League are Qarabag FK.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Azerbaijan_Premier_League ",
+   "property": " champions ",
+   "subject": " Qarabağ_FK"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Azerbaijan_Premier_League ",
+     "property": " champions ",
+     "subject": " Qarabağ_FK"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id136"
+      }
+},
+{
+   74: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Blackpool is the Conservative Party (UK).",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blackpool ",
+   "property": " leader ",
+   "subject": " Conservative_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Blackpool ",
+     "property": " leaderName ",
+     "subject": " Conservative_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id137"
+      }
+},
+{
+   75: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Blackpool is led by Gordon Marsden.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Gordon Marsden is one of Blackpool's leaders.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Blackpool is Gordon Marsden.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blackpool ",
+   "property": " leader ",
+   "subject": " Gordon_Marsden"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Blackpool ",
+     "property": " leaderName ",
+     "subject": " Gordon_Marsden"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id138"
+      }
+},
+{
+   76: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Blackpool council is the Labour Party (UK).",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Blackpool's council is Labour.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Blackpool ",
+   "property": " leader ",
+   "subject": " Labour_Party_(UK)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Blackpool ",
+     "property": " leaderName ",
+     "subject": " Labour_Party_(UK)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id139"
+      }
+},
+{
+   77: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Campeonato_Brasileiro_Série_C ",
+   "property": " champions ",
+   "subject": " Vila_Nova_Futebol_Clube"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Campeonato_Brasileiro_Série_C ",
+     "property": " champions ",
+     "subject": " Vila_Nova_Futebol_Clube"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id140"
+      }
+},
+{
+   78: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Campeonato Brasileiro Série C is from Brazil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Campeonato Brasileiro Serie C is based in Brazil.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Campeonato_Brasileiro_Série_C ",
+   "property": " country ",
+   "subject": " Brazil"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Campeonato_Brasileiro_Série_C ",
+     "property": " country ",
+     "subject": " Brazil"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id141"
+      }
+},
+{
+   79: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci has been manager of A S Livorno Calcio.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci plays for A.S. Livorno Calcio.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " A.S._Livorno_Calcio"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Panucci ",
+       "property": " team ",
+       "subject": " A.S._Livorno_Calcio"
+       },
+       {
+       "object": "Christian_Panucci ",
+       "property": " managerClub ",
+       "subject": " A.S._Livorno_Calcio"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id142"
+      }
+},
+{
+   80: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci plays at the A.S. Roma.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci is in the A.S. Roma club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci plays for A.S. Roma.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " A.S._Roma"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Panucci ",
+       "property": " team ",
+       "subject": " A.S._Roma"
+       },
+       {
+       "object": "Christian_Panucci ",
+       "property": " clubs ",
+       "subject": " A.S._Roma"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id143"
+      }
+},
+{
+   81: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci played football for Genoa C.F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci is attached to the club Genoa CFC.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " Genoa_C.F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Panucci ",
+       "property": " clubs ",
+       "subject": " Genoa_C.F.C."
+       },
+       {
+       "object": "Christian_Panucci ",
+       "property": " team ",
+       "subject": " Genoa_C.F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id144"
+      }
+},
+{
+   82: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci played for the Italy national football team.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Panucci plays for the Italy national football team.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " Italy_national_football_team"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Panucci ",
+     "property": " team ",
+     "subject": " Italy_national_football_team"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id145"
+      }
+},
+{
+   83: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Christian Panucci was attached to the Real Madrid CF club.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Panucci ",
+   "property": " club ",
+   "subject": " Real_Madrid_C.F."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Panucci ",
+       "property": " team ",
+       "subject": " Real_Madrid_C.F."
+       },
+       {
+       "object": "Christian_Panucci ",
+       "property": " clubs ",
+       "subject": " Real_Madrid_C.F."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id146"
+      }
+},
+{
+   84: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is a player at the A.F.C. Fylde .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is at the A.F.C. Fylde club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor plays for A.F.C. Fylde.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dave_Challinor ",
+   "property": " club ",
+   "subject": " A.F.C._Fylde"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dave_Challinor ",
+     "property": " managerClub ",
+     "subject": " A.F.C._Fylde"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id147"
+      }
+},
+{
+   85: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dave Challinor played football for Bury FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor played for Bury F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dave_Challinor ",
+   "property": " club ",
+   "subject": " Bury_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dave_Challinor ",
+       "property": " clubs ",
+       "subject": " Bury_F.C."
+       },
+       {
+       "object": "Dave_Challinor ",
+       "property": " team ",
+       "subject": " Bury_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id148"
+      }
+},
+{
+   86: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is at Colwyn Bay FC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is a player of Colwyn Bay F.C. club.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor plays for Colwyn Bay F.C.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dave_Challinor ",
+   "property": " club ",
+   "subject": " Colwyn_Bay_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dave_Challinor ",
+       "property": " clubs ",
+       "subject": " Colwyn_Bay_F.C."
+       },
+       {
+       "object": "Dave_Challinor ",
+       "property": " managerClub ",
+       "subject": " Colwyn_Bay_F.C."
+       },
+       {
+       "object": "Dave_Challinor ",
+       "property": " team ",
+       "subject": " Colwyn_Bay_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id149"
+      }
+},
+{
+   87: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dave Challinor plays at the Stockport County F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor played for Stockport County F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dave_Challinor ",
+   "property": " club ",
+   "subject": " Stockport_County_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dave_Challinor ",
+       "property": " team ",
+       "subject": " Stockport_County_F.C."
+       },
+       {
+       "object": "Dave_Challinor ",
+       "property": " clubs ",
+       "subject": " Stockport_County_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id150"
+      }
+},
+{
+   88: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Dave Challinor is affiliated with Tranmere Rovers F.C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dave Challinor plays for Tranmere Rovers F.C.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dave_Challinor ",
+   "property": " club ",
+   "subject": " Tranmere_Rovers_F.C."
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Dave_Challinor ",
+       "property": " team ",
+       "subject": " Tranmere_Rovers_F.C."
+       },
+       {
+       "object": "Dave_Challinor ",
+       "property": " clubs ",
+       "subject": " Tranmere_Rovers_F.C."
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id151"
+      }
+},
+{
+   89: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Estadio Municipal Coaracy da Mata Fonseca is situated in Alagoas.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Estádio_Municipal_Coaracy_da_Mata_Fonseca ",
+   "property": " location ",
+   "subject": " Alagoas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Estádio_Municipal_Coaracy_da_Mata_Fonseca ",
+     "property": " location ",
+     "subject": " Alagoas"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id152"
+      }
+},
+{
+   90: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Estadio Municipal Coaracy da Mata Fonseca is in Arapiraca.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Estádio_Municipal_Coaracy_da_Mata_Fonseca ",
+   "property": " location ",
+   "subject": " Arapiraca"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Estádio_Municipal_Coaracy_da_Mata_Fonseca ",
+     "property": " location ",
+     "subject": " Arapiraca"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id153"
+      }
+},
+{
+   91: {
+      "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Barrow AFC are previous champions of the National League North.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Barrow A.F.C. team won the championship before in the National League North.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Barrow A.F.C. are the National League North Champions.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "National_League_North ",
+   "property": " champions ",
+   "subject": " Barrow_A.F.C."
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "National_League_North ",
+     "property": " champions ",
+     "subject": " Barrow_A.F.C."
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id209"
+      }
+},
+{
+   92: {
+   "category": "SportsTeam",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Agremiação_Sportiva_Arapiraquense ",
+   "property": " season ",
+   "subject": " 2015_Campeonato_Brasileiro_Série_C"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Agremiação_Sportiva_Arapiraquense ",
+     "property": " season ",
+     "subject": " 2015_Campeonato_Brasileiro_Série_C"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id19"
+      }
+}

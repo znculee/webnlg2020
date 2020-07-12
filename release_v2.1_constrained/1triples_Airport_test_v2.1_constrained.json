@@ -1,0 +1,2471 @@
+{
+   1: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport serves the city of Curitiba.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Afonso Pena International Airport serves Curitiba.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Afonso_Pena_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Curitiba"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Afonso_Pena_International_Airport ",
+       "property": " cityServed ",
+       "subject": " Curitiba"
+       },
+       {
+       "object": "Afonso_Pena_International_Airport ",
+       "property": " city ",
+       "subject": " Curitiba"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id5"
+      }
+},
+{
+   2: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Houston is the largest city in Texas.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Texas ",
+   "property": " largestCity ",
+   "subject": " Houston"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Texas ",
+       "property": " largestcity ",
+       "subject": " Houston"
+       },
+       {
+       "object": "Texas ",
+       "property": " largestCity ",
+       "subject": " Houston"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id36"
+      }
+},
+{
+   3: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allama Iqbal International airport is located in Pakistan.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allama_Iqbal_International_Airport ",
+   "property": " location ",
+   "subject": " Pakistan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allama_Iqbal_International_Airport ",
+     "property": " location ",
+     "subject": " Pakistan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id88"
+      }
+},
+{
+   4: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway at Antwerp International airport is 600.0 in length.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Antwerp International Airport has a runway length of 600.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length of Antwerp International Airport is 600.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Antwerp_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 600.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Antwerp_International_Airport ",
+     "property": " runwayLength ",
+     "subject": " "600.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id149"
+      }
+},
+{
+   5: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin is part of Kimberly, Wisconsin.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton,_Wisconsin ",
+   "property": " isPartOf ",
+   "subject": " Kimberly,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Kimberly,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Kimberly,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id151"
+      }
+},
+{
+   6: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin is part of little chute, Wisconsin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Appleton, Wisconsin, is part of Little Chute, Wisconsin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Little Chute, Wisconsin is part of Appleton, Wisconsin.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton,_Wisconsin ",
+   "property": " isPartOf ",
+   "subject": " Little_Chute,_Wisconsin"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " subdivisionName ",
+       "subject": " Little_Chute,_Wisconsin"
+       },
+       {
+       "object": "Appleton,_Wisconsin ",
+       "property": " isPartOf ",
+       "subject": " Little_Chute,_Wisconsin"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id152"
+      }
+},
+{
+   7: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Appleton International Airport is 1st 8002 runway length.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The first runway of Appleton International Airport has a length of 8002 feet.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The 1st runway length in feet of Appleton International Airport is 8002.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Appleton_International_Airport ",
+   "property": " 1st_runway_LengthFeet ",
+   "subject": " 8002"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Appleton_International_Airport ",
+     "property": " r1LengthF ",
+     "subject": " 8002"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id153"
+      }
+},
+{
+   8: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand) runway length is 597.0.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length of Ardmore Airport, New Zealand is 597.0.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length of Ardmore Airport (New Zealand) is 597.0.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " runwayLength ",
+   "subject": " 597.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ardmore_Airport_(New_Zealand) ",
+     "property": " runwayLength ",
+     "subject": " "597.408"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id168"
+      }
+},
+{
+   9: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway at Ardmore Airport in New Zealand is called "03R/21L".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "03R/21L is a runway name at Ardmore Airport, New Zealand.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand)'s runway name is "03R/21L".",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " runwayName ",
+   "subject": " "03R/21L""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ardmore_Airport_(New_Zealand) ",
+     "property": " runwayDesignation ",
+     "subject": " "03R/21L""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id170"
+      }
+},
+{
+   10: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ardmore Airport (New Zealand) runway name is 07/25.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "07/25 is the runway name of Ardmore Airport, New Zealand.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway name of Ardmore Airport (New Zealand) is 07/25.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ardmore_Airport_(New_Zealand) ",
+   "property": " runwayName ",
+   "subject": " "07/25""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ardmore_Airport_(New_Zealand) ",
+     "property": " runwayDesignation ",
+     "subject": " "07/25""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id171"
+      }
+},
+{
+   11: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Ashgabat International Airport's 3rd runway length in ft is 2953.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The length of the 3rd runway at Ashgabat International Airport is 2953 feet.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ashgabat_International_Airport ",
+   "property": " 3rd_runway_LengthFeet ",
+   "subject": " 2953"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ashgabat_International_Airport ",
+     "property": " r3LengthF ",
+     "subject": " 2953"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id173"
+      }
+},
+{
+   12: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "ASB is the IATA location identifier for Ashgabat International airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The IATA Location Identifier of Ashgabat International Airport is ASB.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ashgabat_International_Airport ",
+   "property": " IATA_Location_Identifier ",
+   "subject": " "ASB""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ashgabat_International_Airport ",
+     "property": " iataLocationIdentifier ",
+     "subject": " "ASB""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id174"
+      }
+},
+{
+   13: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ashgabat International Airport is 211 metres above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ashgabat International Airport is elevated 211 metres above sea level.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ashgabat_International_Airport ",
+   "property": " elevationAboveTheSeaLevel_(in_metres) ",
+   "subject": " 211"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " elevation ",
+       "subject": " "211.0"^^xsd:double"
+       },
+       {
+       "object": "Ashgabat_International_Airport ",
+       "property": " elevationM ",
+       "subject": " 211"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id175"
+      }
+},
+{
+   14: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Athens is located in the country of Greece.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Athens is a city in Greece.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens ",
+   "property": " country ",
+   "subject": " Greece"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Athens ",
+     "property": " country ",
+     "subject": " Greece"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id183"
+      }
+},
+{
+   15: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Athens International Airport serves the city of Athens.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Athens International Airport serves the city of Athens.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens_International_Airport ",
+   "property": " cityServed ",
+   "subject": " Athens"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Athens_International_Airport ",
+       "property": " city ",
+       "subject": " Athens"
+       },
+       {
+       "object": "Athens_International_Airport ",
+       "property": " cityServed ",
+       "subject": " Athens"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id184"
+      }
+},
+{
+   16: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Athens International Airport is 94 metres above sea level.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The elevation above the sea level (in metres) of Athens International Airport is 94.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens_International_Airport ",
+   "property": " elevationAboveTheSeaLevel_(in_metres) ",
+   "subject": " 94"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Athens_International_Airport ",
+       "property": " elevation ",
+       "subject": " "94.0"^^xsd:double"
+       },
+       {
+       "object": "Athens_International_Airport ",
+       "property": " elevationM ",
+       "subject": " 94"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id185"
+      }
+},
+{
+   17: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway length at Athens International Airport is 3,800.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The runway length of Athens International Airport is 3800.0.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Athens_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 3800.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Athens_International_Airport ",
+     "property": " runwayLength ",
+     "subject": " "3799.94"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id186"
+      }
+},
+{
+   18: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey is in the U.S.A.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey is in the United States.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id188"
+      }
+},
+{
+   19: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City, New Jersey is part of New Jersey.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " isPartOf ",
+   "subject": " New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " isPartOf ",
+     "subject": " New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id189"
+      }
+},
+{
+   20: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Atlantic City, New Jersey is Don Guardian.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader's name of Atlantic City, New Jersey, is Don Guardian.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City,_New_Jersey ",
+   "property": " leaderName ",
+   "subject": " Don_Guardian"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City,_New_Jersey ",
+     "property": " leaderName ",
+     "subject": " Don_Guardian"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id190"
+      }
+},
+{
+   21: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway length of Atlantic City International Airport is 3048.0.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwayLength ",
+   "subject": " 3048.0"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City_International_Airport ",
+     "property": " runwayLength ",
+     "subject": " "3048.0"^^xsd:double"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id198"
+      }
+},
+{
+   22: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport runway name is 4/22.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "4/22 is the runway name of Atlantic City International Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Atlantic City International Airport has the runway name 4/22.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwayName ",
+   "subject": " "4/22""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City_International_Airport ",
+     "property": " runwayDesignation ",
+     "subject": " "4/22""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id199"
+      }
+},
+{
+   23: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The runway surface at Atlantic City International Airport is made from asphalt and concrete.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Atlantic City International Airport's runway surface is made of Asphalt and Concrete.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Atlantic_City_International_Airport ",
+   "property": " runwaySurfaceType ",
+   "subject": " "Asphalt/Concrete""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Atlantic_City_International_Airport ",
+     "property": " runwaySurface ",
+     "subject": " "Asphalt/Concrete""
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id200"
+      }
+},
+{
+   24: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The capital of Belgium is Brussels.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The capital city of Belgium is Brussels.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " capital ",
+   "subject": " City_of_Brussels"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " capital ",
+     "subject": " City_of_Brussels"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id201"
+      }
+},
+{
+   25: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "French is the spoken language in Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The language of Belgium is French.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "French is one of the languages spoken in Belgium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " language ",
+   "subject": " French_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " language ",
+     "subject": " French_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id202"
+      }
+},
+{
+   26: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Belgium's leader is Charles Michel.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Belgium is Charles Michel.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " leaderName ",
+   "subject": " Charles_Michel"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Belgium ",
+       "property": " leader ",
+       "subject": " Charles_Michel"
+       },
+       {
+       "object": "Belgium ",
+       "property": " leaderName ",
+       "subject": " Charles_Michel"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id203"
+      }
+},
+{
+   27: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "French is the official language of Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The official language of Belgium is French.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " officialLanguage ",
+   "subject": " French_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " officialLanguage ",
+     "subject": " French_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id204"
+      }
+},
+{
+   28: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "German is the official language of Belgium.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Belgium's official language is German.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "German is an official language of Belgium.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Belgium ",
+   "property": " officialLanguage ",
+   "subject": " German_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Belgium ",
+     "property": " officialLanguage ",
+     "subject": " German_language"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id205"
+      }
+},
+{
+   29: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Civil Aviation Authority of New Zealand is in Wellington.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Civil Aviation Authority of New Zealand is located in Wellington.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Civil_Aviation_Authority_of_New_Zealand ",
+   "property": " location ",
+   "subject": " Wellington"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Civil_Aviation_Authority_of_New_Zealand ",
+     "property": " location ",
+     "subject": " Wellington"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id206"
+      }
+},
+{
+   30: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Curitiba is located in Brazil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Curitiba is in Brazil.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Curitiba ",
+   "property": " country ",
+   "subject": " Brazil"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Curitiba ",
+     "property": " country ",
+     "subject": " Brazil"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id207"
+      }
+},
+{
+   31: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Curitiba is part of the State of Paraná.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Curitiba is part of Parana state.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Curitiba is part of the state of Parana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Curitiba ",
+   "property": " isPartOf ",
+   "subject": " Paraná_(state)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Curitiba ",
+       "property": " isPartOf ",
+       "subject": " Paraná_(state)"
+       },
+       {
+       "object": "Curitiba ",
+       "property": " subdivisionName ",
+       "subject": " Paraná_(state)"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id208"
+      }
+},
+{
+   32: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Curitiba is led by the Democratic Labour Party (Brazil).",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Curitiba ",
+   "property": " leaderName ",
+   "subject": " Democratic_Labour_Party_(Brazil)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Curitiba ",
+     "property": " leaderName ",
+     "subject": " Democratic_Labour_Party_(Brazil)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id209"
+      }
+},
+{
+   33: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Infraero location is in Brazil.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Infraero is in Brazil.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Infraero is located in Brazil.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Infraero ",
+   "property": " location ",
+   "subject": " Brazil"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Infraero ",
+     "property": " location ",
+     "subject": " Brazil"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id236"
+      }
+},
+{
+   34: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The currency in Iraq is the Iraqi dinar.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The currency of Iraq is the Iraqi dinar.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " currency ",
+   "subject": " Iraqi_dinar"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Iraq ",
+     "property": " currency ",
+     "subject": " Iraqi_dinar"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id237"
+      }
+},
+{
+   35: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Kurdish languages are spoken in Iraq.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " language ",
+   "subject": " Kurdish_languages"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Iraq ",
+     "property": " language ",
+     "subject": " Kurdish_languages"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id238"
+      }
+},
+{
+   36: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Iraq is led by Fuad Masum.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Iraq's leader is Fuad Masum.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Iraq is Fuad Masum.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " leaderName ",
+   "subject": " Fuad_Masum"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Iraq ",
+       "property": " leaderName ",
+       "subject": " Fuad_Masum"
+       },
+       {
+       "object": "Iraq ",
+       "property": " leader ",
+       "subject": " Fuad_Masum"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id239"
+      }
+},
+{
+   37: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Iraq leader name is Haider Al-Abadi.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Haider al-Abadi is the name of the leader of Iraq.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader if Iraq is called Haider al-Abadi.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " leaderName ",
+   "subject": " Haider_al-Abadi"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Iraq ",
+       "property": " leader ",
+       "subject": " Haider_al-Abadi"
+       },
+       {
+       "object": "Iraq ",
+       "property": " leaderName ",
+       "subject": " Haider_al-Abadi"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id240"
+      }
+},
+{
+   38: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The official language of Iraq is Arabic.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Arabic is the official language of Iraq.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Iraq ",
+   "property": " officialLanguage ",
+   "subject": " Arabic"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Iraq ",
+     "property": " officialLanguage ",
+     "subject": " Arabic"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id241"
+      }
+},
+{
+   39: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ahora Madrid is the leading party of Madrid.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader party in Madrid is Ahora Madrid.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Madrid ",
+   "property": " leaderParty ",
+   "subject": " Ahora_Madrid"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Madrid ",
+     "property": " leaderParty ",
+     "subject": " Ahora_Madrid"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id248"
+      }
+},
+{
+   40: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Maple Ridge Township, Alpena County Michigan is in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Maple Ridge Township, Alpena County, Michigan is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Maple Ridge Township, Alpena County, Michigan is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Maple_Ridge_Township,_Alpena_County,_Michigan ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Maple_Ridge_Township,_Alpena_County,_Michigan ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id249"
+      }
+},
+{
+   41: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pakistan's leader is Mamnoon Hussain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Mamnoon Hussain is the leader of Pakistan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Mamnoon Hussain is a leader of Pakistan.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pakistan ",
+   "property": " leaderName ",
+   "subject": " Mamnoon_Hussain"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Pakistan ",
+       "property": " leader ",
+       "subject": " Mamnoon_Hussain"
+       },
+       {
+       "object": "Pakistan ",
+       "property": " leaderName ",
+       "subject": " Mamnoon_Hussain"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id250"
+      }
+},
+{
+   42: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pakistan's leader is Nawaz Sharif.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The leader of Pakistan is Nawaz Sharif.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pakistan ",
+   "property": " leaderName ",
+   "subject": " Nawaz_Sharif"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Pakistan ",
+       "property": " leader ",
+       "subject": " Nawaz_Sharif"
+       },
+       {
+       "object": "Pakistan ",
+       "property": " leaderName ",
+       "subject": " Nawaz_Sharif"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id251"
+      }
+},
+{
+   43: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority is headquartered at Jinnah International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority Headquarters is the Jinnah International Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The headquarters of the Pakistan Civil Aviation Authority are at Jinnah International Airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pakistan_Civil_Aviation_Authority ",
+   "property": " headquarter ",
+   "subject": " Jinnah_International_Airport"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pakistan_Civil_Aviation_Authority ",
+     "property": " headquarter ",
+     "subject": " Jinnah_International_Airport"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id252"
+      }
+},
+{
+   44: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Pakistan Civil Aviation Authority's location is Jinnah International Airport.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority is in the Jinnah International Airport.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Pakistan Civil Aviation Authority is located at Jinnah International Airport.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Pakistan_Civil_Aviation_Authority ",
+   "property": " location ",
+   "subject": " Jinnah_International_Airport"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Pakistan_Civil_Aviation_Authority ",
+     "property": " location ",
+     "subject": " Jinnah_International_Airport"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id253"
+      }
+},
+{
+   45: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Paracuellos de Jarama is in Spain.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Paracuellos de Jarama is located in Spain.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Paracuellos_de_Jarama ",
+   "property": " country ",
+   "subject": " Spain"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Paracuellos_de_Jarama ",
+     "property": " country ",
+     "subject": " Spain"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id254"
+      }
+},
+{
+   46: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Poaceae class is Monocotyledon.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Poaceae is in the class Monocotyledon.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " class ",
+   "subject": " Monocotyledon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Poaceae ",
+       "property": " unrankedClassis ",
+       "subject": " Monocotyledon"
+       },
+       {
+       "object": "Poaceae ",
+       "property": " class ",
+       "subject": " Monocotyledon"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id255"
+      }
+},
+{
+   47: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Poaceae belongs to the division of flowering plants.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " division ",
+   "subject": " Flowering_plant"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Poaceae ",
+       "property": " unrankedDivisio ",
+       "subject": " Flowering_plant"
+       },
+       {
+       "object": "Poaceae ",
+       "property": " division ",
+       "subject": " Flowering_plant"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id256"
+      }
+},
+{
+   48: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Poaceae belongs to the order of Commelinids.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Poaceae is the order of Commelinids.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " order ",
+   "subject": " Commelinids"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Poaceae ",
+       "property": " unrankedOrdo ",
+       "subject": " Commelinids"
+       },
+       {
+       "object": "Poaceae ",
+       "property": " order ",
+       "subject": " Commelinids"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id257"
+      }
+},
+{
+   49: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Poaceae is of the Poales order.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Poaceae is of the order Poales.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Poaceae is a member of the order of Poales.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Poaceae ",
+   "property": " order ",
+   "subject": " Poales"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Poaceae ",
+       "property": " order ",
+       "subject": " Poales"
+       },
+       {
+       "object": "Poaceae ",
+       "property": " ordo ",
+       "subject": " Poales"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id258"
+      }
+},
+{
+   50: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Port Authority of New York and New Jersey's headquarter is New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "New York is the base of the Port Authority of New York and New Jersey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The Port Authority of New York and New Jersey has its headquarters in New York.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Port_Authority_of_New_York_and_New_Jersey ",
+   "property": " headquarter ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Port_Authority_of_New_York_and_New_Jersey ",
+     "property": " headquarter ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id259"
+      }
+},
+{
+   51: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Port Authority of New York and New Jersey serves the New York region.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Port Authority of New York and New Jersey serves New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Port_Authority_of_New_York_and_New_Jersey ",
+   "property": " regionServed ",
+   "subject": " New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Port_Authority_of_New_York_and_New_Jersey ",
+     "property": " regionServed ",
+     "subject": " New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id260"
+      }
+},
+{
+   52: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Punjab is found in the country Pakistan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Punjab is in Pakistan.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Punjab,_Pakistan ",
+   "property": " country ",
+   "subject": " Pakistan"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Punjab,_Pakistan ",
+     "property": " country ",
+     "subject": " Pakistan"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id261"
+      }
+},
+{
+   53: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Malik Muhammad Rafique Rajwana is a leader in the Punjab, Pakistan.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Malik Muhammad Rafique Rajwana is the leader of Punjab, Pakistan.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Punjab, Pakistan's leader is Malik Muhammad Rafique Rajwana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Punjab,_Pakistan ",
+   "property": " leaderName ",
+   "subject": " Malik_Muhammad_Rafique_Rajwana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Punjab,_Pakistan ",
+     "property": " leaderName ",
+     "subject": " Malik_Muhammad_Rafique_Rajwana"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id262"
+      }
+},
+{
+   54: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The leader of Punjab, Pakistan is Shehbaz Sharif.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Punjab,_Pakistan ",
+   "property": " leaderName ",
+   "subject": " Shehbaz_Sharif"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Punjab,_Pakistan ",
+     "property": " leaderName ",
+     "subject": " Shehbaz_Sharif"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id263"
+      }
+},
+{
+   55: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Punjab, Pakistan, is led by the Provincial Assembly of the Punjab.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Punjab, Pakistan is led by the Provincial Assembly of the Punjab.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Punjab,_Pakistan ",
+   "property": " leaderTitle ",
+   "subject": " Provincial_Assembly_of_the_Punjab"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Punjab,_Pakistan ",
+     "property": " leaderTitle ",
+     "subject": " Provincial_Assembly_of_the_Punjab"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id264"
+      }
+},
+{
+   56: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "San Sebastian de los Reyes is part of the Community of Madrid.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "San Sebastián de los Reyes is part of the Community of Madrid.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "San_Sebastián_de_los_Reyes ",
+   "property": " isPartOf ",
+   "subject": " Community_of_Madrid"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "San_Sebastián_de_los_Reyes ",
+     "property": " isPartOf ",
+     "subject": " Community_of_Madrid"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id265"
+      }
+},
+{
+   57: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The People's Party is the lead party of San Sebastian de los Reyes, Spain.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "San_Sebastián_de_los_Reyes ",
+   "property": " leaderParty ",
+   "subject": " People's_Party_(Spain)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "San_Sebastián_de_los_Reyes ",
+     "property": " leaderParty ",
+     "subject": " People's_Party_(Spain)"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id266"
+      }
+},
+{
+   58: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York is located in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Saranac Lake New York is located in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York is located in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Saranac_Lake,_New_York ",
+     "property": " country ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id267"
+      }
+},
+{
+   59: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York is part of Essex County, New York.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " Essex_County,_New_York"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Saranac_Lake,_New_York ",
+     "property": " isPartOf ",
+     "subject": " Essex_County,_New_York"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id268"
+      }
+},
+{
+   60: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York is part of Harrietstown, New York.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Saranac Lake, New York, is part of Harrietstown, New York.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Saranac_Lake,_New_York ",
+   "property": " isPartOf ",
+   "subject": " Harrietstown,_New_York"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " isPartOf ",
+       "subject": " Harrietstown,_New_York"
+       },
+       {
+       "object": "Saranac_Lake,_New_York ",
+       "property": " subdivisionName ",
+       "subject": " Harrietstown,_New_York"
+       }
+     ]
+     },
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id269"
+      }
+},
+{
+   61: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "South Jersey Transportation Authority's leader name is Stephen Dilts.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Stephen Dilts is the head of the South Jersey Transportation Authority.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Stephen Dilts is the leader of the South Jersey Transportation Authority.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "South_Jersey_Transportation_Authority ",
+   "property": " leaderName ",
+   "subject": " Stephen_Dilts"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "South_Jersey_Transportation_Authority ",
+     "property": " leader ",
+     "subject": " Stephen_Dilts"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id270"
+      }
+},
+{
+   62: {
+      "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Wilson Township, Alpena County, Michigan is part of the United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Wilson_Township,_Alpena_County,_Michigan ",
+   "property": " isPartOf ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Wilson_Township,_Alpena_County,_Michigan ",
+     "property": " subdivisionName ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id299"
+      }
+},
+{
+   63: {
+   "category": "Airport",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Ícolo e Bengo is in Angola.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Ícolo e Bengo is located in Angola.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Ícolo_e_Bengo ",
+   "property": " country ",
+   "subject": " Angola"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Ícolo_e_Bengo ",
+     "property": " country ",
+     "subject": " Angola"
+     }
+     ]
+   ],
+   "shape": "(X (X))",
+   "shape_type": "NA",
+   "size": "1",
+   "xml_id": "Id300"
+      }
+}

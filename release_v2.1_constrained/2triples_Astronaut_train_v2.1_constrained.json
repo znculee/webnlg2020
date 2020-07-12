@@ -1,0 +1,1715 @@
+{
+   1: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who is now retired, was born on March 15th, 1932.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born on March 15, 1932, Alan Bean has now retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who has since retired, was born on May 15th, 1932.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on the 15th of March of 1932. He is currently retired.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthDate ",
+   "subject": " "1932-03-15""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthDate ",
+     "subject": " "1932-03-15""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Former test pilot Alan Shepard has died.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Test pilot Alan Shepard has died.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was a test pilot who has since passed away.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " status ",
+     "subject": " "Deceased""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on the 20th January, 1030 in Glen Ridge, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey on January 20, 1930.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on the 20th of January 1930, in Glen Ridge New Jersey.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on January 20th, 1930 in the community of Glen Ridge, New Jersey.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on 1930-01-20 in Glen Ridge New Jersey.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on 1930-01-20 in Glen Ridge, New Jersey.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born on 1930-01-20, in Glen Ridge, New Jersey.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, located in the Essex County in New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Essex County, at Glen Ridge New Jersey.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Apollo 8 crew included the British Hong Kong-born William Anders.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a member of the Apollo 8 crew and was born in British Hong Kong.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a crew member on Apollo 8 and was born in British Hong Kong.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) was a crew member of Apollo 8.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthPlace ",
+   "subject": " British_Hong_Kong"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthPlace ",
+     "subject": " British_Hong_Kong"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id5"
+      }
+},
+{
+   6: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders graduated, with an M.S., from AFIT in 1962, and is now retired.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, who received an M.S from his alma mater, AFIT, in 1962, is retired.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders has since retired, but in 1962 he received an M.S. from his alma mater, AFIT.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " status ",
+   "subject": " "Retired""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " status ",
+     "subject": " "Retired""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   7: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on March 15, 1932 and received a Bachelor of Science degree at the University of Texas at Austin in 1955.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on the 15th of March 1932 and graduated from UT Austin in 1955 with a B.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on the 15th of March 1932 and his Alma Mater is UT Austin, B.S. 1955.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (born 1932-03-15)'s alma mater was UT Austin B.S. 1955.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (born on 1932-03-15) graduated from UT Austin in 1955 with a B.Sc. degree.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on March 15, 1932 and his alma mater was UT Austin BS, in 1955.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthDate ",
+   "subject": " "1932-03-15""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthDate ",
+     "subject": " "1932-03-15""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   8: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas on Mar 15, 1932 .",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born on Mar 15, 1932, in Wheeler, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas on March 15th, 1932.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " birthDate ",
+   "subject": " "1932-03-15""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " birthDate ",
+     "subject": " "1932-03-15""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   9: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "American Alan Bean was born in Wheeler Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was an American, who was born in Wheeler, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is an American who was born in Wheeler, Texas.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas, United States.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was born in Wheeler, Texas and is a citizen of the United States.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean is an American, born in Wheeler, Texas.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   10: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Astronaut Alan Bean, who was part of the Apollo 12 crew, retired in June 1981.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Before he retired in June 1981, Alan Bean was a member of Apollo 12.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, who was one of the astronauts on Apollo 12, retired in June 1981.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean (retired June 1981) was a crew member of Apollo 12.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, a crew member of Apollo 12, retired in June 1981.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean, formerly a crew member of Apollo 12 retired in June 1981.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id6"
+      }
+},
+{
+   11: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "NASA's Apollo 12 crew included Alan Bean.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was part of Apollo 12 which was operated by NASA.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member of the NASA operated Apollo 12.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member of NASA's Apollo 12.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean served as a crew member of Apollo 12 which is operated by NASA.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Bean was a crew member of Apollo 12, which was operated by nasa.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Bean ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_12"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Bean ",
+     "property": " mission ",
+     "subject": " Apollo_12"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id7"
+      }
+},
+{
+   12: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who was awarded the Distinguished Service Medal by the United States Navy, went to school at NWC and graduated with an MA in 1957.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "1957 NWC M.A. graduate Alan Shepard is a recipient of the United States Navy's Distinguished Service Medal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard who graduated from NWC with an MA in 1957 was awarded the Distinguished Service Medal by the US Navy.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " almaMater ",
+   "subject": " "NWC, M.A. 1957""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " almaMater ",
+     "subject": " "NWC, M.A. 1957""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id8"
+      }
+},
+{
+   13: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died in California, the common place to find the gem Benitoite.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "California is well known for the gemstone benitoite, and as the state where Alan Shepard died.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard died in California, which has as its gemstone, Benitoite.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " gemstone ",
+   "subject": " Benitoite"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " gemstone ",
+     "subject": " Benitoite"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id27"
+      }
+},
+{
+   14: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas, Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas County, Dallas Texas.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Dallas ",
+   "property": " partsType ",
+   "subject": " List_of_counties_in_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Dallas ",
+     "property": " partsType ",
+     "subject": " List_of_counties_in_Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id28"
+      }
+},
+{
+   15: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard's Distinguished Service Medal from the U.S. Navy ranks higher than Department of Commerce Gold Medal.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was the recipient of the Distinguished Service Medal in the United States Navy and this is a medal that is ranked higher than Department of Commerce Gold Medal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard got the Distinguished Service Medal of United States Navy, which has a higher rank than the Department of Commerce Gold Medal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+   "property": " higher ",
+   "subject": " Department_of_Commerce_Gold_Medal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Distinguished_Service_Medal_(United_States_Navy) ",
+     "property": " higher ",
+     "subject": " Department_of_Commerce_Gold_Medal"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id29"
+      }
+},
+{
+   16: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was born on July 23rd, 1927, and was a student at University of Texas at Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who was born on July 23, 1927, graduated from the University of Texas at Austin.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, a student at University of Texas at Austin and was born on 23rd July 1927.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id30"
+      }
+},
+{
+   17: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See was was born in Dallas and was a student at University of Texas at Austin.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin and was also born in Dallas, Texas.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was born in Dallas and went on to attend the University of Texas at Austin.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Dallas native Elliot See's alma mater was the University of Texas at Austin.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas, Austin. He was born in Dallas.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id31"
+      }
+},
+{
+   18: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin, affiliated to the university of Texas system.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See was a student at the University of Texas at Austin which is part of the University of Texas system.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See graduated from the University of Texas at Austin, which is affiliated with the University of Texas System.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See's alma mater is the University of Texas at Austin which is affiliated with the University of Texas System.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " almaMater ",
+   "subject": " University_of_Texas_at_Austin"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " almaMater ",
+     "subject": " University_of_Texas_at_Austin"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id32"
+      }
+},
+{
+   19: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See died on February 28, 1966, in St Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St Louis on February 28,1966.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St Louis on February 28, 1966.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis on February 28th, 1966.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis on 1966-02-28.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St Louis on 28/02/1966.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See passed away on 1966-02-28 in St. Louis.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " deathPlace ",
+   "subject": " St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " deathPlace ",
+     "subject": " St._Louis"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id33"
+      }
+},
+{
+   20: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, who worked for NASA beginning in 1962, died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See joined NASA in 1962 and died in St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who was selected by NASA in 1962, died in St. Louis.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who died in St. Louis, was selected by the NASA in 1962.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "In 1962 Elliot See, who died later in St. Louis, was selected by NASA.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot see selected by NASA in 1962 died in St. Louis.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " deathPlace ",
+   "subject": " St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " deathPlace ",
+     "subject": " St._Louis"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id34"
+      }
+},
+{
+   21: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis, the Kingdom of France.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St Louis situated in the Kingdom of France.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis which was once part of the Kingdom of France.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis (part of Kingdom of France).",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " deathPlace ",
+   "subject": " St._Louis"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " deathPlace ",
+     "subject": " St._Louis"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id35"
+      }
+},
+{
+   22: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See, who is now dead, was born in Dallas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, who was born in Dallas, has died.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See (deceased) was born in Dallas.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, deceased, was born in Dallas.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See, born in Dallas, has already passed away.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id36"
+      }
+},
+{
+   23: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Elliot See died in St. Louis.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See passed away in St Louis.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Elliot See is deceased and died in St. Louis.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Elliot_See ",
+   "property": " status ",
+   "subject": " "Deceased""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Elliot_See ",
+     "property": " status ",
+     "subject": " "Deceased""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id37"
+      }
+},
+{
+   24: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire, where the purple finch is a native bird.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard was born in New Hampshire, a state where one can find the purple finch bird.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The purple finch is the bird of New Hampshire, the birthplace of Alan Shepard.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Purple finch is the bird of New Hampshire which is the birthplace of Alan Shepard.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "New_Hampshire ",
+   "property": " bird ",
+   "subject": " Purple_finch"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "New_Hampshire ",
+     "property": " bird ",
+     "subject": " Purple_finch"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id38"
+      }
+},
+{
+   25: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born on the 17th of October 1933 and graduated from AFIT in 1962 with an M.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, who was born on the 17th of October 1933, graduated from AFIT, M.S. in 1962.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born 1933-10-17 and he received an MS from AFIT in 1962.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (1933-10-17) graduated from AFIT with a master of science in 1962.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born on October 17th, 1933 and his Alma Mater was AFIT, M.S. which he attended in 1962.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born on 1933-10-17) graduated from AFIT, M.S. in 1962.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " birthDate ",
+   "subject": " "1933-10-17""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " birthDate ",
+     "subject": " "1933-10-17""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id39"
+      }
+},
+{
+   26: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders, who crewed Apollo 8, retired on September 1st, 1969.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, who served as a crew member of Apollo 8, retired on September 1st, 1969.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was once a crew member of Apollo 8 and he retired on September 1st, 1969.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, crew member of Apollo 8 retired as of 1969-09-01.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, a crew member of Apollo 8, retired 1969/09/01.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders retired the 1st of August in 1969. He was a crew member of the Apollo 8.",
+   "xml_id": "Id6"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " dateOfRetirement ",
+   "subject": " "1969-09-01""
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " dateOfRet ",
+     "subject": " "1969-09-01""
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id40"
+      }
+},
+{
+   27: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The American William Anders was born in British Hong Kong.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "toFix",
+   "lex": "William Anders, who was from the United States, was actually born in British Hong Kong.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Although William Anders was from the United States, he was actually born in British Hong Kong.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders nationality is the United States, but he was born in British Hong Kong.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong but has a United States nationality.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders from the United States was born in British Hong Kong.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong and is a citizen of the United States.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " nationality ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " nationality ",
+     "subject": " United_States"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id41"
+      }
+},
+{
+   28: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders was born in British Hong Kong and later in life became a fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a fighter pilot who was born in British, Hong Kong.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders (born in British Hong Kong) served as a Fighter pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders who was born in British Hong Kong served as a fighter pilot.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders, born in British Hong Kong, was a fighter pilot.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id42"
+      }
+},
+{
+   29: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders is a fighter pilot and member of Apollo 8's crew.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was part of the Apollo 8 crew and was once a fighter pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders was a fighter pilot and a crew member of Apollo 8.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id43"
+      }
+},
+{
+   30: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "William Anders served as Chief of the Astronaut Office in 1976 and had a title as the United States Ambassador to Norway.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "William Anders time as Chief of the Astronaut Office in 1976 has prepared him well for his new position as United States Ambassador to Norway.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States Ambassador to Norway, William Anders, served as Chief of the Astronaut Office in 1976.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "William_Anders ",
+   "property": " served as Chief of the Astronaut Office in ",
+   "subject": " 1976"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "William_Anders ",
+     "property": " years ",
+     "subject": " 1976"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id44"
+      }
+},
+{
+   31: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Apollo 14 crew member Alan Shepard retired on the first of August, 1974.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alan Shepard, who served as a crew member of Apollo 14, retired 1974-08-01.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alan_Shepard ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_14"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alan_Shepard ",
+     "property": " mission ",
+     "subject": " Apollo_14"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id1"
+      }
+},
+{
+   32: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is a US national because he was born in Glen Ridge, New Jersey.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American Buzz Aldrin hails from Glen Ridge, New Jersey.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was born in Glen Ridge, New Jersey in the United States.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a US citizen born in Glen Ridge, New Jersey.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " birthPlace ",
+   "subject": " Glen_Ridge,_New_Jersey"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " birthPlace ",
+     "subject": " Glen_Ridge,_New_Jersey"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id2"
+      }
+},
+{
+   33: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Retiree Buzz Aldrin is a former fighter pilot.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin is now retired but he was once a fighter pilot.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin has since retired but he once served as a fighter pilot.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin served as a fighter pilot and is now retired.",
+   "xml_id": "Id4"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " occupation ",
+   "subject": " Fighter_pilot"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " occupation ",
+     "subject": " Fighter_pilot"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id3"
+      }
+},
+{
+   34: {
+      "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "NASA operated the Apollo 11 program of which Buzz Aldrin was a member.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was on Apollo 11 which NASA operated.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA.",
+   "xml_id": "Id5"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz aldrin was a crew member of apollo 11, which was operated by NASA.",
+   "xml_id": "Id6"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a crew member of NASA's Apollo 11.",
+   "xml_id": "Id7"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)))",
+   "shape_type": "chain",
+   "size": "2",
+   "xml_id": "Id4"
+      }
+},
+{
+   35: {
+   "category": "Astronaut",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin performed as a fighter pilot and was a crew member on Apollo 11.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin, who was a fighter pilot, was a crew member on Apollo 11.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew.",
+   "xml_id": "Id3"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was both a fighter pilot and member of the Apollo 11 flight crew.",
+   "xml_id": "Id4"
+   },
+   {
+   "comment": "good",
+   "lex": "Buzz Aldrin was a fighter pilot and crew member of Apollo 11.",
+   "xml_id": "Id5"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Buzz_Aldrin ",
+   "property": " was a crew member of ",
+   "subject": " Apollo_11"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Buzz_Aldrin ",
+     "property": " mission ",
+     "subject": " Apollo_11"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X))",
+   "shape_type": "sibling",
+   "size": "2",
+   "xml_id": "Id5"
+      }
+}

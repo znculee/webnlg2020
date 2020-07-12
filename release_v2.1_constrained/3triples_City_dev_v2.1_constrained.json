@@ -1,0 +1,1228 @@
+{
+   1: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County in Oregon within the United States where Asian Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County in Oregon, in the U.S, of which The Asian Americans are an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County, Oregon, in the United States, where Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " ethnicGroup ",
+   "subject": " Asian_Americans"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " ethnicGroup ",
+     "subject": " Asian_Americans"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id26"
+      }
+},
+{
+   2: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The United States includes the African Americans ethnic group, uses the English language and is the location of Albany, Georgia.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in the United States; where English is spoken and African Americans call home.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in the US where English is spoken and African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "United_States ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "United_States ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id29"
+      }
+},
+{
+   3: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is located in Dougherty County, Georgia in the U.S. Native Americans are an ethnic group in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Native Americans are one of the ethnic groups in the United States of America which is the location of Albany, part of Dougherty County in Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States includes the ethnic group of Native Americans and is the location of Albany, part of Dougherty County in Georgia.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Dougherty_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " Dougherty_County,_Georgia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id15"
+      }
+},
+{
+   4: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in Dougherty County and Asian Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The Asian Americans are an ethnic group within the United States, which is the location of Albany, part of Dougherty County in Georgia.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Dougherty County in Georgia, in the United States, where Asian Americans are one of the ethnic groups.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Dougherty_County,_Georgia"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " Dougherty_County,_Georgia"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id16"
+      }
+},
+{
+   5: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is located in the US state of Georgia where African Americans are an ethnic group.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of the state of Georgia in the United States. African Americans are an ethnic group in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Albany, Georgia is in the USA where African Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " Georgia_(U.S._state)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id17"
+      }
+},
+{
+   6: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is in the U.S. State of Georgia. Asian Americans are an ethnic group in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany in Georgia is located in the United States where the Asian Americans are an ethnic group.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia is in the United States where Asian Americans are an ethnic group.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " Georgia_(U.S._state)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id18"
+      }
+},
+{
+   7: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is located at 64.008 above sea level and its population density is 1104.1 persons per sq. km. Its total area is 45.97 sq. km.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon which is 64,008 above sea level has a population density of 1104.1 inhabitants per square kilometres and is 45.97 square kilometres.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Oregon is 45.97 square kilometres, is 64.008 above sea level, and houses 1104.1 residents per square kilometre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " areaTotal ",
+   "subject": " 45.97 (square kilometres)"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " areaTotal ",
+       "subject": " 4.597e+07"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " elevation ",
+       "subject": " "64.008"^^xsd:double"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " areaTotal ",
+       "subject": " 4.597e+07"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " areaTotal ",
+       "subject": " 4.59723e+07"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id19"
+      }
+},
+{
+   8: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County in Oregon, in the United States, where African Americans are one of the ethnic groups.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Albany is part of Benton County, Oregon, in the United States, where African Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County in Oregon, in the U.S. A country which had a number of ethnic groups, one of which is African Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Benton_County,_Oregon"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Oregon ",
+     "property": " subdivisionName ",
+     "subject": " Benton_County,_Oregon"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id20"
+      }
+},
+{
+   9: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is part of Benton County, which is located in Oregon in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Albany is part of Benton County, Oregon, US.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is in the United States and is part of Benton county, Oregon.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Oregon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " isPartOf ",
+       "subject": " Oregon"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " subdivisionName ",
+       "subject": " Oregon"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id21"
+      }
+},
+{
+   10: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany is a city in Linn County, Oregon within the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of Linn County, Oregon in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city, Albany (Oregon), falls under Linn County Oregon, in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Oregon ",
+   "property": " isPartOf ",
+   "subject": " Oregon"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Albany,_Oregon ",
+       "property": " isPartOf ",
+       "subject": " Oregon"
+       },
+       {
+       "object": "Albany,_Oregon ",
+       "property": " subdivisionName ",
+       "subject": " Oregon"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id22"
+      }
+},
+{
+   11: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is a city in Orange County, California in the U.S. Anaheim is led by the California State Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in Orange County, CA in the U.S. The California State Assembly leads Anaheim.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Led by the California State Assembly, Anaheim, is a city in Orange County, which is part of California, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id61"
+      }
+},
+{
+   12: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Anaheim in Orange County is part of California and led by the California State Assembly located at the California State Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim in Orange County, California is led by the California State Assembly located in the California State Capitol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is located in Orange County, CA, and led by the California State Assembly which is situated at the California State Capitol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id62"
+      }
+},
+{
+   13: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The California State Senate leads Anaheim, Orange County, California and it is located at the State Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in Orange County, CA which is led by the California State Senate that is located in that state's capitol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Anaheim in Orange County, California is led by the California State Senate located at the California State Capitol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id63"
+      }
+},
+{
+   14: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is part of Orange County (CA) which is in the Greater Los Angeles area of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in Orange County (part of the greater L.A. area), California is in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is in Orange County, California which is part of the Greater Los Angeles area, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id64"
+      }
+},
+{
+   15: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is a city in Orange County, part of California, in the United States, where the leader is called the President of the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is a city in Orange County, California, in the United States, where the leader is the president.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim is a city in Orange County, California, in the United States, where the leader is called the president.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id65"
+      }
+},
+{
+   16: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is part of Orange County, California and the U.S. House of Representatives leads that city. The U.S. House of Representatives is in the United States Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, part of Orange County in California is led by the United States House of Representatives located in the US Capitol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The U.S. House of Representatives is in the U.S. Capitol and they lead Anaheim, California which is in Orange County.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id66"
+      }
+},
+{
+   17: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, Orange County, California is led by the United States House of Representatives, which is located in Washington DC.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is in Orange County, California and is led by the U.S. House of Representatives which is located in Washington, D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives is located in Washington D.C., and it represents Anaheim, Orange County, CA.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " isPartOf ",
+   "subject": " Orange_County,_California"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " isPartOf ",
+     "subject": " Orange_County,_California"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id67"
+      }
+},
+{
+   18: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is part of California in the US and is led by the California State Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California (United States), is led by the California State Assembly.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Led by the California State Assembly, Anaheim, is part of California, in the U.S.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "3",
+   "xml_id": "Id68"
+      }
+},
+{
+   19: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California in the U.S. is led by the California State Assembly.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Led by the California State Assembly, Anaheim, is part of California, in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Anaheim, California, USA is led by the California state assembly.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id69"
+      }
+},
+{
+   20: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is led by the California State Assembly which can be found at the California State Capitol.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The California State Assembly, which is located in the California State Capitol, leads Anaheim, a part of California.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id70"
+      }
+},
+{
+   21: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, located in California, USA, is led by the California State Assembly which is part of the California State Legislature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California, US is led by the California State Assembly, which is part of the California State Legislature.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The California State Assembly (part of the California State Legislature), leads Anaheim, California, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id71"
+      }
+},
+{
+   22: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is led by the California State Assembly, which is located in California State Capitol and which is part of the California State Legislature.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Anaheim, California is led by the Californian state assembly located in the California state capitol and part of the Californian state legislature.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id72"
+      }
+},
+{
+   23: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is located in Adams Township, Madison County, Indiana, United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is located within Adams Township, Madison County, Indiana in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Adams Township, Madison County, Indiana, United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Adams_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Adams_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id73"
+      }
+},
+{
+   24: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Adams Township, Madison County, Indiana in the U.S.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson and Adams Township are in Madison County in Indiana, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson can be found in Adams Township, Madison County, Indiana which is part of the U.S.A.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Adams_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Adams_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id74"
+      }
+},
+{
+   25: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is in Adams Township, Madison County, Indiana in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is a city located in Adams township, Madison County, Indiana, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The city of Anderson, Indiana, USA is part of Adams township, Madison county.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Adams_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Adams_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id75"
+      }
+},
+{
+   26: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Anderson Township, Madison County, Indiana in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Anderson Township, Madison County, Indiana, in the United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, is part of the Anderson Township, in Madison County, Indiana, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Anderson_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Anderson_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id76"
+      }
+},
+{
+   27: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The city of Anderson is part of Anderson Township, Madison County, Indiana in the United States.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, is part of Anderson Township, Madison County, Indiana, in the U.S.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, is part of Anderson Township, which is in Madison County, Indiana, in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Anderson_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Anderson_Township,_Madison_County,_Indiana"
+       },
+       {
+       "object": "Anderson,_Indiana ",
+       "property": " isPartOf ",
+       "subject": " Indiana"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id77"
+      }
+},
+{
+   28: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Anderson Township, Madison County, Indiana, United States.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Anderson_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " subdivisionName ",
+     "subject": " Anderson_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id78"
+      }
+},
+{
+   29: {
+   "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anderson is part of Adams Fall Creek, Lafayette, Richland, Union and Fall Creek Township in the U.S., which are located in Madison County, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana is part of Fall Creek Township and Adams Fall Creek, Lafayette, Richland, Madison County, Union, United States.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana and Adams Fall Creek, Lafayette, Richland, Union which is in the United States.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anderson,_Indiana ",
+   "property": " isPartOf ",
+   "subject": " Fall_Creek_Township,_Madison_County,_Indiana"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anderson,_Indiana ",
+     "property": " isPartOf ",
+     "subject": " Fall_Creek_Township,_Madison_County,_Indiana"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "3",
+   "xml_id": "Id79"
+      }
+}

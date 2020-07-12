@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | Johannesburg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | Johannesburg</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is in Johannesburg.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in Johannesburg.</lex>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>200_Public_Square | Building/floorArea | "111483.648"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | floorArea | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | floorArea | 111484 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">200 Public Square has a floor area of 111484 square metres.</lex>
+      <lex comment="good" lid="Id2">200 Public Square is 111484 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There are 45 floors at 200 Public Square.</lex>
+      <lex comment="good" lid="Id2">200 Public Square has a floor count of 45.</lex>
+    </entry>
+    <entry category="Building" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | "Cleveland, Ohio 44114"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">200 Public Square is located in Cleveland, Ohio 44114.</lex>
+      <lex comment="good" lid="Id2">200 Public Square is located in Cleveland Ohio 44114.</lex>
+    </entry>
+    <entry category="Building" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | architect | Rafael_Viñoly</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | architect | Rafael_Viñoly</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">20 Fenchurch Street was designed by the architect Rafael Viñoly.</lex>
+      <lex comment="good" lid="Id2">Rafael Viñoly designed 20 Fenchurch Street.</lex>
+    </entry>
+    <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | Building/floorArea | "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor area of 62145.3 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | floorCount | 34</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There are 34 floors at 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street has a floor count of 34.</lex>
+    </entry>
+    <entry category="Building" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">20 Fenchurch Street is located in London.</lex>
+    </entry>
+    <entry category="Building" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The construction of 250 Delaware Avenue began in January 2014.</lex>
+      <lex comment="good" lid="Id2">The start date of building 250 Delaware Avenue was January 2014.</lex>
+      <lex comment="good" lid="Id3">January 2014 is the building start date of 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | cost | "1.1E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | cost | "110 million (dollars)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars.</lex>
+      <lex comment="good" lid="Id2">The cost to build 250 Delaware Avenue is "110 million (dollars)".</lex>
+    </entry>
+    <entry category="Building" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">320 South Boston Building was formerly called the Exchange National Bank Building.</lex>
+      <lex comment="good" lid="Id2">The previous name of 320 South Boston Building was the Exchange National Bank Building.</lex>
+    </entry>
+    <entry category="Building" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | architect | Populous_(company)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | architect | Populous_(company)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The architect of 3Arena was the company Populous.</lex>
+      <lex comment="good" lid="Id2">The company Populous were the architects who designed the 3Arena.</lex>
+    </entry>
+    <entry category="Building" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | buildingType | "Concert and events venue"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | buildingType | "Concert and events venue"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 3Arena is a concerts and events venue type building.</lex>
+      <lex comment="good" lid="Id2">The 3Arena hosts concerts and events.</lex>
+    </entry>
+    <entry category="Building" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The completion date of 3Arena is December 2008.</lex>
+      <lex comment="good" lid="Id2">The 3Arena was completed in December 2008.</lex>
+    </entry>
+    <entry category="Building" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | height | "28.0"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | height | 28.0 (metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The height of 3Arena is 28 metres.</lex>
+      <lex comment="good" lid="Id2">The height of 3Arena is 28.0 metres.</lex>
+      <lex comment="good" lid="Id3">3Arena is 28.0 metres high.</lex>
+    </entry>
+    <entry category="Building" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | location | "North Wall Quay"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | "North Wall Quay"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 3Arena is located at the North Wall Quay.</lex>
+      <lex comment="good" lid="Id2">The 3Arena is located on North Wall Quay.</lex>
+      <lex comment="good" lid="Id3">The 3Arena is located at "North Wall Quay".</lex>
+    </entry>
+    <entry category="Building" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | location | Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 3Arena is located in Dublin.</lex>
+      <lex comment="good" lid="Id2">3Arena is located in Dublin.</lex>
+      <lex comment="good" lid="Id3">3Arena is situated in Dublin.</lex>
+    </entry>
+    <entry category="Building" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | location | North_Wall,_Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | North_Wall,_Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">3Arena is located at North Wall, Dublin.</lex>
+      <lex comment="good" lid="Id2">The 3Arena is located at North Wall, Dublin.</lex>
+    </entry>
+    <entry category="Building" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is situated in Sri Lanka.</lex>
+    </entry>
+    <entry category="Building" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmedabad | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmedabad | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmedabad is in India.</lex>
+      <lex comment="good" lid="Id2">Ahmedabad is located in India.</lex>
+    </entry>
+    <entry category="Building" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita Prefecture.</lex>
+    </entry>
+    <entry category="Building" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akita_Prefecture | country | Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Prefecture | country | Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Akita Prefecture is located in Japan.</lex>
+      <lex comment="good" lid="Id2">The Akita Prefecture is part of the country of Japan.</lex>
+      <lex comment="good" lid="Id3">Akita Prefecture is located in Japan.</lex>
+    </entry>
+    <entry category="Building" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The location of Amdavad ni Gufa is Ahmedabad.</lex>
+      <lex comment="good" lid="Id2">Amdavad ni Gufa is located in Ahmedabad.</lex>
+    </entry>
+    <entry category="Building" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ampara_Hospital | beds | 476</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The bed count of Ampara Hospital is 476.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital has 476 beds.</lex>
+    </entry>
+    <entry category="Building" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | "Asser Levy Place and East 23rd Street"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | "Asser Levy Place and East 23rd Street"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.</lex>
+      <lex comment="good" lid="Id2">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.</lex>
+      <lex comment="good" lid="Id3">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street.</lex>
+    </entry>
+    <entry category="Building" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The birth place of Julia Morgan is California.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was born in California.</lex>
+    </entry>
+    <entry category="Building" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Riverside Art Museum is one of Julia Morgan's significant buildings.</lex>
+    </entry>
+    <entry category="Building" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Parliament of the United Kingdom is the leader of London.</lex>
+    </entry>
+    <entry category="Building" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manhattan | leaderName | Gale_Brewer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Manhattan is Gale Brewer.</lex>
+      <lex comment="good" lid="Id2">Gale Brewer is the leader of Manhattan.</lex>
+    </entry>
+    <entry category="Building" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Marriott International was founded in Washington, D.C.</lex>
+    </entry>
+    <entry category="Building" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Marriott International is based in Bethesda, Maryland.</lex>
+      <lex comment="good" lid="Id2">Marriott International is located in Bethesda Maryland.</lex>
+      <lex comment="good" lid="Id3">The Marriott International is located in Bethesda, Maryland.</lex>
+    </entry>
+    <entry category="Building" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_York_City | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">New York city is located in the U.S.</lex>
+      <lex comment="good" lid="Id2">New York City is in the United States.</lex>
+      <lex comment="good" lid="Id3">New York City is located in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pacific_Grove,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pacific_Grove,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Pacific Grove, California is in the United States.</lex>
+      <lex comment="good" lid="Id2">Pacific Grove, California is located in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">South Africa's leader is called Jacob Zuma.</lex>
+      <lex comment="good" lid="Id2">The leader of South Africa is Jacob Zuma.</lex>
+      <lex comment="good" lid="Id3">Jacob Zuma is a leader in South Africa.</lex>
+    </entry>
+    <entry category="Building" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital of Sri Lanka is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id2">Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
+    </entry>
+    <entry category="Building" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ski Lanka's currency is the Sri Lankan rupee.</lex>
+      <lex comment="good" lid="Id2">The currency of Sri Lanka is the Sri Lankan rupee.</lex>
+    </entry>
+    <entry category="Building" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ranil Wickremesinghe is a leader of Sri Lanka.</lex>
+      <lex comment="good" lid="Id2">Sri Lanka's leader is called Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id3">The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
+    </entry>
+    <entry category="Building" eid="Id228" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the ethnic groups of the United States are the African Americans.</lex>
+    </entry>
+  </entries>
+</benchmark>

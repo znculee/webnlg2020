@@ -1,0 +1,3338 @@
+{
+   1: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew White started his musical career in 2003 and his genre is alternative rock. He is a member of the band Kaiser Chiefs and he is associated with the musical artist Marry Banilow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White started his musical career in 2003 and is associated with the musical artist, Marry Banilow. He plays for the band Kaiser Chiefs and his genre is alternative rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alternative rock performer Andrew White started his musical career in 2003. He plays for the band Kaiser Chiefs and is associated with musical artist Marry Banilow.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id24"
+      }
+},
+{
+   2: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Kaiser Chiefs band member, Andrew White, started his musical career in 2003. Andrew White, who is associated with the musical artist Marry Banilow, used to be with the record label Universal records which is now a defunct label.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White, who began his musical career in 2003 and was associated with Marry Banilow, was signed to the now defunct record label Universal Records. He was a member of the band The Kaiser Chiefs.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Musician Andrew White began in 2003 and is associated with artists Marry Banilow and the Kaiser Chiefs. He was signed to the defunct Universal records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id25"
+      }
+},
+{
+   3: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Post-metal cellist, Aaron Turner, played with both Twilight and House of Low Culture.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner played post-metal music with the Twilight band. He also played with the House of Low Culture. Cello is a post-metal instrument.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is a performer of the musical genre Post metal, which uses cello as a musical instrument. He played with Twilight and House of Low Culture bands.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id28"
+      }
+},
+{
+   4: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Electric guitarist Aaron Turner was a member of black metal band Twilight. Death metal is a black metal fusion.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner plays electric guitar and played with the band Twilight. Twilight performs black metal music which when part of a musical fusion is called death metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Black metal electric guitarist Aaron Turner was a member of Twilight. Black metal is the basis for death metal fusion.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Twilight_(band) ",
+   "property": " genre ",
+   "subject": " Black_metal"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Twilight_(band) ",
+     "property": " genre ",
+     "subject": " Black_metal"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id29"
+      }
+},
+{
+   5: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Kids Imagine Nation band and the pop group Suburban Legends. Brian Robertson is a member of the Suburban Legends and plays trombone.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram is an artist with the band Kids Imagine Nation and plays for the Suburban Legends band. Suburban Legend performs pop music and has trombonist Brian Robertson as a member.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Kids Imagine Nation band and the Suburban Legends band. Brian Robertson is a trombonist in the Suburban Legends pop music band.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kids_Imagine_Nation"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Kids_Imagine_Nation"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Kids_Imagine_Nation"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   6: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram, who was a member of the band Kids Imagine Nation, plays for the ska band Suburban Legends, together with the trombonist Brian Robertson.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Kids Imagine Nation band as well as the Ska band Suburban Legends where, Brian Robertson plays the trombone.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Kids Imagine Nation band and also the Suburban Legends band which performs Ska music and has Brian Robertson as trombonist.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kids_Imagine_Nation"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Kids_Imagine_Nation"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   7: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram performs ska punk music which originated from Punk rock. He plays for bands the Suburban Legends and the Kids Imagine Nation.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Suburban Legends band and the Kids Imagine Nation. He performs ska punk, which is originated from punk rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Suburban Legends band and the band Kids Imagine Nation. His musical genre is Ska punk, which has its stylistic origin in Punk rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Suburban_Legends"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Bertram ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Suburban_Legends"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   8: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram played for Kids Imagine Nation Band and Suburban Legends. He started performing in 1998 and ska punk is his genre.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram performs ska punk music and began performing in 1998. He plays for the Suburban Legends band and Kids Imagine Nation band.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Suburban_Legends"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedBand ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedActs ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedActs ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedBand ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Suburban_Legends"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   9: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Suburban Legends member and SKA punk artist Aaron Bertram has non vocal talent and also plays with the Kids Imagine Nation band.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram performs ska punk music for the Suburban Legends band and the band Kids Imagine Nation. He has a background with a non vocal instrument.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram, a non vocal instrumentalist, is an artist with the band Kids Imagine Nation. Aaron Bertram, whose musical genre is Ska punk, plays for the Suburban Legends band.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Suburban_Legends"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedBand ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedActs ",
+       "subject": " Suburban_Legends"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " background ",
+       "subject": " "non_vocal_instrumentalist"@en"
+       },
+       {
+       "object": "Aaron_Bertram ",
+       "property": " associatedBand ",
+       "subject": " Suburban_Legends"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id5"
+      }
+},
+{
+   10: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for both the Suburban Legends band and Kids Imagine Nation band. Aaron Bertram's musical genre is Ska punk which originated from ska music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram plays for the Suburban Legends band and is an artist with the band Kids Imagine Nation. He performs ska punk music which originated from ska music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Bertram is an artist with the band Kids Imagine Nation and plays for the Suburban Legends band. Aaron Bertram performs ska punk music which has its origins in Ska.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Bertram ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Suburban_Legends"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Bertram ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Suburban_Legends"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id6"
+      }
+},
+{
+   11: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The musical genre of Aaron Deer is indie rock and he is a solo singer. He originates from Indianapolis, Indiana.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Deer is from Indianapolis. in Indiana. He is a performer of the music genre, Indie rock and has a background as a solo singer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Indie rock musician and solo singer Aaron Deer is from Indianapolis, Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Deer ",
+   "property": " genre ",
+   "subject": " Indie_rock"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Aaron_Deer ",
+     "property": " genre ",
+     "subject": " Indie_rock"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id7"
+      }
+},
+{
+   12: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Deer is an American from Indiana. He is a solo singer, who performs indie rock.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "American solo singer, Aaron Deer, from Indiana, is a performer of the music genre Indie rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Indie rock musician, Aaron Deer, who has a background as a solo singer, was born in the United States and comes from Indiana.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Aaron_Deer ",
+   "property": " genre ",
+   "subject": " Indie_rock"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Aaron_Deer ",
+       "property": " genre ",
+       "subject": " Indie_rock"
+       },
+       {
+       "object": "Aaron_Deer ",
+       "property": " genre ",
+       "subject": " Indie_rock"
+       },
+       {
+       "object": "Aaron_Deer ",
+       "property": " genre ",
+       "subject": " Indie_rock"
+       },
+       {
+       "object": "Aaron_Deer ",
+       "property": " genre ",
+       "subject": " Indie_rock"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id8"
+      }
+},
+{
+   13: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The musical genre of Alex Day is Synthpop, a form of House music. The stylistic origin of synthpop is both new wave music and pop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Synthpop is influenced by Pop, New Wave and House Music, it is also the genre of Alex Day.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alex Day is a performer of synthpop, which gets its stylistic origins from pop music. Synthpop is derived from new wave music and house music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alex_Day ",
+   "property": " genre ",
+   "subject": " Synthpop"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alex_Day ",
+       "property": " genre ",
+       "subject": " Synthpop"
+       },
+       {
+       "object": "Alex_Day ",
+       "property": " genre ",
+       "subject": " Synthpop"
+       },
+       {
+       "object": "Alex_Day ",
+       "property": " genre ",
+       "subject": " Synthpop"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id113"
+      }
+},
+{
+   14: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, in 1872 and he died in Sidcup.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones, born 1872 in Manchester, England died in Sidcup.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Manchester, England, (1872), Alfred Garth Jones died in Sidcup.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " birthPlace ",
+   "subject": " England"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " birthPlace ",
+       "subject": " Manchester"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " birthPlace ",
+       "subject": " England"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id114"
+      }
+},
+{
+   15: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, UK and died in Sidcup.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The birthplace of Alfred Garth Jones is Manchester, England (U.K.), his place of death, is Sidcup.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, in the United Kingdom and died in Sidcup.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " birthPlace ",
+   "subject": " England"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " birthPlace ",
+       "subject": " England"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " nationality ",
+       "subject": " United_Kingdom"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id115"
+      }
+},
+{
+   16: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England and died in London in a place called Sidcup.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester in England. He died in London in Sidcup.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England and died in SIdcup, London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " placeOfDeath ",
+       "subject": " London"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " placeOfDeath ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id116"
+      }
+},
+{
+   17: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birthplace of Alfred Garth Jones is Manchester, England. He died in London, where Boris Johnson was the mayor.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born Manchester (England), Alfred Garth Jones died in London. the leader of which, is Boris Johnson.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, where Boris Johnson is a leader. He died in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id117"
+      }
+},
+{
+   18: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, and died in London. The Labour Party (UK) is the leader of Manchester.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The birthplace of Alfred Garth Jones is Manchester, England, where the Labour Party is in the majority. He died in London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in, Labour Party led, Manchester, England and died in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id118"
+      }
+},
+{
+   19: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, UK in England. He died in London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, UK and died in London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, United Kingdom and passed away in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id119"
+      }
+},
+{
+   20: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones of the U.K., died in London. The city's leader is Boris Johnson and the country is led by Elizabeth II.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "United Kingdom (led by Elizabeth II) born Alfred Garth Jones died in, Boris Johnson led, London.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones is from the UK, where Elizabeth II is the leader. He died in London, where Boris Johnson is a leader.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " London"
+       },
+       {
+       "object": "United_Kingdom ",
+       "property": " leader ",
+       "subject": " Elizabeth_II"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id120"
+      }
+},
+{
+   21: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The Labour Party (UK) is the leader of Manchester (England), which is the birth place of Alfred Garth Jones, who died in Sidcup.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in Manchester, England, a place where the labour party is in the majority. He died in Sidcup.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones was born in is Manchester, England, where the majority is the Labour Party, and he died in Sidcup.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfred_Garth_Jones ",
+   "property": " deathPlace ",
+   "subject": " Sidcup"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " Sidcup"
+       },
+       {
+       "object": "Alfred_Garth_Jones ",
+       "property": " deathPlace ",
+       "subject": " Sidcup"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id121"
+      }
+},
+{
+   22: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Born in Uruguay, Alfredo Zitarrosa has background in solo singing. His musical genre is Candombe and his recording label is Odeon Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Solo singer Alfredo Zitarrosa was born in Uruguay. He plays Candombe music and records for Odeon Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Uruguay born and Candombe style solo singer Alfredo Zitarrosa is signed with Odeon Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alfredo_Zitarrosa ",
+   "property": " birthPlace ",
+   "subject": " Uruguay"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alfredo_Zitarrosa ",
+       "property": " background ",
+       "subject": " "solo_singer""
+       },
+       {
+       "object": "Alfredo_Zitarrosa ",
+       "property": " birthPlace ",
+       "subject": " Uruguay"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id125"
+      }
+},
+{
+   23: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was once signed to London based, Deram Records. Alison O'Donnell, whose music genre is Psychedelic folk, is signed to the record label Static Caravan Recordings.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Psychedelic folk musician Alison O'Donnell is signed with Deram Records and Static Caravan Recordings. London is also the location of Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell is a psychedelic folk musician and recorded on the record label, Static Caravan Recordings. She records with Deram Records, which is based in London.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " genre ",
+   "subject": " Psychedelic_folk"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Psychedelic_folk"
+       },
+       {
+       "object": "Alison_O'Donnell ",
+       "property": " genre ",
+       "subject": " Psychedelic_folk"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id142"
+      }
+},
+{
+   24: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Irish folk musician, Alison O'Donnell, was once signed to the record label Fruits de Mer Records. Her record label is Deram Records which is based in London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell, who performs folk music of Ireland, has been signed the record labels Fruits de Mer Records and London based Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell plays Folk Music of Ireland and is signed with Deram Records which is in London. Another label she records with is Fruits de Mer Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alison_O'Donnell ",
+   "property": " recordLabel ",
+   "subject": " Deram_Records"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alison_O'Donnell ",
+     "property": " recordLabel ",
+     "subject": " Deram_Records"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id143"
+      }
+},
+{
+   25: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Hip hop music originates from funk and lends itself to drum and bass. Singer Allen Forrest is considered hip hop.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Singer Allen Forrest is a Hip hop musician. Hip Hop comes from funk and gives itself to drum and bass.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Solo singer Allen Forrest plays hip hop music. The genre derived from funk music and in turn helped spin-off drum and bass.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Hip_hop_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Hip_hop_music"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Hip_hop_music"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id146"
+      }
+},
+{
+   26: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest was born in Dothan, Alabama in 1981. He specialized as a solo singer in hip hop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in 1981 in Dothan, Alabama, the solo singer Allen Forrest is a performer of hip hop music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest was born in Dothan, Alabama in 1981.He is a solo singer and performs hip hop music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Hip_hop_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allen_Forrest ",
+     "property": " genre ",
+     "subject": " Hip_hop_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id147"
+      }
+},
+{
+   27: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest is a solo singer that plays rhythm and blues music. That music genre comes from blues music and disco music is derived from that also.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest, whose musical genre is Rhythm and Blues. is a solo singer. Rhythm and blues originated from blues music and has disco as a derivative.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Solo singer, Allen Forrest, performs rhythm and blues music. The genre which originated from the blues and which has disco as a derivative.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id148"
+      }
+},
+{
+   28: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Allen Forrest was born 1981 in Fort Campbell, KY and raised in Dothan, AL.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Fort Campbell, KY (1981) and raised in Dothan, AL, Allen Forrest, whose genre is rhythm and blues, is a solo singer.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Allen Forrest was born 1981 in Fort Campbell, Kentucky and raised in Dothan, Alabama.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id149"
+      }
+},
+{
+   29: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and Blues singer Allen Forrest was born 1981 in Dothan, Alabama.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest was born in Dothan, Alabama in 1981.He was originally a solo singer and performs rhythm and blues music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest was born in 1981, in Dothan, Alabama. Originally a solo singer, his musical genre is Rhythm and Blues.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id150"
+      }
+},
+{
+   30: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest's Allen Forrest was born in Fort Campbell, in 1981. He is a solo singer whose genre of music is Rhythm and Blues.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues musician and singer Allen Forrest was born in Fort Campbell, 1981.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in 1981, in Fort Campbell, Allen Forrest, whose genre is Rhythm and Blues, was originally a solo singer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Allen_Forrest ",
+     "property": " genre ",
+     "subject": " Rhythm_and_blues"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id151"
+      }
+},
+{
+   31: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues singer Allen Forrest is a solo performer. R and B came from the blues and later gave rise to funk.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Solo singer Allen Forrest performs rhythm and blues music, of which a derivative is funk. Rhythm and blues originated from the blues.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest performs rhythm and blues music, a genre that originated from blues music and has funk as a derivative. Forrest has a background as a solo singer.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id152"
+      }
+},
+{
+   32: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest performs rhythm and blues music, a genre that originated from blues music. Funk and disco are derivatives of rhythm and blues.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest's genre of music is Rhythm and Blues which originated from the blues. Both disco and funk are derivatives of rhythm and blues.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest performs rhythm and blues music which originated from blues music. Funk and disco are both derivatives of rhythm and blues.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Allen_Forrest ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       },
+       {
+       "object": "Allen_Forrest ",
+       "property": " genre ",
+       "subject": " Rhythm_and_blues"
+       }
+     ]
+     },
+   "shape": "(X (X (X) (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id153"
+      }
+},
+{
+   33: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is signed to the record label Okeh Records and the record label 'which Alligator Records', is located in Chicago. Alligator Records main genre of music is the blues.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is signed to Chicago's blues label, Alligator Records and Okeh Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "While signed to the record label Okeh Records, Anders Osborne is also with Chicago based alligator records which specializes in blues music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alligator_Records ",
+   "property": " genre ",
+   "subject": " Blues"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Alligator_Records ",
+     "property": " genre ",
+     "subject": " Blues"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id154"
+      }
+},
+{
+   34: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Blues artist Anders Osborne resides in Chicago and is signed with Rabadash Records. Osborne was with 'Alligator Records".",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Blues artist Anders Osborne has been signed to the record label Rabadash Records and also to Chicago based Alligator Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a blues artist who signed to Alligator Records which is located in Chicago. He also signed to Rabadash Records music label.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alligator_Records ",
+   "property": " location ",
+   "subject": " Chicago"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       },
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id155"
+      }
+},
+{
+   35: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne's record label is Alligator Records, which is located in Chicago. He plays rock music and recorded with Okeh Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The rock musician Anders Osborne's record label is Chicago based Alligator Records. He is also signed to Okeh records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock musician Anders Osborne's record label is the Chicago based Alligator records. He is signed to the Okeh Records record label.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       },
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id169"
+      }
+},
+{
+   36: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anders Osborne was signed to the Chicago based record label, Alligator Records. His genre is rock music and his record label is Shanachie Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne’s musical genre is rock music and his record label is Alligator Records which is based in Chicago. He was also signed to the Shanachie Records label.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anders Osborne is a rock musician who was signed to the Chicago-located Alligator Records. His current record label is Shanachie Records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anders_Osborne ",
+   "property": " recordLabel ",
+   "subject": " Alligator_Records"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Anders_Osborne ",
+       "property": " recordLabel ",
+       "subject": " Alligator_Records"
+       },
+       {
+       "object": "Alligator_Records ",
+       "property": " location ",
+       "subject": " Chicago"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id170"
+      }
+},
+{
+   37: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Solo Dance-pop singer Andra was born in Câmpia Turzii.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dance pop solo singer Andra was born in Câmpia Turzii.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The singer Andra is a solo singer with a genre of Dance-pop music. She was born in Câmpia Turzii.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " background ",
+   "subject": " "solo_singer""
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andra_(singer) ",
+       "property": " background ",
+       "subject": " "solo_singer""
+       },
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Dance-pop"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id171"
+      }
+},
+{
+   38: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andra was born in Câmpia, Turzii and is a singer and reality tv judge. She did dance pop and began as a solo singer.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Dance pop singer and reality television judge Andra was born in Câmpia Turzii.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Born in Câmpia Turzii, Andra is a solo singer who performs in the musical genre of dance-pop. She has also worked as a reality TV judge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Dance-pop"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Dance-pop"
+       },
+       {
+       "object": "Andra_(singer) ",
+       "property": " background ",
+       "subject": " "solo_singer""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id172"
+      }
+},
+{
+   39: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andra was born in Romania and began her career as a solo singer, making a living as a reality TV judge and a singer of Dance pop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra is a solo singer who was born in the Romania. She is a singer and reality TV judge and uses the musical genre of dance pop.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Romanian solo singer Andra performs dance-pop music and has worked as a reality TV judge.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Dance-pop"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andra_(singer) ",
+       "property": " genre ",
+       "subject": " Dance-pop"
+       },
+       {
+       "object": "Andra_(singer) ",
+       "property": " background ",
+       "subject": " "solo_singer""
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id173"
+      }
+},
+{
+   40: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rhythm and blues performer Andra became active in 2000. R and B originated from the blues and in turn helped create disco.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The singer called Andra, whose genre is Rhythm and blues, became active in the year 2000. Disco is a derivative of rhythm and blues which intern was originated from blues music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andra is a rhythm and blues singer who became active in 2000. R and B originated from the Blues and years later helped give rise to Disco.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andra_(singer) ",
+   "property": " genre ",
+   "subject": " Rhythm_and_blues"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andra_(singer) ",
+     "property": " genre ",
+     "subject": " Rhythm_and_blues"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id174"
+      }
+},
+{
+   41: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Trance music performer Andrew Rayel is associated with musical artists Jwaydan Moyine and Bobina. Pop music helped give rise to Trance.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has performed the genre of Trance music which has its stylistic origins in pop music. He is is associated with the musicians Jwaydan Moyine and Bobina.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with the musician Jwaydan Moyine and the musical artist, Bobina. His musical genre is Trance, which has its origins in Pop music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id187"
+      }
+},
+{
+   42: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel plays Trance music and is associated with musicians, Jwaydan Moyine and Christian Burns. Trance music gets its origins from pop music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with the musicians Jwaydan Moyine and Christian Burns. The musical genre of Andrew Rayel is trance music, which has its stylistic origins in pop music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with the musician Jwaydan Moyine and with Christian Burns. His musical genre is Trance which has its origins in Pop music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id188"
+      }
+},
+{
+   43: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Trance musician Andrew Rayel began in 2009 and is associated with artists Jonathan Mendelsohn and Jwaydan Moyine.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The musical genre of Andrew Rayel is trance music and he started his career in 2009.Andrew Rayel is associated with the musicians Jwaydan Moyine and Jonathan Mendelsohn.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Trance musician Andrew Rayel, who began his career in 2009, has worked with Jwaydan Moyine and Jonathan Mendelsohn.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id189"
+      }
+},
+{
+   44: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel, who plays Trance music, a type of music that originated from house music, is an associate of musician Jwaydan Moyine and musical artist John Digweed.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The musical genre of Andrew Rayel is trance, which is originated from house music. Andrew Rayel is associated with the musician Jwaydan Moyine, who is connected with John Digweed.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has performed the genre of Trance music which has its origins in House music. Andrew Rayel is associated with the musician Jwaydan Moyine, who in turn, is associated with the musical artist John Digweed.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id193"
+      }
+},
+{
+   45: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Originating from house music, Trance, is the musical genre of Andrew Rayel, who is associated with musicians, Jwaydan Moyine and Bobina.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel performs Trance music which has its origins in House music. Mr. Rayel is associated with Bobina and Jwaydan Moyine, musician.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_Rayel ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Jwaydan_Moyine"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_Rayel ",
+     "property": " associatedMusicalArtist ",
+     "subject": " Jwaydan_Moyine"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id194"
+      }
+},
+{
+   46: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The band Kaiser Chiefs included the member Andrew White, whose genre is alternative rock. Nu metal is a music fusion genre of alternative rock, whose stylistic origin is punk rock.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alternative rock musician Andrew White is a member of the Kaiser Chiefs. Alternative rock originates from punk rock and it is a fusion with Nu metal.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White plays alternative rock for the Kaiser Chiefs band. Alternative rock originated with Punk rock and Nu metal is a fusion of alternative rock music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Alternative_rock ",
+       "property": " musicFusionGenre ",
+       "subject": " Nu_metal"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id195"
+      }
+},
+{
+   47: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The musical genre of Kaiser Chiefs band member, Andrew White, is alternative rock. Nu metal is a music fusion genre of alternative rock which comes from new wave music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alternative rock musician Andrew White is a member of The Kaiser Chiefs. Nu metal is derived from Alternative rock, which originates from New Wave music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alternative rock performer Andrew White plays for the band Kaiser Chiefs. Alternative rock can be traced back to New Wave music and later the genre helped give rise to Nu Metal.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Andrew_White_(musician) ",
+     "property": " associatedBand ",
+     "subject": " Kaiser_Chiefs"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id196"
+      }
+},
+{
+   48: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Kaiser Chiefs musician Andrew White began his career in 2003 and was a member of Marry Banilow. He is signed to B-Unique Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Beginning his career in 2003, musician Andrew White, (signed to B-Unique Records), has worked with Marry Banilow and is a member of the band Kaiser Chiefs.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The band Kaiser Chiefs included the musician Andrew White who started his musical career in 2003. He is associated with the musical artist Marry Banilow and is signed to the record label B-Unique records.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id197"
+      }
+},
+{
+   49: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew White started his musical career in 2003. He plays for the band Kaiser Chiefs and was signed to the label Fiction. He is associated with Marry Banilow.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The musician, Andrew White, who began his musical career in 2003, is associated with the musical artist, Marry Banilow. He plays for the band Kaiser Chiefs and is signed to the record label Fiction.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White started his career in 2003. Andrew White is in the band Kaiser Chiefs and his record label is Fiction. He is associated with the musical artist Marry Banilow.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Andrew_White_(musician) ",
+   "property": " associatedBand/associatedMusicalArtist ",
+   "subject": " Kaiser_Chiefs"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Kaiser_Chiefs"
+       },
+       {
+       "object": "Andrew_White_(musician) ",
+       "property": " associatedBand ",
+       "subject": " Marry_Banilow"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X) (X))",
+   "shape_type": "sibling",
+   "size": "4",
+   "xml_id": "Id198"
+      }
+},
+{
+   50: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and Christian Burns, who performs house music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with artists :Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. House music ig the genre of Christian Burns.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. He is also an associate of Christian Burns who performs house music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " genre ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id202"
+      }
+},
+{
+   51: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns is a performer of house music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns plays House Music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and House music exponent, Christian Burns.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " genre ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id203"
+      }
+},
+{
+   52: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with quite a few musical artists including Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan Moyine and Alexander Popov. Other associates are, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi and Christian Burns who performs house music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with the following artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi and House musician, Christian Burns.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and musician Jwaydan Moyine and Christian Burns, whose musical genre is house music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Christian_Burns ",
+     "property": " genre ",
+     "subject": " House_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id204"
+      }
+},
+{
+   53: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with the musicians Jwaydan Moyine and Christian Burns, the latter of which is a house music performer. Jwaydan Moyine has worked with the musical artist John Digweed.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Christian Burns musical genre is house music and Andrew Rayel is associated with him. Andrew Rayel is associated with Jwaydan Moyine who is associated with John Digweed.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew Rayel is associated with musical talents: Jwaydan Moyine, John Digweed and House musician Christian Burns.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Christian_Burns ",
+   "property": " genre ",
+   "subject": " House_music"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Christian_Burns ",
+       "property": " genre ",
+       "subject": " House_music"
+       },
+       {
+       "object": "Andrew_Rayel ",
+       "property": " associatedMusicalArtist ",
+       "subject": " Jwaydan_Moyine"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id205"
+      }
+},
+{
+   54: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell records with London based, Deram Records (Pop label) and is signed with Static Caravan Recordings.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alison O'Donnell was signed with pop label Deram Records and is currently with Static Caravan Recordings. London is home to Deram Records.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Pop musician Alison O'Donnell is signed with both London-based record label Deram Records and Static Caravan Recordings.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Deram_Records ",
+   "property": " genre ",
+   "subject": " Pop_music"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Deram_Records ",
+     "property": " genre ",
+     "subject": " Pop_music"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id206"
+      }
+},
+{
+   55: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Allen Forrest is a solo singer whose genre is hip hop music, which originates from Disco. A derivative of hip hop is drum and bass.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Originally a solo singer, Allen Forrest performs hip hop music. The genre which has its origins in Disco and is where Drum and bass derives from.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Allen Forrest was originally a solo singer and performs hip hop music. The stylistic origin of hip hop music is disco and drum and bass derives its sounds from it.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Hip_hop_music ",
+   "property": " stylisticOrigin ",
+   "subject": " Disco"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Hip_hop_music ",
+     "property": " stylisticOrigin ",
+     "subject": " Disco"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id207"
+      }
+},
+{
+   56: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, in London, which led by Boris Johnson and governed by the Greater London Authority.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London where Boris Johnson is a leader and it is governed by the Greater London Authority.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London, which is led by Boris Johnson and governed by the Greater London Authority.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " governingBody ",
+   "subject": " Greater_London_Authority"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " governingBody ",
+     "subject": " Greater_London_Authority"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id208"
+      }
+},
+{
+   57: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The place of the death of Alfred Garth Jones was Sidcup, London whose leader is the European parliament and is governed by the authority of Greater London.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London, which is led by the European Parliament and governed by the Greater London Authority.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, in London. European Parliament is the leader of London where the governing body is the Greater London Authority.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " governingBody ",
+   "subject": " Greater_London_Authority"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " governingBody ",
+     "subject": " Greater_London_Authority"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id209"
+      }
+},
+{
+   58: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London, where Boris Johnson is a leader and it is led by the Parliament of the United Kingdom.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Boris Johnson and the Parliament of the United Kingdom lead London, the city where Alfred Garth Jones died, in Sidcup.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died Sidcup, in London, the city led by Boris Johnson and governed by the Parliament of the U.K.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " leaderTitle ",
+   "subject": " Parliament_of_the_United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " leaderTitle ",
+     "subject": " Parliament_of_the_United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id210"
+      }
+},
+{
+   59: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London. London is governed by the Parliament of the U.K and the Greater London Authority.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London which is governed by the Parliament of the U.K. and the Greater London Authority.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfred Garth Jones died in Sidcup, London. The Greater London Authority govern the city, which is led by the Parliament.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "London ",
+   "property": " leaderTitle ",
+   "subject": " Parliament_of_the_United_Kingdom"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "London ",
+     "property": " leaderTitle ",
+     "subject": " Parliament_of_the_United_Kingdom"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id211"
+      }
+},
+{
+   60: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birth place of Agustin Barboza is Asuncion, Paraguay. The leader of Paraguay is Juan Afara and an ethnic group is the Mestizo people.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Agustín Barboza was born in Asunción, in Paraguay. The country where the Mestizo people are an ethnic group and where the leader is, Juan Afara.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Agustin Barbozawas born in Asuncion, Paraguay. The Mestizo people are an ethnic group of, Juan Afara led, Paraguay.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Paraguay ",
+   "property": " ethnicGroup ",
+   "subject": " Mestizo"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Agustín_Barboza ",
+       "property": " placeOfBirth ",
+       "subject": " Paraguay"
+       },
+       {
+       "object": "Paraguay ",
+       "property": " ethnicGroup ",
+       "subject": " Mestizo"
+       }
+     ]
+     },
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id212"
+      }
+},
+{
+   61: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Polydor records are located in London. Nu metal is a music fusion genre of alternative rock that the musician Andrew White plays. Andrew White is signed to Polydor Records.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Andrew White plays alternative rock and signed with Polydor Records in London. Nu metal music is a fusion of alternative rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The musician Andrew White is signed to London based Polydor Records. He is a performer of alternative rock, of which nu metal is a fusion genre.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Polydor_Records ",
+   "property": " location ",
+   "subject": " London"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Polydor_Records ",
+       "property": " location ",
+       "subject": " London"
+       },
+       {
+       "object": "Polydor_Records ",
+       "property": " location ",
+       "subject": " London"
+       }
+     ]
+     },
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id213"
+      }
+},
+{
+   62: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Having played with the band, Twilight, Aaron Turner, performs for Mamiffer. He plays Post-metal, one of the instruments associated with it, is the cello.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner's genre is post-metal in which the instrument is Cello. He performs for Mamiffer and played with the band Twilight.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is a performer of the musical genre Post metal which uses the cello. He played with Twilight and currently is a member of the Mamiffer band.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id219"
+      }
+},
+{
+   63: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Aaron Turner is a performer of the musical genre post metal which has the cello as an instrument. He played for old Man gloom and for the band Twilight.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner, who has played for the bands Twilight and Old Man Gloom, performs the genre post-metal, which sometimes uses the cello.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner performed with the post-metal bands Twilight and Old Man Gloom. Cello is a post-metal instrument.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id220"
+      }
+},
+{
+   64: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Post-metal (which involves the Cello) artist Aaron Turner is associated with Twilight and Sumac.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner played post- metal music with Twilight and Sumac bands. The cello is a post-metal music instrument.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Aaron Turner performs post-metal music with the Twilight band. He also played with the Sumac band. Cello is a post- metal instrument.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Post-metal ",
+   "property": " instrument ",
+   "subject": " Cello"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Post-metal ",
+     "property": " instrument ",
+     "subject": " Cello"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id221"
+      }
+},
+{
+   65: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The music Bhangra is part of the fusion genre, partly coming from Rock music. Previously a member of The Wildweeds, Al Anderson, plays the guitar. He is a member of the band NRBQ, which performs rock music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Guitarist Al Anderson has been a member of the band The Wildweeds and now plays for NRBQ. His genre is rock music, which has a musical fusion called bhangra.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson, a guitarist, once played with The Wildweeds but now is in the NRBQ rock band. Bhangra music is a fusion genre part coming from rock music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id222"
+      }
+},
+{
+   66: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Rock singer Al Anderson, of the band NRBQ, once played once with The Wildweeds. One of the fusion genres of rock is Bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "NRBQ rock musician Al Anderson was with The Wildweeds. Bhangra is a fusion of rock music.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Former The Wildweeds band member, Al Anderson, is a singer in the band NRBQ which performs rock music. A musical fusion of rock music is bhangra music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id223"
+      }
+},
+{
+   67: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays the guitar in the NRBQ band which plays Rock music. This genre originated from blues music and is partly originating the source of the fusion genre, Bhangra.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The music Bhangra is part of the fusion genre, partly coming from Rock music. Guitarist Al Anderson plays rock music in the NRBQ and the style has its origins in Blues.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson plays the guitar for the rock band NRBQ. Blues has its origins in rock music and Bhangra music is considered a musical fusion of rock.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id224"
+      }
+},
+{
+   68: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "AI Anderson from the band NRBQ plays the guitar and performs rock music. Rock music originated from country music, and a musical fusion of rock music is bhangra music.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Al Anderson is a Rock musician and member of NRBQ; he plays guitar. Rock music has origins in Country music and Fusion (includes Bhangra) has its base in Rock.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Rock musician Al Anderson plays guitar in the band NRBQ. A musical fusion of rock music (which originated from country music) is bhangra music.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Rock_music ",
+   "property": " musicFusionGenre ",
+   "subject": " Bhangra_(music)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Rock_music ",
+     "property": " musicFusionGenre ",
+     "subject": " Bhangra_(music)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id225"
+      }
+},
+{
+   69: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa passed away in Montevideo, the capital of Uruguay. The inhabitants of the country are called Uruguayans and Raúl Fernando Sendic Rodríguez is a leader there.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Uruguayans are the people of Uruguay, which is the place of birth for Alfredo Zitarrosa, in Montevideo. The Uruguay leader is Raúl Fernando Sendic Rodríguez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo in Uruguay. The leader of Uruguay is Raul Fernando Sendic Rodriguez and the people that live there are called Uruguayans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Raúl_Fernando_Sendic_Rodríguez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Uruguay ",
+     "property": " leaderName ",
+     "subject": " Raúl_Fernando_Sendic_Rodríguez"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id235"
+      }
+},
+{
+   70: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Montevideo in Uruguay whose leader is Raul Fernando Sendic Rodriguez. The leader of Montevideo is Daniel Martínez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The birthplace of Alfredo Zitarrosa is Montevideo, Uruguay. The country's leader is Raúl Fernando Sendic Rodríguez while the city is led by Daniel Martinez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Martinez the leader of Montevideo which is the capital of Uruguay, whose leader is Raúl Fernando Sendic Rodríguez. Montevideo is the birth place of Alfredo Zitarrosa.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Raúl_Fernando_Sendic_Rodríguez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Uruguay ",
+     "property": " leader ",
+     "subject": " Raúl_Fernando_Sendic_Rodríguez"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id236"
+      }
+},
+{
+   71: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "The birth place of Alfredo Zitarrosa is Montevideo, in Uruguay, the leaders of which are, Tabare Vazquez and Raul Fernando Sendic Rodriguez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Montevideo, Uruguay. Leaders of Uruguay include Tabaré Vázquez and Raúl Fernando Sendic Rodríguez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Montevideo, in Uruguay, the leaders of which, are, Tabaré Vázquez and Raúl Fernando Sendic Rodríguez.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Raúl_Fernando_Sendic_Rodríguez"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Tabaré_Vázquez"
+       },
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Raúl_Fernando_Sendic_Rodríguez"
+       }
+     ]
+     },
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id237"
+      }
+},
+{
+   72: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Politician Daniel Martínez is the leader of Montevideo, where Alfredo Zitarrosa died. Montevideo is in Uruguay, the leader of which, is Tabaré Vázquez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo, the leader of which, is Daniel Martinez. Montevideo is in Uruguay which is led by Tabaré Vázquez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Daniel Martinez is a political leader in Montevideo which is where Alfredo Zitarrosa died. Montevideo is in the country of Uruguay, the leader of which, is Tabaré Vázquez.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Tabaré_Vázquez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Uruguay ",
+     "property": " leader ",
+     "subject": " Tabaré_Vázquez"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id238"
+      }
+},
+{
+   73: {
+      "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Montevideo is the birth place of Alfredo Zitarrosa, where Daniel Martinez is the leader. Montevideo is the capital of Uruguay and the country's leader is Tabaré Vázquez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Daniel Martinez and Tabaré Vázquez led Montevideo, Uruguay.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa was born in Montevideo in Uruguay whose leader is Tabare Vazquez. Another political leader in Montevideo is Daniel Martinez.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Tabaré_Vázquez"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Uruguay ",
+     "property": " leader ",
+     "subject": " Tabaré_Vázquez"
+     }
+     ]
+   ],
+   "shape": "(X (X (X) (X (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id239"
+      }
+},
+{
+   74: {
+   "category": "Artist",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo, in Uruguay, the leaders of which, are Raúl Fernando Sendic Rodríguez and Tabaré Vázquez.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alfredo Zitarrosa died in Montevideo, Uruguay which is led by Raúl Fernando Sendic Rodríguez and Tabaré Vázquez.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The leaders of Uruguay is Raul Fernando Sendic Rodriguez and Tabaré Vázquez. Montevideo is in the country of Uruguay and Alfredo Zitarrosa passed away in that city.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Uruguay ",
+   "property": " leaderName ",
+   "subject": " Tabaré_Vázquez"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Tabaré_Vázquez"
+       },
+       {
+       "object": "Uruguay ",
+       "property": " leader ",
+       "subject": " Raúl_Fernando_Sendic_Rodríguez"
+       }
+     ]
+     },
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id240"
+      }
+}

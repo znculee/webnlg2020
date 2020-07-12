@@ -1,0 +1,284 @@
+{
+   1: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia, is located within the United States, where English is one of the spoken languages. Native Americans are one of the ethnic groups in the United States of America.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany, Georgia, is in the United States, where English is spoken, and, where Native Americans are one of the ethnic groups.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Albany is part of the state of Georgia in the United States. The country uses the English language and includes the ethnic group of Native Americans.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Albany,_Georgia ",
+   "property": " isPartOf ",
+   "subject": " Georgia_(U.S._state)"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Albany,_Georgia ",
+     "property": " subdivisionName ",
+     "subject": " Georgia_(U.S._state)"
+     }
+     ]
+   ],
+   "shape": "(X (X) (X (X) (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id1"
+      }
+},
+{
+   2: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Alpharetta, Fulton County, Georgia is located within the United States. Atlanta is the county seat of Fulton County.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Alpharetta is part of Fulton County in Georgia (United States), where Atlanta is the county seat.",
+   "xml_id": "Id2"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Alpharetta,_Georgia ",
+   "property": " country ",
+   "subject": " United_States"
+   }
+   ],
+   "originaltriplesets" :{
+     originaltripleset :[
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " country ",
+       "subject": " United_States"
+       },
+       {
+       "object": "Alpharetta,_Georgia ",
+       "property": " country ",
+       "subject": " United_States"
+       }
+     ]
+     },
+   "shape": "(X (X) (X) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id2"
+      }
+},
+{
+   3: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Washington DC is the capital of the United States, where African Americans are an ethnic group. The US is also where you will find Amarillo, which is part of Potter County in Texas.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo is part of Potter County, Texas in the United States. African Americans are an ethnic group in the United States whose capital is Washington, D.C.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Amarillo is part of Potter County in Texas in the U.S. Washington, D.C. is the U.S. capital and African Americans are an ethnic group in that country.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Amarillo,_Texas ",
+   "property": " isPartOf ",
+   "subject": " Potter_County,_Texas"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Amarillo,_Texas ",
+     "property": " isPartOf ",
+     "subject": " Potter_County,_Texas"
+     }
+     ]
+   ],
+   "shape": "(X (X (X (X) (X))))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id3"
+      }
+},
+{
+   4: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is in California which is led by the California State Assembly found in the California State Capitol. Spanish is spoken in that state.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "California is led by the California State Assembly (location: State Capitol), is Spanish speaking and is a location of Anaheim.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Part of California (where Spanish is spoken), Anaheim, is led by the California State Assembly, in the California State Capitol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "Anaheim,_California ",
+   "property": " leaderTitle ",
+   "subject": " California_State_Assembly"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "Anaheim,_California ",
+     "property": " leaderTitle ",
+     "subject": " California_State_Assembly"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id4"
+      }
+},
+{
+   5: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "In the United States, the United States House of Representatives leads Anaheim, California, where English is spoken.",
+   "xml_id": "Id1"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id130"
+      }
+},
+{
+   6: {
+      "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim, California is led by the United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives, which is in the U.S. Capitol, leads Anaheim, California where English is spoken.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "The United States House of Representatives, located at the United States Capitol, leads Anaheim, California, where English is spoken.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id131"
+      }
+},
+{
+   7: {
+   "category": "City",
+   "lexicalizations" :[
+   {
+   "comment": "good",
+   "lex": "Anaheim is part of California which is led by the California State Assembly located at the California State Capitol. English is spoken in that state.",
+   "xml_id": "Id1"
+   },
+   {
+   "comment": "good",
+   "lex": "California, which is the location of Anaheim, uses the English language. Anaheim is led by the California State Assembly in the State Capitol.",
+   "xml_id": "Id2"
+   },
+   {
+   "comment": "good",
+   "lex": "Anaheim, California (English speaking), is led by the California State Assembly, which is located at the California State Capitol.",
+   "xml_id": "Id3"
+   }
+   ],
+   "modifiedtripleset" :[
+   {
+   "object": "California ",
+   "property": " language ",
+   "subject": " English_language"
+   }
+   ],
+   "originaltriplesets" :[
+     "originaltripleset" :[
+     {
+     "object": "California ",
+     "property": " language ",
+     "subject": " English_language"
+     }
+     ]
+   ],
+   "shape": "(X (X (X)) (X (X)))",
+   "shape_type": "mixed",
+   "size": "4",
+   "xml_id": "Id132"
+      }
+}
