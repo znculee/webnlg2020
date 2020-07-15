@@ -4,7 +4,7 @@ cd $(dirname $0)/..
 
 export CUDA_VISIBLE_DEVICES=0
 TMPDIR=/tmp
-data=v2.1_constr
+data=v2_1
 model=lstm
 SAVEDIR=checkpoints/$data.$model
 

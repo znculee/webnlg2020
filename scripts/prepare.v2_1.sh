@@ -2,14 +2,14 @@
 
 cd $(dirname $0)/..
 
-orig=data/v2.1_constr
-prep=data-prep/v2.1_constr
+orig=data/v2_1
+prep=data-prep/v2_1
 
 mkdir -p $prep
 
 for split in train dev test; do
   echo "preparing $split.tsv"
-  file=$orig/webnlg_release_v2.1_constrained_$split.json
+  file=$orig/webnlg_release_v2.1_$split.json
   out=$prep/$split.tsv
   cp /dev/null $out
   total=$(jq '.entries|length' $file)
