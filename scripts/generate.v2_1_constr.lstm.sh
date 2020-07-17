@@ -11,7 +11,7 @@ testpfx=test
 gen=gen.txt
 
 fairseq-generate data-prep/$data \
-  --gen-subset $testpfx \
+  --gen-subset $testpfx.uniq \
   --path $SAVEDIR/checkpoint_best.pt \
   --dataset-impl raw \
   --max-sentences 128 \
@@ -19,4 +19,4 @@ fairseq-generate data-prep/$data \
   --max-len-a 2 --max-len-b 200 \
   > $SAVEDIR/$gen
 
-bash scripts/measure_scores.sh $SAVEDIR/$gen data-prep/$data/$testpfx.mr-lx.lx
+bash scripts/measure_scores.sh $SAVEDIR/$gen data-prep/$data/$testpfx.mref.mr-lx.lx

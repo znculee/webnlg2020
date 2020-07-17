@@ -5,6 +5,9 @@ cd $(dirname $0)/..
 orig=data/2017_v1_5
 prep=data-prep/2017_v1_5
 
+src=mr
+tgt=lx
+
 mkdir -p $prep
 
 for split in train dev test; do
@@ -39,15 +42,13 @@ for split in train dev test; do
   done
 done
 
-for split in train dev test; do
+for split in train dev; do
   echo "preparing $split.shuf.tsv"
   inp=$prep/$split.tsv
   out=$prep/$split.shuf.tsv
   shuf $inp > $out
 done
 
-src=mr
-tgt=lx
 echo "preparing train.$src and train.$tgt"
 awk -F '\t' '{print $2}' $prep/train.shuf.tsv > $prep/train.$src
 awk -F '\t' '{print $3}' $prep/train.shuf.tsv > $prep/train.$tgt
@@ -55,11 +56,10 @@ echo "preparing valid.$src and valid.$tgt"
 awk -F '\t' '{print $2}' $prep/dev.shuf.tsv   > $prep/valid.$src
 awk -F '\t' '{print $3}' $prep/dev.shuf.tsv   > $prep/valid.$tgt
 echo "preparing test.$src and test.$tgt"
-awk -F '\t' '{print $2}' $prep/test.shuf.tsv  > $prep/test.$src
-awk -F '\t' '{print $3}' $prep/test.shuf.tsv  > $prep/test.$tgt
+awk -F '\t' '{print $1}' $prep/test.tsv  > $prep/test.id
+awk -F '\t' '{print $2}' $prep/test.tsv  > $prep/test.$src
+awk -F '\t' '{print $3}' $prep/test.tsv  > $prep/test.$tgt
 
-src=mr
-tgt=lx
 tokenizer=mosesdecoder/scripts/tokenizer/tokenizer.perl
 for split in train valid test; do
   echo "preparing $split.tok.$src and $split.tok.$tgt"
@@ -70,11 +70,17 @@ for split in train valid test; do
   done
 done
 
-src=mr
-tgt=lx
 echo "fairseq-proprecessing"
 fairseq-preprocess \
   --source-lang $src --target-lang $tgt \
   --trainpref $prep/train.tok --validpref $prep/valid.tok --testpref $prep/test.tok \
   --destdir $prep \
   --dataset-impl raw
+
+echo "preparing test.uniq.$src-$tgt.$src and test.mref.$src-$tgt.$tgt"
+paste $prep/test.id $prep/test.$src-$tgt.$src | \
+  awk -F '\t' '!id[$1]++{print $2}' \
+  > $prep/test.uniq.$src-$tgt.$src
+paste $prep/test.id $prep/test.$src-$tgt.$tgt | \
+  awk -F '\t' '{if(NR>1&&$1!=id){printf "\n";} id=$1; print $2}' \
+  > $prep/test.mref.$src-$tgt.$tgt
