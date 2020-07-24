@@ -30,9 +30,9 @@ for split in train dev test; do
       sed 's/^"//;s/"$//' | \
       sed 's/\\"//g' | \
       sed 's/_/ /g' | \
-      awk -F '|' '{print $1,"__property_start__",$2,"__property_end__",$3}' | \
+      awk -F '|' '{print "__subject__",$1,"__predicate__",$2,"__object__",$3}' | \
       awk '{$1=$1;print}' | \
-      awk 'BEGIN{ORS=" __triple__ "} y{print s} {s=$0;y=1} END{ORS="";print s}')
+      awk 'BEGIN{ORS=" "} y{print s} {s=$0;y=1} END{ORS="";print s}')
     lxs=$(echo "$item" | jq '.lex[]."text"' | sed 's/^"//;s/"$//' | sed 's/\\"//g')
     num_lxs=$(echo "$lxs" | wc -l)
     paste \

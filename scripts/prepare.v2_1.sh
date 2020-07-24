@@ -23,11 +23,13 @@ for split in train dev test; do
     shape=$(echo "$item" | jq '.shape' | sed 's/^"//;s/"$//')
     shapetype=$(echo "$item" | jq '.shape_type' | sed 's/^"//;s/"$//')
     mr=$(echo "$item" | \
-      jq '.modifiedtripleset[]|"\(.subject) __property_start__ \(.property) __property_end__ \(.object)"' | \
+      jq '.modifiedtripleset[]|"\(.subject) | \(.property) | \(.object)"' | \
       sed 's/^"//;s/"$//' | \
       sed 's/\\"//g' | \
-      perl -pe 's/(?<!_)(?<!__property)_(?!_)/ /g' | \
-      awk 'BEGIN{ORS=" __triple__ "} y{print s} {s=$0;y=1} END{ORS="";print s}')
+      sed 's/_/ /g' | \
+      awk -F '|' '{print "__subject__",$1,"__predicate__",$2,"__object__",$3}' | \
+      awk '{$1=$1;print}' | \
+      awk 'BEGIN{ORS=" "} y{print s} {s=$0;y=1} END{ORS="";print s}')
     lxs=$(echo "$item" | jq '.lexicalisations[]."lex"' | sed 's/^"//;s/"$//' | sed 's/\\"//g')
     num_lxs=$(echo "$lxs" | wc -l)
     paste \
