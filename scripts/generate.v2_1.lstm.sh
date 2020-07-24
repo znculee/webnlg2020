@@ -8,7 +8,7 @@ data=v2_1
 model=lstm
 SAVEDIR=checkpoints/$data.$model
 testpfx=test
-gen=gen.txt
+gen=gen.$testpfx.txt
 
 fairseq-generate data-prep/$data \
   --gen-subset $testpfx.uniq \

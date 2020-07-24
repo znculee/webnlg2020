@@ -7,8 +7,8 @@ TMPDIR=/tmp
 data=2017_v1_5
 model=lstm
 SAVEDIR=checkpoints/$data.$model
-testpfx=test
-gen=gen.txt
+testpfx=test.seen
+gen=gen.$testpfx.txt
 
 fairseq-generate data-prep/$data \
   --gen-subset $testpfx.uniq \
