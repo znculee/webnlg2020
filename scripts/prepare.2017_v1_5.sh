@@ -75,7 +75,7 @@ for split in train valid test; do
   for lang in $src $tgt; do
     inp=$prep/$split.$lang
     out=$prep/$split.tok.$lang
-    perl $tokenizer -threads 8 -l en -protected <(echo "\b__\S+__\b") < $inp > $out
+    perl $tokenizer -threads 8 -l en -protected <(echo "\b__\S+__\b") -no-escape < $inp > $out
   done
 done
 

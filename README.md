@@ -14,3 +14,11 @@ bash scripts/prepare.v2_1_constr.sh
 cp -r https://github.com/ThiagoCF05/webnlg/data/v1.5/en data/2017_v1_5
 bash scripts/prepare.2017_v1_5.sh
 ```
+
+### Fine-tune huggingface/transformers
+
+```bash
+git clone https://github.com/znculee/finetune-transformers.git
+bash scripts/train.2017_v1_5.t5_small.sh
+bash scripts/generate.2017_v1_5.t5_small.sh
+```
