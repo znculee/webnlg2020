@@ -21,11 +21,12 @@ def xml2json(args):
         if not isinstance(entry, dict):
             continue
         mtriple = entry['modifiedtripleset']['mtriple']
-        lex = entry['lex']
         if not isinstance(mtriple, list):
             entry['modifiedtripleset']['mtriple'] = [mtriple]
-        if not isinstance(lex, list):
-            json_data['entries'][idx]['lex'] = [lex]
+        if not args.nolex:
+            lex = entry['lex']
+            if not isinstance(lex, list):
+                json_data['entries'][idx]['lex'] = [lex]
         entry.update({'idx': valid_idx})
         entries.append(entry)
         valid_idx += 1
@@ -37,6 +38,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('xml')
     parser.add_argument('json')
+    parser.add_argument('--nolex', action='store_true')
     args = parser.parse_args()
     return args
 
