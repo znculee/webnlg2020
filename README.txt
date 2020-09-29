@@ -1,0 +1,1 @@
+To run the script switch the directories for your files.
