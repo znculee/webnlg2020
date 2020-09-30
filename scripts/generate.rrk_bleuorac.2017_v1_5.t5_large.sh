@@ -31,8 +31,7 @@ beam_repeat () {
 }
 
 # rescoring
-REVMDLDIR=checkpoints/$data.$model.rev
-python scripts/scorer.bleu_oracle.py \
+python scripts/scorer.bleu.mref.py \
   --output-path $(readlink -f $tmp/score) \
   --beam-size $beam_size \
   --hyp $(readlink -f $tmp/hyp) \
