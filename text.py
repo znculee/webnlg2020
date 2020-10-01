@@ -300,9 +300,12 @@ def corpus(file,outfile):
     text = open(file, 'r')
     tex = text.readlines()
     for line in tex:
+        #print(line)
         line = re.split('_(?=subject)', re.sub('\n','',line[1:]))
+        print(line)
         outpt = ''
         for txt in line[1:]:
+            print(txt)
             sect = re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower()
             sect = re.split(',| or ',re.sub('\. |\.|-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
             oect = re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower()
@@ -321,10 +324,11 @@ def corpus(file,outfile):
                             sentence = re.sub(f'subject{e}',f'{sje}',sentence,count=1,flags=re.IGNORECASE)
                         sentence = re.sub('object[0-9]|subject[0-9]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+str(sentence)+' ')
+                        print(outpt)
                         prperties += 1
                     except IndexError:
-                        #print('no string for ' + prperty + ' seen before.')
-                        outpt = outpt+f'[__predicate__ [__subject__ subject0] prperty [__object__ object0]'+' '
+                        print('no string for ' + prperty + ' seen before.')
+                        outpt = outpt+f'[__predicate__ [__subject__ subject0 ] prperty [__object__ object0 ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             for e, p in enumerate(propertylist):
@@ -341,19 +345,21 @@ def corpus(file,outfile):
                             sentence = re.sub(f'subject{e}',sje,sentence,count=1,flags=re.IGNORECASE)
                         sentence = re.sub('object[0-9]|subject[0-9]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+sentence+' ')
+                        print(outpt)
                         prperties += 1
                     except IndexError:
-                        #print('no string for '+prperty+' seen before.')
-                        outpt = outpt + f'[__predicate__ [__subject__ subject0] prperty [__object__ object0]'+' '
+                        print('no string for '+prperty+' seen before.')
+                        outpt = outpt + f'[__predicate__ [__subject__ subject0 ] prperty [__object__ object0 ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             if not re.search(f"'{prperty}'",str(propertylist)) and not re.search(f"'{prperty}'",str(unseenProperies)) and not re.search(f"'{prperty}'",str(unseenProperties)):
-                print('no string for ' + prperty + ' seen before.')
+                print('no string for '+prperty+' seen before.')
                 outpt = outpt+prperty+' '
                 unseenProperties.append(prperty)
             if prperty not in everyprperties:
                 everyprperties.append(prperty)
-        outpt = re.sub('..', '', re.sub('"', '', re.sub('  ', ' ', outpt + '\n')))
+        outpt = re.sub('\.', '', re.sub('\"', '', re.sub('  ', ' ', outpt + '\n')))
+        print(outpt)
         outfisle.write(str(outpt))
     outfisle.close()
     text.close()
@@ -363,7 +369,7 @@ def corpus(file,outfile):
 
 properties(
     '/home/symon/PycharmProjects/WEBNLG/webnlg-dataset/train.json')
-out = open('../trainproperties.txt', 'w')
+out = open('trainproperties.txt', 'w')
 out.write('------------Properties-------------\n')
 for prop in propertylist:
     out.write(str(prop) + '\n')
@@ -374,7 +380,7 @@ out.write('------------Subjects---------------\n')
 for subject in subjects:
     out.write(str(subject) + '\n')
 out.close()
-corpus('/2020_v2_en/train.mr', 'trainskeleton.txt')
+corpus('/home/symon/PycharmProjects/WEBNLG/2020_v2_en/train.mr','trainskeleton.txt')
 properties(
     '/home/symon/PycharmProjects/WEBNLG/webnlg-dataset/dev.json')
 out = open('../traindevproperties.txt', 'w')
@@ -388,8 +394,8 @@ out.write('------------Subjects---------------\n')
 for subject in subjects:
     out.write(str(subject) + '\n')
 out.close()
-corpus('/2020_v2_en/valid.mr', 'devskeleton.txt')
-corpus('/2020_v2_en/test.mr', 'testskeleton.txt')
+corpus('/home/symon/PycharmProjects/WEBNLG/2020_v2_en/valid.mr','devskeleton.txt')
+corpus('/home/symon/PycharmProjects/WEBNLG/2020_v2_en/test.mr','testskeleton.txt')
 print(len(everyprperties))
 print(len([x for x in [e[0] for e in propertylist] if x in everyprperties]))
 print([x for x in everyprperties if x not in [e[0] for e in propertylist]])
