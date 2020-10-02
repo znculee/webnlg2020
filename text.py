@@ -307,10 +307,10 @@ def corpus(file,outfile):
         outpt = ''
         for txt in line[1:]:
             print(txt)
-            sect = re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower()
-            sect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
-            oect = re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower()
-            oect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(oect))))))
+            sect = re.split(',| or ',re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower())
+            #sect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
+            oect = re.split(',| or ',re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower())
+            #oect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(oect))))))
             prperty = re.sub('__predicate__| ', '', re.search('__predicate__.*?(?=_)', unidecode.unidecode(txt)).group())
             prperties = 0
             for e,p in enumerate(unseenProperies):
