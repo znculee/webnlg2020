@@ -222,6 +222,7 @@ def properties(filetext):
                 sen = re.sub(re.escape(complements[1]).lower(),'[__subject__ subject0 ]',sen,count=1,flags=re.IGNORECASE)
             if complements[0] != '':
                 sen = re.sub(re.escape(complements[0]).lower(),'[__object__ object0 ]',sen,count=1,flags=re.IGNORECASE)
+            sen = re.sub('\]\.',']',sen)
             # print(lex.group())
             # print(sen)
             if not re.search('subject.*object|object.*subject', sen):
@@ -328,7 +329,7 @@ def corpus(file,outfile):
                         prperties += 1
                     except IndexError:
                         print('no string for ' + prperty + ' seen before.')
-                        outpt = outpt+f'[__predicate__ [__subject__ subject0 ] {prperty} [__object__ object0 ] ]'+' '
+                        outpt = outpt+f'[__predicate__ [__subject__ {" ".join(sect)} ] {prperty} [__object__ {" ".join(oect)} ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             for e, p in enumerate(propertylist):
@@ -349,7 +350,7 @@ def corpus(file,outfile):
                         prperties += 1
                     except IndexError:
                         print('no string for '+prperty+' seen before.')
-                        outpt = outpt + f'[__predicate__ [__subject__ subject0 ] {prperty} [__object__ object0 ] ]'+' '
+                        outpt = outpt+f'[__predicate__ [__subject__ {" ".join(sect)} ] {prperty} [__object__ {" ".join(oect)} ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             if not re.search(f"'{prperty}'",str(propertylist)) and not re.search(f"'{prperty}'",str(unseenProperies)) and not re.search(f"'{prperty}'",str(unseenProperties)):
@@ -358,9 +359,9 @@ def corpus(file,outfile):
                 unseenProperties.append(prperty)
             if prperty not in everyprperties:
                 everyprperties.append(prperty)
-        outpt = re.sub('\.', '', re.sub('\"', '', re.sub('  ', ' ', outpt + '\n')))
+        outpt = re.sub(' (?!.)','',re.sub('\"', '', re.sub('  ', ' ', outpt + '\n')))
         print(outpt)
-        outfisle.write(re.sub(' (?!.)','',outpt))
+        outfisle.write(outpt)
     outfisle.close()
     text.close()
     #for sle in unseenProperties:
