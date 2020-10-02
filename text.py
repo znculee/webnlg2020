@@ -322,7 +322,7 @@ def corpus(file,outfile):
                             sentence = re.sub(f'object{e}',f'{oje}',sentence,count=1,flags=re.IGNORECASE)
                         for e,sje in enumerate(sect):
                             sentence = re.sub(f'subject{e}',f'{sje}',sentence,count=1,flags=re.IGNORECASE)
-                        sentence = re.sub('object[0-9]|subject[0-9]','',sentence)
+                        sentence = re.sub('\[__object__ object[0-9] \]|\[__subject__ subject[0-9] \]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+str(sentence)+' ')
                         print(outpt)
                         prperties += 1
@@ -343,7 +343,7 @@ def corpus(file,outfile):
                             sentence = re.sub(f'object{e}',oje,sentence,count=1,flags=re.IGNORECASE)
                         for e,sje in enumerate(sect):
                             sentence = re.sub(f'subject{e}',sje,sentence,count=1,flags=re.IGNORECASE)
-                        sentence = re.sub('object[0-9]|subject[0-9]','',sentence)
+                        sentence = re.sub('\[__object__ object[0-9] \]|\[__subject__ subject[0-9] \]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+sentence+' ')
                         print(outpt)
                         prperties += 1
