@@ -307,9 +307,9 @@ def corpus(file,outfile):
         for txt in line[1:]:
             print(txt)
             sect = re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower()
-            sect = re.split(',| or ',re.sub('\. |\.|-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
+            sect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
             oect = re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower()
-            oect = re.split(',| or ',re.sub('\. |\.|-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(oect))))))
+            oect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(oect))))))
             prperty = re.sub('__predicate__| ', '', re.search('__predicate__.*?(?=_)', unidecode.unidecode(txt)).group())
             prperties = 0
             for e,p in enumerate(unseenProperies):
@@ -328,7 +328,7 @@ def corpus(file,outfile):
                         prperties += 1
                     except IndexError:
                         print('no string for ' + prperty + ' seen before.')
-                        outpt = outpt+f'[__predicate__ [__subject__ subject0 ] prperty [__object__ object0 ] ]'+' '
+                        outpt = outpt+f'[__predicate__ [__subject__ subject0 ] {prperty} [__object__ object0 ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             for e, p in enumerate(propertylist):
@@ -349,7 +349,7 @@ def corpus(file,outfile):
                         prperties += 1
                     except IndexError:
                         print('no string for '+prperty+' seen before.')
-                        outpt = outpt + f'[__predicate__ [__subject__ subject0 ] prperty [__object__ object0 ] ]'+' '
+                        outpt = outpt + f'[__predicate__ [__subject__ subject0 ] {prperty} [__object__ object0 ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             if not re.search(f"'{prperty}'",str(propertylist)) and not re.search(f"'{prperty}'",str(unseenProperies)) and not re.search(f"'{prperty}'",str(unseenProperties)):
@@ -360,7 +360,7 @@ def corpus(file,outfile):
                 everyprperties.append(prperty)
         outpt = re.sub('\.', '', re.sub('\"', '', re.sub('  ', ' ', outpt + '\n')))
         print(outpt)
-        outfisle.write(str(outpt))
+        outfisle.write(re.sub(' (?!.)','',outpt))
     outfisle.close()
     text.close()
     #for sle in unseenProperties:
