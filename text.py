@@ -307,8 +307,10 @@ def corpus(file,outfile):
         outpt = ''
         for txt in line[1:]:
             print(txt)
+            #sect = re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower()
             sect = re.split(',| or ',re.sub('subject__', '', re.search('subject__.*?(?=_)', unidecode.unidecode(txt)).group()).lower())
             #sect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(sect))))))
+            #oect = re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower()
             oect = re.split(',| or ',re.sub('object|_', '', re.search('__object__.*', unidecode.unidecode(txt)).group()).lower())
             #oect = re.split(',| or ',re.sub('-', ' ', re.sub('\(.*?\)|:| language|/ ', '',re.sub('_(\(.*?\))?', ' ', re.sub(r'(?<!.) |\\|",?', '', unidecode.unidecode(oect))))))
             prperty = re.sub('__predicate__| ', '', re.search('__predicate__.*?(?=_)', unidecode.unidecode(txt)).group())
@@ -317,19 +319,31 @@ def corpus(file,outfile):
                 if prperties == 1:
                     break
                 elif unseenProperies[e][0] == prperty:
+                    if prperty not in seenProperties:
+                        seenProperties.append(prperty)
                     try:
                         sentence = unseenProperies[e][1]
+                        x = sum(1 for _ in re.finditer('subject[0-9]', sentence))
+                        y = sum(1 for _ in re.finditer('object[0-9]',sentence))
                         for e,oje in enumerate(oect):
-                            sentence = re.sub(f'object{e}',f'{oje}',sentence,count=1,flags=re.IGNORECASE)
+                            if x > 1:
+                                sentence = re.sub(f'object{e}',f'{oje}',sentence,count=1,flags=re.IGNORECASE)
+                            else:
+                                sentence = re.sub('object0', f'{", ".join(oect)}', sentence, count=1, flags=re.IGNORECASE)
+                                break
                         for e,sje in enumerate(sect):
-                            sentence = re.sub(f'subject{e}',f'{sje}',sentence,count=1,flags=re.IGNORECASE)
+                            if y > 1:
+                                sentence = re.sub(f'subject{e}', f'{sje}', sentence, count=1, flags=re.IGNORECASE)
+                            else:
+                                sentence = re.sub('subject0', f'{", ".join(sect)}', sentence, count=1,flags=re.IGNORECASE)
+                                break
                         sentence = re.sub('\[__object__ object[0-9] \]|\[__subject__ subject[0-9] \]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+str(sentence)+' ')
                         print(outpt)
                         prperties += 1
                     except IndexError:
                         print('no string for ' + prperty + ' seen before.')
-                        outpt = outpt+f'[__predicate__ [__subject__ {" ".join(sect)} ] {prperty} [__object__ {" ".join(oect)} ] ]'+' '
+                        outpt = outpt+f'[__predicate__ [__subject__ {", ".join(sect)} ] {prperty} [__object__ {", ".join(oect)} ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             for e, p in enumerate(propertylist):
@@ -340,17 +354,29 @@ def corpus(file,outfile):
                         seenProperties.append(prperty)
                     try:
                         sentence = propertylist[e][1]
-                        for e,oje in enumerate(oect):
-                            sentence = re.sub(f'object{e}',oje,sentence,count=1,flags=re.IGNORECASE)
-                        for e,sje in enumerate(sect):
-                            sentence = re.sub(f'subject{e}',sje,sentence,count=1,flags=re.IGNORECASE)
+                        x = sum(1 for _ in re.finditer('subject[0-9]', sentence))
+                        y = sum(1 for _ in re.finditer('object[0-9]', sentence))
+                        for e, oje in enumerate(oect):
+                            if x > 1:
+                                sentence = re.sub(f'object{e}', f'{oje}', sentence, count=1, flags=re.IGNORECASE)
+                            else:
+                                sentence = re.sub('object0', f'{", ".join(oect)}', sentence, count=1,
+                                                  flags=re.IGNORECASE)
+                                break
+                        for e, sje in enumerate(sect):
+                            if y > 1:
+                                sentence = re.sub(f'subject{e}', f'{sje}', sentence, count=1, flags=re.IGNORECASE)
+                            else:
+                                sentence = re.sub('subject0', f'{", ".join(sect)}', sentence, count=1,
+                                                  flags=re.IGNORECASE)
+                                break
                         sentence = re.sub('\[__object__ object[0-9] \]|\[__subject__ subject[0-9] \]','',sentence)
                         outpt = re.sub(' \'s','\'s',outpt+sentence+' ')
                         print(outpt)
                         prperties += 1
                     except IndexError:
                         print('no string for '+prperty+' seen before.')
-                        outpt = outpt+f'[__predicate__ [__subject__ {" ".join(sect)} ] {prperty} [__object__ {" ".join(oect)} ] ]'+' '
+                        outpt = outpt+f'[__predicate__ [__subject__ {", ".join(sect)} ] {prperty} [__object__ {", ".join(oect)} ] ]'+' '
                         if prperty not in unseenProperties:
                             unseenProperties.append(prperty)
             if not re.search(f"'{prperty}'",str(propertylist)) and not re.search(f"'{prperty}'",str(unseenProperies)) and not re.search(f"'{prperty}'",str(unseenProperties)):
