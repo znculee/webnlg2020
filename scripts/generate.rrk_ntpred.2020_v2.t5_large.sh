@@ -1,0 +1,63 @@
+#!/bin/bash
+# in progress...
+
+cd $(dirname $0)/..
+
+export CUDA_VISIBLE_DEVICES=0
+data=2020_v2_en.ntpred
+model=t5_large
+SAVEDIR=checkpoints/$data.$model
+testpfx=valid
+hyp=$SAVEDIR/hyp.$testpfx.rrk_ntpred.txt
+src=data-prep/$data/$testpfx.mr
+ref=data-prep/$data/$testpfx.lx
+beam_size=5
+
+tmp=$SAVEDIR/tmp
+mkdir -p $tmp
+
+## generating
+#python finetune-transformers/generate.py \
+  #--model-class "t5" \
+  #--output-path $(readlink -f $tmp/hyp) \
+  #--test-source-data-path $(readlink -f $src) \
+  #--save-dir $(readlink -f $SAVEDIR) \
+  #--batch-size 16 \
+  #--beam-size $beam_size \
+  #--num-return-sequences $beam_size \
+  #--max-length 200
+
+beam_repeat () {
+  awk -v n="$beam_size" '{for(i=0;i<n;i++)print}'
+}
+
+## rescoring
+#cat $src | beam_repeat > $tmp/src
+#python scripts/compute_ntpred_treeacc.py \
+  #--source $(readlink -f $tmp/src) \
+  #--target $(readlink -f $tmp/hyp) \
+  #--output-path $(readlink -f $tmp/score)
+
+## reranking
+#paste $tmp/score $tmp/hyp | \
+  #awk -v n="$beam_size" 'BEGIN{OFS="\t"}{print int((NR-1)/n),$0}' | \
+  #sort -n -k 1,1 -k 2,2 | \
+  #awk -v n="$beam_size" 'NR%n==0 {print}' | \
+  #awk -F '\t' '{print $3}' \
+  #> $hyp
+
+#rm -rf $tmp
+
+#python scripts/compute_ntpred_treeacc.py \
+  #--source $(readlink -f $src) \
+  #--target $(readlink -f $hyp)
+
+#python e2e-metrics/measure_scores.py -p $ref $hyp 2> /dev/null
+
+rmntpred () {
+  sed 's/__pred_\S\+//g' | awk '{$1=$1;print}'
+}
+
+#hyprmntpred=$SAVEDIR/hyp.$testpfx.rrk_ntpred.rmntpred.txt
+#cat $hyp | rmntpred > $hyprmntpred
+#python e2e-metrics/measure_scores.py -p $ref $hyprmntpred 2> /dev/null
