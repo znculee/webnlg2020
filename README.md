@@ -1,6 +1,6 @@
 <h1>WebNLG Challenge 2020</h1>
 
-This repo provides data and scripts used in the paper `Leveraging Large Pretrained Models for WebNLG 2020` by Xintong Li, Aleksandre Maskharashvili, Symon Jory Stevens-Guille, and Michael White, published at INLG2020.
+This repo provides data and scripts used in the paper `Leveraging Large Pretrained Models for WebNLG 2020` by Xintong Li, Aleksandre Maskharashvili, Symon Jory Stevens-Guille, and Michael White, published at WebNLG2020.
 
 Bibtex will be available soon.
 
