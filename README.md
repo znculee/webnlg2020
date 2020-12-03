@@ -13,6 +13,20 @@ The offical challenge data can be download from the following links:
 [train&dev](https://webnlg-challenge.loria.fr/files/challenge2020_train_dev_v2.zip) and
 [test](https://webnlg-challenge.loria.fr/files/rdf-to-text-generation-test-data-without-refs.zip).
 
+### Setup
+
+[huggingface/transformers](https://github.com/huggingface/transformers) should be [installed from the source](https://huggingface.co/transformers/installation.html#installing-from-source).
+The code has been tested on commit `3babef81` of [huggingface/transformers](https://github.com/huggingface/transformers).
+
+```bash
+git clone https://github.com/huggingface/transformers.git
+cd transformers
+git checkout -b webnlg e9014fb
+pip install -e .
+cd ..
+git clone https://github.com/znculee/finetune-transformers.git
+```
+
 ### Data Preprocessing
 
 ```bash
@@ -22,7 +36,6 @@ bash scripts/prepare.2020_v2.en.sh
 ### [Fine-tune huggingface/transformers](https://github.com/znculee/finetune-transformers)
 
 ```bash
-git clone https://github.com/znculee/finetune-transformers.git
 bash scripts/train.2020_v2.t5_large.sh
 bash scripts/generate.2020_v2.t5_large.sh
 ```
@@ -44,7 +57,6 @@ bash scripts/prepare.2017_v1_5.sh
 ### [Fine-tune huggingface/transformers](https://github.com/znculee/finetune-transformers)
 
 ```bash
-git clone https://github.com/znculee/finetune-transformers.git
 bash scripts/train.2017_v1_5.t5_small.sh
 bash scripts/generate.2017_v1_5.t5_small.sh
 ```
