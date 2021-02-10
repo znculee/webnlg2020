@@ -21,7 +21,7 @@ The code has been tested on commit `3babef81` of [huggingface/transformers](http
 ```bash
 git clone https://github.com/huggingface/transformers.git
 cd transformers
-git checkout -b webnlg e9014fb
+git checkout -b webnlg 3babef81
 pip install -e .
 cd ..
 git clone https://github.com/znculee/finetune-transformers.git
