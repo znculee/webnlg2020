@@ -2,7 +2,25 @@
 
 This repo provides data and scripts used in the paper `Leveraging Large Pretrained Models for WebNLG 2020` by Xintong Li, Aleksandre Maskharashvili, Symon Jory Stevens-Guille, and Michael White, published at INLG2020.
 
-Bibtex will be available soon.
+## Reference
+
+```
+@inproceedings{li-etal-2020-leveraging-large,
+    title = "Leveraging Large Pretrained Models for {W}eb{NLG} 2020",
+    author = "Li, Xintong  and
+      Maskharashvili, Aleksandre  and
+      Jory Stevens-Guille, Symon  and
+      White, Michael",
+    booktitle = "Proceedings of the 3rd International Workshop on Natural Language Generation from the Semantic Web (WebNLG+)",
+    month = "12",
+    year = "2020",
+    address = "Dublin, Ireland (Virtual)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.webnlg-1.12",
+    pages = "117--124",
+    abstract = "In this paper, we report experiments on finetuning large pretrained models to realize resource description framework (RDF) triples to natural language. We provide the details of how to build one of the top-ranked English generation models in WebNLG Challenge 2020. We also show that there appears to be considerable potential for reranking to improve the current state of the art both in terms of statistical metrics and model-based metrics. Our human analyses of the generated texts show that for Russian, pretrained models showed some success, both in terms of lexical and morpho-syntactic choices for generation, as well as for content aggregation. Nevertheless, in a number of cases, the model can be unpredictable, both in terms of failure or success. Omissions of the content and hallucinations, which in many cases occurred at the same time, were major problems. By contrast, the models for English showed near perfect performance on the validation set.",
+}
+```
 
 ## WebNLG 2020
 
